@@ -11,6 +11,7 @@ jobs:
   check:
     runs-on: ubuntu-latest
     outputs:
+      skip_update: ${{ steps.version-cache.outputs.cache-hit }}
       version: ${{ steps.version-check.outputs.version }}
     permissions:
       contents: read
@@ -44,34 +45,27 @@ jobs:
           chmod +x legendary
 
       - name: Get latest version info
+        id: version-check
         run: |
-          ./legendary info Sugar > /tmp/rocket_league_info
-          cat /tmp/rocket_league_info
+          LATEST_VERSION=$(./legendary info Sugar | grep "Latest version: " | sed -n -e 's/^.*Latest version: //p')
+          if [ -z "$LATEST_VERSION" ]; then
+              echo "Failed to get latest version id!"
+              exit 1
+          fi
+          echo "Latest version: $LATEST_VERSION" | tee /tmp/rocket_league_version
+          echo "version=$LATEST_VERSION" >> $GITHUB_OUTPUT
 
       - name: Configure Rocket League version cache
         id: version-cache
         uses: actions/cache@v4
         with:
-          path: /tmp/rocket_league_info
-          key: game-version-${{ hashFiles('/tmp/rocket_league_info') }}
-
-      - name: Trigger metadata update
-        id: version-check
-        if: steps.version-cache.outputs.cache-hit != 'true'
-
-        run: |
-          LATEST_VERSION=$(./legendary info Sugar | grep "Latest version: " | sed -n -e 's/^.*Latest version: //p')
-          if [ -z "$LATEST_VERSION" ]; then
-              echo "Failed to get new version id!"
-              exit 1
-          fi
-          echo "New version: $LATEST_VERSION"
-          echo "version=$LATEST_VERSION" >> $GITHUB_OUTPUT
+          path: /tmp/rocket_league_version
+          key: game-version-${{ steps.version-check.outputs.version }}
 
   update:
     runs-on: ubuntu-latest
     needs: check
-    if: ${{ needs.check.outputs.version != '' }}
+    if: ${{ needs.check.outputs.skip_update == 'true' }}
     permissions:
       contents: write
 
