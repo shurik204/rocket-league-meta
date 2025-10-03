@@ -34,7 +34,7 @@ jobs:
             legendary-data-
       
       - name: Account credentials check
-        if: ${{ steps.credentials-cache.outputs.cache-hit != 'true' }}
+        if: steps.credentials-cache.outputs.cache-hit != 'true'
         run: exit 1
 
       - name: Download legendary
@@ -56,7 +56,7 @@ jobs:
 
       - name: Trigger metadata update
         id: version-check
-        if: ${{ steps.version-cache.outputs.cache-hit != 'true' }}
+        if: steps.version-cache.outputs.cache-hit != 'true'
         run: |
           LATEST_VERSION=$(./legendary info Sugar | grep "Latest version: " | sed -n -e 's/^.*Latest version: //p')
           if [ -z "$LATEST_VERSION" ]; then
@@ -91,7 +91,7 @@ jobs:
             legendary-data-
       
       - name: Account credentials check
-        if: ${{ steps.credentials-cache.outputs.cache-hit != 'true' }}
+        if: steps.credentials-cache.outputs.cache-hit != 'true'
         run: exit 1
 
       - name: Download legendary
