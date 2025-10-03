@@ -52,10 +52,10 @@ jobs:
               echo "Failed to get latest version id!"
               exit 1
           fi
-          echo "Latest version: $LATEST_VERSION" | tee /tmp/rocket_league_version
+          echo "Latest version: $LATEST_VERSION"
           echo "version=$LATEST_VERSION" >> $GITHUB_OUTPUT
 
-      - name: Configure Rocket League version cache
+      - name: Check if version was already processed
         id: version-cache
         uses: actions/cache@v4
         with:
@@ -116,6 +116,7 @@ jobs:
         run: |
           chmod +x ./update-metadata.sh
           ./update-metadata.sh
+          echo "${{ needs.check.outputs.version }}" > /tmp/rocket_league_version
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
@@ -124,3 +125,10 @@ jobs:
           message: 'Rocket League "${{ needs.check.outputs.version }}"'
           default_author: github_actions
           tag: 'build/${{ steps.metadata-update.outputs.build_id }}'
+      
+      - name: Store successful metadata update
+        id: version-cache
+        uses: actions/cache@v4
+        with:
+          path: /tmp/rocket_league_version
+          key: game-version-${{ steps.version-check.outputs.version }}
