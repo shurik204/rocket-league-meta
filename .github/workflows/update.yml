@@ -25,7 +25,6 @@ jobs:
 
       - name: Configure legendary credentials cache
         uses: actions/cache@v4
-        id: credentials-cache
         with:
           # TODO: replace with { env.LEGENDARY_CONFIG_PATH } ?
           path: /tmp/legendary/user.json
@@ -34,8 +33,10 @@ jobs:
             legendary-data-
       
       - name: Account credentials check
-        if: steps.credentials-cache.outputs.cache-hit != 'true'
-        run: exit 1
+        run: |
+          if [ ! -f /tmp/legendary/user.json ]; then
+            exit 1
+          fi
 
       - name: Download legendary
         run: |
@@ -48,8 +49,8 @@ jobs:
           cat /tmp/rocket_league_info
 
       - name: Configure Rocket League version cache
-        uses: actions/cache@v4
         id: version-cache
+        uses: actions/cache@v4
         with:
           path: /tmp/last_game_version
           key: game-version-${{ hashFiles('/tmp/rocket_league_info') }}
@@ -57,12 +58,14 @@ jobs:
       - name: Trigger metadata update
         id: version-check
         if: steps.version-cache.outputs.cache-hit != 'true'
+
         run: |
           LATEST_VERSION=$(./legendary info Sugar | grep "Latest version: " | sed -n -e 's/^.*Latest version: //p')
           if [ -z "$LATEST_VERSION" ]; then
               echo "Failed to get new version id!"
               exit 1
           fi
+          echo "New version: $LATEST_VERSION"
           echo "version=$LATEST_VERSION" >> $GITHUB_OUTPUT
 
   update:
@@ -82,7 +85,6 @@ jobs:
 
       - name: Configure legendary credentials cache
         uses: actions/cache@v4
-        id: credentials-cache
         with:
           # TODO: replace with { env.LEGENDARY_CONFIG_PATH } ?
           path: /tmp/legendary/user.json
@@ -91,8 +93,10 @@ jobs:
             legendary-data-
       
       - name: Account credentials check
-        if: steps.credentials-cache.outputs.cache-hit != 'true'
-        run: exit 1
+        run: |
+          if [ ! -f /tmp/legendary/user.json ]; then
+            exit 1
+          fi
 
       - name: Download legendary
         run: |
