@@ -4,11 +4,6 @@ if sys.argv.__len__() != 2:
     print("Invalid arguments. Expected GPsyonixBuildID as the only argument")
     exit(1)
 
-import os
-try:
-    import numpy
-except ImportError:
-    os.system('pip install numpy')
 import numpy as np
 
 nonce = np.frombuffer(open('PsyBuildIdNonce', 'rb').read(), dtype=np.uint32)

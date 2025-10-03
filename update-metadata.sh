@@ -1,8 +1,11 @@
 #!/bin/bash
 set -e
 
+# Install scripts requirements
+pip install -r requirements.txt
 chmod +x calculate_build_id.py convert_to_json.py
 
+# Rocket League data
 strings /tmp/rocketleague/Binaries/Win64/RocketLeague.exe > rocketleague.txt
 strings -e l /tmp/rocketleague/Binaries/Win64/RocketLeague.exe > rocketleague-16.txt
 
@@ -22,11 +25,6 @@ G_PSYONIX_BUILD_ID=$(cat rocketleague-16.txt | grep -E '[0-9]{2,}\.[0-9]{2,}\.[0
 PSY_BUILD_ID=$(./calculate_build_id.py "$G_PSYONIX_BUILD_ID")
 FEATURE_SET=$(get_feature_set)
 
-strings rocketleague/Binaries/Win64/EOSSDK-Win64-Shipping.dll > eossdk.txt
-strings -e l rocketleague/Binaries/Win64/EOSSDK-Win64-Shipping.dll > eossdk-16.txt
-
-EOSSDK_VERSION=$(cat eossdk-16.txt | grep -E '^([0-9]+\.){2,}[0-9]-[a-Z0-9]+' | head -1)
-
 rm -f rocket_league_info 2> /dev/null
 
 echo "build_date=$BUILD_DATE" >> rocket_league_info
@@ -34,15 +32,25 @@ echo "g_psyonix_build_id=$G_PSYONIX_BUILD_ID" >> rocket_league_info
 echo "psy_build_id=$PSY_BUILD_ID" >> rocket_league_info
 echo "feature_set=$FEATURE_SET" >> rocket_league_info
 
+# EOS SDK data
+strings rocketleague/Binaries/Win64/EOSSDK-Win64-Shipping.dll > eossdk.txt
+strings -e l rocketleague/Binaries/Win64/EOSSDK-Win64-Shipping.dll > eossdk-16.txt
+
+EOSSDK_VERSION=$(cat eossdk-16.txt | grep -E '^([0-9]+\.){2,}[0-9]-[a-Z0-9]+' | head -1)
+
 rm -f eos_sdk_info 2> /dev/null
 
 echo "eos_sdk_version=$EOSSDK_VERSION" >> eos_sdk_info
 
+# Collect results
 mkdir -p data
 
 ./convert_to_json.py rocket_league_info data/rocket_league.json
 ./convert_to_json.py eos_sdk_info data/eos_sdk.json
 
+./legendary list-files Sugar > data/files.txt 2> /dev/null
+
+mv /tmp/rocketleague/Legal/PC/* data/legal/
 mv "$LEGENDARY_CONFIG_PATH/manifests/"Sugar_Windows_*.manifest data/Sugar.manifest
 
 echo "build_id=$G_PSYONIX_BUILD_ID" >> $GITHUB_OUTPUT
