@@ -65,7 +65,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     needs: check
-    if: ${{ needs.check.outputs.skip_update == 'true' }}
+    if: ${{ needs.check.outputs.skip_update != 'true' }}
     permissions:
       contents: write
 
