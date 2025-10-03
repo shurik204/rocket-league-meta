@@ -1,0 +1,126 @@
+name: Update metadata
+on:
+  schedule:
+    - cron: 0 */2 * * *
+
+env:
+  LEGENDARY_CONFIG_PATH: /tmp/legendary
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.version-check.outputs.version }}
+    permissions:
+      contents: read
+
+    steps:
+      - name: Get current date
+        id: get-date
+        run: |
+          echo "date=$(/bin/date -u "+%Y-%m-%d")" >> $GITHUB_OUTPUT
+          echo "time=$(/bin/date -u "+%H_%M")" >> $GITHUB_OUTPUT
+        shell: bash
+
+      - name: Configure legendary credentials cache
+        uses: actions/cache@v4
+        id: credentials-cache
+        with:
+          # TODO: replace with { env.LEGENDARY_CONFIG_PATH } ?
+          path: /tmp/legendary/user.json
+          key: legendary-data-${{ steps.get-date.outputs.date }}
+          restore-keys: |
+            legendary-data-
+      
+      - name: Account credentials check
+        if: ${{ steps.credentials-cache.outputs.cache-hit != 'true' }}
+        run: exit 1
+
+      - name: Download legendary
+        run: |
+          wget -O legendary https://github.com/derrod/legendary/releases/latest/download/legendary
+          chmod +x legendary
+
+      - name: Get latest version info
+        run: |
+          ./legendary info Sugar > /tmp/rocket_league_info
+          cat /tmp/rocket_league_info
+
+      - name: Configure Rocket League version cache
+        uses: actions/cache@v4
+        id: version-cache
+        with:
+          path: /tmp/last_game_version
+          key: game-version-${{ hashFiles('/tmp/rocket_league_info') }}
+
+      - name: Trigger metadata update
+        id: version-check
+        if: ${{ steps.version-cache.outputs.cache-hit != 'true' }}
+        run: |
+          LATEST_VERSION=$(./legendary info Sugar | grep "Latest version: " | sed -n -e 's/^.*Latest version: //p')
+          if [ -z "$LATEST_VERSION" ]; then
+              echo "Failed to get new version id!"
+              exit 1
+          fi
+          echo "version=$LATEST_VERSION" >> $GITHUB_OUTPUT
+
+  update:
+    runs-on: ubuntu-latest
+    needs: check
+    if: ${{ needs.check.outputs.version != '' }}
+    permissions:
+      contents: write
+
+    steps:
+      - name: Get current date
+        id: get-date
+        run: |
+          echo "date=$(/bin/date -u "+%Y-%m-%d")" >> $GITHUB_OUTPUT
+          echo "time=$(/bin/date -u "+%H_%M")" >> $GITHUB_OUTPUT
+        shell: bash
+
+      - name: Configure legendary credentials cache
+        uses: actions/cache@v4
+        id: credentials-cache
+        with:
+          # TODO: replace with { env.LEGENDARY_CONFIG_PATH } ?
+          path: /tmp/legendary/user.json
+          key: legendary-data-${{ steps.get-date.outputs.date }}
+          restore-keys: |
+            legendary-data-
+      
+      - name: Account credentials check
+        if: ${{ steps.credentials-cache.outputs.cache-hit != 'true' }}
+        run: exit 1
+
+      - name: Download legendary
+        run: |
+          wget -O legendary https://github.com/derrod/legendary/releases/latest/download/legendary
+          chmod +x legendary
+
+      - name: Download Rocket League
+        run: |
+          mkdir rocketleague
+          ./legendary install --download-only --skip-dlcs --disable-delta-manifests --base-path "$(pwd)" --game-folder 'rocketleague' --prefix 'binaries' --prefix 'tagame/legal' --yes Sugar
+
+      - name: Download scripts
+        uses: actions/checkout@v4
+
+      - name: Download previous data
+        uses: actions/checkout@v4
+        with:
+          ref: 'data'
+          path: 'data'
+
+      - name: Run metadata update
+        run: |
+          chmod +x ./update-metadata.sh
+          ./update-metadata.sh
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          cwd: './data'
+          message: 'Rocket League "${{ needs.check.outputs.version }}"'
+          default_author: github_actions
+          tag: 'build/${{ needs.check.outputs.version }}'
