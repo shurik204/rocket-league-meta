@@ -8,7 +8,7 @@ import os
 try:
     import numpy
 except ImportError:
-    os.system('pip isntall numpy')
+    os.system('pip install numpy')
 import numpy as np
 
 nonce = np.frombuffer(open('PsyBuildIdNonce', 'rb').read(), dtype=np.uint32)
