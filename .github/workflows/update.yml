@@ -52,7 +52,7 @@ jobs:
         id: version-cache
         uses: actions/cache@v4
         with:
-          path: /tmp/last_game_version
+          path: /tmp/rocket_league_info
           key: game-version-${{ hashFiles('/tmp/rocket_league_info') }}
 
       - name: Trigger metadata update
@@ -106,18 +106,19 @@ jobs:
       - name: Download Rocket League
         run: |
           mkdir rocketleague
-          ./legendary install --download-only --skip-dlcs --disable-delta-manifests --base-path "$(pwd)" --game-folder 'rocketleague' --prefix 'binaries' --prefix 'tagame/legal' --yes Sugar
+          ./legendary install --download-only --skip-dlcs --disable-delta-manifests --base-path "/tmp" --game-folder 'rocketleague' --prefix 'binaries' --prefix 'tagame/legal' --yes Sugar
 
-      - name: Download scripts
+      - name: Pull repository
         uses: actions/checkout@v4
 
-      - name: Download previous data
+      - name: Pull previous data
         uses: actions/checkout@v4
         with:
           ref: 'data'
           path: 'data'
 
       - name: Run metadata update
+        id: metadata-update
         run: |
           chmod +x ./update-metadata.sh
           ./update-metadata.sh
@@ -128,4 +129,4 @@ jobs:
           cwd: './data'
           message: 'Rocket League "${{ needs.check.outputs.version }}"'
           default_author: github_actions
-          tag: 'build/${{ needs.check.outputs.version }}'
+          tag: 'build/${{ steps.metadata-update.outputs.build_id }}'

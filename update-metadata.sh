@@ -3,9 +3,8 @@ set -e
 
 chmod +x calculate_build_id.py convert_to_json.py
 
-strings rocketleague/Binaries/Win64/RocketLeague.exe > rocketleague.txt
-strings -e l rocketleague/Binaries/Win64/RocketLeague.exe > rocketleague-16.txt
-
+strings /tmp/rocketleague/Binaries/Win64/RocketLeague.exe > rocketleague.txt
+strings -e l /tmp/rocketleague/Binaries/Win64/RocketLeague.exe > rocketleague-16.txt
 
 function get_feature_set() {
     local FEATURE_SET=$(cat rocketleague-16.txt | grep -E 'Update[0-9]+' | uniq -d | head -1)
@@ -43,3 +42,7 @@ mkdir -p data
 
 ./convert_to_json.py rocket_league_info data/rocket_league.json
 ./convert_to_json.py eos_sdk_info data/eos_sdk.json
+
+mv "$LEGENDARY_CONFIG_PATH/manifests/"Sugar_Windows_*.manifest data/Sugar.manifest
+
+echo "build_id=$G_PSYONIX_BUILD_ID" >> $GITHUB_OUTPUT
