@@ -2,6 +2,7 @@ name: Update metadata
 on:
   schedule:
     - cron: 0 */2 * * *
+  workflow_dispatch:
 
 env:
   LEGENDARY_CONFIG_PATH: /tmp/legendary
