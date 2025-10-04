@@ -69,7 +69,8 @@ jobs:
       contents: write
     env:
       LEGENDARY_BASE_DIR: /tmp
-      GAME_INSTALL_DIR: ${{ env.LEGENDARY_BASE_DIR }}/rocketleague
+      # TODO: replace with ${{ env.LEGENDARY_BASE_DIR }}
+      GAME_INSTALL_DIR: /tmp/rocketleague
 
     steps:
       - name: Get current date
