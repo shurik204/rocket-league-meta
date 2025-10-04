@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: 0 */3 * * *
   workflow_dispatch:
+    inputs:
+      debug_shell:
+        description: 'Start debug shell'
+        type: boolean
+        default: false
 
 env:
   LEGENDARY_CONFIG_PATH: /tmp/legendary
@@ -112,7 +117,7 @@ jobs:
           path: 'data'
       
       - name: Start interactive debug shell
-        if: ${{ github.event_name == 'workflow_dispatch' }}
+        if: ${{ inputs.debug_shell }}
         uses: owenthereal/action-upterm@v1
         with:
           limit-access-to-actor: true
