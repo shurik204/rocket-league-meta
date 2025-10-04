@@ -5,13 +5,13 @@ grep --version | head -1
 if [ -z "$GAME_INSTALL_DIR" ]; then
     GAME_INSTALL_DIR='/tmp/rocketleague'
 fi
-if [ command -v apt > /dev/null 2>&1 ]; then
-    sudo apt update -y && sudo apt install -y grep
-    echo "Updated grep"
-    grep --version | head -1
-else
-    echo "Skipped grep update"
-fi
+# if [ command -v apt > /dev/null 2>&1 ]; then
+#     sudo apt update -y && sudo apt install -y grep
+#     echo "Updated grep"
+#     grep --version | head -1
+# else
+#     echo "Skipped grep update"
+# fi
 
 # Install scripts requirements
 pip install -r requirements.txt
@@ -34,10 +34,14 @@ function get_feature_set() {
 
 rm -f rocket_league_info 2> /dev/null
 
-BUILD_DATE=$(cat rocketleague.txt | grep -E '[A-Z][a-z]{2,8} {1,3}[0-9]+ 20[0-9]+ [0-9]+:[0-9]+:[0-9]+' | head -1)
 G_PSYONIX_BUILD_ID=$(cat rocketleague-16.txt | grep -E '[0-9]{2,}\.[0-9]{2,}\.[0-9]{2,}' | head -1)
+if [ -z "$G_PSYONIX_BUILD_ID" ]; then
+    echo "Failed to retrieve GPsyonixBuildID"
+    exit 8
+fi
 PSY_BUILD_ID=$(./calculate_build_id.py "$G_PSYONIX_BUILD_ID")
 FEATURE_SET=$(get_feature_set)
+BUILD_DATE=$(cat rocketleague.txt | grep -E '[A-Z][a-z]{2,8} {1,3}[0-9]+ 20[0-9]+ [0-9]+:[0-9]+:[0-9]+' | head -1)
 
 echo "build_date=$BUILD_DATE" >> rocket_league_info
 echo "g_psyonix_build_id=$G_PSYONIX_BUILD_ID" >> rocket_league_info
