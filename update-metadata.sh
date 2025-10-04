@@ -58,7 +58,7 @@ strings -e l "$GAME_INSTALL_DIR/Binaries/Win64/EOSSDK-Win64-Shipping.dll" > eoss
 
 rm -f eos_sdk_info 2> /dev/null
 
-EOSSDK_VERSION=$(cat eossdk-16.txt | grep -E '^([0-9]+\.){2,}[0-9]-[a-Z0-9]+' | head -1)
+EOSSDK_VERSION=$(cat eossdk-16.txt | grep -E '^([0-9]+\.){2,}[0-9]-[A-z0-9]+' | head -1)
 
 echo "eos_sdk_version=$EOSSDK_VERSION" >> eos_sdk_info
 
