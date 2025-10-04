@@ -113,12 +113,9 @@ jobs:
       
       - name: Start interactive debug shell
         if: ${{ github.event_name == 'workflow_dispatch' }}
-        run: |
-          wget -O upterm.tar.gz https://github.com/owenthereal/upterm/releases/latest/download/upterm_linux_amd64.tar.gz
-          tar xvf upterm.tar.gz upterm
-          mkdir ~/.ssh
-          ssh-keyscan uptermd.upterm.dev >> ~/.ssh/known_hosts
-          ./upterm host
+        uses: owenthereal/action-upterm@v1
+        with:
+          limit-access-to-actor: true
 
       - name: Run metadata update
         id: metadata-update
