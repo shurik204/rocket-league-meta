@@ -1,7 +1,7 @@
 name: Update metadata
 on:
   schedule:
-    - cron: 0 */2 * * *
+    - cron: 0 */3 * * *
   workflow_dispatch:
 
 env:
@@ -27,15 +27,14 @@ jobs:
       - name: Configure legendary credentials cache
         uses: actions/cache@v4
         with:
-          # TODO: replace with { env.LEGENDARY_CONFIG_PATH } ?
-          path: /tmp/legendary/user.json
+          path: '${{ env.LEGENDARY_CONFIG_PATH }}/user.json'
           key: legendary-data-${{ steps.get-date.outputs.date }}
           restore-keys: |
             legendary-data-
       
       - name: Account credentials check
         run: |
-          if [ ! -f /tmp/legendary/user.json ]; then
+          if [ ! -f "$LEGENDARY_CONFIG_PATH/user.json" ]; then
             exit 1
           fi
 
@@ -68,6 +67,9 @@ jobs:
     if: ${{ needs.check.outputs.skip_update != 'true' }}
     permissions:
       contents: write
+    env:
+      LEGENDARY_BASE_DIR: /tmp
+      GAME_INSTALL_DIR: ${{ env.LEGENDARY_BASE_DIR }}/rocketleague
 
     steps:
       - name: Get current date
@@ -80,15 +82,14 @@ jobs:
       - name: Configure legendary credentials cache
         uses: actions/cache@v4
         with:
-          # TODO: replace with { env.LEGENDARY_CONFIG_PATH } ?
-          path: /tmp/legendary/user.json
+          path: '${{ env.LEGENDARY_CONFIG_PATH }}/user.json'
           key: legendary-data-${{ steps.get-date.outputs.date }}
           restore-keys: |
             legendary-data-
       
       - name: Account credentials check
         run: |
-          if [ ! -f /tmp/legendary/user.json ]; then
+          if [ ! -f "$LEGENDARY_CONFIG_PATH/user.json" ]; then
             exit 1
           fi
 
@@ -98,9 +99,7 @@ jobs:
           chmod +x legendary
 
       - name: Download Rocket League
-        run: |
-          mkdir rocketleague
-          ./legendary install --download-only --skip-dlcs --disable-delta-manifests --base-path "/tmp" --game-folder 'rocketleague' --prefix 'binaries' --prefix 'tagame/legal' --yes Sugar
+        run: ./legendary install --download-only --skip-dlcs --disable-delta-manifests --base-path "$LEGENDARY_BASE_DIR" --game-folder 'rocketleague' --prefix 'binaries' --prefix 'tagame/legal' --yes Sugar
 
       - name: Pull repository
         uses: actions/checkout@v4

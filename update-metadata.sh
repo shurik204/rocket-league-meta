@@ -1,7 +1,17 @@
 #!/bin/bash
 set -e
 
-GAME_INSTALL_DIR='/tmp/rocketleague'
+grep --version | head -1
+if [ -z "$GAME_INSTALL_DIR" ]; then
+    GAME_INSTALL_DIR='/tmp/rocketleague'
+fi
+if [ command -v apt > /dev/null 2>&1 ]; then
+    sudo apt update -y && sudo apt install -y grep
+    echo "Updated grep"
+    grep --version | head -1
+else
+    echo "Skipped grep update"
+fi
 
 # Install scripts requirements
 pip install -r requirements.txt
@@ -22,12 +32,12 @@ function get_feature_set() {
     fi
 }
 
-BUILD_DATE=$(cat rocketleague.txt | grep -E '[A-Z][a-z]+ {1,3}[0-9]+ 20[0-9]+ [0-9]+:[0-9]+:[0-9]+' | head -1)
+rm -f rocket_league_info 2> /dev/null
+
+BUILD_DATE=$(cat rocketleague.txt | grep -E '[A-Z][a-z]{2,8} {1,3}[0-9]+ 20[0-9]+ [0-9]+:[0-9]+:[0-9]+' | head -1)
 G_PSYONIX_BUILD_ID=$(cat rocketleague-16.txt | grep -E '[0-9]{2,}\.[0-9]{2,}\.[0-9]{2,}' | head -1)
 PSY_BUILD_ID=$(./calculate_build_id.py "$G_PSYONIX_BUILD_ID")
 FEATURE_SET=$(get_feature_set)
-
-rm -f rocket_league_info 2> /dev/null
 
 echo "build_date=$BUILD_DATE" >> rocket_league_info
 echo "g_psyonix_build_id=$G_PSYONIX_BUILD_ID" >> rocket_league_info
@@ -38,9 +48,9 @@ echo "feature_set=$FEATURE_SET" >> rocket_league_info
 strings "$GAME_INSTALL_DIR/Binaries/Win64/EOSSDK-Win64-Shipping.dll" > eossdk.txt
 strings -e l "$GAME_INSTALL_DIR/Binaries/Win64/EOSSDK-Win64-Shipping.dll" > eossdk-16.txt
 
-EOSSDK_VERSION=$(cat eossdk-16.txt | grep -E '^([0-9]+\.){2,}[0-9]-[a-Z0-9]+' | head -1)
-
 rm -f eos_sdk_info 2> /dev/null
+
+EOSSDK_VERSION=$(cat eossdk-16.txt | grep -E '^([0-9]+\.){2,}[0-9]-[a-Z0-9]+' | head -1)
 
 echo "eos_sdk_version=$EOSSDK_VERSION" >> eos_sdk_info
 
@@ -52,7 +62,8 @@ mkdir -p data
 
 ./legendary list-files Sugar > data/files.txt 2> /dev/null
 
-mv "$GAME_INSTALL_DIR/Legal/PC/"* data/legal/
-mv "$LEGENDARY_CONFIG_PATH/manifests/"Sugar_Windows_*.manifest data/Sugar.manifest
+mkdir -p data/legal
+cp "$GAME_INSTALL_DIR/TAGame/Legal/PC/"* data/legal/
+cp "$LEGENDARY_CONFIG_PATH/manifests/"Sugar_Windows_*.manifest data/Sugar.manifest
 
 echo "build_id=$G_PSYONIX_BUILD_ID" >> $GITHUB_OUTPUT
