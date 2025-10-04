@@ -28,7 +28,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: '${{ env.LEGENDARY_CONFIG_PATH }}/user.json'
-          key: legendary-data-${{ steps.get-date.outputs.date }}
+          key: legendary-data-${{ github.run_id }}
           restore-keys: |
             legendary-data-
       
@@ -84,7 +84,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: '${{ env.LEGENDARY_CONFIG_PATH }}/user.json'
-          key: legendary-data-${{ steps.get-date.outputs.date }}
+          key: legendary-data-${{ github.run_id }}
           restore-keys: |
             legendary-data-
       

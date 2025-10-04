@@ -25,7 +25,7 @@ jobs:
         id: credentials-cache
         with:
           path: /tmp/legendary/user.json
-          key: legendary-data-${{ steps.get-date.outputs.date }}
+          key: legendary-data-${{ github.run_id }}
 
       - name: Download legendary
         run: |
