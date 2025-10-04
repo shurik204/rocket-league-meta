@@ -142,4 +142,4 @@ jobs:
         uses: actions/cache@v4
         with:
           path: /tmp/rocket_league_version
-          key: game-version-${{ steps.version-check.outputs.version }}
+          key: game-version-${{ needs.check.outputs.version }}
