@@ -1,23 +1,19 @@
 #!/bin/bash
 set -e
+set -x
 
 grep --version | head -1
 if [ -z "$GAME_INSTALL_DIR" ]; then
     GAME_INSTALL_DIR='/tmp/rocketleague'
 fi
-# if [ command -v apt > /dev/null 2>&1 ]; then
-#     sudo apt update -y && sudo apt install -y grep
-#     echo "Updated grep"
-#     grep --version | head -1
-# else
-#     echo "Skipped grep update"
-# fi
 
 # Install scripts requirements
 pip install -r requirements.txt
 chmod +x calculate_build_id.py convert_to_json.py
 
 # Rocket League data
+echo "Extracting Rocket League data"
+
 strings "$GAME_INSTALL_DIR/Binaries/Win64/RocketLeague.exe" > rocketleague.txt
 strings -e l "$GAME_INSTALL_DIR/Binaries/Win64/RocketLeague.exe" > rocketleague-16.txt
 
@@ -40,7 +36,7 @@ rm -f rocket_league_info 2> /dev/null
 
 G_PSYONIX_BUILD_ID=$(cat rocketleague-16.txt | grep -E '[0-9]{2,}\.[0-9]{2,}\.[0-9]{2,}' | head -1)
 if [ -z "$G_PSYONIX_BUILD_ID" ]; then
-    echo "Failed to retrieve GPsyonixBuildID"
+    echo "Failed to extract GPsyonixBuildID"
     exit 8
 fi
 PSY_BUILD_ID=$(./calculate_build_id.py "$G_PSYONIX_BUILD_ID")
@@ -53,6 +49,8 @@ echo "psy_build_id=$PSY_BUILD_ID" >> rocket_league_info
 echo "feature_set=$FEATURE_SET" >> rocket_league_info
 
 # EOS SDK data
+echo "Extracting EOS SDK data"
+
 strings "$GAME_INSTALL_DIR/Binaries/Win64/EOSSDK-Win64-Shipping.dll" > eossdk.txt
 strings -e l "$GAME_INSTALL_DIR/Binaries/Win64/EOSSDK-Win64-Shipping.dll" > eossdk-16.txt
 
@@ -63,15 +61,19 @@ EOSSDK_VERSION=$(cat eossdk-16.txt | grep -E '^([0-9]+\.){2,}[0-9]-[A-z0-9]+' | 
 echo "eos_sdk_version=$EOSSDK_VERSION" >> eos_sdk_info
 
 # Collect results
+echo "Collecting results"
 mkdir -p data
 
 ./convert_to_json.py rocket_league_info data/rocket_league.json
 ./convert_to_json.py eos_sdk_info data/eos_sdk.json
 
+echo "Writing list of game files"
 ./legendary list-files Sugar > data/files.txt 2> /dev/null
 
+echo "Storing legal texts"
 mkdir -p data/legal
-cp "$GAME_INSTALL_DIR/TAGame/Legal/PC/"* data/legal/
-cp "$LEGENDARY_CONFIG_PATH/manifests/"Sugar_Windows_*.manifest data/Sugar.manifest
+mv "$GAME_INSTALL_DIR/TAGame/Legal/PC/"* data/legal/
+echo "Storing game manifest"
+mv "$LEGENDARY_CONFIG_PATH/manifests/"Sugar_Windows_*.manifest data/Sugar.manifest
 
 echo "build_id=$G_PSYONIX_BUILD_ID" >> $GITHUB_OUTPUT
