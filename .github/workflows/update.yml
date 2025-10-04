@@ -43,15 +43,15 @@ jobs:
             exit 1
           fi
 
-      - name: Download legendary
+      - name: Install legendary
         run: |
-          wget -O legendary https://github.com/derrod/legendary/releases/latest/download/legendary
-          chmod +x legendary
+          sudo wget -O /bin/legendary https://github.com/derrod/legendary/releases/latest/download/legendary
+          sudo chmod +x /bin/legendary
 
       - name: Get latest version info
         id: version-check
         run: |
-          LATEST_VERSION=$(./legendary info Sugar | grep "Latest version: " | sed -n -e 's/^.*Latest version: //p')
+          LATEST_VERSION=$(legendary info Sugar | grep "Latest version: " | sed -n -e 's/^.*Latest version: //p')
           if [ -z "$LATEST_VERSION" ]; then
               echo "Failed to get latest version id!"
               exit 1
@@ -99,13 +99,13 @@ jobs:
             exit 1
           fi
 
-      - name: Download legendary
+      - name: Install legendary
         run: |
-          wget -O legendary https://github.com/derrod/legendary/releases/latest/download/legendary
-          chmod +x legendary
+          sudo wget -O /bin/legendary https://github.com/derrod/legendary/releases/latest/download/legendary
+          sudo chmod +x /bin/legendary
 
       - name: Download Rocket League
-        run: ./legendary install --download-only --skip-dlcs --disable-delta-manifests --base-path "$LEGENDARY_BASE_DIR" --game-folder 'rocketleague' --prefix 'binaries' --prefix 'tagame/legal' --yes Sugar
+        run: legendary install --download-only --skip-dlcs --disable-delta-manifests --base-path "$LEGENDARY_BASE_DIR" --game-folder 'rocketleague' --prefix 'binaries' --prefix 'tagame/legal' --yes Sugar
 
       - name: Pull repository
         uses: actions/checkout@v4

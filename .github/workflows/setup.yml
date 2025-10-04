@@ -27,18 +27,18 @@ jobs:
           path: /tmp/legendary/user.json
           key: legendary-data-${{ github.run_id }}
 
-      - name: Download legendary
+      - name: Install legendary
         run: |
-          wget -O legendary https://github.com/derrod/legendary/releases/latest/download/legendary
-          chmod +x legendary
+          sudo wget -O /bin/legendary https://github.com/derrod/legendary/releases/latest/download/legendary
+          sudo chmod +x /bin/legendary
 
       - name: Authenticate using code
         run: |
-          ./legendary auth --code ${{ inputs.auth_code }}
+          legendary auth --code ${{ inputs.auth_code }}
 
       - name: Verify login
         run: |
-          ./legendary status > /tmp/_status
+          legendary status > /tmp/_status
           cat /tmp/_status
           ACCOUNT_NAME=$(cat /tmp/_status | grep 'Epic account:' | sed -n -e 's/^Epic account: //p')
           if [ "$ACCOUNT_NAME" = "<not logged in>" ]; then

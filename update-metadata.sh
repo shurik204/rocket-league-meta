@@ -68,7 +68,7 @@ mkdir -p data
 ./convert_to_json.py eos_sdk_info data/eos_sdk.json
 
 echo "Writing list of game files"
-./legendary list-files Sugar > data/files.txt 2> /dev/null
+legendary list-files Sugar > data/files.txt 2> /dev/null
 
 echo "Storing legal texts"
 mkdir -p data/legal
