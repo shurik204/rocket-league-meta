@@ -20,7 +20,7 @@ strings -e l "$GAME_INSTALL_DIR/Binaries/Win64/RocketLeague.exe" > rocketleague-
 
 function get_feature_set() {
     local FEATURE_SET=$(cat rocketleague-16.txt | grep -E 'Update[0-9]+' | uniq -d | head -1)
-    local UPDATE_NUMBER=$(cat rocketleague-16.txt | grep -E '^Update[0-9]+[A-z_0-9]*' | head -1)
+    local UPDATE_NUMBER=$(cat rocketleague-16.txt | grep -E '^Update[0-9]+[A-z_0-9]*' | sed -r 's/\./_/g' | head -1)
     if [ -z "$UPDATE_NUMBER" ]; then
         echo "[!] Failed to get update number!"
         exit 6
