@@ -70,6 +70,7 @@ echo "Writing list of game files"
 legendary list-files Sugar > data/files.txt 2> /dev/null
 
 echo "Storing legal texts"
+rm -rf data/Legal
 mkdir -p data/Legal
 mv "$GAME_INSTALL_DIR/TAGame/Legal/PC/"* data/Legal/
 echo "Storing game manifest"
