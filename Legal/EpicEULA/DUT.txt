@@ -1,0 +1,528 @@
+Senest opdateret: 20. oktober 2025
+Træder i kraft: 28. november 2025 
+
+Hej! Dette er de regler og ansvarsområder, der er forbundet med at bruge vores spil og tjenester. 
+
+Men først en besked til unge spillere. {!HVIS DU IKKE ER VOKSEN (OVER 18 ÅR I DE FLESTE RETSKREDSE), SKAL DU BEDE DIN FORÆLDER ELLER VÆRGE OM AT LÆSE DETTE SAMMEN MED DIG!}. 
+
+{!Ved at acceptere disse vilkår accepterer du (og din forælder/værge) at overholde disse regler, herunder begrænsninger af Epics erstatningsansvar over for dig, regler for indhold i spillet, behandling af tvister ved voldgift, og Epics ret til at ændre disse vilkår og opsige Epic Games-konti. Se nedenfor for flere vilkår og nærmere oplysninger. !}
+
+Epic Games’ tjenestevilkår, herunder alle henviste og tilknyttede dokumenter (som vi samlet henviser til som disse “{!vilkår!}”), er en juridisk aftale mellem dig og Epic Games. Disse vilkår forklarer de regler og ansvarsområder, som du accepterer, når du bruger Epics websteder, produkter og tjenester. Ved at bruge dem accepterer du at være bundet af disse vilkår. {!Det er vigtigt, at du læser disse vilkår omhyggeligt. !}
+
+{!For alle forældre eller værger, der læser dette: Hvis du accepterer disse vilkår på vegne af en mindreårig, som du har ansvar for, for dennes Epic Games-konto, accepterer du vilkårene på egne vegne og på vegne af den mindreårige. !}Du accepterer, at du er ansvarlig for al brug af de licenserede produkter (defineret nedenfor) af dig eller den mindreårige. Du er ansvarlig for eventuelle køb eller andre transaktioner, der foretages fra Epic Games-kontoen, herunder dem, der foretages af den mindreårige, i det omfang tilladt ved lov. Hvis du vil vide mere om, hvad vi gør for at skabe et sikkert og sjovt sted for spillere i alle aldre, kan du tjekke <a href='https://safety.epicgames.com/'>{!<u>Epic Games’ Sikkerhedscenter!}</u>!}</a>.
+
+Som forklaret nedenfor bør du ikke dele din Epic Games-konto med nogen. Hvis du alligevel gør det i strid med disse vilkår, gælder disse vilkår for og binder enhver, som du giver adgang til din Epic Games-konto. Når vi siger “{!du!}”, “{!din!}” eller “{!dig selv!}”, mener vi dig som enkeltperson og enhver bruger af din Epic Games-konto. Du betragtes som en “{!slutbruger!}” i henhold til disse vilkår. For mindreårige henviser “du”, “din” eller “dig selv” samlet til forælderen eller værgen og den mindreårige. 
+
+Når vi siger “{!Epic Games!}”, “{!Epic!}”, “{!vi!}” eller “{!os!}”, mener vi den Epic Games-enhed, der er ansvarlig for at levere det licenserede produkt, du bruger. Du kan få mere at vide om de Epic-enheder, der er ansvarlige for at levere licenserede produkter i din region, i afsnit 19. Når vi siger “omfatter”, “inkluderer” og “herunder”, skal det fortolkes som “herunder, uden begrænsning” til sidst (f.eks. “herunder [uden begrænsning]”). 
+
+Når vi siger “{!voksen!}”, betyder det, at du har nået myndighedsalderen, der hvor du bor (dvs. 18 år i de fleste amerikanske stater, men dette kan variere afhængigt af lokal lovgivning).
+
+Den engelske version af disse vilkår har forrang; eventuelle oversættelser leveres kun til referenceformål.
+
+{!TIL PERSONER UDEN FOR USA: !}Hvis du ikke bor i USA, kan visse bestemmelser, herunder ansvarsfraskrivelser, obligatorisk voldgift og afkald på deltagelse i “{!gruppesøgsmål”!},{! muligvis ikke håndhæves i dit land på grund af lokal lovgivning. !}
+
+{$1.	Produkter omfattet af disse vilkår!}
+
+Disse vilkår gælder for ethvert “{!licenseret produkt!}”, der linker til dette dokument, herunder: 
+
+•	Vores spil (herunder Fall Guys, Fortnite og Rocket League), der linker til disse vilkår og tilhørende indhold/oplevelser.
+•	Unreal Editor for Fortnite (“{!UEFN!}”).
+•	PostParty. 
+•	Ethvert “{!indhold i spillet!}”, såsom karakterer, emotes, outfits, oplevelser (f.eks. øer) og andre digitale varer og medier, der kan licenseres til dig til din brug i de licenserede produkter.
+•	Tjenester, som vi leverer, herunder launchers, portaler (f.eks. Epics udviklerportal), plugins, Epic Games-konti, sociale funktioner, betaling, spillersupporttjenester, belønningsprogrammer og websteder.
+•	Eventuelle andre produkter eller tjenester, der linker til disse vilkår.
+
+Hvis du ikke accepterer eller ikke kan acceptere disse vilkår, må du ikke bruge nogen af disse licenserede produkter.
+
+Disse vilkår gælder ikke for Unreal Engine, Epic Games Store eller Epics markedspladser (f.eks. Fab). Når du bruger Unreal Engine, Epic Games Store eller Epics markedspladser, bedes du se de gældende vilkår.
+
+Hvis et licenseret produkt er underlagt yderligere vilkår og betingelser (f.eks. de supplerende UEFN-vilkår), vil du få vist disse produktspecifikke vilkår, og du skal acceptere dem, før du bruger det pågældende licenserede produkt. Nogle Epic-programmer (f.eks. Epics økreatør-programmet) kan også have yderligere vilkår og betingelser, der skal accepteres, før du kan deltage. Hvis der nogensinde er en uoverensstemmelse mellem disse vilkår og vilkårene for specifikke produkter eller programmer, gælder de produkt- eller programspecifikke vilkår. 
+
+{$2.	Brug af en Epic Games-konto!}
+
+For at bruge nogle licenserede produkter skal du muligvis tilmelde dig en “{!Epic Games-konto!}”. Når du opretter en Epic Games-konto, skal du tilvejebringe nøjagtige oplysninger om dig selv og opdatere disse oplysninger, hvis de ændrer sig. Du skal opfylde alle alderskrav forbundet med et licenseret produkt, før du bruger det. Hvis du opretter en Epic Games-konto ved hjælp af en e-mailadresse med et domæne, der ejes af din arbejdsgiver eller organisation (dvs. en arbejds-e-mail), accepterer du, at du binder din arbejdsgiver eller organisation til disse vilkår med hensyn til din brug af licenserede produkter.
+
+Du skal opretholde sikkerheden af din Epic Games-konto og underrette Epic (via <a href='https://www.epicgames.com/help'>{!<u>Epic Games Support!}</u>!}</a>), hvis du opdager eller har mistanke om, at nogen har tilgået den uden din tilladelse. 
+
+Du må ikke dele dine Epic Games-kontooplysninger med andre. Du kan kun bruge din egen Epic Games-konto, der er registreret til dig. Du kan ikke sælge den, give den væk, bytte den eller bruge en anden persons Epic Games-konto, selvom de giver dig lov. Hvis du er forælder eller værge med din egen Epic Games-konto, skal en mindreårig, som du har ansvar for, have en separat Epic Games-konto til egen brug. Deling af en Epic Games-konto kan medføre suspendering eller opsigelse af Epic Games-kontoen og dit tab af adgang til licenserede produkter. 
+
+{!Du er ansvarlig for alle aktiviteter eller overtrædelser på din Epic Games-konto.!}
+
+Når du opretter en Epic Games-konto, vil du blive bedt om at oprette et “skærmnavn” til din Epic Games-konto, som vil være offentligt tilgængeligt. Hvis du vælger et skærmnavn til dig selv, der er stødende eller vildledende, overtræder vores <a href='https://legal.epicgames.com/epicgames/community-rules'>{!<u>fællesskabsregler!}</u>!}</a>, eller som krænker en anden persons rettigheder, har vi ret til at ændre dit skærmnavn. 
+
+Du kan til enhver tid slette din Epic Games-konto. Du kan finde oplysninger om, hvordan du sletter din Epic Games-konto, på <a href='https://www.epicgames.com/help'>{!<u>Epic Games Support!}</u>!}</a>.
+
+{!For fastboende i Storbritannien: Enhver sletning eller opsigelse af Epic Games-kontoen skal udføres i overensstemmelse med gældende forbrugerbeskyttelseslove og andre love i den retskreds, hvor du er bosiddende.!}
+
+{$3.	Licensvilkår og brug af licenserede produkter!}
+
+{!De licenserede produkter (og indhold i spillet), som du bruger, er licenseret og ikke solgt til dig.!} Det betyder, at du ikke ejer nogen licenserede produkter eller indhold i spillet, der stilles til rådighed for dig, men du har tilladelse til at bruge dem i form af en licens. Epic, dets tilknyttede selskaber og licensgivere (såsom uafhængige udviklere) ejer al adkomst, alle ejerskabsrettigheder og immaterielle rettigheder, herunder, men ikke begrænset til, alle ophavsrettigheder, varemærkerettigheder og patentrettigheder, i alle elementer af licenserede produkter, der stilles til rådighed for dig.
+
+Ved at acceptere disse vilkår tildeler Epic dig en licens til licenserede produkter, der er:
+
+•	{!Begrænset!} (du kan kun bruge licenserede produkter som udtrykkeligt angivet i disse vilkår),
+•	{!Personlig og ikke-overførbar!} (vores licens er kun til dig, ikke til andre, så du kan ikke dele, overføre eller sælge din licens til vores licenserede produkter),
+•	{!Genkaldelig!} (vi kan tage den tilbage),
+•	{!Ikke-eksklusiv!} (vi kan lade andre personer ud over dig bruge de licenserede produkter), og
+•	{!Ikke-underlicenserbar!} (du kan ikke give dine rettigheder i henhold til disse vilkår til en anden person eller lade andre udøve dine rettigheder i henhold til disse vilkår).
+
+Epic-enheden, der tildeler dig en licens til et licenseret produkt i henhold til disse vilkår, er identificeret i afsnit 18. Den specifikke enhed afhænger af forskellige faktorer, herunder din placering. 
+
+I henhold til denne licens {!må du ikke!}:
+
+•	{!Bruge licenserede produkter kommercielt!} (f.eks. til at annoncere eller tjene penge gennem udlejning eller leasing) eller til et salgsfremmende formål, {!medmindre!} disse vilkår eller andre aftaler med Epic tillader det. 
+•	{!Kopiere, vise, udføre eller bruge!} licenserede produkter på en måde, der ikke specifikt er angivet som tilladt brug i disse vilkår, eller uden for omfanget af deres tilsigtede brug.
+•	{!Foretage reverse engineering, ændre, dekompilere, adskille eller skabe afledte værker!} af licenserede produkter.
+•	{!Bruge licenserede produkter på en måde, der medfører gebyrer for Epic for en sådan brug eller medfører krænkelse eller overtrædelse af andres rettigheder!}, herunder immaterielle rettigheder, omtalerettigheder eller rettigheder til privatlivets fred.
+•	{!Fjerne, slette, skjule eller ændre!} eventuelle rettighedsmeddelelser, der vises på eller i forbindelse med licenserede produkter, såsom meddelelser om ophavsret eller varemærker. 
+•	{!Opslå gameplay-videoer og/eller billeder fra licenserede produkter, der fremsætter vildledende påstande eller svigagtige tilbud, der kan øge engagement med udviklerskabt indhold!} (f.eks. skabe gameplay-videoer, der fejlagtigt antyder, at noget udviklerskabt indhold tildeler usædvanlig høj XP).
+•	{!Bruge kode eller indhold, der er udtrukket fra de licenserede produkter som træningsinput til eventuelt generativt AI-program eller som kommandobaseret input, hvor det generative AI-program trænes på inputdata. “Generativt AI-program”!} betyder kunstig intelligens, maskinlæring, dyb læring, neurale netværk eller lignende teknologier, der er designet til at automatisere genereringen af eller hjælpe med oprettelsen af nyt indhold, herunder, men ikke begrænset til, lyd, visuelt eller tekstbaseret indhold. Programmer opfylder ikke denne definition af generative AI-programmer, hvor de, ved ikke-begrænsende eksempel (a) udelukkende opererer på det oprindelige indhold (såsom billedopskalering), (b) genererer tags for at klassificere visuelt inputindhold, eller (c) genererer instruktioner til at arrangere eksisterende indhold uden at oprette nyt indhold.
+•	{!Overtræde !}<a href='https://safety.epicgames.com/our-rules'>{!<u>økosystemreglerne!}</u>!}</a>.
+•	{!Bruge licenserede produkter til at overtræde eventuelle gældende love eller forordninger.!}
+
+Alle rettigheder i og til licenserede produkter og indhold i spillet, der ikke specifikt tildeles i disse vilkår, forbeholdes af Epic og dets licensgivere, og du må kun bruge de licenserede produkter som angivet i disse vilkår. Ingen licens eller andre rettigheder oprettes gennem disse vilkår ved underforståelse, antagelse eller på anden måde.
+
+{$4.	Gameplay-integritet!}
+
+Licenserede produkter er beregnet til at være en fornøjelig oplevelse for alle, og vi forventer, at alle spiller fair og følger spillets regler. Derfor accepterer du, at du ikke vil:
+
+•	Bruge eller tilskynde til brug af snydeanordninger, herunder snydesoftware, -værktøjer og -hardware.
+•	Deltage i eller opfordre andre til at deltage i svindel.
+•	Udvikle, markedsføre, distribuere eller støtte nogen former for snydeanordninger.
+•	Have software, værktøjer eller hardware med henblik på snyd til stede på eller forbundet til din enhed.
+•	Forsøge at manipulere med, ændre, deaktivere, afbryde eller omgå Gameplay-integritetsværktøjer eller licenserede produkter, eller opfordre andre til at gøre det. 
+•	Bruge bot-software eller -tjenester til at automatisere din brug af licenserede produkter.
+•	Misbruge spillersupport-ressourcer.
+
+Har du fundet en udnyttelse? <a href='https://safety.epicgames.com/policies/reporting-misconduct'>{!<u>Indberet det!}</u>!}</a>. 
+
+Du må ikke bruge eller distribuere forfalsket software eller indhold, der er forbundet med licenserede produkter, herunder indhold i spillet. 
+
+For at holde spil retfærdige og sjove bruger Epic “{!Gameplay-integritetsværktøjer!}”. Disse værktøjer hjælper med at finde og stoppe programmer eller handlinger, der forårsager problemer, såsom: (i) hacking, tyveri af Epic Games-konti eller anden ulovlig eller uautoriseret aktivitet (“{!svindel!}”), eller (ii) snydeanordninger, der giver urimelige fordele, såsom bots, hacks, tilføjelser, malware, scripts eller mods, der ikke er godkendt af Epic (“{!snydeanordninger!}”). Nogle af disse værktøjer er indbygget i licenserede produkter, og nogle gange skal du muligvis installere dem, når du downloader eller opdaterer et produkt. Disse værktøjer kan indsamle og sende oplysninger om din Epic Games-konto, gameplay og eventuelle uautoriserede programmer, der kører på din enhed. 
+
+Hvis vi finder bevis for, at du har deltaget i svindel eller snydeanordninger, kan vi træffe foranstaltninger mod dig eller din Epic Games-konto (herunder suspendere eller opsige den) uden forudgående varsel. Du kan appellere en foranstaltning, som Epic træffer mod dig. For yderligere oplysninger om appeller henvises der til afsnit 8.b nedenfor. Det vil dog ikke være et forsvar at sige, at du endnu ikke havde brugt enhederne eller værktøjerne eller kun brugte eller havde til hensigt at bruge de pågældende enheder eller værktøjer på en anden persons produkt. Selv det blot at have snydeanordninger på den enhed, du bruger til at få adgang til licenserede produkter, kan medføre, at din Epic Games-konto bliver suspenderet eller opsagt.
+
+Du forstår og anerkender, at Epic ikke behøver og ikke vil afsløre for dig, hvordan dets Gameplay-integritetsværktøjer fungerer, eller hvilke specifikke enheder eller værktøjer Epic har opdaget, fordi afsløring af disse oplysninger kan hjælpe arrangører af sådanne enheder eller værktøjer med at undgå opdagelse. Du accepterer, at i tilfælde af en tvist om en handling, som Epic har truffet mod dig, kan Epic fremlægge bevis for din overtrædelse for en voldgiftsmand eller domstol privat (inden for jura benævnt “for lukkede døre”) uden at dele det pågældende bevis med dig eller din juridiske repræsentant.
+
+{$5.	Ændringer til disse vilkår eller vores tilbud !}
+
+Vi kan opdatere disse vilkår i fremtiden. Hvis vi foretager væsentlige ændringer:
+
+•	Vil vi sende dig de nye vilkår (via e-mail, i spillet eller anden skriftlig meddelelse).
+•	Vil vi fortælle dig, hvornår de nye vilkår træder i kraft.
+•	Vi vil underrette dig med rimeligt forudgående varsel om de nye vilkår, der træder i kraft, enten via meddelelse i appen/på platformen eller via e-mail.
+
+Din fortsatte brug af licenserede produkter, efter at vi har opdateret disse vilkår (og, for væsentlige ændringer, efter perioden med forudgående varsel), betyder, at du accepterer ændringerne, i det videst mulige omfang tilladt ved gældende lov. 
+
+Hvis du har givet os en e-mailadresse, kan vi bruge den til at kommunikere med dig om disse vilkår og andre vigtige juridiske oplysninger. Du accepterer, at e-mails og meddelelser i spillet, som vi sender til dig, opfylder ethvert lovkrav om, at kommunikation skal være skriftlig.
+
+Vi kan suspendere, afbryde, erstatte eller begrænse adgang til licenserede produkter. Dette kan være nødvendigt af forskellige årsager, herunder for at holde det respektive licenserede produkt spændende og engagerende for eksisterende eller nye spillere, for at løse tekniske begrænsninger eller af juridiske årsager. Derudover kan de licenserede produkter eller dele af licenserede produkter være eller blive utilgængelige i visse regioner eller på visse enheder. Hvis en opdatering eller ændring af vores tilbud medfører tab af din adgang til licenserede produkter (eller væsentlige funktioner deraf), som du har betalt penge for, kan du være berettiget til en refusion af alle eller en del af de beløb, du har betalt – du kan kontakte <a href='https://www.epicgames.com/customer-service'>{!<u>Epic Games-support!}</u>!}</a> for at drøfte dette. Men i det videst mulige omfang tilladt ved gældende lov, er du ikke berettiget til en refusion, hvis vi suspenderer eller opsiger din konto på grund af din overtrædelse af disse vilkår (såsom svindel eller snydeanordninger). Accept af disse vilkår giver dig ikke nogen juridisk ret til at få adgang til eller bruge de licenserede produkter.
+
+Epic har ingen vedligeholdelses- eller supportforpligtelser med hensyn til softwarelicenser, som du køber, men Epic kan opdatere de licenserede produkter fra tid til anden, og du skal bruge disse opdateringer for at fortsætte med at spille. Det kan vi gøre automatisk. Du anerkender, at brug af licenserede produkter ikke tildeler dig eventuelt ejerskab eller eventuel monetær eller anden interesse i noget aspekt af eller nogen funktion i de licenserede produkter, herunder eventuelle belønninger, præstationer eller karakterniveauer i spillet. Medmindre andet kræves ved gældende lov, anerkender du også, at alle karakterdata, spilfremskridt, spiltilpasninger eller andre data relateret til din brug af de licenserede produkter kan ophøre med at være tilgængelige for dig til enhver tid uden varsel fra Epic, herunder efter implementering af en programrettelse, opdatering eller opgradering udført af Epic. 
+
+{$6.	Fakturering og betaling!}
+
+{!BEMÆRK:!} For at gennemføre transaktioner med rigtige penge med Epic og dets tilknyttede selskaber skal du være en voksen, der er autoriseret til at bruge den angivne betalingsmetode eller få en voksen til at gennemføre betalingsprocessen. 
+
+{!Husk, at licenserede produkter og indhold i spillet er licenseret og ikke solgt til dig.!}
+
+{$a.	Køb!}
+
+Når nogen indtaster en betalingsmetode for at foretage køb i licenserede produkter, kræver vi bekræftelse af, at den person, der indtaster betalingsmetoden, er en voksen, er en autoriseret bruger af betalingsmetoden og accepterer de relevante vilkår, herunder <a href='https://legal.epicgames.com/store/eula'>{!<u>slutbrugerlicensaftalen for Epic Games Store!}</u>!}</a>. Den person, der indtaster en betalingsmetode, bekræfter også, at Epic og dets tilknyttede selskaber er autoriserede til at debitere købsbeløbet fra betalingsmetoden, herunder eventuelle gældende skatter og gebyrer.
+
+Den registrerede forhandler, der identificeres som værende den person, der debiterer din betalingsmetode for dit køb, kan være en anden Epic-enhed eller anden tredjepart afhængigt af din placering og købet. 
+
+Hvis vi modtager opdaterede oplysninger om din betalingsmetode fra din bank eller dit betalingsnetværk, giver du os tilladelse til at bruge dem til eventuelle køb, som du foretager. Ændringer, der foretages på din faktureringskonto, vil ikke påvirke debiteringer, der blev indsendt, før vi med rimelighed kunne handle i henhold til dine ændringer. 
+
+Når du foretager et køb, kan vi debitere dig på det tidspunkt, hvor købet indledes, eller kort tid efter. Hvis du køber et tilbagevendende abonnement, debiterer vi dig på tilbagevendende basis som forklaret på abonnementstidspunktet, og hvis det er et tilbagevendende abonnement. 
+
+{$b.	Gebyrer !}
+
+Hvis du handler direkte med Epic, vil du være ansvarlig for at betale alle gebyrer og gældende skatter. Priserne i licenserede produkter kan ændres, men sådanne prisændringer vil ikke påvirke eventuelle tidligere køb. Hvis vi ikke modtager fuld, rettidig betaling fra dig, eller hvis vi skal udstede en refusion på grund af uautoriseret brug af en betalingsmetode fra din Epic Games-konto, kan vi suspendere eller fjerne din adgang til eventuelle ubetalte eller refunderede licenserede produkter og begrænse din evne til at foretage fremtidige køb. 
+
+Hvis du køber noget fra en tredjepartsbutik (såsom PlayStation® Store), er det pågældende køb mellem dig og dem – ikke Epic – og du skal følge deres regler for køb. Som en påmindelse gælder disse vilkår for licenserede produkter og eventuelt indhold i spillet, uanset hvilken platform du bruger dem på. 
+
+{!For fastboende i Storbritannien: Enhver prisændring skal foretages i overensstemmelse med gældende forbrugerbeskyttelseslove og andre love i den retskreds, hvor du er bosiddende.!}
+
+{$7.	Refusionspolitik !}
+
+Hvis du køber indhold i spillet eller licenserede produkter fra Epic, gælder vores <a href='https://legal.epicgames.com/store/refund-policy'>{!<u>refusionspolitik!}</u>!}</a>. Medmindre et køb fra Epic er mærket som refunderbart, eller medmindre en gældende lov berettiger dig til en refusion (for eksempel, hvis noget, som vi har leveret til dig, er defekt eller fejlagtigt beskrevet), bør du antage, at alle køb fra Epic ikke kan refunderes.
+
+Hvis du køber indhold i spillet eller licenserede produkter fra en tredjepart eller via en tredjepartsplatform (såsom PlayStation® Store), er din transaktion med den pågældende tredjepart, og deres refusionspolitikker finder anvendelse. Kontakt den tredjepart, hvorfra du foretog dit køb, for at få refusionsoplysninger.
+
+{$8.	Økosystemregler!}
+
+Vi ønsker, at vores fællesskab skal være et sikkert og sjovt sted for dig at spille spil, kommunikere med andre og dele dine kreationer. Vi forventer, at alle følger loven og vores regler og retningslinjer. <a href='https://www.rocketleague.com/news/rocket-league-code-of-conduct/'>{!<u>Rocket League!}</u>!}</a>). 
+
+{$a.	Indberetning!}
+
+Hvis du støder på nogen, der overtræder vores økosystemregler eller loven, kan du indberette dem via indberetning i spillet eller vores formular til <a href='https://safety.epicgames.com/policies/reporting-misconduct'>{!<u>Sikkerhedscenter!}</u>!}</a>. 
+
+Hvis du bruger vores tekst- og stemmechatfunktioner, og indberetning er aktiveret i en chatkanal, opbevares den registrerede del af din chat (herunder lyddata fra stemmechat) på din enhed og deltagernes enheder i chatkanalen. Hvis en potentiel overtrædelse af vores <a href='https://www.fortnite.com/voice-text-reporting-faqs'>{!<u>Ofte stillede spørgsmål - Stemme- og tekstindberetning i Fortnite!}</u>!}</a>.
+
+{$b.	Konsekvenser!}
+
+Når vi bliver opmærksomme på en overtrædelse af vores økosystemregler eller loven, vil vi træffe passende foranstaltninger mod dig eller dine Epic Games-konti. Vi ser på alvoren af overtrædelsen, hvorvidt du har overtrådt gentagne gange, og andre relevante faktorer. Foranstaltninger, som vi træffer, kan være midlertidige eller permanente, og vi informerer dig om varigheden og typen af konsekvens, som du har modtaget. Konsekvenser kan omfatte en advarselsmeddelelse (for mindre alvorlige overtrædelser), spærring (midlertidigt eller permanent) af visse Epic-funktioner, -produkter eller -tjenester, en suspendering af din Epic Games-konto (som kan vare et år eller længere) eller permanent opsigelse af disse vilkår med hensyn til dig (for gentagne eller alvorlige overtrædelser), hvilket ville betyde, at du aldrig kan bruge licenserede produkter igen på nogen Epic Games-konto eller på nogen enhed. Hvis Epic har opsagt disse vilkår for dig, hvilket permanent forbyder dig at bruge licenserede produkter, kan du ikke forsøge at unddrage dig det forbud, der pålægges dig, ved at oprette en ny Epic Games-konto. Hvis du ønsker at anfægte en foranstaltning, som vi har truffet mod dig for en overtrædelse, kan du indsende en appel <a href='https://safety.epicgames.com/'>{!<u>Epic Games’ Sikkerhedscenter!}</u>!}</a>.
+
+For at beskytte sig selv og dets spillere kan Epic i ekstreme tilfælde også forfølge andre retsmidler for overtrædelser af dets økosystemregler eller loven eller tilvejebringe oplysninger og beviser for relevante retshåndhævende myndigheder.
+
+{$9.	Anbefalingssystemer !}
+
+Nogle licenserede produkter bruger anbefalingssystemer til at anbefale visse oplysninger til brugere. For yderligere oplysninger henvises der til <a href='http://legal.epicgames.com/epicgames/recommendations'>{!<u>Anbefalinger og rangering i Fortnite og Fall Guys!}</u>!}</a>.
+
+{$10.	Indhold i spillet !}
+
+Nogle licenserede produkter tilbyder “{!indhold i spillet!}”, såsom karakterer, emotes, outfits, oplevelser (f.eks. øer) og andre digitale varer og medier, der kan licenseres til dig til brug i de licenserede produkter, hvori du erhvervede dem. Betegnelsen “licenserede produkter” omfatter indhold i spillet.
+
+Du kan få licenser til indhold i spillet på forskellige måder. Noget indhold i spillet er automatisk tilgængeligt for alle slutbrugere (f.eks. Battle Royale). Licenser til andet indhold i spillet kan optjenes gennem aktivitet i spillet, købes med rigtige penge eller indløses med “{!kreditter!}” (f.eks. V-Bucks, Rocket League-kreditter). Kreditter er en type indhold i spillet. Du kan tjene kreditter gennem gameplay eller få licenser til dem med rigtige penge. Licenser til kreditter og andet indhold i spillet kan fås i et licenseret produkt, Epic Games Store eller en tredjepartsplatform. Bemærk: Indhold i spillet er ikke nødvendigvis kompatibelt på tværs af alle oplevelser. Kompatibiliteten kan være begrænset på grund af klassificeringer eller oplevelsesdesign.
+
+{!KREDITTER ER IKKE DET SAMME SOM KONTANTER, GAVEKORT ELLER BANKKONTI OG KAN IKKE BYTTES TIL RIGTIGE PENGE ELLER ANDRE VARER UDEN FOR EPIC-ØKOSYSTEMET. !}
+
+Funktionerne, prisfastsættelsen, tilgængeligheden og funktionaliteten af kreditter og andet indhold i spillet kan ændres til enhver tid uden varsel, i det videst mulige omfang tilladt ved lov. Epic garanterer ikke fortsat adgang til specifikt indhold i spillet og er ikke erstatningsansvarlig for ændring, sletning eller manglende tilgængelighed. Indhold i spillet kan være underlagt platformsbegrænsninger (f.eks. konsolspecifik adgang). 
+
+{$a.	Regler for indhold i spillet!}
+
+Kreditter kan kun indløses til andet indhold i spillet, herunder udviklerskabt indhold, der stilles til rådighed af Epic på vegne af udvikleren, og når sådanne kreditter er indløst, har du ingen yderligere betalingsforpligtelse. Det er forbudt for dig at konvertere kreditter eller andet indhold i spillet til en værdienhed uden for det licenserede produkt, hvor det blev erhvervet, såsom rigtige penge eller faktiske varer. Du anerkender og accepterer, at Epic kan træffe foranstaltninger, der påvirker den opfattede værdi eller købspris af eventuelle kreditter eller andet indhold i spillet til enhver tid, undtagen som forbudt ved gældende lov. 
+
+Epic kan tilbyde rabatter eller kampagner ved køb af kreditter eller andet indhold i spillet, og sådanne rabatter og kampagner kan ændres eller bringes til ophør af Epic til enhver tid uden varsel til dig. 
+
+Epic kan fastsætte et maksimalt beløb, som du kan bruge på at købe kreditter pr. transaktion og/eller pr. dag, hvilket kan variere afhængigt af det tilknyttede licenserede produkt eller adgang til det licenserede produkt, samt den maksimale kreditsaldo, som du må have på din Epic Games-konto. Epic kan pålægge yderligere grænser på køb af, eller hvordan du bruger, kreditter. 
+
+Hvis der er en fejl i din kreditsaldo, eller hvis vi har grund til at mistænke svig, har vi ret til at rette kreditsaldi eller tilbagekalde adgang til din Epic Games-konto.
+
+{!For beboere i Japan: Indhold i spillet, der er købt med Credits, udgør levering af varer eller tjenester ved erhvervelsen og betragtes ikke som en forudbetalt betalingsmetode.!}
+
+{$b.	Fysiske og virtuelle kort til kreditter og indhold i spillet!}
+
+Epic kan tilbyde fysiske eller virtuelle kort (herefter benævnt “{!kort!}”), der kan bruges til at føje kreditter til en Epic Games-konto. Ved at købe eller indløse et kort accepterer du disse vilkår, og du accepterer også de gældende kortspecifikke vilkår og betingelser, som supplerer disse vilkår. Eksempler på supplerende vilkår omfatter <a href='https://www.epicgames.com/site/en-US/gift-card-terms'>{!<u>vilkårene og betingelserne for Fortnite-gavekortet!}</u>!}</a>. {!DU BØR ANTAGE, AT DIT KØB AF ET KORT IKKE KAN REFUNDERES. KØB IKKE ET KORT, MEDMINDRE DU ELLER DEN TILSIGTEDE MODTAGER ALLEREDE HAR EN EPIC-KONTO, DER ER OPRETTET TIL AT SPILLE DET RELEVANTE SPIL. DU ER ANSVARLIG FOR AT SIKRE, AT DU ELLER DEN TILSIGTEDE MODTAGER AF KORTET HAR EN EPIC-KONTO OG EN ENHED TIL AT SPILLE, DER OPFYLDER ALLE MINIMUMSSYSTEMKRAV. !}Al brug af kort skal overholde gældende love. Køb af kort fra tredjepartsforhandlere er underlagt forhandlerpolitikker. Direkte køb af kort fra Epic er underlagt Epics refusionspolitik. 
+
+Kort, der er lavet til distribution i ét land, kan kun indløses til Epic Games-konti, der er registreret i det pågældende land. Du accepterer at bruge kort i overensstemmelse med alle gældende love, herunder alle eksportrelaterede restriktioner og forordninger, der gælder for dit bopælsland.
+
+Hvis der opstår nogen problemer, mens du søger at indløse et kort og/eller få adgang til indhold i spillet på en Epic Games-konto, bedes du kontakte <a href='https://www.epicgames.com/help'>{!<u>Epic Games Support!}</u>!}</a>. 
+
+UDEN AT BEGRÆNSE ANSVARSFRASKRIVELSERNE OG ANSVARSBEGRÆNSNINGERNE ANGIVET ANDETSTEDS I DISSE VILKÅR, I DET VIDEST MULIGE OMFANG TILLADT VED GÆLDENDE LOV, VIL EPICS SAMLEDE ERSTATNINGSANSVAR OVER FOR DIG FOR ALLE SKADESERSTATNINGER, DER MÅTTE OPSTÅ SOM FØLGE AF ELLER I FORBINDELSE MED DIN BRUG AF, ELLER MANGLENDE EVNE TIL AT BRUGE, ET KORT, IKKE OVERSTIGE DET SAMLEDE BELØB, SOM DU HAR BETALT FOR KORTET. DETTE AFSNIT ER IKKE BEREGNET TIL AT BEGRÆNSE EPICS ERSTATNINGSANSVAR FOR EPICS FORSÆTLIGE MISLIGHOLDELSE ELLER GROVE UAGTSOMHED.
+
+{!For beboere i Storbritannien: Ansvarsfraskrivelserne kan muligvis ikke håndhæves over for dig.!}
+
+{$11.	Eksternt fanindhold!}
+
+Epic ønsker at støtte den interesse, som vores fans viser i vores spil og forretning, så vi har oprettet vores <a href='https://legal.epicgames.com/epicgames/fan-art-policy'>{!<u>politik for fanindhold!}</u>!}</a> for at tillade bestemt fangenereret indhold baseret på licenserede produkter, der vises udenfor de licenserede produkter. “{!Eksternt fanindhold!}” omfatter ting såsom (i) optagelser eller livestreams af gameplay med licenserede produkter, (ii) fankunst (såsom illustrationer, fotografier, videoer og andre materialer), der er baseret på licenserede produkter, og (iii) websteder og apps, der er gratis, tilgængelige for offentligheden og relateret til Epic-ejendomme. Du må kun skabe eksternt fanindhold, så længe du overholder disse vilkår. 
+
+{$12.	Udviklerskabt indhold!}
+
+UEFN er et skabelsesværktøj, der gør det muligt for udviklere at skabe, udvikle, ændre eller bidrage med indhold i Fortnite, og at uploade, udgive eller på anden måde gøre et sådant indhold tilgængeligt for andre brugere af licenserede produkter. Før de bruger UEFN, skal udviklere også acceptere de <a href='https://legal.epicgames.com/fortnite/eula/uefn'>{!<u>supplerende UEFN-vilkår!}</u>!}</a> er en person, der bruger UEFN til at skabe UEFN-indhold benævnt en “{!udvikler!}”, og alt indhold i spillet, der skabes, tilbydes, vises, gøres tilgængeligt eller arrangeres af udviklere, er benævnt “{!udviklerskabt indhold!}”. Udviklerskabte øer er et eksempel på udviklerskabt indhold.
+
+Kreditter kan indløses til licenser til digitale varer eller andet udviklerskabt indhold ("{!udviklerskabt!} {!indhold, der kan indløses!}," en type udviklerskabt indhold). Disse vilkår gælder også for udviklerskabt indhold, der kan indløses, som er angivet i detaljer i Tillæg 1.
+
+{$13.	Feedback!}
+
+Nogle gange kan du kontakte os med spørgsmål, kommentarer, forslag, idéer, ændringer, forbedringer, kampagner eller andre oplysninger om Epic eller de licenserede produkter. Vi kalder dette “{!feedback!}”. Hvis du vælger at sende os feedback, er vi ikke forpligtede til at gøre noget med det. Hvis vi beslutter at bruge det, behøver vi ikke at kreditere dig og/eller betale dig for den pågældende brug. Send ikke uopfordrede optagelser, livestreams, illustrationer eller andet fanskabt indhold eller spilidéer til Epic; de vil blive slettet uden gennemgang. Af hensyn til klarhed adskiller feedback sig fra eksternt fanindhold og udviklerskabt indhold.
+
+{$14.	Opsigelse af disse vilkår!}
+
+{$a.	Opsigelse foretaget af dig!}
+
+Du kan til enhver tid opsige disse vilkår ved at slette din Epic Games-konto og derved opsige disse vilkår med hensyn til alle licenserede produkter. Hvis du ønsker at slette din Epic Games-konto, bedes du kontakte <a href=' https://www.epicgames.com/account/connections'>{!<u>linkede konti!}</u>!}</a>.
+
+Hvis du har flere Epic Games-konti, er din sletning af en specifik Epic Games-konto kun for den pågældende Epic Games-konto. Disse vilkår gælder stadig for dine resterende Epic Games-konti.
+
+Hvis du tilgår et licenseret produkt, der ikke kræver en Epic Games-konto, kan du opsige disse vilkår ved at stoppe din brug af det licenserede produkt (f.eks. stoppe med at bruge et Epic-websted). Vær dog opmærksom på, at bestemmelserne i disse vilkår stadig gælder efter opsigelse, som beskrevet nedenfor i afsnit 14.c
+
+{$b.	Opsigelse af Epic!}
+
+Som angivet flere gange, kan Epic, hvis du overtræder disse vilkår, opsige disse vilkår, enten på et produktspecifikt grundlag eller for alle licenserede produkter. Opsigelse kan ske i form af en suspendering af din brug af et eller flere licenserede produkter eller tilbagekaldelse af din ret til at bruge et hvilket som helst licenseret produkt. Hvis det med rimelighed er muligt, kontakter vi dig for at forklare, hvorfor vi foretog denne handling, og hvad (hvis noget) du kan gøre som følge heraf.
+
+Hvis du har flere Epic Games-konti, kan vi træffe foranstaltninger mod alle dine Epic Games-konti. Du må ikke forsøge at undgå forbuddet ved at oprette en ny Epic Games-konto.
+
+Epic kan også blive nødt til at opsige disse vilkår, selvom der ikke har været nogen overtrædelse fra din side, hvis:
+
+•	Vi stopper driften af det relevante licenserede produkt (f.eks. det er ikke længere økonomisk rentabelt, eller fortsat drift er upraktisk af tekniske, driftsmæssige eller forretningsmæssige årsager),
+•	Vi stopper med at drive et relevant licenseret produkt på en bestemt platform,
+•	Påkrævet ved lov eller et bindende påbud fra en statslig myndighed,
+•	Et licenseret produkt er afhængigt af en tredjepartsudbyder eller -platform, der ophører med at understøtte det, eller
+•	Vi gennemgår en fusion, opkøb eller omstrukturering, der påvirker et licenseret produkt.
+
+I disse tilfælde, når det er kommercielt muligt at gøre det, vil Epic give dig tredive (30) dages forudgående varsel ved at offentliggøre en meddelelse på vores websteder relateret til det/de relevante licenserede produkt(er). I sådanne tilfælde vil vi ikke have eventuelle fremtidige forpligtelser eller erstatningsansvar over for dig.
+
+{$c.	Indvirkning af opsigelse!}
+
+Hvis Epic opsiger disse vilkår med hensyn til dig, eller hvis du selv opsiger disse vilkår, mister du alle rettigheder til alle licenserede produkter, herunder spil, kreditter og andet indhold i spillet, Epic-kontosaldi, eller andre varer, som du muligvis har optjent eller købt før opsigelsen. Ved opsigelsen af disse vilkår med hensyn til eventuelt licenseret produkt(er), vil alle licenser, som vi har tildelt dig til det/de relevante licenserede produkt(er), automatisk ophøre, og du skal afinstallere og slette alle kopier af det/de relevante licenserede produkt(er) på dine enheder. Du vil ikke længere kunne udøve, med hensyn til sådanne licenserede produkter, nogen af de rettigheder, der tildeles dig i disse vilkår.
+
+Hvis Epic registrerer svindel eller snydeanordninger på din Epic Games-konto, kan du miste adgang til eventuelle rangeringer, trofæer, indhold i spillet og andre oplysninger, der er knyttet til din Epic Games-konto. Epic kan også forhindre dig i at bruge eller alvorligt begrænse din brug af alle produkter, der er afhængige af Epics onlinetjenester, der er knyttet til din Epic Games-konto. Du kan også miste adgang til tjenester, som du har knyttet til din Epic Games-konto, eller som du får adgang til med din Epic Games-konto. 
+
+Medmindre det kræves ved lov, er du ikke berettiget til en refusion som følge af opsigelsen af disse vilkår. Det betyder, at hvis vi suspenderer, begrænser eller opsiger din mulighed for at få adgang til et eller flere licenserede produkter af årsager forbundet med svig, snydeanordninger eller eventuelt andet aspekt af disse vilkår, vil vi ikke give dig en refusion for eventuelle tidligere køb i spillet, som du har foretaget, eller for eventuelt ubrugt indhold i spillet på din Epic Games-konto, der er knyttet til det/de pågældende licenserede produkt(er).
+
+Selv efter opsigelse vil afsnit 4, 8, 10, 15-18 og 20, og Tillæg 1 i disse vilkår forblive i kraft.
+
+{$15.	Ansvarsfraskrivelser, ansvarsbegrænsning og skadesløsholdelse!}
+
+{$a.	Bestemmelserne i dette afsnit 15.a gælder for slutbrugere, der er bosiddende i USA, og gælder i det videst mulige omfang tilladt ved lov, hvor du bor. Hvis du er en slutbruger, der er bosiddende i Storbritannien, henvises der også til afsnit 15.b nedenfor.!}
+
+Bestemmelserne i dette afsnit gælder i det videst mulige omfang tilladt ved lov, hvor du bor.
+
+DE LICENSEREDE PRODUKTER, HERUNDER INDHOLD I SPILLET, LEVERES “SOM DE ER OG FOREFINDES” OG “SOM TILGÆNGELIGE”. EPIC, DETS TILKNYTTEDE SELSKABER, LICENSGIVERE (BORTSET FRA DIG) OG TJENESTEUDBYDERE, OG DERES MEDARBEJDERE, DIREKTØRER, AGENTER OG ERHVERVERE (“EPIC-PARTERNE”), FREMSÆTTER INGEN ERKLÆRINGER ELLER GARANTIER AF NOGEN ART, HVERKEN UDTRYKKELIGE ELLER UNDERFORSTÅEDE, OM DE LICENSEREDE PRODUKTER, OG FRASKRIVER SIG ALLE GARANTIER, BÅDE UDTRYKKELIGE ELLER UNDERFORSTÅEDE, HERUNDER UNDERFORSTÅEDE ELLER LOVBESTEMTE GARANTIER FOR SALGBARHED, EGNETHED TIL ET BESTEMT FORMÅL, ADKOMST ELLER IKKE-KRÆNKELSE, ELLER FOR AT DE LICENSEREDE PRODUKTER ER FRI FOR VIRUSSER ELLER ANDRE SKADELIGE KOMPONENTER. DIN BRUG AF DE LICENSEREDE PRODUKTER ER PÅ EGEN RISIKO. 
+
+EPIC-PARTERNE ER IKKE ERSTATNINGSANSVARLIGE OVER FOR DIG ELLER EVENTUEL TREDJEPART FOR EVENTUELLE SKADESERSTATNINGER, FORPLIGTELSER ELLER TAB, DER ANSES FOR ELLER PÅSTÅS AT VÆRE OPSTÅET SOM FØLGE AF ELLER I FORBINDELSE MED DE LICENSEREDE PRODUKTER ELLER DERES INDHOLD (HERUNDER INDHOLD I SPILLET), HERUNDER SOM FØLGE AF ELLER PÅ NOGEN MÅDE FORBUNDET MED: (I) TAB, DER IKKE KUNNE FORUDSES AF DIG OG OS PÅ DET TIDSPUNKT, HVOR DU FØRST ACCEPTEREDE VILKÅRENE, (II) (HVIS DU BRUGER DE LICENSEREDE PRODUKTER TIL IKKE-PERSONLIGE/FORRETNINGSMÆSSIGE FORMÅL, SOM DU IKKE HAR TILLADELSE TIL AT GØRE) EVENTUELLE FORRETNINGSTAB OG/ELLER TAB FOR IKKE-FORBRUGERE (F.EKS. TAB AF FORRETNING, TAB AF FORRETNINGSOPLYSNINGER, FORRETNINGSAFBRYDELSE OG TAB AF FORTJENESTE ELLER OMSÆTNING), (III) EVENTUEL BRUG AF, ELLER MANGLENDE EVNE TIL AT BRUGE, DE LICENSEREDE PRODUKTER (HERUNDER INDHOLD I SPILLET), (IV) EVENTUEL SKADE PÅ DIT UDSTYR ELLER EVENTUELT TAB ELLER KORRUMPERING AF DATA, DER SKYLDES DIN BRUG AF DE LICENSEREDE PRODUKTER, HERUNDER EVENTUELT INDHOLD I SPILLET, BORTSET FRA, AT HVIS EVENTUELT DEFEKT DIGITALT INDHOLD, SOM VI HAR LEVERET TIL DIG, BESKADIGER EN ENHED ELLER DIGITALT INDHOLD, DER TILHØRER DIG, OG DETTE SKYLDES VORES MANGLENDE RIMELIGE OMHU OG DYGTIGHED, VIL VI ENTEN REPARERE SKADEN ELLER BETALE DIG KOMPENSATION, (V) EVENTUEL FEJL I ELLER MANGLENDE FUNKTIONSDYGTIGHED AF DE LICENSEREDE PRODUKTER, ELLER HVIS DE LICENSEREDE PRODUKTER (ELLER ENHVER DEL AF DEM) AF EN ELLER ANDEN ÅRSAG IKKE ER TILGÆNGELIGE PÅ ETHVERT TIDSPUNKT ELLER I ENHVER PERIODE, (VI) EVENTUEL HANDLING FORETAGET AF EPIC I OVERENSSTEMMELSE MED DISSE VILKÅR, (VII) EVENTUEL OVERTRÆDELSE AF DISSE VILKÅR AF DIG, OG (VIII) EVENTUEL FORSINKELSE I UDFØRELSEN ELLER DEN MANGLENDE UDFØRELSE AF ENHVER AF VORES FORPLIGTELSER, HVIS EN SÅDAN FORSINKELSE ELLER MANGLENDE UDFØRELSE SKYLDES BEGIVENHEDER, OMSTÆNDIGHEDER ELLER ÅRSAGER UDEN FOR VORES RIMELIGE KONTROL.
+
+EPIC-PARTERNE ER IKKE ERSTATNINGSANSVARLIGE FOR TAB AF FORTJENESTE ELLER INDIREKTE, TILFÆLDIGE, PØNALT BEGRUNDEDE, SÆRLIGE ELLER FØLGEMÆSSIGE SKADESERSTATNINGER, DER OPSTÅR SOM FØLGE AF ELLER I FORBINDELSE MED DISSE VILKÅR ELLER DE LICENSEREDE PRODUKTER. EPIC-PARTERNES SAMLEDE ERSTATNINGSANSVAR, DER OPSTÅR SOM FØLGE AF ELLER I FORBINDELSE MED DISSE VILKÅR ELLER DE LICENSEREDE PRODUKTER, ER BEGRÆNSET TIL DET BELØB, DU HAR BETALT EPIC I HENHOLD TIL DISSE VILKÅR I DE TOLV (12) MÅNEDER FORUD FOR, HVORNÅR DU PÅDROG DIG SKADESERSTATNINGER, SELV HVIS DET PÅGÆLDENDE RETSMIDDEL IKKE YDER TILSTRÆKKELIG KOMPENSATION.
+
+Som anvendt i ovenstående udelukkelse af visse garantier og ansvarsbegrænsninger, omfatter betegnelsen “{!Epic-parter!}” udvikleren af en software, der er licenseret til dig i henhold til disse vilkår, medmindre du har accepteret softwarespecifikke vilkår for den pågældende software eller tjeneste, der omfatter en ansvarsfraskrivelse af udviklerens garantier og en begrænsning af udviklerens erstatningsansvar.
+
+Du skal skadesløsholde, betale forsvarsomkostningerne for, og fritage Epic-parterne for eventuelle krav, forlangender, søgsmål, forpligtelser, skadeserstatninger, domme, tilkendelser, tab, omkostninger, udgifter, eller gebyrer (herunder rimelige advokatsalærer og gebyrer til sagkyndige vidner), der opstår som følge af eller i forbindelse med (a) enhver påstand, som, hvis sand, ville være en overtrædelse af disse vilkår af dig eller din uagtsomhed, (b) enhver handling eller manglende handling af dig ved hjælp af de licenserede produkter, eller (c) dit eksterne fanindhold, udviklerskabt indhold, eller din feedback. Du skal godtgøre Epic-parterne efter anmodning herom for eventuelle forsvarsomkostninger, som Epic-parterne pådrager sig, og eventuelle betalinger, der er foretaget eller tab, der er afholdt af Epic, uanset om disse er via en retskendelse eller et forlig, baseret på ethvert anliggende, der er omfattet af nærværende afsnit. Hvis loven, hvor du bor, ikke giver dig mulighed for at acceptere denne skadesløsholdelse, påtager du dig alt ansvar for krav, forlangender, søgsmål, tab, forpligtelser og udgifter (herunder advokatsalærer, omkostninger og gebyrer til sagkyndige vidner), der ellers ville have været omfattet af skadesløsholdelsen. Denne skadesløsholdelsesforpligtelse omfatter krav fra og mod dig. 
+
+Nogle funktioner i licenserede produkter kan kræve en internetforbindelse, som du skal tilvejebringe for egen regning. Du er ansvarlig for alle omkostninger og gebyrer, der opkræves af din internettjenesteudbyder i forbindelse med brugen af licenserede produkter.
+
+{$b.	Bestemmelserne i dette afsnit 15.b gælder for slutbrugere, der er bosiddende i Storbritannien.!}
+
+{!Intet i afsnit 15.a udelukker eller begrænser Epics erstatningsansvar for: (i) død eller personskade forårsaget af vores uagtsomhed, (ii) svindel eller svigagtig vildledning, (iii) overtrædelse af vores lovbestemte forpligtelser eller dine lovbestemte rettigheder som forbruger, herunder underforståede vilkår med hensyn til digitalt indhold, eller (iv) eventuelt andet erstatningsansvar, som ikke kan udelukkes eller begrænses i henhold til gældende lovgivning.!}
+
+Du accepterer efter krav herom at kompensere Epic for eventuelle krav, forlangender, søgsmål, forpligtelser, skadeserstatninger, domme, tilkendelser, tab, omkostninger, udgifter eller gebyrer (herunder rimelige eksterne advokatsalærer og gebyrer til sagkyndige vidner), der afholdes eller pådrages af Epic som følge af eller i forbindelse med (a) enhver påstand, som, hvis sand, ville være en overtrædelse af disse vilkår af dig eller din uagtsomhed, (b) enhver handling eller manglende handling af dig ved hjælp af de licenserede produkter, eller (c) dit eksterne fanindhold, udviklerskabt indhold, eller din feedback. 
+
+{$16.	Gældende lov og værneting for eventuelle tvister, der ikke kan behandles ved voldgift !}
+
+Love og forordninger, hvor du bor, kan yde beskyttelse for forbrugere. Disse vilkår er ikke beregnet til at udelukke eller begrænse nogen af disse juridiske rettigheder, og når det er muligt, skal vilkårene fortolkes på en måde, der ikke strider mod love, der tildeler dig de pågældende vigtige beskyttelser. Hvis der ikke er nogen måde til at forene en bestemmelse i disse vilkår med en forbrugerbeskyttelseslov, der gælder for dig, vil den gældende lovgivning have forrang.
+
+Medmindre andet er påkrævet ved gældende lov, skal en tvist, et krav eller en uoverensstemmelse mellem dig og Epic, der vedrører et licenseret produkt eller de licenserede produkter generelt, din brug eller forsøg på at bruge et licenseret produkt, eller disse vilkår blive afgjort i henhold til lovgivningen i North Carolina (hvor Epic Games har hovedkvarter), med undtagelse af dens lovvalgsregler. Ved tvister, krav eller uoverensstemmelser, der ikke er underlagt voldgift (omhandlet nedenfor i afsnit 17), accepterer du og Epic at være underlagt enekompetencen tilhørende Superior Court i Wake County, North Carolina, eller, hvis der foreligger føderal domstolsjurisdiktion, USA's distriktsdomstol for det østlige distrikt i North Carolina (United States District Court for the Eastern District of North Carolina). Undtagen som forbudt ved gældende lovgivning, accepterer du og Epic at give afkald på enhver indsigelse mod jurisdiktion, værneting eller ubelejligt forum i forbindelse med disse domstole (uden at dette påvirker nogen af parternes rettigheder til at overføre en sag til en føderal domstol, hvis det er tilladt), samt enhver ret til en nævningesag. FN-konventionen om aftaler om internationale køb finder ikke anvendelse. Enhver lov eller forordning, der foreskriver, at en kontrakt skal fortolkes imod den part, der har udarbejdet den, finder ikke anvendelse for disse vilkår. Dette afsnit skal fortolkes så bredt som tilladt ved gældende lov.
+
+{$17.	Bindende individuel voldgift; Ingen gruppesøgsmål!}
+
+De fleste tvister kan løses hurtigt og mindeligt ved at kontakte Epics spillersupport på <a href='https://www.epicgames.com/customer-service'>{!<u>Epic Games-support!}</u>!}</a>. For tvister, der ikke kan løses nemt, hvor vi har brug for en neutral tredjepart til at afgøre dem, forklarer dette afsnit reglerne for, hvordan du og Epic skal løse disse tvister, krav eller uoverensstemmelser, herunder (hvis relevant) ved bindende individuel voldgift. 
+
+{!LÆS DETTE AFSNIT OMHYGGELIGT. DETTE PÅVIRKER DINE RETTIGHEDER, HERUNDER DIN RET TIL AT ANLÆGGE SAG I RETTEN. DER ER INGEN DOMMER ELLER NÆVNINGETING I EN VOLDGIFT, OG MULIGHEDERNE FOR BEVISOPTAGELSE OG ANKE ER MERE BEGRÆNSEDE I FORHOLD TIL RETSSAGER.!} {!VOLDGIFTSVILKÅRENE I DETTE AFSNIT 17 FINDER IKKE ANVENDELSE I DET OMFANG, AT DERES MEDTAGELSE VILLE GØRE DISSE VILKÅR UGYLDIGE.!}
+
+Dette afsnit 17 skal fortolkes så bredt som tilladt ved gældende lov. 
+
+{!For fastboende i Storbritannien: Disse bestemmelser kan muligvis ikke håndhæves over for dig.!}
+
+{$a.	Din 30-dages ret til at fravælge!}
+
+Du kan fravælge kravet om bindende individuel voldgift, men ikke afkaldet på gruppesøgsmål angivet nedenfor i underafsnit 17.f, ved at sende en skriftlig meddelelse til Epic Games inden for tredive (30) dage efter tilmelding til de licenserede produkter for første gang. 
+
+Når perioden på 30 dage er udløbet, kan du kun fravælge fremtidige væsentlige ændringer af den bindende individuelle voldgift ved at sende en skriftlig meddelelse inden for tredive (30) dage efter, at Epic Games giver meddelelse om de pågældende ændringer (medmindre en længere periode er påkrævet ved gældende lov). Som forklaret nedenfor vil du forblive bundet af den voldgiftsaftale, som du accepterede uden at fravælge den.
+
+For at fravælge skal du sende en skriftlig meddelelse med titlen “Meddelelse om fravalg af voldgift” til følgende adresse: Epic Games, Inc., Legal Department, ATTN: ARBITRATION OPT-OUT, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, USA. For at være gyldig, skal fravalgsmeddelelsen sendes til Epic Games fra slutbrugeren, der ønsker at fravælge (eller den pågældende slutbrugers forælder eller værge) og omfatte (a) slutbrugerens fulde navn, Epic Games-konto, og e-mailadresse, (b) en utvetydig erklæring om, at slutbrugeren ønsker at fravælge den bindende individuelle voldgift, eller ønsker at fravælge en væsentlig ændring af den bindende individuelle voldgift, som relevant, og (c) slutbrugerens underskrift (eller underskrift fra slutbrugerens forælder eller værge, hvis slutbrugeren er mindreårig). Hvis du fravælger en væsentlig ændring, skal meddelelsen også identificere den specifikke væsentlige ændring, som du ønsker at fravælge. En fravalgsmeddelelse gælder kun for den bindende individuelle voldgift. Alle andre dele af disse vilkår gælder stadig for slutbrugeren og Epic Games, herunder afkaldet på gruppesøgsmål angivet nedenfor i underafsnit 17.f, i det videst mulige omfang tilladt ved gældende lov. Endvidere gælder en fravalgsmeddelelse kun fremadrettet og hverken tilbagekalder eller påvirker på anden måde eventuel tidligere aftale om kravet om bindende individuel voldgift. Ved at fravælge en væsentlig ændring af den bindende individuelle voldgift accepterer du at behandle enhver tvist, der opstod forud for fravalget, ved voldgift i overensstemmelse med den sidste version af den bindende individuelle voldgift, som du accepterede.
+
+{$b.	Tvister, der skal behandles ved voldgift!}
+
+Kravene til uformel tvistbilæggelse og bindende individuel voldgift i dette afsnit gælder for alle tvister mellem dig og Epic. “{!Tvist!}” betyder en tvist, et krav eller en uoverensstemmelse (undtagen de undtagelser, der er angivet nedenfor), uanset om baseret på kontraktforhold, skadevoldende handling, lov, svig, vildledning eller eventuel anden retsteori, der vedrører eventuelt licenseret produkt eller de licenserede produkter generelt, din brug af eller forsøg på at bruge et licenseret produkt, eller disse vilkår, herunder gyldigheden, retskraften eller omfanget af denne aftale om at behandle tvister ved voldgift eller enhver del af den. I tvister, der involverer mindreårige, er tvister, der hævdes af både den/de mindreårige og/eller af den/de mindreåriges forælder/forældre eller værge(r), underlagt denne aftale om at behandle tvister ved voldgift, og brugen af “dig” i dette afsnit betyder både den voksne og den/de mindreårige. 
+
+De eneste undtagelser til dette voldgiftskrav er: (i) krav, der anlægges korrekt som individuelle søgsmål i en småsagsdomstol i det amt, hvor du bor, eller i Wake County, North Carolina, (ii) forfølgelse af autoriserede håndhævelsesforanstaltninger gennem en offentlig myndighed, (iii) et søgsmål om at gennemtvinge eller opretholde en tidligere voldgiftsafgørelse, (iv) din eller Epics ret til at søge påbud ved en domstol for at bevare status quo, mens en voldgift afvikles, (v) krav om krænkelse af immaterielle rettigheder (herunder krav om piratkopiering, eller oprettelse, distribution, eller fremme af snydeanordninger), eller brug, oprettelse, distribution, eller fremme af eventuel teknologi, produkt, tjeneste, enhed, komponent, eller del deraf, der bruges til at omgå Gameplay-integritetsværktøjer og/eller krav vedrørende “social engineering”, eller den uautoriserede erhvervelse af en tredjeparts Epic Games-konto, eller overførsel eller salg af Epic Games-konti, og/eller krav relateret til social engineering, eller den uautoriserede erhvervelse af en tredjeparts Epic Games-konto, eller overførsel eller salg af Epic Games-konti, (vi) krav, der er genstand for et gruppesøgsmål, hvor du har fravalgt forligsgruppen; og (vii) retskraften af kravet om, at voldgifter skal gennemføres på individuel snarere end på gruppebasis. Hvis du er part i andre aftaler med Epic ud over denne, og en anden aftale ikke kræver behandling af tvister ved voldgift, vil en voldgiftsmand – ikke en domstol – afgøre, hvilke tvister mellem dig og Epic der er genstand for voldgift, og hvilke (hvis nogen), der kan høres i retten.
+
+Dette afsnit gælder kun for tvister og forhindrer ikke nogen af parterne i at foretage ensidige handlinger, som de er berettiget til at foretage i henhold til disse vilkår eller eventuel anden gældende lovgivning. Det betyder for eksempel, at du kan opsige din Epic Games-konto uden at følge denne tvistbilæggelsesproces. Ligeledes kan Epic suspendere eller opsige en Epic Games-konto (dvs. efter påvisning af svindel eller snydeanordninger) efter eget skøn uden at følge denne tvistbilæggelsesproces (men du kan bruge tvistbilæggelsesprocessen til at søge en omstødelse af den pågældende afgørelse). Denne frihed til ensidigt at handle i overensstemmelse med disse vilkår er vigtig, således at du ikke behøver at fortsætte med at bruge licenserede produkter, og således at Epic kan sikre en positiv og retfærdig oplevelse for spillere, der tilgår licenserede produkter ved at træffe øjeblikkelige foranstaltninger mod spillere, der er involveret i snyd, piratkopiering (salg eller handel med Epic Games-konti), eller som overtræder andres rettigheder. 
+
+{$c.	Uformel tvistbilæggelse!}
+
+Du og vi accepterer at forsøge at løse en tvist uformelt, før en voldgiftssag indgives. Du og Epic vil i god tro bestræbe jer på at forhandle om bilæggelse af enhver tvist i mindst tredive (30) dage fra den dag, du modtager, eller Epic modtager en skriftlig tvistmeddelelse fra den anden part (en “{!tvistmeddelelse!}”), der overholder vilkårene i dette underafsnit c. Dette vil blive kaldt den “{!uformelle tvistbilæggelsesperiode!}”, og denne periode kan forlænges ud over tredive (30) dage, hvis du og vi accepterer at gøre det.
+
+For at være gyldig skal en tvistmeddelelse indeholde afsenderens navn, postadresse, e-mailadresse, telefonnummer og Epic Games-kontooplysninger (skærmnavn og – hvis tilgængeligt – Epic Games-kontonummer) sammen med en beskrivelse af tvisten, og hvilken bilæggelse af tvisten, der søges, herunder en individualiseret beregning af eventuelle hævdede skadeserstatninger. Alle gældende forældelsesfrister vil blive betragtet som suspenderet fra den dag, hvor en gyldig tvistmeddelelse sendes. Du skal sende eventuel tvistmeddelelse til Epic Games, Inc., Legal Department, ATTN: NOTICE OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, USA. Epic sender eventuel tvistmeddelelse til din registrerede e-mailadresse og også til eventuel faktureringsadresse, som du har givet os. 
+
+Du eller Epic kan ikke gå videre til voldgift uden først at levere en gyldig tvistmeddelelse og deltage i uformel tvistbilæggelse i den påkrævede periode. Hvis du eller Epic går videre til voldgift uden at levere en gyldig tvistmeddelelse eller inden udgangen af den uformelle tvistbilæggelsesperiode, kan en domstol forbyde indgivelsen og beordre den part, der ikke har fulgt denne uformelle tvistbilæggelsesproces, til at godtgøre den anden part for eventuelle voldgiftsgebyrer og -omkostninger, der allerede er afholdt. Hvis du og Epic bestrider, hvorvidt en tvistmeddelelse har overholdt dette underafsnit c., vil den pågældende tvist om overholdelse blive afgjort af en domstol, ikke en voldgiftsmand, uanset bestemmelsen om ellers at uddelegere tvister over gyldigheden, retskraften eller omfanget af denne voldgiftsaftale til voldgiftsmanden.
+
+{$d.	Småsagsproces!}
+
+Du og Epic er enige om, at som et alternativ til voldgift kan tvister, der kvalificerer sig til en småsagsproces i enten det amt, hvor du bor, eller Wake County, North Carolina, kan anlægges som individuelle søgsmål ved sådanne domstole for småsager. Vi håber, at du vil prøve uformel tvistbilæggelse først, men du behøver ikke at gøre det, før du sagsøger ved domstolen for småsager, hvis dit krav opfylder jurisdiktionskravene for den pågældende domstol.
+
+{$e.	Bindende individuel voldgift!}
+
+VOLDGIFTSPROCEDURERNE I DETTE AFSNIT VIL KUN BLIVE GENNEMFØRT PÅ INDIVIDUEL BASIS. Epic giver under ingen omstændigheder samtykke til at få eventuelle tvister behandlet ved voldgift ved hjælp af gruppevoldgiftsprocedurer. Disse vilkår påvirker mellemstatslig handel, og alle anliggender, der opstår i henhold til dette afsnit, vil være materielt og proceduremæssigt underlagt Federal Arbitration Act, 9 U.S.C. § 1, ff. (“FAA”) og amerikansk føderal voldgiftslovgivning, i det videst mulige omfang tilladt ved gældende lov.
+
+Hvis uformel tvistbilæggelse ikke løser alle tvister mellem os, accepterer du og Epic, at uløste tvister vil blive afgjort ved {!bindende individuel voldgift!} udført af National Arbitration and Mediation (“{!NAM!}”), <a href='https://www.adr.org/sites/default/files/Consumer-Rules-Web.pdf'>{!<u>forbrugervoldgiftsregler (Consumer Arbitration Rules)!}</u>!}</a> være gældende, som ændret af disse vilkår. Ellers vil AAA’s kommercielle voldgiftsregler og mæglingsprocedurer (Commercial Arbitration Rules and Mediation Procedures) være gældende, som ændret af disse vilkår. 
+
+“{!Voldgift!}” betyder, at tvister, som du har med Epic, og tvister, som Epic har med dig, vil blive løst af en neutral voldgiftsmand i stedet for ved en domstol af en dommer eller et nævningeting. 
+
+“{!Individuel!}” betyder, at voldgiftsmanden kan tilkende den samme afhjælpning til dig eller Epic, som en domstol kunne, men kun for at opfylde dine eller Epics individuelle krav. I det videst mulige omfang tilladt ved gældende lov, må voldgiftsmanden ikke tilkende penge eller anden afhjælpning til fordel for nogen anden person end dig eller Epic som en del af bilæggelsen af eventuel tvist.
+
+“{!Bindende!}” betyder, at både du og Epic skal acceptere og følge voldgiftsmandens afgørelse, undtagen i det begrænsede omfang, hvor anke til en domstol er tilladt i henhold til FAA. Voldgiftsmanden har enekompetence til at træffe alle proceduremæssige og materielle afgørelser vedrørende eventuel tvist og til at tilkende eventuel afhjælpning, der ellers ville være tilgængelig i retten, herunder beføjelsen til at afgøre berettigelse af voldgiften, undtagen i det omfang at voldgiftsmandens myndighed er begrænset af FAA, disse vilkår og/eller reglerne, der gælder for voldgiften. Voldgiftsmanden har myndighed til at tilkende midlertidig, foreløbig eller permanent påbud eller afhjælpning med henblik på specifik opfyldelse af disse vilkår, men (som angivet ovenfor) voldgiftsmanden kan kun gøre det i det omfang, det er nødvendigt for at yde afhjælpning til en part i voldgift, der berettiges af det individuelle krav foran voldgiftsmanden. Voldgiftsmandens kendelse kan bekræftes og fuldbyrdes ved enhver kompetent domstol.
+
+{$f.	Voldgiftsprocedure og -sted!}
+
+Du eller Epic kan indlede voldgiftsbehandling af en tvist, der ikke løses ved uformel tvistbilæggelse, ved at indgive et krav om voldgift til voldgiftsudbyderen. Instruktioner til indgivelse af et krav om voldgift til NAM er tilgængelige på NAM’s websted eller ved at sende en e-mail til NAM på commercial@namadr.com. Instruktioner til indgivelse af et krav om voldgift til AAA – som du kun må gøre, hvis du bor i en retskreds, hvor NAM ikke er tilgængelig for voldgift - er tilgængelige på AAA-webstedet eller ved at ringe til AAA på 800-778-7879. Du skal sende en kopi af ethvert krav om voldgift til Epic Games, Inc., juridisk afdeling, ATTN: ARBITRATION OF DISPUTE, Box 254, 2474 Walnut Street, Cary, North Carolina, 27518, USA. Epic sender ethvert krav om voldgift til din registrerede e-mailadresse og til eventuel faktureringsadresse, som du har givet os.
+
+Voldgiften vil blive udført af en enkelt voldgiftsmand med erfaring i bilæggelse af lignende tvister. Du og Epic er begge enige om, at voldgiften vil blive udført på engelsk, og at – medmindre voldgiftsmanden pålægger andet af hensyn til finansielle trangskriterier – enhver oversættelse, som du måtte anmode om, vil være for egen regning. Voldgiftsmanden vil anvende dette afsnit og alle andre gældende kontraktvilkår, som en domstol ville og vil afgøre eventuelle tvister i henhold til gældende lovgivning og fakta, der kun er baseret på optegnelsen foran voldgiftsmanden.
+
+For tvister, hvor sagsøger søger mindre end 10.000 USD, vil voldgiftsmanden udelukkende afgøre sagen på grundlag af skriftlige indgivelser, uden en formel høring, medmindre voldgiftsmanden af god grund beslutter, at en formel høring er nødvendig. For sager, hvor sagsøger søger 10.000 USD eller mere, eller mindre sager, hvor voldgiftsmanden fastslår, at en høring er nødvendig, skal høringer foretages via video eller pr. telefon, medmindre voldgiftsmanden fastslår, at en personlig høring er nødvendig af god grund. Hvis en personlig høring er påkrævet, og du bor i USA, vil høringen finde sted i Wake County, North Carolina, medmindre voldgiftsmanden fastslår, at dette ville udgøre en ulempe for dig, i hvilket tilfælde den personlige høring kan udføres i din stat og dit bopælsamt. Hvis du bor uden for USA, vil stedet for enhver personlig høring blive bestemt af de gældende regler. Medmindre du og Epic aftaler andet, vil voldgiftsmandens afgørelse eller kendelse indeholde en skriftlig erklæring, der angiver afgørelsen af hvert krav og grundlaget for kendelsen, herunder voldgiftsmandens væsentlige faktuelle og juridiske fund og konklusioner. 
+
+I det videst mulige omfang tilladt ved gældende lov, kan voldgiftsmanden kun tilkende juridisk eller billighedsretlig afhjælpning, som er individuel for dig eller Epic, for at opfylde et af vores individuelle krav, som voldgiftsmanden finder, er understøttet af troværdigt, relevant bevismateriale. 
+
+En voldgiftskendelse og eventuel dom, der bekræfter den, gælder kun for den pågældende specifikke sag. De kan ikke bruges eller tilbydes som præcedens i eventuel anden sag, undtagen for at håndhæve selve kendelsen.
+
+Enhver afgørelse eller kendelse kan fuldbyrdes som en endelig dom af enhver kompetent domstol eller, hvis relevant, kan der ansøges om en sådan domstols stadfæstelse af enhver kendelse og påbud om håndhævelse.
+
+{$g.	Forbrugervoldgiftsgebyrer!}
+
+Vilkårene i dette afsnit om forbrugervoldgiftsgebyrer gælder kun for dig, hvis du er en “forbruger” i henhold til voldgiftsudbyderens regler. Hvis du ikke er en forbruger, vil voldgiftsgebyrer og -omkostninger blive delt mellem dig og Epic som angivet i voldgiftsudbyderens regler. Eventuel tvist om din status som forbruger vil blive afgjort af voldgiftsmanden.
+
+Hvis du er en forbruger, og du indleder en voldgift mod Epic, skal du betale det indgivelsesgebyr, der kræves for forbrugervoldgifter. Men hvis dit forlangende angiver, at din tvist involverer et samlet erstatningskrav på 10.000 USD eller mindre, herunder eventuelle advokatsalærer og al anden afhjælpning, som du søger, vil Epic refundere dig for det indgivelsesgebyr, som du betalte for at indlede sagen i voldgift. Selv hvis tvisten involverer et erstatningskrav på mere end 10.000 USD, hvis du gennemførte uformel tvistbilæggelse og påviser, at voldgiftsomkostninger vil være uoverkommelige i forhold til sagsomkostninger, vil Epic betale så meget af dit indgivelsesgebyr, som voldgiftsmanden finder nødvendigt for at forhindre voldgift i at være uoverkommelig (i forhold til sagsomkostninger). Med henblik på beregning af skadeserstatninger i henhold til dette afsnit, vil lignende krav fremsat af flere sagsøgere repræsenteret af samme eller koordineret juridisk repræsentation blive sammenlagt. Med andre ord, hvis 20 personer, der repræsenteres af samme eller koordineret juridisk repræsentation, ansøger om 1.000 USD hver, vil dette i forbindelse med dette afsnit blive behandlet som et enkelt erstatningskrav, der ansøger om 20.000 USD.
+
+Hvis Epic indleder en voldgift mod dig, vil Epic betale alle indgivelsesgebyrer og omkostninger, herunder de gebyrer, som du ellers ville have været pålagt at betale.
+
+Hvis du vælger at blive repræsenteret af en advokat, skal du betale dine egne advokatsalærer og -omkostninger, medmindre gældende lovgivning foreskriver andet.
+
+{$h.	Meddelelse og indgivelse.!}
+
+I det videst mulige omfang tilladt ved gældende lov, skal du eller Epic indlede voldgift af en tvist inden for to (2) år fra det tidspunkt, hvor tvisten først opstod. Hvis gældende lovgivning kræver, at du eller Epic indgiver et krav om en tvist tidligere end to år efter, at tvisten først opstod, vil den kortere frist finde anvendelse. Hvis du ikke indleder voldgift vedrørende en tvist inden for de tidsrammer, der er beskrevet ovenfor i dette afsnit, kan det ugyldiggøre tvisten (hvis tilladt ved gældende lovgivning), hvilket betyder, at du og Epic ikke har ret til at gøre tvisten gældende.
+
+{$i.	Koordinerede indgivelser!}
+
+Hvis der sendes 25 eller flere tvistmeddelelser, som indgiver lignende krav og har samme eller koordineret juridisk repræsentation, vil disse blive betragtet som “{!koordinerede sager!}” og vil blive behandlet som masseindgivelser eller flere sagsindgivelser i henhold til reglerne, hvis og i det omfang koordinerede sager søges indgivet til voldgift som angivet i disse vilkår. Epic eller du kan informere den anden part om, at Epic eller du mener, at sagerne er koordinerede sager, og tvister om, hvorvidt en sag eller sager opfylder den kontraktmæssige definition af “koordinerede sager”, afgøres af voldgiftsudbyderen som en administrativ sag (eller af en procesvoldgiftsmand, hvis voldgiftsudbyderen kræver det). {!Krav om voldgift i koordinerede sager skal kun indgives til voldgiftsudbyderen i det omfang, det er tilladt i henhold til nedenstående prøvesagsproces (“bellwether-process”).!} Epic betaler kun sin andel af voldgiftsgebyrerne for koordinerede sager. Sagsøgerne er ansvarlige for deres andel af disse gebyrer. {!Gældende forældelsesfrister vil blive suspenderet for krav, der hævdes i en koordineret sag fra det tidspunkt, hvor en gyldig tvistmeddelelse er blevet sendt for den pågældende sagsøger, indtil sagsøgerens koordinerede sag i henhold til vilkårene i disse vilkår kan indgives ved voldgift eller domstol.!}
+
+Når den juridiske repræsentation i de koordinerede sager har informeret Epic om, at alle eller stort set alle tvistmeddelelserne er blevet tilvejebragt, skal den juridiske repræsentation for parterne i god tro drøfte, hvor mange sager der skal fortsætte i voldgift som “prøvesager”. Antallet af valgte sager bør være tilstrækkeligt til at give hver side mulighed for at teste styrken af sine argumenter. Hvis parterne ikke er enige om antallet af prøvesager, skal et lige antal vælges af voldgiftsudbyderen som en administrativ sag (eller af en procesvoldgiftsmand, hvis voldgiftsudbyderen kræver det). Faktorer, som kan overvejes i denne beslutning, omfatter tvistens kompleksitet og forskelle i fakta eller gældende lovgivning blandt de forskellige sager. Når antallet af prøvesager er fastlagt, skal hver side vælge halvdelen af dette antal blandt de sagsøgere, der har tilvejebragt gyldige tvistmeddelelser, og {!kun !}de udvalgte sager må indgives til voldgiftsudbyderen. Voldgiftsudbyderen må ikke pålægge Epic gebyrer for eventuelle krav, der ikke er indgivet. Parterne anerkender, at bilæggelse af nogle koordinerede sager vil blive forsinket af denne prøvesagsproces.
+
+Medmindre parterne aftaler andet, skal hver prøvesag overdrages til en anden voldgiftsmand. 
+
+Når alle prøvesager er afsluttet (eller før, hvis sagsøgernes juridiske repræsentation og Epic bliver enige herom), skal Epic og sagsøgerne i de koordinerede sager deltage i en enkelt mægling af alle resterende koordinerede sager, hvor hver side betaler halvdelen af det relevante mæglingsgebyr. Epic og sagsøgerne skal aftale en mægler inden for tredive (30) dage efter afslutningen af den sidste prøvesag, og hvis de ikke gør det, vil voldgiftsudbyderen hurtigt udpege en mægler som en administrativ sag. Epic og sagsøgerne vil samarbejde for at sikre, at mæglingen planlægges så hurtigt som praktisk muligt, efter at mægleren er udpeget.
+
+Hvis mæglingen ikke ender med en global løsning, gælder dette voldgiftskrav ikke længere for tvister, der er genstand for resterende koordinerede sager, for hvilke den anden part har modtaget en gyldig tvistmeddelelse. Sådanne tvister kan kun indgives ved de statslige domstole i Wake County, North Carolina, eller hvis der foreligger føderal domstolsjurisdiktion, USA’s distriktsdomstol for det østlige distrikt i North Carolina, og du giver dit samtykke som en del af disse vilkår til, at sådanne sager udelukkende kan behandles ved disse domstole. Intet i dette afsnit skal fortolkes som et forbud mod, at enten du eller Epic fjerner en sag fra statslig til føderal domstol, hvis fjernelse er tilladt i henhold til gældende lovgivning. I det omfang du fremsætter de samme krav som andre personer og er repræsenteret af fælles eller koordineret juridisk repræsentation, accepterer du at give afkald på enhver indsigelse om, at sammenlægningen af alle sådanne personer er upraktisk. Hvis en tidligere tvist, der kan behandles ved voldgift, bringes for retten, kan sagsøgere, hvis krav var en del af de koordinerede sager, søge gruppesøgsmål, men i det videst mulige omfang tilladt ved gældende lovgivning kan de sagsøgende grupper kun omfatte sagsøgerne i de koordinerede sager, der har tilvejebragt gyldige tvistmeddelelser, og enhver part kan anfægte godkendelse af gruppesøgsmål på ethvert tidspunkt i retssagen og på ethvert tilgængeligt grundlag. Dette er en begrænset undtagelse til afkaldet på gruppesøgsmål, der ellers gælder for alle tvister mellem os.
+
+En domstol skal have myndighed til at håndhæve denne proces til bilæggelse af koordinerede sager og kan forbyde indgivelse af retssager eller voldgiftskrav, der ikke foretages i overensstemmelse med den.
+
+{$j.	Fortsat gyldighed efter opsigelse af vilkår!}
+
+Den tvistbilæggelsesproces, der er angivet i dette afsnit, skal bestå efter eventuel opsigelse af disse vilkår eller Epics levering af licenserede produkter til dig, uanset omstændighederne for opsigelsen.
+
+{$k.	Fremtidige ændringer af vilkår!}
+
+Selvom Epic kan revidere disse vilkår efter eget skøn, har Epic ikke ret til at ændre disse vilkår om at behandle ved voldgift eller de specifikke regler heri med hensyn til eventuel tvist, når først tvisten er opstået, hvis en sådan ændring ville gøre voldgiftsprocedurerne mindre gunstige for sagsøgeren. Hvorvidt de ændrede procedurer er mindre gunstige for sagsøgeren, er et spørgsmål, der skal afgøres af voldgiftsmanden, og hvis flere sagsøgere deltager i koordinerede sager, vil anvendeligheden af de reviderede vilkår for de koordinerede sager blive besluttet af voldgiftsudbyderen som en processag (eller af en procesvoldgiftsmand, hvis voldgiftsudbyderen kræver det).
+
+{$l.	Afkald på gruppesøgsmål!}
+
+I det videst mulige omfang tilladt ved gældende lov, for enhver sag, der ikke er underlagt kravet om at behandle tvister ved voldgift (undtagen i det begrænsede omfang, der er omtalt ovenfor for koordinerede sager), selv hvis du fravælger kravet om at behandle tvister ved voldgift, accepterer du og Epic kun at indbringe tvister mellem dig og Epic, der vedrører eventuelt licenseret produkt eller de licenserede produkter generelt, din brug af eller forsøg på at bruge et licenseret produkt, eller disse vilkår, i jeres individuelle egenskab, og må ikke:
+
+•	søge at anlægge, tilslutte jer eller deltage i eventuelt gruppesøgsmål eller repræsentativt søgsmål, kollektiv eller gruppemæssig voldgift eller eventuelt andet søgsmål, hvor en anden person eller enhed optræder i en repræsentativ egenskab (såsom søgsmål anlagt af private parter på vegne af offentligheden, såkaldte “gruppesøgsmål”), eller
+•	sammenlægge eller kombinere individuelle retssager eller tillade, at en anden gør det uden udtrykkeligt samtykke fra alle parter.
+
+{!For fastboende i Storbritannien: Du kan deltage i sådanne procedurer i det omfang tilladt ved gældende lovgivning. Hvis lovgivningen i din retskreds ikke tillader afkald på gruppesøgsmål, gælder denne bestemmelse ikke for dig.!}
+
+{$m.	Vilkårenes uafhængighed!}
+
+Hvis enhver bestemmelse i dette afsnit 17 findes ugyldig, uden retskraft eller ulovlig, accepterer du og Epic, at bestemmelsen vil blive adskilt, og resten af disse vilkår forbliver i kraft og skal fortolkes, som om den adskilte bestemmelse ikke var medtaget. Den eneste undtagelse er, at hvis forbuddet mod gruppevoldgift findes ugyldigt, uden retskraft eller ulovligt, accepterer du og Epic, at hele dette afsnit 17 vil være ugyldigt og uden retskraft, og eventuel tvist vil blive bilagt i retten med forbehold for klausuler om værneting og lovvalg, der er angivet i disse vilkår. For at undgå tvivl, hvis kravet om at behandle en tvist ved voldgift ikke håndhæves, gælder afkaldet på gruppesøgsmål stadig, medmindre den pågældende bestemmelse særskilt og uafhængigt findes uden retskraft.
+
+{$18.	Påstand om krænkelse!}
+
+I overensstemmelse med Digital Millennium Copyright Act (“{!DMCA!}”) og anden gældende lovgivning, har vi vedtaget en politik om at opsige, under passende omstændigheder, Epic Games-konti tilhørende spillere, der gentagne gange krænker andres immaterielle rettigheder. Hvis du mener, at din immaterielle ejendom eller andre rettigheder krænkes af en tredjepart i et licenseret produkt, bedes du underrette os <a href='https://www.epicgames.com/site/infringement'>{!<u>her!}</u>!}</a>. 
+
+Hvis du indsender en DMCA-meddelelse, bedes du se afsnit 512(c)(3) i DMCA for kravene til en korrekt meddelelse. Hvis du ikke overholder alle kravene i afsnit 512(c)(3) i DMCA, er din meddelelse muligvis ikke gyldig. I henhold til afsnit 512(f) i DMCA, hvis du bevidst tilvejebringer vildledende oplysninger om, at materiale eller aktivitet er krænkende, kan du være erstatningsansvarlig for skadeserstatninger, herunder omkostninger og advokatsalærer, der afholdes af os eller vores Epic Games-kontoindehavere. Hvis du er usikker på, hvorvidt det materiale eller den aktivitet, du indberetter, er krænkende, bør du muligvis kontakte en advokat, før du indgiver en meddelelse til os.
+
+{$19.	Licensgivende enhed!}
+
+Den Epic-enhed, der tildeler dig en licens til at bruge licenserede produkter, afhænger af, hvor du bor, og hvilke licenserede produkter du bruger. Licensen i afsnit 3 for følgende licenserede produkter (og deres tilknyttede Epic-tjenester) tildeles dig af den enhed, der er beskrevet nedenfor:
+
+{!Fall Guys (undtagen mobilversion til Android og Apple iOS i EU):!}
+&nbsp;&nbsp;&nbsp;&nbsp;•	Hvis du spiller på Steam-platformen, EGFG LLC, der driver virksomhed som Epic Games
+&nbsp;&nbsp;&nbsp;&nbsp;•	Hvis du spiller på en anden platform, Epic Games, Inc.
+{!Fall Guys (undtagen mobilversion til Android og Apple iOS i EU):!} EGFG LLC, der driver virksomhed som Epic Games.
+{!Fortnite (undtagen mobilversion til Apple iOS) eller UEFN:!}
+&nbsp;&nbsp;&nbsp;&nbsp;•	Hvis du bor i USA, Epic Games, Inc.
+&nbsp;&nbsp;&nbsp;&nbsp;•	Hvis du bor uden for USA, Epic Games Entertainment International GmbH
+{!Fortnite (mobilversion til Apple iOS):!}
+&nbsp;&nbsp;&nbsp;&nbsp;•	Hvis du bor i USA, Epic Games, Inc.
+&nbsp;&nbsp;&nbsp;&nbsp;•	Hvis du bor uden for USA, Epic Games Sweden, AB
+{!Postparty:!} Life on Air, Inc.
+{!Rocket League eller Rocket League Sideswipe:!} Psyonix LLC
+{!Websteder:!} Epic Games Inc.
+{!Alle andre licenserede produkter:!} Se relevante produkt- eller programspecifikke vilkår
+
+{$20.	Diverse!}
+
+{$a.	Afkald og vilkårenes uafhængighed!}
+
+Hvis Epic giver afkald på en hvilken som helst del af disse vilkår, er det et sagsspecifikt engangsafkald, medmindre vi skriftligt fortæller dig, at det ikke er tilfældet. Bare fordi vi ikke hævder en ret eller bestemmelse i disse vilkår, betyder det ikke, at vi giver afkald på den. Hvis en hvilken som helst del af disse vilkår findes ugyldig, ulovlig eller uden retskraft af en kompetent domstol eller en voldgiftsmand, vil du og Epic (undtagen som angivet i afsnit 17.m) anse den pågældende del for fjernet eller begrænset så lidt som muligt, således at resten af disse vilkår forbliver i kraft.
+
+{$b.	Overdragelse!}
+
+Du kan ikke overdrage dine rettigheder eller forpligtelser i henhold til disse vilkår. Vi kan overdrage disse vilkår, helt eller delvist, med eller uden varsel til dig. 
+
+{$c.	Advarsel om lysfølsomhed!}
+
+Nogle mennesker oplever epileptiske anfald eller blackouts, når de ser bestemte billeder eller mønstre som blinkende lys. Eksponering for sådanne billeder eller mønstre på en skærm, såsom mens du spiller videospil, kan forårsage epileptiske anfald eller blackouts hos disse personer. Disse reaktioner kan reduceres ved at:
+
+•	Spille i et veloplyst rum
+•	Undgå at spille, når du er døsig
+•	Se spillet på afstand eller på en mindre skærm 
+•	Begrænse varigheden af din spillesession. 
+
+Hvis du eller enhver, der er i nærheden, har en epileptisk lidelse, oplever anfald eller anfaldssymptomer, skal den pågældende person rådføre sig med en læge, før vedkommende eksponeres for de licenserede produkter. Hvis du eller dem i nærheden oplever enhver af følgende under brug af de licenserede produkter, skal du straks stoppe og rådføre dig med en læge, før du fortsætter: 
+
+•	Svimmelhed
+•	Ændret syn
+•	Øjen- eller muskeltrækninger
+•	Ryk eller rysten i arme eller ben
+•	Tab af bevidsthed
+•	Desorientering
+•	Forvirring
+•	Ufrivillig bevægelse
+•	Kramper
+
+{$d.	Eksportkontroller og sanktioner!}
+
+Du forstår og accepterer, at du ikke må bruge, tilgå, hente, eksportere, genudføre eller overføre de licenserede produkter, og ikke er berettiget til at indgå disse vilkår, hvis det ville overtræde amerikanske eller andre gældende eksportkontrol-, sanktions- eller importlove og -forordninger, såsom de amerikanske eksportadministrationsforordninger (Export Administration Regulations) og det amerikanske finansministeriums Office of Foreign Assets Control-forordninger.
+
+{$21.	Platformsspecifikke vilkår!}
+
+{$a.	Sony PlayStation®-slutbrugere!}
+
+Følgende yderligere vilkår og betingelser gælder med hensyn til licenserede produkter, der er tilgængelige for brug på PlayStation®-enheder, som du ejer eller kontrollerer:
+
+Bemærk, at Epic modtager Sony Entertainment Network-kontooplysninger (“{!SEN-konto!}”), herunder din e-mailadresse og dit online-id, som forklaret i Epics fortrolighedspolitik. Epic kan give sine slutbrugere tilladelse til at søge efter andre Epic Games-konti via deres SEN-konto, og andre slutbrugere kan sende dig venneanmodninger. Privatlivsindstillingerne for din SEN-konto gælder ikke for din Epic Games-konto. 
+
+Hvis du bruger vores licenserede produkter på en PlayStation®-platform, er den licens, der tildeles dig i afsnit 3 i ovenstående vilkår, begrænset til brug af vores licenserede produkter udelukkende på en PlayStation®-platform, som du ejer eller kontrollerer, eller et andet sådant system, som vores licenserede produkter leveres til af PlayStation®-netværket. Hvis du tilgår vores licenserede produkter ved hjælp af et PlayStation® 4-system (“{!PS4!}”), og vores licenserede produkter giver dig mulighed for at bruge PS4 “del”-knappen, tildeler vi dig en personlig, begrænset, ikke-overførbar, genkaldelig og ikke-eksklusiv licens til at bruge “del”-knappen til at replikere eller streame lyd- og videooutputtet fra de pågældende licenserede produkter til tredjepartstjenester, der understøttes af PS4-systemet, med forbehold for din overholdelse af disse vilkår.
+
+Det er udtrykkeligt forbudt for dig at deltage i salg eller bytte af et sådant indhold i spillet uden for platformen, såsom på eBay eller andre auktionswebsteder.
+
+{!For SIEA-slutbrugere:!} Køb og brug af varer er underlagt tjenestevilkårene og slutbrugeraftalen for PlayStation®-netværket, som er tilgængelige i PlayStation® Store. Denne onlinetjeneste er blevet underlicenseret til dig af Sony Interactive Entertainment America (“{!SIEA!}”).
+
+{!For SIEE-slutbrugere:!} Alt indhold, der købes i en butik i spillet, købes hos Sony Interactive Entertainment Network Europe Limited (“{!SIEE!}”) og er underlagt tjenestevilkårene og slutbrugeraftalen for PlayStation®-netværket, som er tilgængelig i PlayStation® Store. Se brugsrettighederne for hvert køb, da disse kan variere fra vare til vare. Medmindre andet vises, har indhold, der er tilgængeligt i enhver butik i spillet, samme aldersklassificering som spillet.
+
+{$b.	Microsoft Xbox-slutbrugere!}
+
+Følgende yderligere vilkår og betingelser gælder med hensyn til licenserede produkter, der er tilgængelige for brug på Xbox Live-enheder, som du ejer eller kontrollerer:
+
+Hverken Microsoft Corporation eller ethvert af dennes tilknyttede selskaber (samlet benævnt “{!Microsoft!}”) har nogen vedligeholdelses- eller supportforpligtelser med hensyn til licenserede produkter.
+
+Intet i disse vilkår, herunder platformsspecifikke vilkår, vil på nogen måde regulere eller ændre dit forhold til Microsoft i henhold til eventuelle aftaler indgået mellem dig og Microsoft, herunder brugsvilkårene for Xbox Live.
+
+Endvidere, i det videst mulige omfang tilladt ved gældende lov, vil Epic-parternes (andet end Microsoft) samlede erstatningsansvar, der opstår som følge af eller i forbindelse med disse vilkår eller de licenserede produkter (herunder eventuelt indhold i spillet), ikke overstige de samlede beløb, som du har betalt (hvis noget) til Epic for de licenserede produkter (herunder eventuelt indhold i spillet) i løbet af de tolv (12) måneder umiddelbart forud for de begivenheder, der giver anledning til et sådant erstatningsansvar, og Microsoft har intet erstatningsansvar over for dig som følge af eller i forbindelse med disse vilkår eller de licenserede produkter (herunder eventuelt indhold i spillet). Disse begrænsninger og udelukkelser vedrørende skadeserstatninger gælder, selvom eventuelt retsmiddel ikke formår at yde tilstrækkelig kompensation. Dette afsnit er ikke beregnet til at begrænse Epics erstatningsansvar for Epics forsætlige fejl eller grove uagtsomhed.
+
+{!For beboere i Storbritannien: Ansvarsfraskrivelserne kan muligvis ikke håndhæves over for dig.!}
+
+{$c.	Apple iOS-slutbrugere.!}
+
+Følgende yderligere vilkår og betingelser gælder med hensyn til licenserede produkter, der er tilgængelige for brug på eventuelle Apple, Inc. (“{!Apple!}”) iPhone- eller iPad-enheder, som du ejer eller kontrollerer:
+
+Du anerkender, at din aftale ikke er med Apple. Epic, ikke Apple, er eneansvarlig for de licenserede produkter og deres indhold.
+
+Din brug af de licenserede produkter er underlagt disse vilkår, herunder disse platformsspecifikke vilkår, og som tilladt af brugsreglerne angivet i App Stores vilkår og betingelser pr. den dato, hvor du henter eller første gang bruger de licenserede produkter (som du anerkender, at du har haft mulighed for at gennemgå).
+
+Du accepterer, at Apple ikke har nogen vedligeholdelses- eller supportforpligtelser med hensyn til de licenserede produkter.
+
+Du anerkender og accepterer, at Apple ikke er ansvarlig for eventuelle produktgarantier for licenserede produkter, uanset om de er udtrykkelige eller underforståede ved lov. Hvis du er juridisk berettiget til en garanti i dit land eller anden retskreds, og hvis licenserede produkter ikke overholder den påkrævede garanti, kan du underrette Apple, og Apple vil refundere købsprisen, hvis nogen. I det videst mulige omfang tilladt ved gældende lov, vil Apple ikke have nogen anden garantiforpligtelse overhovedet med hensyn til de licenserede produkter, og eventuelle andre krav, tab, forpligtelser, skadeserstatninger, omkostninger eller udgifter, der kan tilskrives eventuel manglende overholdelse af en sådan påkrævet garanti, vil udelukkende være Epics ansvar. Du forstår og accepterer dog, at Epic, i overensstemmelse med disse vilkår, har fraskrevet sig alle garantier af enhver art med hensyn til de licenserede produkter, og der er derfor ingen gældende garantier for de licenserede produkter, undtagen dem, der kræves ved lov.
+
+Epic, ikke Apple, er ansvarlig for at behandle dine eller eventuelle tredjeparters krav vedrørende de licenserede produkter eller din besiddelse og/eller brug af de licenserede produkter, herunder: (i) produktansvarskrav, (ii) ethvert krav om, at de licenserede produkter ikke overholder et gældende lovkrav eller forskriftsmæssigt krav, og (iii) krav, der opstår i henhold til forbrugerbeskyttelses- eller lignende lovgivning. I tilfælde af en påstand om, at de licenserede produkter krænker en tredjeparts immaterielle rettigheder, vil Epic, ikke Apple, være eneansvarlig for undersøgelsen, forsvaret, forliget og dechargen af enhver sådan påstand om krænkelse af immateriel ejendom (hvis og i det omfang det kræves i henhold til disse vilkår).
+
+Du accepterer, at disse vilkår ikke tildeler nogen rettigheder eller retsmidler til nogen anden person end parterne i disse vilkår, undtagen som udtrykkeligt angivet i disse vilkår eller gældende lovgivning. Uanset ovenstående er Apple og Apples datterselskaber begunstigede tredjeparter i disse vilkår, og ved din accept af disse vilkår har Apple ret (og vil blive anset for at have accepteret retten) til at håndhæve disse vilkår mod dig som begunstiget tredjepart deraf.
+
+Eventuelle slutbrugerspørgsmål, klager eller krav med hensyn til de licenserede produkter skal indsendes til <a href='https://www.epicgames.com/help'>{!<u>Epic Games Support!}</u>!}</a>.
+
+{!For fastboende i Storbritannien: Ansvarsfraskrivelserne kan muligvis ikke håndhæves over for dig.!}
+
+{$d.	Samsung GALAXY-slutbrugere!}
+
+Følgende yderligere vilkår og betingelser gælder med hensyn til licenserede produkter, der er tilgængelige for brug på Samsung GALAXY-enheder, som du ejer eller kontrollerer:
+
+De licenserede produkter kan give dig mulighed for at foretage betalinger via Samsungs API’er til køb i appen. I tilfælde af, at du foretager en betaling ved hjælp af Samsungs køb i appen, skal vilkårene og betingelserne for Samsung GALAXY-apps, som du har indgået med Samsung Electronics Co., Ltd. (eller dets tilknyttede selskaber) vedrørende brugen af Samsungs køb i appen og dets tilsvarende vilkår, gælde for betalingen og eventuelle refusioner relateret til en sådan betaling.
+
+{$TILLÆG 1 - UDVIKLERSKABT INDHOLD!}
+
+1.1 Unreal Editor for Fortnite (“UEFN”) er et skabelsesværktøj, der gør det muligt for udviklere at skabe, udvikle, ændre eller bidrage med indhold i Fortnite, og at uploade, udgive eller på anden måde gøre et sådant indhold tilgængeligt for andre brugere af licenserede produkter. Inden UEFN bruges, skal udviklere acceptere denne aftale og de supplerende UEFN-vilkår, som angiver, at en person, der bruger UEFN til at skabe UEFN-indhold, er en "udvikler". Alt indhold i spillet, der skabes, tilbydes, vises, stilles til rådighed eller arrangeres af udviklere, er "udviklerskabt indhold", som ikke har nogen tilsvarende værdi i den virkelige verden, kun tilbydes til underholdningsformål og ikke etablerer eventuelle eksigible ejendomsrettigheder, undtagen for udviklere som beskrevet i det gældende afsnit i de supplerende UEFN-vilkår. Udviklerskabte øer og optjente digitale varer i dem er eksempler på udviklerskabt indhold. Kreditter (som defineret i afsnit 10 i Epic Games’ tjenestevilkår) kan indløses til licenser til digitale varer eller andet udviklerskabt indhold (“udviklerskabt indhold, der kan indløses”, en type udviklerskabt indhold). 
+
+Når du erhverver licenser til udviklerskabt indhold, der kan indløses, er de begrænset til den oplevelse, hvori de erhverves, medmindre andet er beskrevet.
+
+1.2 Når du erhverver retten til at bruge udviklerskabt indhold, der kan indløses med kreditter i medfør af en licens fra udvikleren, er transaktionen og kontraktforholdet mellem dig og udvikleren, ikke med Epic. Epic formidler kun adgang til det udviklerskabte indhold, der kan indløses. 
+
+1.2.1: Uanset afsnit 1.2 ovenfor eksisterer der ingen kontrakt om salg eller licens mellem dig og udvikleren, for så vidt angår det udviklerskabte indhold, der kan indløses, hvis du erhverver udviklerskabt indhold, der kan indløses med kreditter og befinder dig i Storbritannien, Den Europæiske Union eller Det Europæiske Økonomiske Samarbejdsområde. Kontraktforholdet er mellem dig og Epic. Udvikleren licenserer udviklerskabt indhold, der kan indløses med kreditter til Epic, som Epic underlicenserer til dig. Medmindre andet udtrykkeligt er angivet, er den underlicens, som Epic tildeler dig, på de samme vilkår som licensen til at bruge licenserede produkter som angivet i afsnit 3 i Epic Games’ tjenestevilkår (som gældende i Storbritannien, EU og Det Europæiske Økonomiske Samarbejdsområde). Uden at begrænse afsnit 15(b) i Epics tjenestevilkår er Epic erstatningsansvarlig for gyldigheden af den underlicens, som Epic tildeler dig vedrørende din evne til at bruge udviklerskabt indhold, der kan indløses med kreditter på samme måde og i samme omfang, som Epic er erstatningsansvarlig for gyldigheden af den licens, som Epic tildeler dig vedrørende din brug af licenserede produkter. Du skylder ikke nogen betaling til udvikleren for at erhverve eller bruge udviklerskabt indhold, der kan indløses med kreditter.
+
+1.2.2: Uanset afsnit 1.2 ovenfor, er eventuelle rettigheder, som du erhverver til at bruge udviklerskabt indhold, der kan indløses med kreditter udstedt i Japan, samt transaktioner og kontraktforhold for at erhverve sådanne rettigheder, mellem dig og Epic. Du køber ikke eventuelt udviklerskabt indhold eller udviklerskabt indhold, der kan indløses med kreditter udstedt i Japan fra udvikleren eller eventuel anden tredjepart. Som betingelser for at få Epics tjenester leveret som beskrevet ovenfor, kan du ud over disse vilkår blive bedt om at acceptere og overholde yderligere vilkår og betingelser tilvejebragt af udvikleren, der skabte, udviklede og/eller gjorde det udviklerskabte indhold tilgængeligt. Disse yderligere vilkår og betingelser aftales og indgås mellem Epic og dig, og medmindre andet er angivet, oprettes der ikke eventuelt kontraktforhold mellem dig og eventuel udvikler.
+
+1.3 Med forbehold for afsnit 1.2.1 og 1.2.2 ovenfor og lokale gældende love er udvikleren eneansvarlig for tilbuddet, indholdet og eventuelle garantier relateret til det udviklerskabte indhold samt for eventuelle krav, som du måtte have relateret til det udviklerskabte indhold. Hvis du har et problem med eventuelt udviklerskabt indhold, kan Epic formidle kommunikation mellem dig og udvikleren og foreslå en ikke-bindende løsning. 
+
+1.4 For at undgå tvivl skal enhver tvist vedrørende udviklerskabt indhold løses som en "tvist", som denne betegnelse er defineret i afsnit 17(b) i Epic Games' tjenestevilkår, og skal løses i henhold til procedurerne angivet i afsnit 16 og 17 i de pågældende vilkår. Udvikleren af det pågældende udviklerskabte indhold er en tilsigtet tredjepartsbegunstiget i vilkårene og i stand til at gennemtvinge behandling af en tvist ved voldgift i samme omfang som Epic.
