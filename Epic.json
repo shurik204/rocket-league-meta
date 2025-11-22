@@ -3004,7 +3004,8 @@
           "OnlinePlatform_Epic"
         ]
       }
-    ]
+    ],
+    "bAllowCrossplayTextChat": true
   },
   "ProductsConfig": {
     "Class": "ProductsConfig_TA",
@@ -3136,16 +3137,6 @@
       1
     ]
   },
-  "SpecialEventsConfig": {
-    "Class": "SpecialEventConfig_TA",
-    "StartTime": 1762012800,
-    "EndTime": 1763427600,
-    "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Simpsons/RL_U56.1_LTE_Simpsons_EventScreen_afu9e.jpg",
-    "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Simpsons/RL_U56.1_LTE_Simpsons_EventScreen_afyug.png",
-    "EventFolderName": "Event.Simpsons2025",
-    "Subtitle": "Rocket League x The Simpsons",
-    "Description": "Complete Challenges and unlock rewards straight from Springfield. Keep your eyes on the ball with the Blinky Topper, hide after a loss with the Homer’s Hedges Player Banner, get to work with the Waste Wheels, and more! There’s also an unlimited Challenge awarding 20,000 XP each time."
-  },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
     "Reasons": [
@@ -3178,6 +3169,11 @@
   "ItemShopNotificationsConfig": {
     "Class": "ItemShopNotificationsConfig_TA",
     "bItemShopNotificationsEnabled": "true"
+  },
+  "EulaConfig": {
+    "Class": "EulaConfig_TA",
+    "bRequiresAcceptance": "true",
+    "bShowToS": "true"
   },
   "WordFilterConfig": {
     "Class": "WordFilterConfig_X",
@@ -5782,6 +5778,14 @@
       {
         "Name": "Rogue_NightAfeaterNight",
         "ExternalUrl": "https://open.spotify.com/track/3RcdfqhNwDvwgOPE6c0TRc"
+      },
+      {
+        "Name": "Ezekiel_Null_RLedit",
+        "ExternalUrl": "https://open.spotify.com/album/72KyxU3IoJh0SMeowp0Xr9"
+      },
+      {
+        "Name": "Ezekiel_Null",
+        "ExternalUrl": "https://open.spotify.com/album/72KyxU3IoJh0SMeowp0Xr9"
       }
     ]
   },
@@ -6637,11 +6641,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season20.Rogue_NightAfeaterNight_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Rogue_NightAfeaterNight'"
+          "Track": "AkSoundCue'MX_OST_Season20.Ezekiel_Null_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Ezekiel_Null'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season20.Rogue_NightAfeaterNight'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season20.Ezekiel_Null'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -6679,6 +6683,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season20.Ezekiel_lostAndfound'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Ezekiel_lostAndfound'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season20.Ezekiel_Null'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Ezekiel_Null'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Season20.Muzz_LostForever'",
@@ -8490,18 +8498,6 @@
         }
       ]
     }
-  },
-  "SFXConfig": {
-    "Class": "SFXConfig_TA",
-    "EventSettings": [
-      {
-        "SoundName": "CrossbarHitSpecial",
-        "StartTime": 1762012800,
-        "EndTime": 1763427600,
-        "Frequency": 0.05,
-        "MinValue": 0
-      }
-    ]
   },
   "EOSGameClipsConfig": {
     "Class": "EOSGameClipsConfig_TA",
@@ -16901,6 +16897,10 @@
         "Content": "bFPefQ4Fl/BEz5vYRwk44ha1fEYM9HcKVjvZOH7hZ14="
       },
       {
+        "KeyName": "PrimeUpdate56_1_0380EA1D644D01067143696D98E4FFF5",
+        "Content": "5ZSFh2cEL26RmBdai/NsUJ9JuSxc/w/iJQ/TET8CR7w="
+      },
+      {
         "KeyName": "PrimeUpdate56_1_581078461AD3FF32419AF3787B2EF131",
         "Content": "hAoPX6dCgx+2niAUYmswPgpEepZETpAP1KcY91MGkKc="
       },
@@ -16915,6 +16915,14 @@
       {
         "KeyName": "PrimeUpdate56_1_F8309D87AC624C7FABCBD26BF092B096",
         "Content": "iG/Jl12TVB4Wv08VxKzWHJiLRW9pvuVmWHbd3eyOe4g="
+      },
+      {
+        "KeyName": "PrimeUpdate56_1_D985EB29501130EF0258BAEC9F8753A4",
+        "Content": "bRjDzVylQefMq4O6fK6VUySAn+RP/nymnyO9E943HPg="
+      },
+      {
+        "KeyName": "PrimeUpdate56_1_70757702C36103D31C78EBE98D89F80B",
+        "Content": "Ar0bKvb1GI95rCA9LL4eJiyTBynG97maFdLDdvOF2to="
       },
       {
         "KeyName": "PrimeUpdate56_1_065D29EFF6BC77CA28090627875EEAC3",
@@ -19627,6 +19635,48 @@
       },
       {
         "Package": "Products",
+        "Section": "body_garage",
+        "Key": "Label",
+        "Value": "Ferrari F40"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_garage",
+        "Key": "Label",
+        "Value": "Ferrari F40"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_garage01",
+        "Key": "Label",
+        "Value": "Rosso Corsa"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_garage02",
+        "Key": "Label",
+        "Value": "GT Solar"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_garage03",
+        "Key": "Label",
+        "Value": "GT Go"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_garage04",
+        "Key": "Label",
+        "Value": "GT Prototype"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_garage01",
+        "Key": "Label",
+        "Value": "Ferrari F40"
+      },
+      {
+        "Package": "Products",
         "Section": "body_sprinkle",
         "Key": "Label",
         "Value": "Homer's Car"
@@ -19727,9 +19777,39 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
+  "BlogConfig": {
+    "Class": "BlogConfig_X",
+    "Entries": [
+      {
+        "Title": "Ferrari F40",
+        "Description": "Take the reins of a racing legacy as the Ferrari F40 roars into the Shop!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_38-10%20Ferrari%20F40.Newspanel_Key_1920x1080.jpg",
+        "StartTime": "2025-11-21 00:00:00",
+        "EndTime": "2025-11-22 17:00:00",
+        "ShopID": 414
+      }
+    ],
+    "MotD": "<br>"
+  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_RLCS_2026_Open_1.png",
+        "Title": "RLCS 2026 Open 1",
+        "Description": "RLCS 2026 Open 1 - Broadcast Day 2",
+        "UTCStartTime": "2025-11-23 15:30:00",
+        "UTCEndTime": "2025-11-23 21:30:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_RLCS_2026_Open_1.png",
+        "Title": "RLCS 2026 Open 1",
+        "Description": "RLCS 2026 Open 1 - Broadcast Day 1",
+        "UTCStartTime": "2025-11-22 17:30:00",
+        "UTCEndTime": "2025-11-22 23:30:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
       {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_CRLFall24.png",
         "Title": "CRL Fall 2025",
