@@ -19782,6 +19782,18 @@
         "Section": "wheel_sprinklelte02",
         "Key": "Label",
         "Value": "Stonecutter White Walls"
+      },
+      {
+        "Package": "UIText",
+        "Section": "TextModeration",
+        "Key": "ReportingNotAvailable",
+        "Value": "Reporting not available"
+      },
+      {
+        "Package": "UIText",
+        "Section": "TextModeration",
+        "Key": "TextChatEmptyMessage",
+        "Value": "To report messages, ensure that text reporting is set to Always On in your settings and that there are reportable messages in your text chat."
       }
     ]
   },
