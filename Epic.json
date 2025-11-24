@@ -5786,6 +5786,10 @@
       {
         "Name": "Ezekiel_Null",
         "ExternalUrl": "https://open.spotify.com/album/72KyxU3IoJh0SMeowp0Xr9"
+      },
+      {
+        "Name": "PuppetAndForia_BiggerPicture",
+        "ExternalUrl": "https://open.spotify.com/track/7cpYfLm6LqwNUFyqmCft7H"
       }
     ]
   },
@@ -6641,11 +6645,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season20.Ezekiel_Null_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Ezekiel_Null'"
+          "Track": "AkSoundCue'MX_OST_Season20.PuppetAndForia_BiggerPicture'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.PuppetAndForia_BiggerPicture'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season20.Ezekiel_Null'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season20.PuppetAndForia_BiggerPicture'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -6691,6 +6695,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season20.Muzz_LostForever'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Muzz_LostForever'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season20.PuppetAndForia_BiggerPicture'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.PuppetAndForia_BiggerPicture'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Season20.Rogue_NightAfeaterNight'",
@@ -16931,6 +16939,10 @@
       {
         "KeyName": "PrimeUpdate56_1_8640AA8D5CAAA240E3D6300C10967E64",
         "Content": "KNzDRvtwZ23tE/dVv1sT2lR/x4gy760ojUk+YgMLtAA="
+      },
+      {
+        "KeyName": "PrimeUpdate56_1_844E6B4885D1F0C04144A3E7705F37C1",
+        "Content": "X5p5GAnWgMPmXNhJLKL29WSPfpHGWIeX8m6NUsRGZds="
       },
       {
         "KeyName": "PrimeUpdate56_1_A098760F160F2A4CB8C32E1F2D93F380",
