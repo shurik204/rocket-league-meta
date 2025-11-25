@@ -19805,15 +19805,15 @@
     "Class": "BlogConfig_X",
     "Entries": [
       {
-        "Title": "Ferrari F40",
-        "Description": "Take the reins of a racing legacy as the Ferrari F40 roars into the Shop!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_38-10%20Ferrari%20F40.Newspanel_Key_1920x1080.jpg",
-        "StartTime": "2025-11-22 17:00:00",
-        "EndTime": "2025-11-25 17:00:00",
-        "ShopID": 414
+        "Title": "RLCS Boston Major Tickets Available!",
+        "Description": "The road to the Rocket League World Championship starts in Boston! Scan the QR and get your Tickets now for Major 1!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RLCS_Aftermarket_Newspanel_Boston_Major.png",
+        "StartTime": "2025-11-25 17:00:00",
+        "EndTime": "2025-11-26 17:00:00",
+        "LinkType": "LinkType_None"
       }
     ],
-    "MotD": "<br>"
+    "MotD": "On y va!"
   },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
