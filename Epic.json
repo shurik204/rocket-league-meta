@@ -19829,27 +19829,27 @@
     "Class": "BlogConfig_X",
     "Entries": [
       {
-        "Title": "Season Rush",
-        "Description": "Complete challenges to level up during Season Rush and rank up to unlock Competitive Rewards including up to 8 Boosts!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S20_3panel_Key_SeasonRush_672x840.png",
-        "StartTime": "2025-11-26 17:00:00",
-        "EndTime": "2025-11-27 17:00:00",
+        "Title": "Holiday Bundle",
+        "Description": "The Holiday Bundle is serving up a Gold Octane, Titanium White Dominus, Dueling Dragons: Anodized Goal Explosion and more!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_Holiday_Bundle_3panel_Key_672x840.png",
+        "StartTime": "2025-11-27 17:00:00",
+        "EndTime": "2025-11-28 17:00:00",
+        "ShopID": 419
+      },
+      {
+        "Title": "The RLCS is Back!",
+        "Description": "Your shot at $6.1 million starts right now. Scan the QR and sign up to compete in the RLCS arena.",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RLCS_Aftermarket_Tripanel_TrackingQR.png",
+        "StartTime": "2025-11-27 17:00:01",
+        "EndTime": "2025-11-28 17:00:00",
         "LinkType": "LinkType_None"
       },
       {
-        "Title": "Ferrari F40",
-        "Description": "Take the reins of a racing legacy as the Ferrari F40 roars into the Shop!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_38-10%20Ferrari%20F40.3panel_Key_672x840%20(1).png",
-        "StartTime": "2025-11-26 17:00:01",
-        "EndTime": "2025-11-27 17:00:00",
-        "ShopID": 414
-      },
-      {
-        "Title": "RLCS Boston Major Tickets Available!",
-        "Description": "The road to the Rocket League World Championship starts in Boston! Scan the QR and get your Tickets now for Major 1!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RLCS_Aftermarket_Tripanel_Boston_Major.png",
-        "StartTime": "2025-11-26 17:00:02",
-        "EndTime": "2025-11-27 17:00:00",
+        "Title": "Season Rush",
+        "Description": "Complete challenges to level up during Season Rush and rank up to unlock Competitive Rewards including up to 8 Boosts!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S20_3panel_Key_SeasonRush_672x840.png",
+        "StartTime": "2025-11-27 17:00:02",
+        "EndTime": "2025-11-28 17:00:00",
         "LinkType": "LinkType_None"
       }
     ],
