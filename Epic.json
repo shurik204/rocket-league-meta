@@ -19824,6 +19824,36 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
+  "BlogConfig": {
+    "Class": "BlogConfig_X",
+    "Entries": [
+      {
+        "Title": "Holiday Bundle",
+        "Description": "The Holiday Bundle is serving up a Gold Octane, Titanium White Dominus, Dueling Dragons: Anodized Goal Explosion and more!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_Holiday_Bundle_3panel_Key_672x840.png",
+        "StartTime": "2025-11-28 17:00:00",
+        "EndTime": "2025-12-03 17:00:00",
+        "ShopID": 419
+      },
+      {
+        "Title": "The RLCS is Back!",
+        "Description": "Your shot at $6.1 million starts right now. Scan the QR and sign up to compete in the RLCS arena.",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RLCS_Aftermarket_Tripanel_TrackingQR.png",
+        "StartTime": "2025-11-28 17:00:01",
+        "EndTime": "2025-12-03 17:00:00",
+        "LinkType": "LinkType_None"
+      },
+      {
+        "Title": "Garage Grab",
+        "Description": "Garage Grab is live with rotating Shop drops! Discover new item types every 48 hours and fill your garage with fresh gear.",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_Garage_Grab_3panel_Hero_672x840.png",
+        "StartTime": "2025-11-28 17:00:02",
+        "EndTime": "2025-12-03 17:00:00",
+        "ShopID": 420
+      }
+    ],
+    "MotD": "On y va!"
+  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
