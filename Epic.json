@@ -3109,7 +3109,7 @@
     "bLevToEuro": true,
     "bLevBeforeEuro": true,
     "bEnablePlatformStartPurchase": "true",
-    "bEnableCPCCShowRoWModal": false,
+    "bEnableCPCCShowRoWModal": true,
     "bEnableCPCCShowRealPrice": true,
     "bEnableExactAmountPackLogic": true,
     "VCFactor": 50,
