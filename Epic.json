@@ -5813,6 +5813,14 @@
       {
         "Name": "PuppetAndForia_BiggerPicture",
         "ExternalUrl": "https://open.spotify.com/track/7cpYfLm6LqwNUFyqmCft7H"
+      },
+      {
+        "Name": "Televisor_Dangerous_featDanykaNadeau_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/31I7IqAX8zBTqcKAOcQvuo"
+      },
+      {
+        "Name": "Televisor_Dangerous_featDanykaNadeau",
+        "ExternalUrl": "https://open.spotify.com/track/31I7IqAX8zBTqcKAOcQvuo"
       }
     ]
   },
@@ -6668,11 +6676,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season20.PuppetAndForia_BiggerPicture'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.PuppetAndForia_BiggerPicture'"
+          "Track": "AkSoundCue'MX_OST_Season20.Televisor_Dangerous_featDanykaNadeau_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Dangerous_featDanykaNadeau'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season20.PuppetAndForia_BiggerPicture'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season20.Televisor_Dangerous_featDanykaNadeau'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -6726,6 +6734,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season20.Rogue_NightAfeaterNight'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Rogue_NightAfeaterNight'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season20.Televisor_Dangerous_featDanykaNadeau'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Dangerous_featDanykaNadeau'"
             }
           ]
         },
@@ -16974,6 +16986,14 @@
       {
         "KeyName": "PrimeUpdate56_1_F0B1115B1657E08474CCEC5F42FDDC1E",
         "Content": "1mo1mFrT9Rpp79Ut325lp2nxkj4Z8irucRT+FVjoVy0="
+      },
+      {
+        "KeyName": "PrimeUpdate56_1_987C7B7935F7579D4DC0EA99743F8D1C",
+        "Content": "Q/dQ2Sd3WEsK8H238uzMfxpKv9EdxcL229dih5I5l6U="
+      },
+      {
+        "KeyName": "PrimeUpdate56_1_CB733CC55DA67D6AFE853A68DC706CA4",
+        "Content": "KhDY00ZSahfiELHYwsNVqdH0GNyvUvLCcUYxG9KeXsM="
       }
     ]
   },
