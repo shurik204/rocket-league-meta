@@ -3139,11 +3139,11 @@
   },
   "SpecialEventsConfig": {
     "Class": "SpecialEventConfig_TA",
-    "StartTime": 1764713966,
-    "EndTime": 1764973166,
+    "StartTime": 1764176400,
+    "EndTime": 1765378800,
     "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen.jpg",
     "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen_logo.png",
-    "EventFolderName": "Event.FrostyFest2025",
+    "EventFolderName": "Event.NovemberSeasonRush(S20)",
     "Subtitle": "Boost Your Rocket Pass",
     "Description": "Season Rush offers a chance to climb the Rocket Pass Tiers at supersonic speed! Complete Season Rush Challenges and level up while you race your way to the Pro Tiers."
   },
