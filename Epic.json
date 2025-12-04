@@ -3139,11 +3139,11 @@
   },
   "SpecialEventsConfig": {
     "Class": "SpecialEventConfig_TA",
-    "StartTime": 1764176400,
-    "EndTime": 1765378800,
+    "StartTime": 1764713966,
+    "EndTime": 1764973166,
     "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen.jpg",
     "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen_logo.png",
-    "EventFolderName": "Event.NovemberSeasonRush(S20)",
+    "EventFolderName": "Event.FrostyFest2025",
     "Subtitle": "Boost Your Rocket Pass",
     "Description": "Season Rush offers a chance to climb the Rocket Pass Tiers at supersonic speed! Complete Season Rush Challenges and level up while you race your way to the Pro Tiers."
   },
@@ -19844,23 +19844,33 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
-  "BlogConfig": {
-    "Class": "BlogConfig_X",
-    "Entries": [
-      {
-        "Title": "From Lyon",
-        "Description": "To the City of Light",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_Newspanel_CG_Teaser2_1920x1080.jpg",
-        "StartTime": "2025-12-03 20:00:00",
-        "EndTime": "2025-12-04 17:00:00",
-        "LinkType": "LinkType_None"
-      }
-    ],
-    "MotD": "On y va!"
-  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_KickoffWeekend.png",
+        "Title": "RLCS 2026 Kick-off Weekend",
+        "Description": "RLCS 2026 Kick-off Weekend - Broadcast Day 3",
+        "UTCStartTime": "2025-12-07 14:30:00",
+        "UTCEndTime": "2025-12-08 00:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_KickoffWeekend.png",
+        "Title": "RLCS 2026 Kick-off Weekend",
+        "Description": "RLCS 2026 Kick-off Weekend - Broadcast Day 2",
+        "UTCStartTime": "2025-12-06 15:30:00",
+        "UTCEndTime": "2025-12-07 00:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_KickoffWeekend.png",
+        "Title": "RLCS 2026 Kick-off Weekend",
+        "Description": "RLCS 2026 Kick-off Weekend - Broadcast Day 1",
+        "UTCStartTime": "2025-12-05 15:00:00",
+        "UTCEndTime": "2025-12-05 23:30:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
       {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_RLCS_2026_Open_1.png",
         "Title": "RLCS 2026 Open 1",
