@@ -19848,36 +19848,6 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
-  "BlogConfig": {
-    "Class": "BlogConfig_X",
-    "Entries": [
-      {
-        "Title": "Season 21: Pursuit in Paris!",
-        "Description": "Season 21 lights up on December 10! Cruise into the new Parc de Paris Arena and heat things up in Ranked Heatseeker!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_3panel_Key_672x840%20(1).png",
-        "StartTime": "2025-12-05 16:00:00",
-        "EndTime": "2025-12-07 14:30:00",
-        "LinkType": "LinkType_None"
-      },
-      {
-        "Title": "RLCS Kick-Off Weekend",
-        "Description": "Tune in from Dec 5 - 7 to watch the best NA and EU teams vie for a spot at the Boston Major and an extra spot for their region!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RLCS_Aftermarket_Tripanel_Kick-Off_Weekend.png",
-        "StartTime": "2025-12-05 16:00:01",
-        "EndTime": "2025-12-07 14:30:00",
-        "LinkType": "LinkType_None"
-      },
-      {
-        "Title": "Drop Rush",
-        "Description": "Earn rewards for watching Rocket League streams on Twitch, TikTok, and the RLCS Kick-Off Weekend broadcast!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_DropRush_3panel_Key_672x840.png",
-        "StartTime": "2025-12-05 16:00:02",
-        "EndTime": "2025-12-07 14:30:00",
-        "LinkType": "LinkType_None"
-      }
-    ],
-    "MotD": "<br>"
-  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
