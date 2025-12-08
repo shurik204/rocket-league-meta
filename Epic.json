@@ -19848,6 +19848,20 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
+  "BlogConfig": {
+    "Class": "BlogConfig_X",
+    "Entries": [
+      {
+        "Title": "Season 21: Pursuit in Paris!",
+        "Description": "Season 21 lights up on December 10! Cruise into the new Parc de Paris Arena and heat things up in Ranked Heatseeker!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_Newspanel_Key_1920x1080.jpg",
+        "StartTime": "2025-12-08 00:30:00",
+        "EndTime": "2025-12-10 17:00:00",
+        "LinkType": "LinkType_None"
+      }
+    ],
+    "MotD": "<br>"
+  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
