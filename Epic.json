@@ -3139,7 +3139,7 @@
   },
   "RankedConfig": {
     "Class": "RankedConfig_X",
-    "SeasonEndTimeSeconds": 1765378800
+    "SeasonEndTimeSeconds": 1765382400
   },
   "SpecialEventsConfig": {
     "Class": "SpecialEventConfig_TA",
@@ -5743,14 +5743,6 @@
         "ExternalUrl": "https://open.spotify.com/track/39B9ZwF6pF0SA50QZewPon"
       },
       {
-        "Name": "Puppet_Dynamo_RLedit",
-        "ExternalUrl": "https://open.spotify.com/track/761FbINDmXnNgXCpPe50NQ"
-      },
-      {
-        "Name": "Puppet_Dynamo",
-        "ExternalUrl": "https://open.spotify.com/track/761FbINDmXnNgXCpPe50NQ"
-      },
-      {
         "Name": "Bishu_THIRDPERSON_RLedit",
         "ExternalUrl": "https://open.spotify.com/track/2YtX4f39kOf0nD3v69uSUi"
       },
@@ -5817,14 +5809,6 @@
       {
         "Name": "PuppetAndForia_BiggerPicture",
         "ExternalUrl": "https://open.spotify.com/track/7cpYfLm6LqwNUFyqmCft7H"
-      },
-      {
-        "Name": "Televisor_Dangerous_featDanykaNadeau_RLedit",
-        "ExternalUrl": "https://open.spotify.com/track/31I7IqAX8zBTqcKAOcQvuo"
-      },
-      {
-        "Name": "Televisor_Dangerous_featDanykaNadeau",
-        "ExternalUrl": "https://open.spotify.com/track/31I7IqAX8zBTqcKAOcQvuo"
       }
     ]
   },
@@ -13671,7 +13655,7 @@
     "Class": "RocketPassConfig_TA",
     "RocketPassID": 26,
     "StartTime": 1758124800,
-    "EndTime": 1765378800
+    "EndTime": 1765382400
   },
   "UIConfig": {
     "Class": "UIConfig_TA",
