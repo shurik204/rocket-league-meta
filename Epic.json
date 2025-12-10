@@ -1413,6 +1413,28 @@
       1800
     ]
   },
+  "RankedHeatseekerDoubles": {
+    "Class": "PlaylistSettings_TA",
+    "PlaylistID": 63,
+    "PlayerCount": 4,
+    "bRanked": "true",
+    "bExtraMode": "true",
+    "bCheckRankedMatchReservationID": "true",
+    "bApplyQuitPenalty": "true",
+    "MapSetName": "SoccarStandard",
+    "bAllowClubs": "true",
+    "ServerCommand": "Game=TAGame.GameInfo_GodBall_TA?playtest?listen?Public",
+    "bKickOnMigrate": "true",
+    "Title": "Heatseeker",
+    "Description": "Heatseeker is now 2v2! Touching the ball automatically sends it in the direction of the opposing team’s goal. It fires back toward your goal if it hits the backboard, so be careful! The ball gains speed with each touch. Scoring 7 goals wins! ",
+    "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_LTM.playlist_ltm_heatseeker",
+    "bAllowStayAsParty": "true",
+    "PopulationBuckets": [
+      1,
+      3000,
+      9000
+    ]
+  },
   "HauntedBall": {
     "Class": "PlaylistSettings_TA",
     "PlaylistID": 31,
@@ -1639,7 +1661,7 @@
     "bAllowBotFills": "false",
     "MapSetName": "SoccarStandard",
     "ServerCommand": "Game=TAGame.GameInfo_GodBall_TA?playtest?listen?Public?GameTags=BotsNone",
-    "Title": "Heatseeker Doubles",
+    "Title": "Heatseeker",
     "Description": "Heatseeker is now 2v2! Touching the ball automatically sends it in the direction of the opposing team’s goal. It fires back toward your goal if it hits the backboard, so be careful! The ball gains speed with each touch. Scoring 7 goals wins! ",
     "PlaylistImageURL": "https://rl-cdn.psyonix.com/Playlists/Images/rl_event_mode_bg_heatseeker.jpg",
     "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_LTM.playlist_ltm_heatseeker",
@@ -13514,6 +13536,56 @@
       {
         "ID": "SixSeven",
         "Text": "6 7"
+      },
+      {
+        "ID": "S34_Grand_Champion",
+        "Category": "SZN_1_Red",
+        "Text": "S20 Grand Champion"
+      },
+      {
+        "ID": "S34_Grand_Champion_Rumble",
+        "Category": "SZN_1_Red",
+        "Text": "S20 RNG Champ"
+      },
+      {
+        "ID": "S34_Grand_Champion_Dropshot",
+        "Category": "SZN_1_Red",
+        "Text": "S20 Floor Destroyer"
+      },
+      {
+        "ID": "S34_Grand_Champion_Hoops",
+        "Category": "SZN_1_Red",
+        "Text": "S20 Dunk Master"
+      },
+      {
+        "ID": "S34_Grand_Champion_Quads",
+        "Category": "SZN_1_Red",
+        "Text": "S20 QUAD SQUAD"
+      },
+      {
+        "ID": "S34_SuperSonic_Legend",
+        "Category": "SZN_1_White",
+        "Text": "S20 Supersonic Legend"
+      },
+      {
+        "ID": "S34_SSL_Rumble",
+        "Category": "SZN_1_White",
+        "Text": "S20 RNGenius"
+      },
+      {
+        "ID": "S34_SSL_Dropshot",
+        "Category": "SZN_1_White",
+        "Text": "S20 Tile Annihilator"
+      },
+      {
+        "ID": "S34_SSL_Hoops",
+        "Category": "SZN_1_White",
+        "Text": "S20 Legendary Baller"
+      },
+      {
+        "ID": "S34_SSL_Quads",
+        "Category": "SZN_1_White",
+        "Text": "S20 TOUR DE FOURCE"
       }
     ],
     "ClubTitles": [
