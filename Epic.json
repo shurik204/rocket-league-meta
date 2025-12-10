@@ -3159,10 +3159,6 @@
       1
     ]
   },
-  "RankedConfig": {
-    "Class": "RankedConfig_X",
-    "SeasonEndTimeSeconds": 1765382400
-  },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
     "Reasons": [
@@ -6499,6 +6495,7 @@
       "MX_OST_Season20.Puppet_Dynamo_RLedit",
       "MX_OST_Season20.Bensley_Vex",
       "MX_OST_Season20.Bensley_Vex_RLedit",
+      "MX_OST_Season21.Televisor_Neon_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -6662,11 +6659,15 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season20.Televisor_Dangerous_featDanykaNadeau_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Dangerous_featDanykaNadeau'"
+          "Track": "AkSoundCue'MX_OST_Season21.Televisor_Neon_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Neon'"
+        },
+        {
+          "Track": "AkSoundCue'MX_OST_PopularSongs.RPChrome'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.RPChrome'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season20.Televisor_Dangerous_featDanykaNadeau'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_PopularSongs.RPChrome'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -8539,8 +8540,7 @@
   },
   "DynamicLogosConfig": {
     "Class": "DynamicLogosConfig_TA",
-    "bUseDynamicLogos": true,
-    "LogoURL": "https://rl-cdn.psyonix.com/LogoImages/S20/rl_season20-logo_EN_1024x1024.png"
+    "bUseDynamicLogos": true
   },
   "TradeConfig": {
     "Class": "TradeConfig_TA",
@@ -13699,12 +13699,6 @@
     "Class": "ThankYouMessageConfig_TA",
     "bThankYouMessageEnabled": false
   },
-  "RocketPassConfig": {
-    "Class": "RocketPassConfig_TA",
-    "RocketPassID": 26,
-    "StartTime": 1758124800,
-    "EndTime": 1765382400
-  },
   "UIConfig": {
     "Class": "UIConfig_TA",
     "bCrateRouletteEnabled": "false",
@@ -13717,10 +13711,10 @@
       20000
     ],
     "bUse1LVLIcon": "true",
-    "MainMenuBG": "MMBG_Mall",
+    "MainMenuBG": "MMBG_Default",
     "bShowAnthems": true,
     "bDisplayVideoQualitySetting": "true",
-    "CurrentActiveSeason": 20,
+    "CurrentActiveSeason": 0,
     "SupportURL": "https://support.rocketleague.com/hc/en-us/categories/1260801589709-Rocket-League"
   },
   "TextModerationConfig": {
@@ -14012,9 +14006,7 @@
   "ChallengeConfig": {
     "Class": "ChallengeConfig_TA",
     "MaxSecondsDelayNewNotification": 0,
-    "TrainingFolderName": "Training",
-    "WeeklyFolderName": "Season20.Weekly",
-    "SeasonFolderName": "Season20.Season"
+    "TrainingFolderName": "Training"
   },
   "EOSVoiceConfig": {
     "Class": "EOSVoiceConfig_TA",
@@ -17030,6 +17022,14 @@
       {
         "KeyName": "PrimeUpdate56_1_CB733CC55DA67D6AFE853A68DC706CA4",
         "Content": "KhDY00ZSahfiELHYwsNVqdH0GNyvUvLCcUYxG9KeXsM="
+      },
+      {
+        "KeyName": "PrimeUpdate57_C82DF6ABD2CF677D5BAF4A9E72F59C9F",
+        "Content": "ZBOvCBR9uPh/hdXx5SFujkgGfnWpGiY6KTa030nnoPU="
+      },
+      {
+        "KeyName": "PrimeUpdate57_4D135E230392BE9E15580016BCCE0506",
+        "Content": "F1hAp1pKsbfl9+15HeoxSfN1iuYDl9NRo+cHLWxkOb4="
       }
     ]
   },
