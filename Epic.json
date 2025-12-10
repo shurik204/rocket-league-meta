@@ -3159,6 +3159,10 @@
       1
     ]
   },
+  "RankedConfig": {
+    "Class": "RankedConfig_X",
+    "SeasonEndTimeSeconds": 1765382400
+  },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
     "Reasons": [
