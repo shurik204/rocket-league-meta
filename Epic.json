@@ -3164,6 +3164,399 @@
     "FilteredCatalogItemsMax": 6,
     "ExactAmountVCPackCategory": "ExactAmountVCPack"
   },
+  "CountryConfig": {
+    "Class": "CountryConfig_TA",
+    "Countries": [
+      {
+        "Name": "ALGERIA",
+        "Code": "dz"
+      },
+      {
+        "Name": "ARGENTINA",
+        "Code": "ar"
+      },
+      {
+        "Name": "AUSTRALIA",
+        "Code": "au"
+      },
+      {
+        "Name": "AUSTRIA",
+        "Code": "at"
+      },
+      {
+        "Name": "BAHRAIN",
+        "Code": "bh"
+      },
+      {
+        "Name": "BANGLADESH",
+        "Code": "bd"
+      },
+      {
+        "Name": "BELARUS",
+        "Code": "by"
+      },
+      {
+        "Name": "BELGIUM",
+        "Code": "be"
+      },
+      {
+        "Name": "BOLIVIA",
+        "Code": "bo"
+      },
+      {
+        "Name": "BRAZIL",
+        "Code": "br"
+      },
+      {
+        "Name": "BULGARIA",
+        "Code": "BG"
+      },
+      {
+        "Name": "CANADA",
+        "Code": "ca"
+      },
+      {
+        "Name": "CHILE",
+        "Code": "cl"
+      },
+      {
+        "Name": "CHINA",
+        "Code": "cn"
+      },
+      {
+        "Name": "COLOMBIA",
+        "Code": "co"
+      },
+      {
+        "Name": "COSTA RICA",
+        "Code": "cr"
+      },
+      {
+        "Name": "CROATIA",
+        "Code": "hr"
+      },
+      {
+        "Name": "CYPRUS",
+        "Code": "cy"
+      },
+      {
+        "Name": "CZECH REPUBLIC",
+        "Code": "cz"
+      },
+      {
+        "Name": "DENMARK",
+        "Code": "dk"
+      },
+      {
+        "Name": "ECUADOR",
+        "Code": "ec"
+      },
+      {
+        "Name": "EGYPT",
+        "Code": "eg"
+      },
+      {
+        "Name": "EL SALVADOR",
+        "Code": "sv"
+      },
+      {
+        "Name": "ESTONIA",
+        "Code": "ee"
+      },
+      {
+        "Name": "FINLAND",
+        "Code": "fi"
+      },
+      {
+        "Name": "FRANCE",
+        "Code": "fr"
+      },
+      {
+        "Name": "GEORGIA",
+        "Code": "ge"
+      },
+      {
+        "Name": "GERMANY",
+        "Code": "de"
+      },
+      {
+        "Name": "GHANA",
+        "Code": "gh"
+      },
+      {
+        "Name": "GREECE",
+        "Code": "gr"
+      },
+      {
+        "Name": "GUATEMALA",
+        "Code": "gt"
+      },
+      {
+        "Name": "HONDURAS",
+        "Code": "hn"
+      },
+      {
+        "Name": "HONG KONG",
+        "Code": "hk"
+      },
+      {
+        "Name": "HUNGARY",
+        "Code": "hu"
+      },
+      {
+        "Name": "ICELAND",
+        "Code": "is"
+      },
+      {
+        "Name": "INDIA",
+        "Code": "in"
+      },
+      {
+        "Name": "INDONESIA",
+        "Code": "id"
+      },
+      {
+        "Name": "IRAQ",
+        "Code": "iq"
+      },
+      {
+        "Name": "IRELAND",
+        "Code": "ie"
+      },
+      {
+        "Name": "ISRAEL",
+        "Code": "il"
+      },
+      {
+        "Name": "ITALY",
+        "Code": "it"
+      },
+      {
+        "Name": "JAPAN",
+        "Code": "jp"
+      },
+      {
+        "Name": "JORDAN",
+        "Code": "jo"
+      },
+      {
+        "Name": "KAZAKHSTAN",
+        "Code": "kz"
+      },
+      {
+        "Name": "KENYA",
+        "Code": "ke"
+      },
+      {
+        "Name": "KOREA",
+        "Code": "kr"
+      },
+      {
+        "Name": "KUWAIT",
+        "Code": "kw"
+      },
+      {
+        "Name": "LATVIA",
+        "Code": "lv"
+      },
+      {
+        "Name": "LEBANON",
+        "Code": "lb"
+      },
+      {
+        "Name": "LIBYA",
+        "Code": "ly"
+      },
+      {
+        "Name": "LIETCHTENSTEIN",
+        "Code": "li"
+      },
+      {
+        "Name": "LITHUANIA",
+        "Code": "lt"
+      },
+      {
+        "Name": "LUXEMBOURG",
+        "Code": "lu"
+      },
+      {
+        "Name": "MACAU",
+        "Code": "mo"
+      },
+      {
+        "Name": "MALAYSIA",
+        "Code": "my"
+      },
+      {
+        "Name": "MALTA",
+        "Code": "mt"
+      },
+      {
+        "Name": "MEXICO",
+        "Code": "mx"
+      },
+      {
+        "Name": "MOROCCO",
+        "Code": "ma"
+      },
+      {
+        "Name": "MYANMAR",
+        "Code": "mm"
+      },
+      {
+        "Name": "NETHERLANDS",
+        "Code": "nl"
+      },
+      {
+        "Name": "NEW ZEALAND",
+        "Code": "nz"
+      },
+      {
+        "Name": "NICARAGUA",
+        "Code": "ni"
+      },
+      {
+        "Name": "NIGERIA",
+        "Code": "ng"
+      },
+      {
+        "Name": "NORWAY",
+        "Code": "no"
+      },
+      {
+        "Name": "OMAN",
+        "Code": "om"
+      },
+      {
+        "Name": "PAKISTAN",
+        "Code": "pk"
+      },
+      {
+        "Name": "PANAMA",
+        "Code": "pa"
+      },
+      {
+        "Name": "PARAGUAY",
+        "Code": "py"
+      },
+      {
+        "Name": "PERU",
+        "Code": "pe"
+      },
+      {
+        "Name": "PHILIPPINES",
+        "Code": "ph"
+      },
+      {
+        "Name": "POLAND",
+        "Code": "pl"
+      },
+      {
+        "Name": "PORTUGAL",
+        "Code": "pt"
+      },
+      {
+        "Name": "QATAR",
+        "Code": "qa"
+      },
+      {
+        "Name": "ROMANIA",
+        "Code": "ro"
+      },
+      {
+        "Name": "RUSSIA",
+        "Code": "ru"
+      },
+      {
+        "Name": "SAUDI ARABIA",
+        "Code": "sa"
+      },
+      {
+        "Name": "SERBIA",
+        "Code": "rs"
+      },
+      {
+        "Name": "SINGAPORE",
+        "Code": "sg"
+      },
+      {
+        "Name": "SLOVAKIA",
+        "Code": "sk"
+      },
+      {
+        "Name": "SLOVENIA",
+        "Code": "si"
+      },
+      {
+        "Name": "SOUTH AFRICA",
+        "Code": "za"
+      },
+      {
+        "Name": "SPAIN",
+        "Code": "es"
+      },
+      {
+        "Name": "SRI LANKA",
+        "Code": "lk"
+      },
+      {
+        "Name": "SWEDEN",
+        "Code": "se"
+      },
+      {
+        "Name": "SWITZERLAND",
+        "Code": "ch"
+      },
+      {
+        "Name": "TAIWAN",
+        "Code": "tw"
+      },
+      {
+        "Name": "TANZANIA",
+        "Code": "tz"
+      },
+      {
+        "Name": "THAILAND",
+        "Code": "th"
+      },
+      {
+        "Name": "TUNISIA",
+        "Code": "tn"
+      },
+      {
+        "Name": "TURKEY",
+        "Code": "tr"
+      },
+      {
+        "Name": "UKRAINE",
+        "Code": "ua"
+      },
+      {
+        "Name": "UNITED ARAB EMIRATES",
+        "Code": "ae"
+      },
+      {
+        "Name": "UNITED KINGDOM",
+        "Code": "gb"
+      },
+      {
+        "Name": "UNITED STATES",
+        "Code": "us"
+      },
+      {
+        "Name": "URUGUAY",
+        "Code": "uy"
+      },
+      {
+        "Name": "VIETNAM",
+        "Code": "vn"
+      },
+      {
+        "Name": "YEMEN",
+        "Code": "ye"
+      }
+    ]
+  },
   "GameModesConfig": {
     "Class": "GameModesConfig_TA",
     "EnabledGameModes": [
@@ -3183,10 +3576,6 @@
     "ForcedDetailsGroups": [
       1
     ]
-  },
-  "RankedConfig": {
-    "Class": "RankedConfig_X",
-    "SeasonEndTimeSeconds": 1765382400
   },
   "SpecialEventsConfig": {
     "Class": "SpecialEventConfig_TA",
@@ -6690,7 +7079,10 @@
       "anthem_dragoncat_02.Dragoncat_02_MVP",
       "anthem_dragoncat_03.Dragoncat_03_MVP",
       "anthem_dragoncat_04.Dragoncat_04_MVP",
-      "anthem_epicgames_thisisrocketleague.EpicGames_ThisIsRocketLeague_MVP"
+      "anthem_epicgames_thisisrocketleague.EpicGames_ThisIsRocketLeague_MVP",
+      "anthem_ellis_orbit.Ellis_Orbit_MVP",
+      "anthem_estiva_parlezvous.Estiva_ParlezVous_MVP",
+      "anthem_televisor_neon.Televisor_Neon_MVP"
     ]
   },
   "MusicThemeConfig": {
@@ -6713,6 +7105,26 @@
         "Icon": "Texture2D'UI_MusicPlaylistThumbs.RLSoundtrack_01'"
       },
       "Playlists": [
+        {
+          "Name": "PopularSongs",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.PopularSongs'",
+          "Tracks": [
+            {
+              "Track": "AkSoundCue'MX_OST_PopularSongs.RPChrome'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.RPChrome'"
+            }
+          ]
+        },
+        {
+          "Name": "Season21",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season21'",
+          "Tracks": [
+            {
+              "Track": "AkSoundCue'MX_OST_Monstercat_RadSum.Televisor_Neon'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Neon'"
+            }
+          ]
+        },
         {
           "Name": "Season20",
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season20'",
@@ -6896,6 +7308,44 @@
             {
               "Track": "AkSoundCue'MX_OST_Season19.EpicGames_ThisIsRocketLeague'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.EpicGames_ThisIsRocketLeague'"
+            }
+          ]
+        },
+        {
+          "Name": "Monstercat2025",
+          "Icon": "Texture2D'album_anthem_monstercat2025.Rl_Mc_Playlist_Thumb_2025'",
+          "Tracks": [
+            {
+              "Track": "AkSoundCue'MX_OST_Season20.InternetGirl_TREATHIMLIKEABABY'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.InternetGirl_TREATHIMLIKEABABY'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season20.Ezekiel_lostAndfound'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Ezekiel_lostAndfound'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season20.Ezekiel_Null'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Ezekiel_Null'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season20.Muzz_LostForever'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Muzz_LostForever'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season20.PuppetAndForia_BiggerPicture'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.PuppetAndForia_BiggerPicture'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season20.Rogue_NightAfeaterNight'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Rogue_NightAfeaterNight'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season20.Televisor_Dangerous_featDanykaNadeau'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Dangerous_featDanykaNadeau'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Monstercat_RadSum.Televisor_Neon'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Neon'"
             }
           ]
         },
@@ -8579,7 +9029,8 @@
   },
   "DynamicLogosConfig": {
     "Class": "DynamicLogosConfig_TA",
-    "bUseDynamicLogos": true
+    "bUseDynamicLogos": true,
+    "LogoURL": "https://rl-cdn.psyonix.com/LogoImages/S21/RL_U57_S21_Logo_1024x1024_EN.png"
   },
   "TradeConfig": {
     "Class": "TradeConfig_TA",
@@ -13601,6 +14052,182 @@
         "ID": "S34_SSL_Quads",
         "Category": "SZN_1_White",
         "Text": "S20 TOUR DE FOURCE"
+      },
+      {
+        "ID": "AutoTour_21_Bronze_1",
+        "Text": "S21 {Bronze} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_Bronze_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S21 {Bronze} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_Silver_1",
+        "Text": "S21 {Silver} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_Silver_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S21 {Silver} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_Gold_1",
+        "Text": "S21 {Gold} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_Gold_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S21 {Gold} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_Platinum_1",
+        "Text": "S21 {Platinum} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_Platinum_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S21 {Platinum} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_Diamond_1",
+        "Text": "S21 {Diamond} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_Diamond_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S21 {Diamond} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_Champion_1",
+        "Text": "S21 {Champion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_Champion_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S21 {Champion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_GrandChampion_1",
+        "Text": "S21 {GrandChampion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_GrandChampion_2",
+        "Category": "AutoTour_CompletedGC",
+        "Text": "S21 {GrandChampion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_SuperSonicLegend_1",
+        "Category": "AutoTour_CompletedSuperSonicLegend_1",
+        "Text": "S21 {Legend} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_21_SuperSonicLegend_2",
+        "Category": "AutoTour_CompletedSuperSonicLegend_2",
+        "Text": "S21 {Legend} Tournament Winner"
+      },
+      {
+        "ID": "Pentathlon_21_Bronze_1",
+        "Text": "S21 {Bronze} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_Bronze_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S21 {Bronze} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_Silver_1",
+        "Text": "S21 {Silver} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_Silver_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S21 {Silver} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_Gold_1",
+        "Text": "S21 {Gold} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_Gold_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S21 {Gold} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_Platinum_1",
+        "Text": "S21 {Platinum} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_Platinum_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S21 {Platinum} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_Diamond_1",
+        "Text": "S21 {Diamond} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_Diamond_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S21 {Diamond} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_Champion_1",
+        "Text": "S21 {Champion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_Champion_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S21 {Champion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_GrandChampion_1",
+        "Text": "S21 {GrandChampion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_GrandChampion_2",
+        "Category": "AutoTour_CompletedGC",
+        "Text": "S21 {GrandChampion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_SuperSonicLegend_1",
+        "Category": "AutoTour_CompletedSuperSonicLegend_1",
+        "Text": "S21 {Legend} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_21_SuperSonicLegend_2",
+        "Category": "AutoTour_CompletedSuperSonicLegend_2",
+        "Text": "S21 {Legend} Pentathlon Winner"
+      },
+      {
+        "ID": "Heatseeker_Hero",
+        "Text": "Heatseeker Hero"
+      },
+      {
+        "ID": "Cest_La_Vie",
+        "Text": "C'est La Vie"
+      },
+      {
+        "ID": "Creme_De_La_Creme",
+        "Text": "Crème De La Crème"
+      },
+      {
+        "ID": "Rat",
+        "Text": "Rat"
+      },
+      {
+        "ID": "Cat_Burglar",
+        "Text": "Cat Burglar"
+      },
+      {
+        "ID": "Shot_Like_The_Dop",
+        "Category": "Community_Spotlight",
+        "Text": "Shot Like The Dop"
+      },
+      {
+        "ID": "Shot_Like_The_Dop_CREATOR",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "Shot Like The Dop"
       }
     ],
     "ClubTitles": [
@@ -13731,12 +14358,42 @@
       {
         "ID": "Club_S20_Dial_Up_Internet",
         "Text": "Dial-Up Internet"
+      },
+      {
+        "ID": "Club_S21_M1",
+        "Text": "S21 Prospect Club"
+      },
+      {
+        "ID": "Club_S21_M2",
+        "Text": "S21 Signature Club"
+      },
+      {
+        "ID": "Club_S21_M3",
+        "Text": "S21 Premier Club"
+      },
+      {
+        "ID": "Club_S21_Parisian_Tourist",
+        "Text": "Parisian Tourist"
+      },
+      {
+        "ID": "Club_S21_Spray_Painted",
+        "Text": "Spray Painted"
+      },
+      {
+        "ID": "Club_S21_Most_Wanted",
+        "Text": "Most Wanted"
       }
     ]
   },
   "ThankYouMessageConfig": {
     "Class": "ThankYouMessageConfig_TA",
     "bThankYouMessageEnabled": false
+  },
+  "RocketPassConfig": {
+    "Class": "RocketPassConfig_TA",
+    "RocketPassID": 27,
+    "StartTime": 1765386000,
+    "EndTime": 1773241200
   },
   "UIConfig": {
     "Class": "UIConfig_TA",
@@ -13750,10 +14407,10 @@
       20000
     ],
     "bUse1LVLIcon": "true",
-    "MainMenuBG": "MMBG_Default",
+    "MainMenuBG": "MMBG_Paris",
     "bShowAnthems": true,
     "bDisplayVideoQualitySetting": "true",
-    "CurrentActiveSeason": 0,
+    "CurrentActiveSeason": 21,
     "SupportURL": "https://support.rocketleague.com/hc/en-us/categories/1260801589709-Rocket-League"
   },
   "TextModerationConfig": {
@@ -14045,7 +14702,9 @@
   "ChallengeConfig": {
     "Class": "ChallengeConfig_TA",
     "MaxSecondsDelayNewNotification": 0,
-    "TrainingFolderName": "Training"
+    "TrainingFolderName": "Training",
+    "WeeklyFolderName": "Season21.Weekly",
+    "SeasonFolderName": "Season21.Season"
   },
   "EOSVoiceConfig": {
     "Class": "EOSVoiceConfig_TA",
@@ -19924,26 +20583,54 @@
         "Section": "SS_GreyCar",
         "Key": "Label",
         "Value": "Back To The Future Time Machine"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_jekyll",
+        "Key": "Label",
+        "Value": "Corlay"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_jekyll",
+        "Key": "Label",
+        "Value": "Corlay"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_force_modernartgraffiti01",
+        "Key": "Label",
+        "Value": "Mr. Brainwash Dream Chaser"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_bfooompsplus",
+        "Key": "Label",
+        "Value": "Tsunami Beam G+G"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_laserlotusHolographic",
+        "Key": "Label",
+        "Value": "Lotus G+G"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_force_tattoo_psp",
+        "Key": "Label",
+        "Value": "Heiwa G+G"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_proto12psplus",
+        "Key": "Label",
+        "Value": "Roulette G+G"
       }
     ]
   },
   "RPCConfig": {
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
-  },
-  "BlogConfig": {
-    "Class": "BlogConfig_X",
-    "Entries": [
-      {
-        "Title": "Season 21: Pursuit in Paris!",
-        "Description": "Season 21 lights up on December 10! Cruise into the new Parc de Paris Arena and heat things up in Ranked Heatseeker!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_Newspanel_Key_1920x1080.jpg",
-        "StartTime": "2025-12-08 00:30:00",
-        "EndTime": "2025-12-10 17:00:00",
-        "LinkType": "LinkType_None"
-      }
-    ],
-    "MotD": "<br>"
   },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
@@ -20185,19 +20872,24 @@
         "ImageName": "Icon_4v4"
       },
       {
+        "Label": "Heatseeker",
+        "RequestName": "Skill63",
+        "ImageName": "Icon_Heatseeker"
+      },
+      {
         "Label": "Rumble",
         "RequestName": "Skill28",
         "ImageName": "Icon_Rumble"
       },
       {
-        "Label": "Dropshot",
-        "RequestName": "Skill29",
-        "ImageName": "Icon_Dropshot"
-      },
-      {
         "Label": "Hoops",
         "RequestName": "Skill27",
         "ImageName": "Icon_Hoops"
+      },
+      {
+        "Label": "Snow Day",
+        "RequestName": "Skill30",
+        "ImageName": "Icon_SnowDay"
       }
     ]
   }
