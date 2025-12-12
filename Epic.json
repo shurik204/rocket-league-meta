@@ -17738,6 +17738,10 @@
         "Content": "KhDY00ZSahfiELHYwsNVqdH0GNyvUvLCcUYxG9KeXsM="
       },
       {
+        "KeyName": "PrimeUpdate57_C3F1B67C3E335BDF5947635E35B57FC3",
+        "Content": "/ysUtk0fBA943vElQxyXQwda8IC/GhT0wqnGBVTJJBQ="
+      },
+      {
         "KeyName": "PrimeUpdate57_537B9F851E6A3396907EDB19DE477E91",
         "Content": "jqtyMQbe8EasbW9dOzziKtYAm2PJIAqhQEh701NeMVc="
       },
@@ -20649,6 +20653,36 @@
         "Section": "wheel_proto12psplus",
         "Key": "Label",
         "Value": "Roulette G+G"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_cutie",
+        "Key": "Label",
+        "Value": "Chevrolet Corvette Stingray"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_cutie",
+        "Key": "Label",
+        "Value": "Chevrolet Corvette Stingray"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_cutie01",
+        "Key": "Label",
+        "Value": "Stingray Pink"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_cutie",
+        "Key": "Label",
+        "Value": "Chevrolet Corvette Stingray"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_cutieextra",
+        "Key": "Label",
+        "Value": "Silver Assassin"
       }
     ]
   },
