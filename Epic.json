@@ -20715,7 +20715,7 @@
         "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_3panel_Kaydrop_TalentPhoto_672x840.png",
         "StartTime": "2025-12-10 17:00:02",
         "EndTime": "2025-12-14 17:00:00",
-        "LinkType": "LinkType_None"
+        "ShopID": 429
       }
     ],
     "MotD": "<br>"
