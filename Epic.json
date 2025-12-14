@@ -20690,36 +20690,6 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
-  "BlogConfig": {
-    "Class": "BlogConfig_X",
-    "Entries": [
-      {
-        "Title": "Season 21",
-        "Description": "Race under the lights in the new Parc de Paris Arena, unlock dazzling items in the Rocket Pass, and climb in Ranked Heatseeker!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_3panel_Key_672x840%20(2).png",
-        "StartTime": "2025-12-10 17:00:00",
-        "EndTime": "2025-12-14 17:00:00",
-        "LinkType": "LinkType_None"
-      },
-      {
-        "Title": "Bring the Heat LTE",
-        "Description": "Complete Ranked Heatseeker Challenges during the Bring the Heat LTE to unlock Drops and the Fire Eye Topper!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_Heatseeker_3panel_Key_672x840.png",
-        "StartTime": "2025-12-10 17:00:01",
-        "EndTime": "2025-12-14 17:00:00",
-        "LinkType": "LinkType_None"
-      },
-      {
-        "Title": "Community Spotlight",
-        "Description": "Three-time Rocket League World Championship winner Kaydop is sharing a W. Claim the free \"Shot Like The Dop\" Title in the Shop!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_3panel_Kaydrop_TalentPhoto_672x840.png",
-        "StartTime": "2025-12-10 17:00:02",
-        "EndTime": "2025-12-14 17:00:00",
-        "ShopID": 429
-      }
-    ],
-    "MotD": "<br>"
-  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
