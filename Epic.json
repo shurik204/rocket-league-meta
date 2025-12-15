@@ -7110,6 +7110,14 @@
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Neon'"
         },
         {
+          "Track": "AkSoundCue'MX_OST_PopularSongs.Chrome02'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Chrome02'"
+        },
+        {
+          "Track": "AkSoundCue'MX_OST_PopularSongs.Chrome_04'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Chrome04'"
+        },
+        {
           "Track": "AkSoundCue'MX_OST_PopularSongs.RPChrome'",
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.RPChrome'"
         }
@@ -7125,6 +7133,14 @@
           "Name": "PopularSongs",
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.PopularSongs'",
           "Tracks": [
+            {
+              "Track": "AkSoundCue'MX_OST_PopularSongs.Chrome02'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Chrome02'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_PopularSongs.Chrome_04'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Chrome04'"
+            },
             {
               "Track": "AkSoundCue'MX_OST_PopularSongs.RPChrome'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.RPChrome'"
@@ -17744,6 +17760,26 @@
       {
         "KeyName": "PrimeUpdate57_BAD2B70DBBA2D010CF667F9B063DA1A8",
         "Content": "+Ebp2g9u1j43OTZ2WEPo6qWpa57jPsbqChmEBW8PuQo="
+      },
+      {
+        "KeyName": "PrimeUpdate57_8B9A200098588BC6C32DEEDC0DEA9539",
+        "Content": "GUqAT9XWFehZ0sO2Bzrl8mzy9E5GwVSgnF2BAT9R78Q="
+      },
+      {
+        "KeyName": "PrimeUpdate57_F2EB664D7D0199FEF19D99A6F765A64F",
+        "Content": "/+jai2q/3TfH9wplx6znMuMF7lWsvP5ZRhr90IWjKNo="
+      },
+      {
+        "KeyName": "PrimeUpdate57_87AF2B3514656129E1C82567C7CEBF70",
+        "Content": "5x0ZhL0EMiDmOTM+GmPWgoazZAV96ZoJ4TUonmhzyVA="
+      },
+      {
+        "KeyName": "PrimeUpdate57_306C73B9F5BA0CF2718946DA8291275E",
+        "Content": "kKF5NoSl8YT2reifQ5YWeyTaeVxElnRPhhUQL9Q16ps="
+      },
+      {
+        "KeyName": "PrimeUpdate57_F1220AA32F763A395F38E9EB619FDB44",
+        "Content": "d9CW4lpEBmVZGv9x6twpuIgpo72jEFRZHBEagbNSXuE="
       },
       {
         "KeyName": "PrimeUpdate57_537B9F851E6A3396907EDB19DE477E91",
