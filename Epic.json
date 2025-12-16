@@ -20711,6 +20711,132 @@
         "Section": "wheel_cutieextra",
         "Key": "Label",
         "Value": "Silver Assassin"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_chrome01",
+        "Key": "Label",
+        "Value": "I Feel It Coming"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_chrome01",
+        "Key": "Artist",
+        "Value": "The Weeknd ft. Daft Punk"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_chrome02",
+        "Key": "Label",
+        "Value": "Get Lucky"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_chrome02",
+        "Key": "Artist",
+        "Value": "Daft Punk ft. Pharrell Williams and Nile Rodgers"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_chrome03",
+        "Key": "Label",
+        "Value": "Starboy"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_chrome03",
+        "Key": "Artist",
+        "Value": "The Weeknd ft. Daft Punk"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_chrome04",
+        "Key": "Label",
+        "Value": "One More Time"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_chrome04",
+        "Key": "Artist",
+        "Value": "Daft Punk"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_chrome",
+        "Key": "Label",
+        "Value": "Crossfade"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_chrome",
+        "Key": "Label",
+        "Value": "Daft Punk"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_ranchrome01",
+        "Key": "Label",
+        "Value": "GM08"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_ranchrome02",
+        "Key": "Label",
+        "Value": "TB3"
+      },
+      {
+        "Package": "Products",
+        "Section": "ss_chrome",
+        "Key": "Label",
+        "Value": "Crossfade"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_chrome",
+        "Key": "Label",
+        "Value": "Daft Punk Vinyl"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_chromeb",
+        "Key": "Label",
+        "Value": "Daft Punk Eternal"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "Chrome02",
+        "Value": "Get Lucky"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "Chrome02",
+        "Value": "Daft Punk ft. Pharrell Williams and Nile Rodgers"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "Chrome_04",
+        "Value": "One More Time"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "Chrome_04",
+        "Value": "Daft Punk"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "Chrome_04_RLedit",
+        "Value": "One More Time"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "Chrome_04_RLedit",
+        "Value": "Daft Punk"
       }
     ]
   },
@@ -20725,25 +20851,25 @@
         "Title": "New RLCS Shop Team Decals",
         "Description": "Rep your favorite team with 18 new RLCS Team Decals and show your support on the pitch. Grab yours in the RLCS Shop now!",
         "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_3panel_672x840%20(1).png",
-        "StartTime": "2025-12-14 17:00:00",
-        "EndTime": "2025-12-16 00:00:00",
+        "StartTime": "2025-12-16 00:00:00",
+        "EndTime": "2025-12-19 00:00:00",
         "LinkType": "LinkType_None"
       },
       {
-        "Title": "Season 21",
-        "Description": "Race under the lights in the new Parc de Paris Arena, unlock dazzling items in the Rocket Pass, and climb in Ranked Heatseeker!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_3panel_Key_672x840%20(2).png",
-        "StartTime": "2025-12-14 17:00:01",
-        "EndTime": "2025-12-16 00:00:00",
-        "LinkType": "LinkType_None"
+        "Title": "McLaren x Daft Punk",
+        "Description": "Shine like the iconic duo. The McLaren 765LT is back with new Daft Punk-themed Decals, Player Anthems, and more!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_39-10_RL_McLaren_765LT_Daft%20Punk_3panel_672x840.png",
+        "StartTime": "2025-12-16 00:00:01",
+        "EndTime": "2025-12-19 00:00:00",
+        "ShopID": 422
       },
       {
-        "Title": "Chevrolet Corvette Stingray",
-        "Description": "The Chevrolet Corvette Stingray hits the Item Shop, fully decked out with the Stingray Pink Decal and new Wheels!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_39-10_YukisRevenge_3panel_Key_672x840.png",
-        "StartTime": "2025-12-14 17:00:02",
-        "EndTime": "2025-12-16 00:00:00",
-        "ShopID": 421
+        "Title": "Rocket Pass",
+        "Description": "Unlock new items as you tier up your Rocket Pass during Season 21. Rocket Pass Premium features items inspired by Daft Punk!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_3panel_Hero_672x840.png",
+        "StartTime": "2025-12-16 00:00:02",
+        "EndTime": "2025-12-19 00:00:00",
+        "LinkType": "LinkType_None"
       }
     ],
     "MotD": "<br>"
