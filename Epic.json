@@ -3067,6 +3067,10 @@
       }
     ]
   },
+  "ThankYouMessageConfig": {
+    "Class": "ThankYouMessageConfig_TA",
+    "bThankYouMessageEnabled": false
+  },
   "EpicConfig": {
     "Class": "EpicConfig_X",
     "bAllowRemoteAvatars": true,
