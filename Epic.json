@@ -3577,16 +3577,6 @@
       1
     ]
   },
-  "SpecialEventsConfig": {
-    "Class": "SpecialEventConfig_TA",
-    "StartTime": 1765386000,
-    "EndTime": 1765990800,
-    "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/BringTheHeat/RL_U57_HeatSeeker_EventInGame_EventScreen_ajif.jpg",
-    "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/BringTheHeat/RL_U57_HeatSeeker_EventInGame_EventScreenLogo_puiwfh.png",
-    "EventFolderName": "Event.Heatseeker2025",
-    "Subtitle": "Bring the Heat!",
-    "Description": "The pitch is heating up for the arrival of Ranked Heatseeker! From December 10 to December 17, complete Ranked Heatseeker Challenges in the Bring the Heat event to unlock a Sport, Special, Deluxe, Import, Exotic, and Black Market Drop."
-  },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
     "Reasons": [
