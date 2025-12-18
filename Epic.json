@@ -6934,6 +6934,8 @@
       "MX_OST_Season20.Bensley_Vex",
       "MX_OST_Season20.Bensley_Vex_RLedit",
       "MX_OST_Season21.Televisor_Neon_RLedit",
+      "MX_OST_Season21.Numb02",
+      "MX_OST_Season21.Numb02_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -7090,6 +7092,7 @@
       "anthem_dragoncat_03.Dragoncat_03_MVP",
       "anthem_dragoncat_04.Dragoncat_04_MVP",
       "anthem_epicgames_thisisrocketleague.EpicGames_ThisIsRocketLeague_MVP",
+      "anthem_caster_sixofwands.Anthem_Caster_SixOfWands_MVP",
       "anthem_ellis_orbit.Ellis_Orbit_MVP",
       "anthem_estiva_parlezvous.Estiva_ParlezVous_MVP",
       "anthem_televisor_neon.Televisor_Neon_MVP"
@@ -7100,8 +7103,8 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season21.Televisor_Neon_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Neon'"
+          "Track": "AkSoundCue'MX_OST_Season21.Numb02_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Numb02'"
         },
         {
           "Track": "AkSoundCue'MX_OST_PopularSongs.Chrome02'",
@@ -7116,7 +7119,7 @@
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.RPChrome'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.Televisor_Neon'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.Numb02'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7148,6 +7151,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Monstercat_RadSum.Televisor_Neon'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Neon'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.Numb02'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Numb02'"
             }
           ]
         },
@@ -7372,6 +7379,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Monstercat_RadSum.Televisor_Neon'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Neon'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.Numb02'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Numb02'"
             }
           ]
         },
@@ -17766,6 +17777,14 @@
       {
         "KeyName": "PrimeUpdate57_00F6EAA14FAE66FE6E5D494B141742D6",
         "Content": "0HWnmDU8OSunPP0pqeBaI5tBrytY+wRrQ9ltPwAh8xk="
+      },
+      {
+        "KeyName": "PrimeUpdate57_45C6CF3952D0CE201A0C6CCE89C9CB22",
+        "Content": "BLOrroXZgjQxCE3ERoPX7vCVgefFJ3acOeIfelng0MI="
+      },
+      {
+        "KeyName": "PrimeUpdate57_5194EDEBAD3464C1ED34B9AAE278FEA1",
+        "Content": "R7hy00Y4aZDBWyCyVFtTHVw8ca7hLVD/RFFvKe5kl9s="
       },
       {
         "KeyName": "PrimeUpdate57_C82DF6ABD2CF677D5BAF4A9E72F59C9F",
