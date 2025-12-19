@@ -3071,6 +3071,73 @@
     "Class": "ThankYouMessageConfig_TA",
     "bThankYouMessageEnabled": false
   },
+  "ThistleConfig": {
+    "Class": "ThistleConfig_TA",
+    "bIsEnabled": true,
+    "TeamsData": [
+      {
+        "TeamName": "Gryffindor",
+        "TeamColor": {
+          "R": 0.78,
+          "G": 0.03,
+          "B": 0.32
+        },
+        "TeamColorSecondary": {
+          "R": 0.93,
+          "G": 0.7,
+          "B": 0.06
+        },
+        "CosmeticID": "3036",
+        "TitleID": "FF_Thistle_Gryffindor"
+      },
+      {
+        "TeamName": "Slytherin",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.39,
+          "B": 0.31
+        },
+        "TeamColorSecondary": {
+          "R": 0.56,
+          "G": 0.64,
+          "B": 0.64
+        },
+        "CosmeticID": "3036",
+        "TitleID": "FF_Thistle_Slytherin"
+      },
+      {
+        "TeamName": "Ravenclaw",
+        "TeamColor": {
+          "R": 0.3,
+          "G": 0.56,
+          "B": 0.8
+        },
+        "TeamColorSecondary": {
+          "R": 0.25,
+          "G": 0.32,
+          "B": 0.36
+        },
+        "CosmeticID": "3036",
+        "TitleID": "FF_Thistle_Ravenclaw"
+      },
+      {
+        "TeamName": "Hufflepuff",
+        "TeamColor": {
+          "R": 1,
+          "G": 0.82,
+          "B": 0.27
+        },
+        "TeamColorSecondary": {
+          "R": 0.28,
+          "G": 0.28,
+          "B": 0.25
+        },
+        "CosmeticID": "3036",
+        "TitleID": "FF_Thistle_Hufflepuff"
+      }
+    ],
+    "IntroShowcaseImage": "NUX_Modal_Thistle"
+  },
   "EpicConfig": {
     "Class": "EpicConfig_X",
     "bAllowRemoteAvatars": true,
@@ -3580,6 +3647,16 @@
     "ForcedDetailsGroups": [
       1
     ]
+  },
+  "SpecialEventsConfig": {
+    "Class": "SpecialEventConfig_TA",
+    "StartTime": 1766102400,
+    "EndTime": 1767830400,
+    "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/FrostyFest/2025/RL_U57_FrostyFest_EventScreen_fe987a.jpg",
+    "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/FrostyFest/2025/RL_U57_FrostyFest_EventScreen_Logo_fw8dd.png",
+    "EventFolderName": "Event.FrostyFest2025",
+    "Subtitle": "The Wizarding World Enchants Frosty Fest",
+    "Description": "Frosty Fest returns with a magical twist from the wizarding world! Complete Challenges to earn enchanting Rewards and ﬂy by the Shop to discover spellbinding items like the Aston Martin Valhalla featuring Decals inspired by the four Hogwarts Houses. Represent your House in the Hogwarts House Rivalry, compete to earn points, and climb the leaderboard to claim victory!"
   },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
@@ -9146,6 +9223,26 @@
       {
         "ID": "Community_Spotlight",
         "Color": "BF5FFF"
+      },
+      {
+        "ID": "Gryffindor",
+        "Color": "BEBEBE",
+        "GlowColor": "C80752"
+      },
+      {
+        "ID": "Hufflepuff",
+        "Color": "BEBEBE",
+        "GlowColor": "FFD046"
+      },
+      {
+        "ID": "Ravenclaw",
+        "Color": "BEBEBE",
+        "GlowColor": "4D90CD"
+      },
+      {
+        "ID": "Slytherin",
+        "Color": "BEBEBE",
+        "GlowColor": "006351"
       }
     ],
     "Titles": [
@@ -14237,6 +14334,30 @@
         "Text": "S21 {Legend} Pentathlon Winner"
       },
       {
+        "ID": "FF_Thistle_Gryffindor",
+        "Category": "Gryffindor",
+        "Text": "Gryffindor",
+        "SortPriority": 10
+      },
+      {
+        "ID": "FF_Thistle_Hufflepuff",
+        "Category": "Hufflepuff",
+        "Text": "Hufflepuff",
+        "SortPriority": 10
+      },
+      {
+        "ID": "FF_Thistle_Ravenclaw",
+        "Category": "Ravenclaw",
+        "Text": "Ravenclaw",
+        "SortPriority": 10
+      },
+      {
+        "ID": "FF_Thistle_Slytherin",
+        "Category": "Slytherin",
+        "Text": "Slytherin",
+        "SortPriority": 10
+      },
+      {
         "ID": "Heatseeker_Hero",
         "Text": "Heatseeker Hero"
       },
@@ -17743,6 +17864,10 @@
         "Content": "/ysUtk0fBA943vElQxyXQwda8IC/GhT0wqnGBVTJJBQ="
       },
       {
+        "KeyName": "PrimeUpdate57_09BAA3CA54075FBB240817C64A089ADC",
+        "Content": "Z4s8isj1B+ngWptj5BGmVLJg3I6oJgI9oYt0V2XkQLk="
+      },
+      {
         "KeyName": "PrimeUpdate57_393B6BAA79813887F231F8440F7CB09A",
         "Content": "ARCT5QXtXXfQrJZQCB+oVtEq2nuicz3nImq2tC/GZIs="
       },
@@ -20775,6 +20900,108 @@
       },
       {
         "Package": "Products",
+        "Section": "anthem_caster_sixofwands",
+        "Key": "Label",
+        "Value": "The Six Of Wands"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_caster_sixofwands",
+        "Key": "Artist",
+        "Value": "Caster"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_numb",
+        "Key": "Label",
+        "Value": "Aston Martin Valhalla"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_numblte01",
+        "Key": "Label",
+        "Value": "Gryffindor Scarf"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_numblte02",
+        "Key": "Label",
+        "Value": "Hufflepuff Scarf"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_numblte03",
+        "Key": "Label",
+        "Value": "Ravenclaw Scarf"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_numblte04",
+        "Key": "Label",
+        "Value": "Slytherin Scarf"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_numb",
+        "Key": "Label",
+        "Value": "Aston Martin Valhalla"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_numb01",
+        "Key": "Label",
+        "Value": "Quidditch"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_numblte01",
+        "Key": "Label",
+        "Value": "Sorting Hat"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_numb01",
+        "Key": "Label",
+        "Value": "Gryffindor"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_numb02",
+        "Key": "Label",
+        "Value": "Slytherin"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_numb03",
+        "Key": "Label",
+        "Value": "Ravenclaw"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_numb04",
+        "Key": "Label",
+        "Value": "Hufflepuff"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_numb05",
+        "Key": "Label",
+        "Value": "Aston Martin Signature"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_numb01",
+        "Key": "Label",
+        "Value": "Aston Martin Valhalla"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_numb02",
+        "Key": "Label",
+        "Value": "Hogwarts Crest"
+      },
+      {
+        "Package": "Products",
         "Section": "boost_chrome",
         "Key": "Label",
         "Value": "Crossfade"
@@ -20850,6 +21077,12 @@
         "Section": "MusicArtist",
         "Key": "Chrome_04_RLedit",
         "Value": "Daft Punk"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "GFxData_ChallengeManager_TA",
+        "Key": "ThistleIntroTitle",
+        "Value": "Choose Your House!"
       }
     ]
   },
@@ -20889,7 +21122,19 @@
   },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
-    "Events": []
+    "Events": [
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_Thistle_puaijfh.png",
+        "Title": "HOGWARTS HOUSE RIVALRY",
+        "Description": "HOGWARTS HOUSE RIVALRY",
+        "UTCStartTime": "2025-12-19 00:00:00",
+        "UTCEndTime": "2026-01-08 00:00:00",
+        "URL": "https://www.rocketleague.com/hogwarts-house-rivalry",
+        "ButtonTitle": "Hogwarts House Rivalry",
+        "ButtonDescription": "See Placements Online!",
+        "bShowLiveNow": false
+      }
+    ]
   },
   "NavigationConfig": {
     "Class": "TrainingEditorNavigationConfig_TA",
