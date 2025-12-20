@@ -21166,6 +21166,20 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
+  "BlogConfig": {
+    "Class": "BlogConfig_X",
+    "Entries": [
+      {
+        "Title": "SpongeBob’s Patty Wagon",
+        "Description": "You don't need a license to drive a sandwich. Spongebob’s Patty Wagon rolls into the Item Shop!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_39-11_Krabby-Patty-Wagon_Newspanel_1920x1080.jpg",
+        "StartTime": "2025-12-20 00:00:00",
+        "EndTime": "2025-12-20 17:00:00",
+        "ShopID": 425
+      }
+    ],
+    "MotD": "<br>"
+  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
