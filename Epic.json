@@ -21174,11 +21174,27 @@
     "Class": "BlogConfig_X",
     "Entries": [
       {
+        "Title": "Frosty Fest",
+        "Description": "The wizarding world enchants Frosty Fest with magical Rewards and Hogwarts House Decals for the Aston Martin Valhalla in the Shop!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_FrostyFest_3panel_Key_672x840.png",
+        "StartTime": "2025-12-20 17:00:00",
+        "EndTime": "2025-12-21 00:00:00",
+        "LinkType": "LinkType_Event"
+      },
+      {
+        "Title": "Hogwarts House Rivalry",
+        "Description": "The Hogwarts House Rivalry begins! Equip your House Title, play matches, and collect wins to help your House rise to glory!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_HouseRivalry_3panel_Key_672x840.png",
+        "StartTime": "2025-12-20 17:00:01",
+        "EndTime": "2025-12-21 00:00:00",
+        "LinkType": "LinkType_None"
+      },
+      {
         "Title": "SpongeBob’s Patty Wagon",
         "Description": "You don't need a license to drive a sandwich. Spongebob’s Patty Wagon rolls into the Item Shop!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_39-11_Krabby-Patty-Wagon_Newspanel_1920x1080.jpg",
-        "StartTime": "2025-12-20 00:00:00",
-        "EndTime": "2025-12-20 17:00:00",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_39-11_Krabby-Patty-Wagon_3panel_672x840.png",
+        "StartTime": "2025-12-20 17:00:02",
+        "EndTime": "2025-12-21 00:00:00",
         "ShopID": 425
       }
     ],
