@@ -21166,36 +21166,6 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
-  "BlogConfig": {
-    "Class": "BlogConfig_X",
-    "Entries": [
-      {
-        "Title": "Frosty Fest",
-        "Description": "The wizarding world enchants Frosty Fest with magical Rewards and Hogwarts House Decals for the Aston Martin Valhalla in the Shop!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_FrostyFest_3panel_Key_672x840.png",
-        "StartTime": "2025-12-19 00:00:00",
-        "EndTime": "2025-12-20 00:00:00",
-        "LinkType": "LinkType_None"
-      },
-      {
-        "Title": "Hogwarts House Rivalry",
-        "Description": "The Hogwarts House Rivalry begins! Equip your House Title, play matches, and collect wins to help your House rise to glory!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_HouseRivalry_3panel_Key_672x840.png",
-        "StartTime": "2025-12-19 00:00:01",
-        "EndTime": "2025-12-20 00:00:00",
-        "LinkType": "LinkType_None"
-      },
-      {
-        "Title": "Season 21",
-        "Description": "Race under the lights in the new Parc de Paris Arena, unlock dazzling items in the Rocket Pass, and climb in Ranked Heatseeker!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_3panel_Key_672x840%20(2).png",
-        "StartTime": "2025-12-19 00:00:02",
-        "EndTime": "2025-12-20 00:00:00",
-        "LinkType": "LinkType_None"
-      }
-    ],
-    "MotD": "<br>"
-  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
