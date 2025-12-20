@@ -17880,6 +17880,10 @@
         "Content": "MLMR8QaJXgZ6TSS0lOZto1UoCGSNKd/9McXXpc5pYwI="
       },
       {
+        "KeyName": "PrimeUpdate57_E4B27FD592AAEC8742AFC933252F04BB",
+        "Content": "wRqu076f8U0YLwTVrt/9tdQ53vVQ9XaehhJZGGil5lU="
+      },
+      {
         "KeyName": "PrimeUpdate57_8B9A200098588BC6C32DEEDC0DEA9539",
         "Content": "GUqAT9XWFehZ0sO2Bzrl8mzy9E5GwVSgnF2BAT9R78Q="
       },
@@ -20900,6 +20904,18 @@
       },
       {
         "Package": "Products",
+        "Section": "Anthem_LionsMane02",
+        "Key": "Label",
+        "Value": "Sweet Victory"
+      },
+      {
+        "Package": "Products",
+        "Section": "Anthem_LionsMane02",
+        "Key": "Artist",
+        "Value": "David Glen Eisley & Bob Kulick"
+      },
+      {
+        "Package": "Products",
         "Section": "anthem_caster_sixofwands",
         "Key": "Label",
         "Value": "The Six Of Wands"
@@ -21043,6 +21059,54 @@
         "Value": "Daft Punk Eternal"
       },
       {
+        "Package": "Products",
+        "Section": "body_lionsmane",
+        "Key": "Label",
+        "Value": "Patty Wagon"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_lionsmane01",
+        "Key": "Label",
+        "Value": "Jelly Power"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_lionsmane",
+        "Key": "Label",
+        "Value": "Patty Wagon"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_fs_lionsmane01",
+        "Key": "Label",
+        "Value": "Bikini Bottom"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_lionsmane02",
+        "Key": "Label",
+        "Value": "DoodleBob"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_lionsmane03",
+        "Key": "Label",
+        "Value": "Gary"
+      },
+      {
+        "Package": "Products",
+        "Section": "ss_lionsmane01",
+        "Key": "Label",
+        "Value": "Bikini Bottom"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_lionsmane",
+        "Key": "Label",
+        "Value": "Pickled"
+      },
+      {
         "Package": "TAGame",
         "Section": "MusicTitle",
         "Key": "Chrome02",
@@ -21077,6 +21141,18 @@
         "Section": "MusicArtist",
         "Key": "Chrome_04_RLedit",
         "Value": "Daft Punk"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "LionsMane02",
+        "Value": "Sweet Victory"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "LionsMane02",
+        "Value": "David Glen Eisley & Bob Kulick"
       },
       {
         "Package": "TAGame",
