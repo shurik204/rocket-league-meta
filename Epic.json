@@ -3225,7 +3225,6 @@
     "MaxCurrencyWalletAmount": 200000,
     "MaxCurrencyDailyAmount": 1000000,
     "bLevToEuro": true,
-    "bLevBeforeEuro": true,
     "bEnablePlatformStartPurchase": "true",
     "bEnableCPCCShowRoWModal": true,
     "bEnableCPCCShowRealPrice": true,
@@ -7010,6 +7009,10 @@
       "MX_OST_Season20.Puppet_Dynamo_RLedit",
       "MX_OST_Season20.Bensley_Vex",
       "MX_OST_Season20.Bensley_Vex_RLedit",
+      "MX_OST_Season21.Ellis_Orbit_ThorneRemix",
+      "MX_OST_Season21.Ellis_Orbit_ThorneRemix_RLedit",
+      "MX_OST_Season21.HalfAnOrange_MarkTwain_GlacierRemix",
+      "MX_OST_Season21.HalfAnOrange_MarkTwain_GlacierRemix_RLedit",
       "MX_OST_Season21.Televisor_Neon_RLedit",
       "MX_OST_Season21.Numb02",
       "MX_OST_Season21.Numb02_RLedit",
@@ -7172,6 +7175,7 @@
       "anthem_caster_sixofwands.Anthem_Caster_SixOfWands_MVP",
       "anthem_ellis_orbit.Ellis_Orbit_MVP",
       "anthem_estiva_parlezvous.Estiva_ParlezVous_MVP",
+      "anthem_halfanorange_marktwain.HalfAnOrange_MarkTwain_MVP",
       "anthem_televisor_neon.Televisor_Neon_MVP"
     ]
   },
@@ -7180,23 +7184,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season21.Numb02_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Numb02'"
-        },
-        {
-          "Track": "AkSoundCue'MX_OST_PopularSongs.Chrome02'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Chrome02'"
-        },
-        {
-          "Track": "AkSoundCue'MX_OST_PopularSongs.Chrome_04'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Chrome04'"
-        },
-        {
-          "Track": "AkSoundCue'MX_OST_PopularSongs.RPChrome'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.RPChrome'"
+          "Track": "AkSoundCue'MX_OST_Season21.Ellis_Orbit_ThorneRemix_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Ellis_Orbit_ThorneRemix'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.Numb02'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.Ellis_Orbit_ThorneRemix'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7225,6 +7217,14 @@
           "Name": "Season21",
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season21'",
           "Tracks": [
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.Ellis_Orbit_ThorneRemix'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Ellis_Orbit_ThorneRemix'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.HalfAnOrange_MarkTwain_GlacierRemix'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.HalfAnOrange_MarkTwain_GlacierRemix'"
+            },
             {
               "Track": "AkSoundCue'MX_OST_Monstercat_RadSum.Televisor_Neon'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Neon'"
@@ -7452,6 +7452,14 @@
             {
               "Track": "AkSoundCue'MX_OST_Season20.Televisor_Dangerous_featDanykaNadeau'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Dangerous_featDanykaNadeau'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.Ellis_Orbit_ThorneRemix'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Ellis_Orbit_ThorneRemix'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.HalfAnOrange_MarkTwain_GlacierRemix'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.HalfAnOrange_MarkTwain_GlacierRemix'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Monstercat_RadSum.Televisor_Neon'",
@@ -17872,8 +17880,16 @@
         "Content": "/ysUtk0fBA943vElQxyXQwda8IC/GhT0wqnGBVTJJBQ="
       },
       {
+        "KeyName": "PrimeUpdate57_88E13336CA73EA19976636CD1FC122B1",
+        "Content": "p0HWwwl7qHCJF52ABXTlNkZ6ZYPHYqzNcsNrxN6oJT4="
+      },
+      {
         "KeyName": "PrimeUpdate57_09BAA3CA54075FBB240817C64A089ADC",
         "Content": "Z4s8isj1B+ngWptj5BGmVLJg3I6oJgI9oYt0V2XkQLk="
+      },
+      {
+        "KeyName": "PrimeUpdate57_E2729381E7A54D0421EA45FDFD412C22",
+        "Content": "TcuwCgkWHwijkt6Co2fqPUFEkaqekcJwPVUMoRTAixw="
       },
       {
         "KeyName": "PrimeUpdate57_393B6BAA79813887F231F8440F7CB09A",
@@ -17912,12 +17928,28 @@
         "Content": "d9CW4lpEBmVZGv9x6twpuIgpo72jEFRZHBEagbNSXuE="
       },
       {
+        "KeyName": "PrimeUpdate57_249FD98E4BA1B52EF059B315064F5A8D",
+        "Content": "dv68FHn89Dtw20PpshdGymeHUNOS8WWo1PHAUy7+QCs="
+      },
+      {
+        "KeyName": "PrimeUpdate57_CC908A883D25989184244D2483275AAC",
+        "Content": "Usv1sZMl5L3fCL6zFYnqNa3K418i7GKMWfZhmgPr+h0="
+      },
+      {
         "KeyName": "PrimeUpdate57_537B9F851E6A3396907EDB19DE477E91",
         "Content": "jqtyMQbe8EasbW9dOzziKtYAm2PJIAqhQEh701NeMVc="
       },
       {
         "KeyName": "PrimeUpdate57_00F6EAA14FAE66FE6E5D494B141742D6",
         "Content": "0HWnmDU8OSunPP0pqeBaI5tBrytY+wRrQ9ltPwAh8xk="
+      },
+      {
+        "KeyName": "PrimeUpdate57_E29CDC661A12BD09F1D0DD406BCB9269",
+        "Content": "killS92hX6NXw1u7wapzQXx2OPkeAGrrxqvYj/Fl7B4="
+      },
+      {
+        "KeyName": "PrimeUpdate57_43333190CFD362CC7731FCB9A6726794",
+        "Content": "2qfjvzR6rIZuKh9vfJQj/R2Qxzu3g1C4JvXpYO+Ht7k="
       },
       {
         "KeyName": "PrimeUpdate57_45C6CF3952D0CE201A0C6CCE89C9CB22",
@@ -20792,6 +20824,42 @@
       },
       {
         "Package": "Products",
+        "Section": "skin_greycar_a",
+        "Key": "Label",
+        "Value": "Back To The Future Time Machine"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_greycar_b",
+        "Key": "Label",
+        "Value": "Time Machine Grey"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_greycar_livery01",
+        "Key": "Label",
+        "Value": "Time Stream"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_greycar_livery02",
+        "Key": "Label",
+        "Value": "Time Frost"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_greycar",
+        "Key": "Label",
+        "Value": "Back to '55"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_greycar_b",
+        "Key": "Label",
+        "Value": "Dark '85"
+      },
+      {
+        "Package": "Products",
         "Section": "body_jekyll",
         "Key": "Label",
         "Value": "Corlay"
@@ -20864,6 +20932,42 @@
       },
       {
         "Package": "Products",
+        "Section": "anthem_ellis_orbit",
+        "Key": "Label",
+        "Value": "Orbit (Thorne Remix)"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_ellis_orbit",
+        "Key": "Artist",
+        "Value": "Ellis"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "Ellis_Orbit_ThorneRemix",
+        "Value": "Orbit (Thorne Remix)"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "Ellis_Orbit_ThorneRemix",
+        "Value": "Ellis"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "Ellis_Orbit_ThorneRemix_RLedit",
+        "Value": "Orbit (Thorne Remix)"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "Ellis_Orbit_ThorneRemix_RLedit",
+        "Value": "Ellis"
+      },
+      {
+        "Package": "Products",
         "Section": "anthem_chrome01",
         "Key": "Label",
         "Value": "I Feel It Coming"
@@ -20921,6 +21025,18 @@
         "Section": "Anthem_LionsMane02",
         "Key": "Artist",
         "Value": "David Glen Eisley & Bob Kulick"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_ellis_orbit",
+        "Key": "Label",
+        "Value": "Orbit (Thorne Remix)"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_ellis_orbit",
+        "Key": "Artist",
+        "Value": "Ellis"
       },
       {
         "Package": "Products",
@@ -21122,6 +21238,18 @@
       },
       {
         "Package": "Products",
+        "Section": "anthem_halfanorange_marktwain",
+        "Key": "Label",
+        "Value": "Mark Twain (Glacier Remix)"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_halfanorange_marktwain",
+        "Key": "Artist",
+        "Value": "Half an Orange"
+      },
+      {
+        "Package": "Products",
         "Section": "boost_chrome",
         "Key": "Label",
         "Value": "Crossfade"
@@ -21260,6 +21388,30 @@
       },
       {
         "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "Ellis_Orbit_ThorneRemix",
+        "Value": "Orbit (Thorne Remix)"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "Ellis_Orbit_ThorneRemix",
+        "Value": "Ellis"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "Ellis_Orbit_ThorneRemix_RLedit",
+        "Value": "Orbit (Thorne Remix)"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "Ellis_Orbit_ThorneRemix_RLedit",
+        "Value": "Ellis"
+      },
+      {
+        "Package": "TAGame",
         "Section": "GFxData_ChallengeManager_TA",
         "Key": "ThistleIntroTitle",
         "Value": "Choose Your House!"
@@ -21277,25 +21429,25 @@
         "Title": "Frosty Fest",
         "Description": "The wizarding world enchants Frosty Fest with magical Rewards and Hogwarts House Decals for the Aston Martin Valhalla in the Shop!",
         "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_FrostyFest_3panel_Key_672x840.png",
-        "StartTime": "2025-12-21 00:00:00",
-        "EndTime": "2025-12-24 00:00:00",
+        "StartTime": "2025-12-30 00:00:00",
+        "EndTime": "2026-01-03 00:00:00",
         "LinkType": "LinkType_Event"
       },
       {
-        "Title": "BMW M4 GT3 EVO + Bleach",
-        "Description": "BANKAI! Get behind the wheel of the razor-sharp BMW M4 GT3 EVO, complete with the Ichigo, Rukia, and Soul Reaper Decals.",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNBR_39-11_BLEACH_FNEV_3panel_672x840.png",
-        "StartTime": "2025-12-21 00:00:01",
-        "EndTime": "2025-12-24 00:00:00",
-        "ShopID": 424
+        "Title": "Back To The Future Time Machine",
+        "Description": "GREAT SCOTT! The Back to the Future Time Machine is back in the Item Shop!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_39-11_DeLorean_3panel_672x840.png",
+        "StartTime": "2025-12-30 00:00:01",
+        "EndTime": "2026-01-03 00:00:00",
+        "ShopID": 526
       },
       {
         "Title": "SpongeBob’s Patty Wagon",
         "Description": "You don't need a license to drive a sandwich. Spongebob’s Patty Wagon rolls into the Item Shop!",
         "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_39-11_Krabby-Patty-Wagon_3panel_672x840.png",
-        "StartTime": "2025-12-21 00:00:02",
-        "EndTime": "2025-12-24 00:00:00",
-        "ShopID": 425
+        "StartTime": "2025-12-30 00:00:02",
+        "EndTime": "2026-01-03 00:00:00",
+        "ShopID": 525
       }
     ],
     "MotD": "<br>"
