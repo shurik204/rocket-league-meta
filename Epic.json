@@ -17880,6 +17880,10 @@
         "Content": "/ysUtk0fBA943vElQxyXQwda8IC/GhT0wqnGBVTJJBQ="
       },
       {
+        "KeyName": "PrimeUpdate57_8BE923D162C0552F4F13F87C40191C3A",
+        "Content": "igheSX8k2gPgaMAHxadaetABhs2czXgj111HVPe45sw="
+      },
+      {
         "KeyName": "PrimeUpdate57_88E13336CA73EA19976636CD1FC122B1",
         "Content": "p0HWwwl7qHCJF52ABXTlNkZ6ZYPHYqzNcsNrxN6oJT4="
       },
@@ -21136,6 +21140,48 @@
       },
       {
         "Package": "Products",
+        "Section": "body_lawrence",
+        "Key": "Label",
+        "Value": "Defender D7X-R"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_lawrence",
+        "Key": "Label",
+        "Value": "Defender D7X-R"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_lawrence_flames",
+        "Key": "Label",
+        "Value": "Flames"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_lawrence_livery01",
+        "Key": "Label",
+        "Value": "Rally Edition"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_lawrence_livery02",
+        "Key": "Label",
+        "Value": "Matte Petra Copper"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_lawrence_stripes",
+        "Key": "Label",
+        "Value": "Stripes"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_lawrence",
+        "Key": "Label",
+        "Value": "Defender D7X-R"
+      },
+      {
+        "Package": "Products",
         "Section": "anthem_caster_sixofwands",
         "Key": "Label",
         "Value": "The Six Of Wands"
@@ -21429,25 +21475,25 @@
         "Title": "Frosty Fest",
         "Description": "The wizarding world enchants Frosty Fest with magical Rewards and Hogwarts House Decals for the Aston Martin Valhalla in the Shop!",
         "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_FrostyFest_3panel_Key_672x840.png",
-        "StartTime": "2025-12-30 00:00:00",
-        "EndTime": "2026-01-03 00:00:00",
+        "StartTime": "2026-01-03 00:00:00",
+        "EndTime": "2026-01-08 00:00:00",
         "LinkType": "LinkType_Event"
       },
       {
-        "Title": "Back To The Future Time Machine",
-        "Description": "GREAT SCOTT! The Back to the Future Time Machine is back in the Item Shop!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_39-11_DeLorean_3panel_672x840.png",
-        "StartTime": "2025-12-30 00:00:01",
-        "EndTime": "2026-01-03 00:00:00",
-        "ShopID": 526
+        "Title": "Defender D7X-R",
+        "Description": "The Defender D7X-R arrives into the Item Shop with rugged new Decals.",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_39-11_Land_Rover_Defender_3panel_672x840.png",
+        "StartTime": "2026-01-03 00:00:01",
+        "EndTime": "2026-01-08 00:00:00",
+        "ShopID": 527
       },
       {
-        "Title": "SpongeBob’s Patty Wagon",
-        "Description": "You don't need a license to drive a sandwich. Spongebob’s Patty Wagon rolls into the Item Shop!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_39-11_Krabby-Patty-Wagon_3panel_672x840.png",
-        "StartTime": "2025-12-30 00:00:02",
-        "EndTime": "2026-01-03 00:00:00",
-        "ShopID": 525
+        "Title": "Rocket Pass",
+        "Description": "Unlock new items as you tier up your Rocket Pass during Season 21. Rocket Pass Premium features items inspired by Daft Punk!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_3panel_Hero_672x840%20(1).png",
+        "StartTime": "2026-01-03 00:00:02",
+        "EndTime": "2026-01-08 00:00:00",
+        "LinkType": "LinkType_RocketPass"
       }
     ],
     "MotD": "<br>"
