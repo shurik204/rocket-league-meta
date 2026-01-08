@@ -6925,6 +6925,8 @@
       "MX_OST_Season20.Bensley_Vex_RLedit",
       "MX_OST_Season21.Ellis_Orbit_ThorneRemix",
       "MX_OST_Season21.Ellis_Orbit_ThorneRemix_RLedit",
+      "MX_OST_Season21.Estiva_ParlezVous",
+      "MX_OST_Season21.Estiva_ParlezVous_RLedit",
       "MX_OST_Season21.HalfAnOrange_MarkTwain_GlacierRemix",
       "MX_OST_Season21.HalfAnOrange_MarkTwain_GlacierRemix_RLedit",
       "MX_OST_Season21.Televisor_Neon_RLedit",
@@ -7098,11 +7100,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season21.Ellis_Orbit_ThorneRemix_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Ellis_Orbit_ThorneRemix'"
+          "Track": "AkSoundCue'MX_OST_Season21.Estiva_ParlezVous_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Estiva_ParlezVous'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.Ellis_Orbit_ThorneRemix'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.Estiva_ParlezVous'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7134,6 +7136,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season21.Ellis_Orbit_ThorneRemix'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Ellis_Orbit_ThorneRemix'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.Estiva_ParlezVous'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Estiva_ParlezVous'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Season21.HalfAnOrange_MarkTwain_GlacierRemix'",
@@ -7370,6 +7376,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season21.Ellis_Orbit_ThorneRemix'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Ellis_Orbit_ThorneRemix'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.Estiva_ParlezVous'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Estiva_ParlezVous'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Season21.HalfAnOrange_MarkTwain_GlacierRemix'",
