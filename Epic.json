@@ -14701,7 +14701,8 @@
         "RetryDelay": "NoRetry",
         "Services": [
           "Matchmaking/PlayerSearchPrivateMatch",
-          "Party/SendSignedPartyChatMessage"
+          "Party/SendSignedPartyChatMessage",
+          "Tournaments/Management/CreateTournament"
         ]
       },
       {
