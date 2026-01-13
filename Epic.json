@@ -7098,13 +7098,7 @@
   "MusicThemeConfig": {
     "Class": "MusicThemeConfig_TA",
     "Theme": {
-      "TitleTracks": [
-        {
-          "Track": "AkSoundCue'MX_OST_Season21.Estiva_ParlezVous_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Estiva_ParlezVous'"
-        }
-      ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.Estiva_ParlezVous'",
+      "TitleTracks": [],
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
