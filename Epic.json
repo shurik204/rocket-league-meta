@@ -6930,6 +6930,8 @@
       "MX_OST_Season21.HalfAnOrange_MarkTwain_GlacierRemix",
       "MX_OST_Season21.HalfAnOrange_MarkTwain_GlacierRemix_RLedit",
       "MX_OST_Season21.Televisor_Neon_RLedit",
+      "MX_OST_Season21.TonyRomeraAndSQWAD_StTropez",
+      "MX_OST_Season21.TonyRomeraAndSQWAD_StTropez_RLedit",
       "MX_OST_Season21.Numb02",
       "MX_OST_Season21.Numb02_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
@@ -7098,7 +7100,13 @@
   "MusicThemeConfig": {
     "Class": "MusicThemeConfig_TA",
     "Theme": {
-      "TitleTracks": [],
+      "TitleTracks": [
+        {
+          "Track": "AkSoundCue'MX_OST_Season21.TonyRomeraAndSQWAD_StTropez_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.TonyRomeraAndSQWAD_StTropez'"
+        }
+      ],
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.TonyRomeraAndSQWAD_StTropez'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7142,6 +7150,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Monstercat_RadSum.Televisor_Neon'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Neon'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.TonyRomeraAndSQWAD_StTropez'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.TonyRomeraAndSQWAD_StTropez'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Season21.Numb02'",
@@ -7382,6 +7394,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Monstercat_RadSum.Televisor_Neon'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Neon'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.TonyRomeraAndSQWAD_StTropez'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.TonyRomeraAndSQWAD_StTropez'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Season21.Numb02'",
@@ -17893,6 +17909,14 @@
       {
         "KeyName": "PrimeUpdate57_4D135E230392BE9E15580016BCCE0506",
         "Content": "F1hAp1pKsbfl9+15HeoxSfN1iuYDl9NRo+cHLWxkOb4="
+      },
+      {
+        "KeyName": "PrimeUpdate57_4EB99B76E407CB77A5F815FFC6EC86C2",
+        "Content": "OE6NnRejds+S/nE0JqFE4Rw8oaKA2qKDnOUlFo8RiAo="
+      },
+      {
+        "KeyName": "PrimeUpdate57_7F859AE48595639FD9B436708D4E3D57",
+        "Content": "KCiuPYKeywvG4KmIar5Hse56Fc4tTChF3S0pjLzMm8s="
       }
     ]
   },
