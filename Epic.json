@@ -17873,6 +17873,10 @@
         "Content": "TcuwCgkWHwijkt6Co2fqPUFEkaqekcJwPVUMoRTAixw="
       },
       {
+        "KeyName": "PrimeUpdate57_9B1B037858B80596344329E397A9C4FA",
+        "Content": "dHR512Pq1Pi5vDN/5rYIA01lHKfQtIOg4foTiDftMUQ="
+      },
+      {
         "KeyName": "PrimeUpdate57_393B6BAA79813887F231F8440F7CB09A",
         "Content": "ARCT5QXtXXfQrJZQCB+oVtEq2nuicz3nImq2tC/GZIs="
       },
@@ -21452,6 +21456,36 @@
   "RPCConfig": {
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
+  },
+  "BlogConfig": {
+    "Class": "BlogConfig_X",
+    "Entries": [
+      {
+        "Title": "Aura",
+        "Description": "straight aura farming",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_TriNewsPanel_AuraViralChallenge.png",
+        "StartTime": "2026-01-16 17:00:00",
+        "EndTime": "2026-01-17 17:00:00",
+        "LinkType": "LinkType_Event"
+      },
+      {
+        "Title": "Rocket Pass",
+        "Description": "Unlock new items as you tier up your Rocket Pass during Season 21. Rocket Pass Premium features items inspired by Daft Punk!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_3panel_Hero_672x840%20(1).png",
+        "StartTime": "2026-01-16 17:00:01",
+        "EndTime": "2026-01-17 17:00:00",
+        "LinkType": "LinkType_RocketPass"
+      },
+      {
+        "Title": "RLCS Boston Major Tickets Available!",
+        "Description": "The road to the Rocket League World Championship starts in Boston! Scan the QR and get your Tickets now for Major 1!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RLCS_Aftermarket_Tripanel_Boston_Major%20(2).png",
+        "StartTime": "2026-01-16 17:00:02",
+        "EndTime": "2026-01-17 17:00:00",
+        "LinkType": "LinkType_None"
+      }
+    ],
+    "MotD": "<br>"
   },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
