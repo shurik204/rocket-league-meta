@@ -3578,8 +3578,8 @@
     "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/AuraFarming/RL_U57_LTE_EventScreen_AuraViralChallenge_iojw.jpg",
     "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/AuraFarming/RL_U57_LTE_EventScreen_AuraViralChallenge_Logo_9fwuj.png",
     "EventFolderName": "Event.MemeAF26",
-    "Subtitle": "Boost Your Rocket Pass",
-    "Description": "Season Rush offers a chance to climb the Rocket Pass Tiers at supersonic speed! Complete Season Rush Challenges and level up while you race your way to the Pro Tiers."
+    "Subtitle": "Aura",
+    "Description": "straight aura farming"
   },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
