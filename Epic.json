@@ -3571,6 +3571,16 @@
       1
     ]
   },
+  "SpecialEventsConfig": {
+    "Class": "SpecialEventConfig_TA",
+    "StartTime": 1768582800,
+    "EndTime": 1768842000,
+    "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/AuraFarming/RL_U57_LTE_EventScreen_AuraViralChallenge_iojw.jpg",
+    "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/AuraFarming/RL_U57_LTE_EventScreen_AuraViralChallenge_Logo_9fwuj.png",
+    "EventFolderName": "Event.MemeAF26",
+    "Subtitle": "Boost Your Rocket Pass",
+    "Description": "Season Rush offers a chance to climb the Rocket Pass Tiers at supersonic speed! Complete Season Rush Challenges and level up while you race your way to the Pro Tiers."
+  },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
     "Reasons": [
@@ -9185,6 +9195,16 @@
         "ID": "Slytherin",
         "Color": "BEBEBE",
         "GlowColor": "006351"
+      },
+      {
+        "ID": "AuraFarmer",
+        "Color": "E1F8FF",
+        "GlowColor": "4B99F7"
+      },
+      {
+        "ID": "MinusAura",
+        "Color": "C31334",
+        "GlowColor": "4A0000"
       }
     ],
     "Titles": [
@@ -14332,6 +14352,24 @@
         "ID": "Shot_Like_The_Dop_CREATOR",
         "Category": "Community_Spotlight_Creator",
         "Text": "Shot Like The Dop"
+      },
+      {
+        "ID": "NPC",
+        "Text": "NPC"
+      },
+      {
+        "ID": "Main_Character",
+        "Text": "Main Character"
+      },
+      {
+        "ID": "Aura_Farmer",
+        "Category": "AuraFarmer",
+        "Text": "Aura Farmer"
+      },
+      {
+        "ID": "Minus_Aura",
+        "Category": "MinusAura",
+        "Text": "-1000 Aura"
       }
     ],
     "ClubTitles": [
