@@ -21457,6 +21457,36 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
+  "BlogConfig": {
+    "Class": "BlogConfig_X",
+    "Entries": [
+      {
+        "Title": "Season 21",
+        "Description": "Race under the lights in the new Parc de Paris Arena, unlock dazzling items in the Rocket Pass, and climb in Ranked Heatseeker!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_3panel_Key_672x840%20(2).png",
+        "StartTime": "2026-01-19 17:00:00",
+        "EndTime": "2026-01-23 00:00:00",
+        "LinkType": "LinkType_None"
+      },
+      {
+        "Title": "Rocket Pass",
+        "Description": "Unlock new items as you tier up your Rocket Pass during Season 21. Rocket Pass Premium features items inspired by Daft Punk!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_3panel_Hero_672x840%20(1).png",
+        "StartTime": "2026-01-19 17:00:01",
+        "EndTime": "2026-01-23 00:00:00",
+        "LinkType": "LinkType_RocketPass"
+      },
+      {
+        "Title": "RLCS Boston Major Tickets Available!",
+        "Description": "The road to the Rocket League World Championship starts in Boston! Scan the QR and get your Tickets now for Major 1!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RLCS_Aftermarket_Tripanel_Boston_Major%20(2).png",
+        "StartTime": "2026-01-19 17:00:02",
+        "EndTime": "2026-01-23 00:00:00",
+        "LinkType": "LinkType_None"
+      }
+    ],
+    "MotD": "<br>"
+  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
