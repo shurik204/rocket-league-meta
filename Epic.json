@@ -21457,36 +21457,6 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
-  "BlogConfig": {
-    "Class": "BlogConfig_X",
-    "Entries": [
-      {
-        "Title": "Aura",
-        "Description": "straight aura farming",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_TriNewsPanel_AuraViralChallenge.png",
-        "StartTime": "2026-01-17 17:00:00",
-        "EndTime": "2026-01-19 17:00:00",
-        "LinkType": "LinkType_Event"
-      },
-      {
-        "Title": "RLCS 2026",
-        "Description": "There's $6.1 million up for grabs, and it's time to give it your best shot. Scan the QR code to register for the RLCS today.",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RLCS_Aftermarket_Tripanel_TrackingQR%20(1).png",
-        "StartTime": "2026-01-17 17:00:01",
-        "EndTime": "2026-01-19 17:00:00",
-        "LinkType": "LinkType_None"
-      },
-      {
-        "Title": "RLCS Boston Major Tickets Available!",
-        "Description": "The road to the Rocket League World Championship starts in Boston! Scan the QR and get your Tickets now for Major 1!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RLCS_Aftermarket_Tripanel_Boston_Major%20(2).png",
-        "StartTime": "2026-01-17 17:00:02",
-        "EndTime": "2026-01-19 17:00:00",
-        "LinkType": "LinkType_None"
-      }
-    ],
-    "MotD": "That's it, you and me. Right now. We're having it out. Come on. Come on."
-  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
