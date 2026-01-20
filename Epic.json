@@ -3571,16 +3571,6 @@
       1
     ]
   },
-  "SpecialEventsConfig": {
-    "Class": "SpecialEventConfig_TA",
-    "StartTime": 1768582800,
-    "EndTime": 1768928400,
-    "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/AuraFarming/RL_U57_LTE_EventScreen_AuraViralChallenge_iojw.jpg",
-    "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/AuraFarming/RL_U57_LTE_EventScreen_AuraViralChallenge_Logo_9fwuj.png",
-    "EventFolderName": "Event.MemeAF26",
-    "Subtitle": "Aura",
-    "Description": "straight aura farming"
-  },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
     "Reasons": [
