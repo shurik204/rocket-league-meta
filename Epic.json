@@ -6930,6 +6930,8 @@
       "MX_OST_Season21.HalfAnOrange_MarkTwain_GlacierRemix",
       "MX_OST_Season21.HalfAnOrange_MarkTwain_GlacierRemix_RLedit",
       "MX_OST_Season21.Televisor_Neon_RLedit",
+      "MX_OST_Season21.HabstraktAndBellecour_Lasagne",
+      "MX_OST_Season21.HabstraktAndBellecour_Lasagne_RLedit",
       "MX_OST_Season21.TonyRomeraAndSQWAD_StTropez",
       "MX_OST_Season21.TonyRomeraAndSQWAD_StTropez_RLedit",
       "MX_OST_Season21.Numb02",
@@ -7102,11 +7104,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season21.TonyRomeraAndSQWAD_StTropez_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.TonyRomeraAndSQWAD_StTropez'"
+          "Track": "AkSoundCue'MX_OST_Season21.HabstraktAndBellecour_Lasagne_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.HabstraktAndBellecour_Lasagne'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.TonyRomeraAndSQWAD_StTropez'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.HabstraktAndBellecour_Lasagne'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7150,6 +7152,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Monstercat_RadSum.Televisor_Neon'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Neon'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.HabstraktAndBellecour_Lasagne'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.HabstraktAndBellecour_Lasagne'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Season21.TonyRomeraAndSQWAD_StTropez'",
@@ -7394,6 +7400,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Monstercat_RadSum.Televisor_Neon'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Televisor_Neon'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.HabstraktAndBellecour_Lasagne'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.HabstraktAndBellecour_Lasagne'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Season21.TonyRomeraAndSQWAD_StTropez'",
@@ -17917,6 +17927,14 @@
       {
         "KeyName": "PrimeUpdate57_00F6EAA14FAE66FE6E5D494B141742D6",
         "Content": "0HWnmDU8OSunPP0pqeBaI5tBrytY+wRrQ9ltPwAh8xk="
+      },
+      {
+        "KeyName": "PrimeUpdate57_47823B257BDEFFFFA69577E633EC850A",
+        "Content": "o2BVFavKgcbdSOTPXGHNpgNn2RcEqrVveaDrSkSlglk="
+      },
+      {
+        "KeyName": "PrimeUpdate57_92D73769B8F6B8DDEACAD18D98F91C0E",
+        "Content": "IMEZIvkTQtJnTMXjfkzTXarFhU1ee5JohQLIpht49+Y="
       },
       {
         "KeyName": "PrimeUpdate57_E29CDC661A12BD09F1D0DD406BCB9269",
