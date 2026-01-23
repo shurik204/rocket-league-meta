@@ -17859,6 +17859,10 @@
         "Content": "+Ebp2g9u1j43OTZ2WEPo6qWpa57jPsbqChmEBW8PuQo="
       },
       {
+        "KeyName": "PrimeUpdate57_6973F185F7F305C4FED77B406408C71F",
+        "Content": "bDjyNQP4ewksO7/qvcVcLxS3F3AoH6g7Xtaum8tPuxk="
+      },
+      {
         "KeyName": "PrimeUpdate57_145C0C34C82C807512CD96F87BD541B0",
         "Content": "MLMR8QaJXgZ6TSS0lOZto1UoCGSNKd/9McXXpc5pYwI="
       },
@@ -21494,6 +21498,18 @@
         "Section": "skin_octane_gherkinlte",
         "Key": "Label",
         "Value": "Cheesy Poofs"
+      },
+      {
+        "Package": "CertifiedStat",
+        "Section": "Demolished",
+        "Key": "Rank0",
+        "Value": "Exploder"
+      },
+      {
+        "Package": "CertifiedStat",
+        "Section": "Losses",
+        "Key": "Rank0",
+        "Value": "Underdog"
       }
     ]
   },
