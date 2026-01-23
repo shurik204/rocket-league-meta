@@ -138,18 +138,6 @@
             "Frequency": 1.3
           },
           {
-            "Map": "MapList.Maps.park_p",
-            "Frequency": 0.9
-          },
-          {
-            "Map": "MapList.Maps.park_night_p",
-            "Frequency": 0.8
-          },
-          {
-            "Map": "MapList.Maps.park_rainy_p",
-            "Frequency": 0.8
-          },
-          {
             "Map": "MapList.Maps.stadium_p",
             "Frequency": 1.2
           },
@@ -297,18 +285,6 @@
           {
             "Map": "MapList.Maps.paname_dusk_p",
             "Frequency": 1.3
-          },
-          {
-            "Map": "MapList.Maps.park_p",
-            "Frequency": 0.9
-          },
-          {
-            "Map": "MapList.Maps.park_night_p",
-            "Frequency": 0.8
-          },
-          {
-            "Map": "MapList.Maps.park_rainy_p",
-            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.stadium_p",
@@ -497,18 +473,6 @@
           {
             "Map": "MapList.Maps.paname_dusk_p",
             "Frequency": 1.3
-          },
-          {
-            "Map": "MapList.Maps.park_p",
-            "Frequency": 0.9
-          },
-          {
-            "Map": "MapList.Maps.park_night_p",
-            "Frequency": 0.8
-          },
-          {
-            "Map": "MapList.Maps.park_rainy_p",
-            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.stadium_p",
@@ -3570,6 +3534,16 @@
     "ForcedDetailsGroups": [
       1
     ]
+  },
+  "SpecialEventsConfig": {
+    "Class": "SpecialEventConfig_TA",
+    "StartTime": 1769126400,
+    "EndTime": 1770336000,
+    "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/SouthPark/RL_U57.1_LTE_SouthPark_Event_sdf645.jpg",
+    "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/SouthPark/RL_U57.1_LTE_SouthPark_EventLogo_sad5f4.png",
+    "EventFolderName": "Event.SouthPark",
+    "Subtitle": "Cartman's Crash Out",
+    "Description": "Stan, Kyle, Cartman, Kenny, and Butters have driven all the way from South Park, Colorado, to the arena! Complete Challenges to unlock Toppers that'll have the gang in charge of your Battle-Cars and an animated Cheesy Poofs Octane Decal."
   },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
@@ -17967,6 +17941,10 @@
       {
         "KeyName": "PrimeUpdate57_7F859AE48595639FD9B436708D4E3D57",
         "Content": "KCiuPYKeywvG4KmIar5Hse56Fc4tTChF3S0pjLzMm8s="
+      },
+      {
+        "KeyName": "PrimeUpdate57_1_899D78BFFBA7AEF27F62712C16882652",
+        "Content": "CG/1XQmY41bPdhRHqig8myqOu7GjASmzw8gOyCHBeEM="
       }
     ]
   },
