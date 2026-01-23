@@ -17875,16 +17875,8 @@
         "Content": "/+jai2q/3TfH9wplx6znMuMF7lWsvP5ZRhr90IWjKNo="
       },
       {
-        "KeyName": "PrimeUpdate57_87AF2B3514656129E1C82567C7CEBF70",
-        "Content": "5x0ZhL0EMiDmOTM+GmPWgoazZAV96ZoJ4TUonmhzyVA="
-      },
-      {
         "KeyName": "PrimeUpdate57_306C73B9F5BA0CF2718946DA8291275E",
         "Content": "kKF5NoSl8YT2reifQ5YWeyTaeVxElnRPhhUQL9Q16ps="
-      },
-      {
-        "KeyName": "PrimeUpdate57_F1220AA32F763A395F38E9EB619FDB44",
-        "Content": "d9CW4lpEBmVZGv9x6twpuIgpo72jEFRZHBEagbNSXuE="
       },
       {
         "KeyName": "PrimeUpdate57_249FD98E4BA1B52EF059B315064F5A8D",
@@ -21436,6 +21428,72 @@
         "Section": "GFxData_ChallengeManager_TA",
         "Key": "ThistleIntroTitle",
         "Value": "Choose Your House!"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_gherkinlte01",
+        "Key": "Label",
+        "Value": "Stan Marsh"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_gherkinlte02",
+        "Key": "Label",
+        "Value": "Kyle Broflovski"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_gherkinlte03",
+        "Key": "Label",
+        "Value": "Eric Cartman"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_gherkinlte04",
+        "Key": "Label",
+        "Value": "Kenny McCormick"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_gherkinlte05",
+        "Key": "Label",
+        "Value": "Butters Stotch"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_lime_gherkin01",
+        "Key": "Label",
+        "Value": "Stan Marsh"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_lime_gherkin02",
+        "Key": "Label",
+        "Value": "Kyle Broflovski"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_lime_gherkin03",
+        "Key": "Label",
+        "Value": "Eric Cartman"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_lime_gherkin04",
+        "Key": "Label",
+        "Value": "Kenny McCormick"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_lime_gherkin05",
+        "Key": "Label",
+        "Value": "Butters Stotch"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_octane_gherkinlte",
+        "Key": "Label",
+        "Value": "Cheesy Poofs"
       }
     ]
   },
@@ -21447,12 +21505,12 @@
     "Class": "BlogConfig_X",
     "Entries": [
       {
-        "Title": "Champions Immortalized",
-        "Description": "2025 Rocket League World Champions Atomic, Beastmode and Daniel join 1v1 Champion Nwpo on Champion’s Field!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57-1_RLCS_Banner_Newspanel_1920x1080.jpg",
-        "StartTime": "2026-01-22 00:00:00",
-        "EndTime": "2026-01-23 00:00:00",
-        "LinkType": "LinkType_None"
+        "Title": "Cartman’s Crash Out",
+        "Description": "Complete Challenges to unlock Cartman, Stan, Kyle, and Kenny Toppers! Then score Decals for each boy in the Shop!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57-1_SouthPark_LTE_Newspanel_Key_1920x1080.jpg",
+        "StartTime": "2026-01-23 00:00:00",
+        "EndTime": "2026-01-25 17:00:00",
+        "LinkType": "LinkType_Event"
       }
     ],
     "MotD": "<br>"
