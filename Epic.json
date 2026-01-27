@@ -9171,6 +9171,11 @@
         "GlowColor": "006351"
       },
       {
+        "ID": "PocketLeague",
+        "Color": "FFA900",
+        "GlowColor": "0062FF"
+      },
+      {
         "ID": "AuraFarmer",
         "Color": "E1F8FF",
         "GlowColor": "4B99F7"
@@ -12048,6 +12053,7 @@
       },
       {
         "ID": "RLSS_PocketLeagueMaster",
+        "Category": "PocketLeague",
         "Text": "Pocket League Master"
       },
       {
