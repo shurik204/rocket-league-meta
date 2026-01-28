@@ -6910,6 +6910,8 @@
       "MX_OST_Season21.TonyRomeraAndSQWAD_StTropez_RLedit",
       "MX_OST_Season21.Numb02",
       "MX_OST_Season21.Numb02_RLedit",
+      "MX_OST_Season21.NoManaAndLeylaDiamondi_LuxorAeterna",
+      "MX_OST_Season21.NoManaAndLeylaDiamondi_LuxorAeterna_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -7078,11 +7080,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season21.HabstraktAndBellecour_Lasagne_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.HabstraktAndBellecour_Lasagne'"
+          "Track": "AkSoundCue'MX_OST_Season21.NoManaAndLeylaDiamondi_LuxorAeterna_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.NoManaAndLeylaDiamondi_LuxorAeterna'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.HabstraktAndBellecour_Lasagne'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.NoManaAndLeylaDiamondi_LuxorAeterna'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7138,6 +7140,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season21.Numb02'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Numb02'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.NoManaAndLeylaDiamondi_LuxorAeterna'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.NoManaAndLeylaDiamondi_LuxorAeterna'"
             }
           ]
         },
@@ -7386,6 +7392,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season21.Numb02'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Numb02'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.NoManaAndLeylaDiamondi_LuxorAeterna'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.NoManaAndLeylaDiamondi_LuxorAeterna'"
             }
           ]
         },
@@ -17947,6 +17957,14 @@
       {
         "KeyName": "PrimeUpdate57_1_899D78BFFBA7AEF27F62712C16882652",
         "Content": "CG/1XQmY41bPdhRHqig8myqOu7GjASmzw8gOyCHBeEM="
+      },
+      {
+        "KeyName": "PrimeUpdate57_1_7E6EB67A68C2852E4846A468B115A085",
+        "Content": "ais0vYFDSttxpSftQaKkj5qDUZUgmMPqH0jsZwoYEg8="
+      },
+      {
+        "KeyName": "PrimeUpdate57_1_FB53C0448C006E63E41BACC063E680AF",
+        "Content": "V5wz1IElW+nD0wymJFLSRHErJBkDV10kEfAMvWyl9c8="
       }
     ]
   },
