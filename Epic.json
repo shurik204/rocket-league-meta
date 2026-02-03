@@ -21558,25 +21558,25 @@
         "Title": "Ford F-150",
         "Description": "Built tough and back in action, the Ford F-150 returns in the Item Shop!",
         "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_39-30_Ford-F150_3panel_672x840.png",
-        "StartTime": "2026-01-30 00:00:00",
-        "EndTime": "2026-02-03 00:00:00",
+        "StartTime": "2026-02-03 00:00:00",
+        "EndTime": "2026-02-06 01:00:00",
         "ShopID": 452
+      },
+      {
+        "Title": "RLCS Boston Major Tickets Available!",
+        "Description": "The road to the Rocket League World Championship starts in Boston! Scan the QR and get your Tickets now for Major 1!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RLCS_Aftermarket_Tripanel_Boston_Major%20(2).png",
+        "StartTime": "2026-02-03 00:00:01",
+        "EndTime": "2026-02-06 01:00:00",
+        "LinkType": "LinkType_None"
       },
       {
         "Title": "Cartman’s Crash Out",
         "Description": "Complete Challenges to unlock Cartman, Stan, Kyle, and Kenny Toppers! Then score Decals for each boy in the Shop!",
         "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57-1_SouthPark_LTE_3panel_672x840.png",
-        "StartTime": "2026-01-30 00:00:01",
-        "EndTime": "2026-02-03 00:00:00",
+        "StartTime": "2026-02-03 00:00:02",
+        "EndTime": "2026-02-06 01:00:00",
         "LinkType": "LinkType_Event"
-      },
-      {
-        "Title": "Rocket Pass",
-        "Description": "Unlock new items as you tier up your Rocket Pass during Season 21. Rocket Pass Premium features items inspired by Daft Punk!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_3panel_Hero_672x840%20(1).png",
-        "StartTime": "2026-01-30 00:00:02",
-        "EndTime": "2026-02-03 00:00:00",
-        "LinkType": "LinkType_RocketPass"
       }
     ],
     "MotD": "<br>"
