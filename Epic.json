@@ -3535,16 +3535,6 @@
       1
     ]
   },
-  "SpecialEventsConfig": {
-    "Class": "SpecialEventConfig_TA",
-    "StartTime": 1769126400,
-    "EndTime": 1770336000,
-    "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/SouthPark/RL_U57.1_LTE_SouthPark_Event_sdf645.jpg",
-    "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/SouthPark/RL_U57.1_LTE_SouthPark_EventLogo_sad5f4.png",
-    "EventFolderName": "Event.SouthPark",
-    "Subtitle": "Cartman's Crash Out",
-    "Description": "Stan, Kyle, Cartman, Kenny, and Butters have driven all the way from South Park, Colorado, to the arena! Complete Challenges to unlock Toppers that'll have the gang in charge of your Battle-Cars and an animated Cheesy Poofs Octane Decal."
-  },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
     "Reasons": [
