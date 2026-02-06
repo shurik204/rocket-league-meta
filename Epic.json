@@ -21599,6 +21599,20 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
+  "BlogConfig": {
+    "Class": "BlogConfig_X",
+    "Entries": [
+      {
+        "Title": "McLaren P1",
+        "Description": "Built to break records, the McLaren P1™ rolls in with Decals and Wheels in the Item Shop",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_39-40_McLarenP1_Newspanel_Key_1920x1080.jpg",
+        "StartTime": "2026-02-06 01:00:00",
+        "EndTime": "2026-02-06 17:00:00",
+        "ShopID": 450
+      }
+    ],
+    "MotD": "<br>"
+  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
