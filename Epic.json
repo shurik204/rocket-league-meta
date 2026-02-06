@@ -17965,6 +17965,10 @@
         "Content": "KCiuPYKeywvG4KmIar5Hse56Fc4tTChF3S0pjLzMm8s="
       },
       {
+        "KeyName": "PrimeUpdate57_1_4A3D7913BE5BAA142DE1EF49B5047440",
+        "Content": "z3Lpi3MiQ6YmTA6DCjPGJX8VZlqIg8CH8mN4Aro0Rd4="
+      },
+      {
         "KeyName": "PrimeUpdate57_1_C4A11FD6AD1CA6437D4789332AD521DD",
         "Content": "K4EhbfTq2bIOQdWuLEFirgMiCGRUocSG5usRXRAwOMA="
       },
@@ -21478,6 +21482,42 @@
         "Section": "GFxData_ChallengeManager_TA",
         "Key": "ThistleIntroTitle",
         "Value": "Choose Your House!"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_arrow",
+        "Key": "Label",
+        "Value": "McLaren P1"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_arrow",
+        "Key": "Label",
+        "Value": "McLaren P1"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_rl159",
+        "Key": "Label",
+        "Value": "McLaren P1"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_arrow_flames",
+        "Key": "Label",
+        "Value": "Flames"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_arrow_stripes",
+        "Key": "Label",
+        "Value": "Stripes"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_arrow_livery01",
+        "Key": "Label",
+        "Value": "Fearless"
       },
       {
         "Package": "Products",
