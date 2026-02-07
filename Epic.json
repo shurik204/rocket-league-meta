@@ -21624,25 +21624,25 @@
         "Title": "Goalentines",
         "Description": "Happy Goalentines! Earn Goalentines Gifts just by playing, plus complete Challenges to unlock Decals and the Cupid’s Bullseye Goal Explosion!",
         "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57-1_Goalentines_3panel_Key_672x840.png",
-        "StartTime": "2026-02-06 17:00:00",
-        "EndTime": "2026-02-08 17:00:00",
+        "StartTime": "2026-02-07 17:00:00",
+        "EndTime": "2026-02-10 01:00:00",
         "LinkType": "LinkType_Event"
+      },
+      {
+        "Title": "RLCS Paris Pre-sale",
+        "Description": "Ticket Pre-sale for the RLCS Paris Major starts February 11th. Scan the QR code to sign up for pre-sale",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RLCS_PARISMA2_PRE-SALE_QR%20(1).png",
+        "StartTime": "2026-02-07 17:00:01",
+        "EndTime": "2026-02-10 01:00:00",
+        "LinkType": "LinkType_None"
       },
       {
         "Title": "McLaren P1",
         "Description": "Built to break records, the McLaren P1™ rolls in with Decals and Wheels in the Item Shop",
         "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNEV_39-40_McLarenP1_3panel_Key_672x840.png",
-        "StartTime": "2026-02-06 17:00:01",
-        "EndTime": "2026-02-08 17:00:00",
+        "StartTime": "2026-02-07 17:00:02",
+        "EndTime": "2026-02-10 01:00:00",
         "ShopID": 450
-      },
-      {
-        "Title": "Rocket Pass",
-        "Description": "Unlock new items as you tier up your Rocket Pass during Season 21. Rocket Pass Premium features items inspired by Daft Punk!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_3panel_Hero_672x840%20(1).png",
-        "StartTime": "2026-02-06 17:00:02",
-        "EndTime": "2026-02-08 17:00:00",
-        "LinkType": "LinkType_RocketPass"
       }
     ],
     "MotD": "<br>"
