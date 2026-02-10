@@ -21806,5 +21806,15 @@
         "ImageName": "Icon_SnowDay"
       }
     ]
+  },
+  "ClassPropertyConfig": {
+    "Class": "ClassPropertyConfig_X",
+    "Overrides": [
+      {
+        "Class": "GFxData_MusicPlayer_TA",
+        "Property": "bDebugMusicPlayer",
+        "Value": "true"
+      }
+    ]
   }
 }
