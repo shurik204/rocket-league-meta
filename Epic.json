@@ -2452,6 +2452,24 @@
       10000
     ]
   },
+  "NonStandardSoccarDoubles": {
+    "Class": "PlaylistSettings_TA",
+    "PlaylistID": 78,
+    "PlayerCount": 4,
+    "bApplyQuitPenalty": "true",
+    "bAllowClubs": "true",
+    "bIsMicroEventPlaylist": "true",
+    "MapSetName": "SoccarNonStandard",
+    "Title": "Non-Standard Soccar Doubles",
+    "Description": "Soccar featuring a wide variety of Arenas!",
+    "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_CasualCompetitive.playlist_2v2_keyart",
+    "bAllowStayAsParty": "true",
+    "PopulationBuckets": [
+      1,
+      5000,
+      10000
+    ]
+  },
   "SnowdayTerritory": {
     "Class": "PlaylistSettings_TA",
     "PlaylistID": 79,
