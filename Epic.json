@@ -6295,6 +6295,14 @@
       {
         "Name": "HalfanOrangeAndWRLD_Scared",
         "ExternalUrl": "https://open.spotify.com/track/5jS0t1eI0x1P526hLfT0Gp"
+      },
+      {
+        "Name": "wev_shigotowerk_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/63krCWOT3qW7Ztj3IXVPKh"
+      },
+      {
+        "Name": "wev_shigotowerk",
+        "ExternalUrl": "https://open.spotify.com/track/63krCWOT3qW7Ztj3IXVPKh"
       }
     ]
   },
@@ -7004,6 +7012,8 @@
       "MX_OST_Season21.NoManaAndLeylaDiamondi_LuxorAeterna_RLedit",
       "MX_OST_Season21.HalfanOrangeAndWRLD_Scared",
       "MX_OST_Season21.HalfanOrangeAndWRLD_Scared_RLedit",
+      "MX_OST_Season21.wev_shigotowerk",
+      "MX_OST_Season21.wev_shigotowerk_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -7172,11 +7182,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season21.HalfanOrangeAndWRLD_Scared_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.HalfanOrangeAndWRLD_Scared'"
+          "Track": "AkSoundCue'MX_OST_Season21.wev_shigotowerk_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.wev_shigotowerk'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.HalfanOrangeAndWRLD_Scared'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.wev_shigotowerk'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7240,6 +7250,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season21.HalfanOrangeAndWRLD_Scared'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.HalfanOrangeAndWRLD_Scared'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.wev_shigotowerk'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.wev_shigotowerk'"
             }
           ]
         },
@@ -7496,6 +7510,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season21.HalfanOrangeAndWRLD_Scared'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.HalfanOrangeAndWRLD_Scared'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.wev_shigotowerk'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.wev_shigotowerk'"
             }
           ]
         },
@@ -18089,6 +18107,14 @@
       {
         "KeyName": "PrimeUpdate57_1_F00B1F4FE1B9D47D8BE9F3B044BA714C",
         "Content": "hTwoQTOMUZqGNhbjflvavY+EeEBVJ4MZ7KN5pXild+k="
+      },
+      {
+        "KeyName": "PrimeUpdate57_1_F6D9978DB43CDE9A1C5540B0D191D700",
+        "Content": "hRmo4wNmJ/BURQv4/vhopSq0h4nmqdnao6QbPZc0Tyg="
+      },
+      {
+        "KeyName": "PrimeUpdate57_1_88292212FCCEA5C66FB9CCF743677B9C",
+        "Content": "yOPk+mCoaBIcNfYcQQ9izqPzIeKiLmNSJ7pkSiO0/5Q="
       }
     ]
   },
