@@ -21723,36 +21723,6 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
-  "BlogConfig": {
-    "Class": "BlogConfig_X",
-    "Entries": [
-      {
-        "Title": "Goalentines",
-        "Description": "Happy Goalentines! Earn Goalentines Gifts just by playing, plus complete Challenges to unlock Decals and the Cupid’s Bullseye Goal Explosion!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57-1_Goalentines_3panel_Key_672x840.png",
-        "StartTime": "2026-02-16 00:00:00",
-        "EndTime": "2026-02-16 17:00:00",
-        "LinkType": "LinkType_Event"
-      },
-      {
-        "Title": "RLCS Paris Tickets LIVE",
-        "Description": "Scan the code above to grab your tickets for the largest RLCS event yet!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/rl_aftermarket_RLCS-PARIS_LIVE_NOW_tripanel.png",
-        "StartTime": "2026-02-16 00:00:01",
-        "EndTime": "2026-02-16 17:00:00",
-        "LinkType": "LinkType_None"
-      },
-      {
-        "Title": "Rocket Pass",
-        "Description": "Unlock new items as you tier up your Rocket Pass during Season 21. Rocket Pass Premium features items inspired by Daft Punk!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_S21_3panel_Hero_672x840%20(1).png",
-        "StartTime": "2026-02-16 00:00:02",
-        "EndTime": "2026-02-16 17:00:00",
-        "LinkType": "LinkType_RocketPass"
-      }
-    ],
-    "MotD": "<br>"
-  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
