@@ -3553,16 +3553,6 @@
       1
     ]
   },
-  "SpecialEventsConfig": {
-    "Class": "SpecialEventConfig_TA",
-    "StartTime": 1770397200,
-    "EndTime": 1771261200,
-    "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Goalentines/RL_U39.40_Goalentines_EventScreen_ua9fh.jpg",
-    "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Goalentines/RL_U39.40_Goalentines_EventScreen_Logo_agd9ui.png",
-    "EventFolderName": "Event.Goalentines2026",
-    "Subtitle": "Goalentines",
-    "Description": "Love is in the arena! Earn Goalentines Gifts by playing matches and open them for Special, Deluxe, or Import items.\nComplete Goalentines Challenges to unlock heart racing rewards like Cupid's Bullseye Goal Explosion, Teddy Bear Topper, and Hearty Party Decal!"
-  },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
     "Reasons": [
