@@ -3553,6 +3553,16 @@
       1
     ]
   },
+  "SpecialEventsConfig": {
+    "Class": "SpecialEventConfig_TA",
+    "StartTime": 1771347600,
+    "EndTime": 1772211600,
+    "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/LockedIn/RL_LockedIn_Event_aoug.jpg",
+    "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/LockedIn/RL_LockedIn_EventLogo_af98sde.png",
+    "EventFolderName": "Event.RLCS26",
+    "Subtitle": "Locked In",
+    "Description": "Lock in and take on Ranked challenges to unlock Wheels, a Player Title, a Boost, and more."
+  },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
     "Reasons": [
@@ -14456,6 +14466,10 @@
         "Text": "Heartbreaker"
       },
       {
+        "ID": "Wicked_Good",
+        "Text": "Wicked Good"
+      },
+      {
         "ID": "NPC",
         "Text": "NPC"
       },
@@ -18083,6 +18097,10 @@
         "Content": "u79jxmvzc9U798IkgCDbOybVBE2R6l7zqxIJ/FgP/mI="
       },
       {
+        "KeyName": "PrimeUpdate57_1_1C6B3221D077D7BC7EE517A006940090",
+        "Content": "3N6cmhfuRlfuEQyUaxJSdaRXZAJrOVL53wj/gul/sNA="
+      },
+      {
         "KeyName": "PrimeUpdate57_1_7E6EB67A68C2852E4846A468B115A085",
         "Content": "ais0vYFDSttxpSftQaKkj5qDUZUgmMPqH0jsZwoYEg8="
       },
@@ -21704,6 +21722,48 @@
         "Section": "skin_octane_gherkinlte",
         "Key": "Label",
         "Value": "Cheesy Poofs"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_2026rlcsboston",
+        "Key": "Label",
+        "Value": "SPEED DEMON"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_2026rlcsboston",
+        "Key": "Artist",
+        "Value": "BARELY ALIVE"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_s21rlcs",
+        "Key": "Label",
+        "Value": "Successory"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_cutthroat",
+        "Key": "Label",
+        "Value": "Match Scratch"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_musclecar_pacificislandertribal",
+        "Key": "Label",
+        "Value": "Triballer"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_rl231",
+        "Key": "Label",
+        "Value": "Frame-Reign"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_sport73",
+        "Key": "Label",
+        "Value": "Vorteka"
       },
       {
         "Package": "CertifiedStat",
