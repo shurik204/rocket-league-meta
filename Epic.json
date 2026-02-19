@@ -14504,6 +14504,22 @@
         "ID": "Minus_Aura",
         "Category": "MinusAura",
         "Text": "-1000 Aura"
+      },
+      {
+        "ID": "Peak",
+        "Text": "Peak"
+      },
+      {
+        "ID": "Cracked",
+        "Text": "Cracked"
+      },
+      {
+        "ID": "Lurking_Legend",
+        "Text": "Lurking Legend"
+      },
+      {
+        "ID": "Washed",
+        "Text": "Washed"
       }
     ],
     "ClubTitles": [
