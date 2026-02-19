@@ -6303,6 +6303,14 @@
       {
         "Name": "wev_shigotowerk",
         "ExternalUrl": "https://open.spotify.com/track/63krCWOT3qW7Ztj3IXVPKh"
+      },
+      {
+        "Name": "BARELYALIVE_SPEEDDEMON_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/3RwMwE1qf4YtewI7wabXT9"
+      },
+      {
+        "Name": "BARELYALIVE_SPEEDDEMON",
+        "ExternalUrl": "https://open.spotify.com/track/3RwMwE1qf4YtewI7wabXT9"
       }
     ]
   },
@@ -7014,6 +7022,8 @@
       "MX_OST_Season21.HalfanOrangeAndWRLD_Scared_RLedit",
       "MX_OST_Season21.wev_shigotowerk",
       "MX_OST_Season21.wev_shigotowerk_RLedit",
+      "MX_OST_Season21.BARELYALIVE_SPEEDDEMON",
+      "MX_OST_Season21.BARELYALIVE_SPEEDDEMON_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -7182,11 +7192,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season21.wev_shigotowerk_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.wev_shigotowerk'"
+          "Track": "AkSoundCue'MX_OST_Season21.BARELYALIVE_SPEEDDEMON_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.BARELYALIVE_SPEEDDEMON'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.wev_shigotowerk'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.BARELYALIVE_SPEEDDEMON'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7254,6 +7264,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season21.wev_shigotowerk'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.wev_shigotowerk'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.BARELYALIVE_SPEEDDEMON'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.BARELYALIVE_SPEEDDEMON'"
             }
           ]
         },
@@ -7514,6 +7528,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season21.wev_shigotowerk'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.wev_shigotowerk'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.BARELYALIVE_SPEEDDEMON'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.BARELYALIVE_SPEEDDEMON'"
             }
           ]
         },
@@ -18123,6 +18141,14 @@
       {
         "KeyName": "PrimeUpdate57_1_88292212FCCEA5C66FB9CCF743677B9C",
         "Content": "yOPk+mCoaBIcNfYcQQ9izqPzIeKiLmNSJ7pkSiO0/5Q="
+      },
+      {
+        "KeyName": "PrimeUpdate57_1_39B8E2CE7627ADD60BFB4C67B14FA8B8",
+        "Content": "ztaihmpaXN53VMdBCt9VaA9IhrdVMeydsbH8mm/pH24="
+      },
+      {
+        "KeyName": "PrimeUpdate57_1_849609CDCBB78E31418006D297020E44",
+        "Content": "KU9TQiAqmQIL11eNyM55eSPEM05+U1uRATeTl0uNucw="
       }
     ]
   },
@@ -21782,6 +21808,36 @@
   "RPCConfig": {
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
+  },
+  "BlogConfig": {
+    "Class": "BlogConfig_X",
+    "Entries": [
+      {
+        "Title": "RLCS Boston Major",
+        "Description": "Catch all the action live as the best of the best face off at the Boston Major this weekend and earn your Drop Rush rewards!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/rl_aftermarket_RLCS_BOSTONMA1_WATCHANDEARN_tripanelv2.png",
+        "StartTime": "2026-02-19 16:00:00",
+        "EndTime": "2026-02-21 00:00:00",
+        "LinkType": "LinkType_Event"
+      },
+      {
+        "Title": "Locked In",
+        "Description": "Lock in twin, it’s time. Complete Challenges in Ranked to unlock Wheels, Decals, and a Boost!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57-1_LockedIn_LTE_3panel_672x840.png",
+        "StartTime": "2026-02-19 16:00:01",
+        "EndTime": "2026-02-21 00:00:00",
+        "LinkType": "LinkType_Event"
+      },
+      {
+        "Title": "Drop Rush",
+        "Description": "Drop Rush is back! Earn rewards for watching your favorite Rocket League content as Drops roll out on Twitch and TikTok.",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_DropRush_2-0_Logo_3panel_672x840.png",
+        "StartTime": "2026-02-19 16:00:02",
+        "EndTime": "2026-02-21 00:00:00",
+        "LinkType": "LinkType_None"
+      }
+    ],
+    "MotD": "<br>"
   },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
