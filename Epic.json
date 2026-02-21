@@ -21881,12 +21881,28 @@
     "Class": "BlogConfig_X",
     "Entries": [
       {
+        "Title": "RLCS Boston Major",
+        "Description": "Catch all the action live as the best of the best face off at the Boston Major this weekend and earn your Drop Rush rewards!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/rl_aftermarket_RLCS_BOSTONMA1_WATCHANDEARN_tripanelv2.png",
+        "StartTime": "2026-02-21 16:00:00",
+        "EndTime": "2026-02-22 16:00:00",
+        "LinkType": "LinkType_None"
+      },
+      {
         "Title": "Mercedes-Benz + Solo Leveling: ARISE",
         "Description": "Awaken the shadows. The Mercedes-Benz CLA arrives with Sung Jinwoo and Igris Decals, now in the Item Shop.",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNECO_39-50_SoloLeveling-FNEV_Newspanel_Key_1920x1080.jpg",
-        "StartTime": "2026-02-21 00:00:00",
-        "EndTime": "2026-02-21 16:00:00",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/FNECO_39-50_SoloLeveling-FNEV_3panel_672x840.png",
+        "StartTime": "2026-02-21 16:00:01",
+        "EndTime": "2026-02-22 16:00:00",
         "ShopID": 451
+      },
+      {
+        "Title": "Drop Rush",
+        "Description": "Drop Rush is back! Earn rewards for watching your favorite Rocket League content as Drops roll out on Twitch and TikTok.",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_DropRush_2-0_Logo_3panel_672x840.png",
+        "StartTime": "2026-02-21 16:00:02",
+        "EndTime": "2026-02-22 16:00:00",
+        "LinkType": "LinkType_None"
       }
     ],
     "MotD": "Boost Loading 20% ██¤¤¤¤¤¤¤¤"
