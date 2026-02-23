@@ -21881,11 +21881,11 @@
     "Class": "BlogConfig_X",
     "Entries": [
       {
-        "Title": "RLCS Boston Major",
-        "Description": "Catch all the action live as the best of the best face off at the Boston Major this weekend and earn your Drop Rush rewards!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/rl_aftermarket_RLCS_BOSTONMA1_WATCHANDEARN_newspanel%20(2)%20(1).png",
-        "StartTime": "2026-02-22 16:00:00",
-        "EndTime": "2026-02-23 01:00:00",
+        "Title": "LOADING",
+        "Description": "Every second matters",
+        "ImageURL": "RL_U57_CGTeaser1_Newspanel_Key_1920x1080.jpg",
+        "StartTime": "2026-02-23 01:00:00",
+        "EndTime": "2026-02-23 17:00:00",
         "LinkType": "LinkType_None"
       }
     ],
