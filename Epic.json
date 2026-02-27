@@ -14534,6 +14534,10 @@
       {
         "ID": "Washed",
         "Text": "Washed"
+      },
+      {
+        "ID": "RLCS_BOSTON_2026_ATTENDEE",
+        "Text": "RLCS BOSTON 2026 ATTENDEE"
       }
     ],
     "ClubTitles": [
