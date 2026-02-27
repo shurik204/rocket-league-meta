@@ -3556,7 +3556,7 @@
   "SpecialEventsConfig": {
     "Class": "SpecialEventConfig_TA",
     "StartTime": 1772211600,
-    "EndTime": 1773237600,
+    "EndTime": 1773241200,
     "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen.jpg",
     "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen_logo.png",
     "EventFolderName": "Event.FebruarySeasonRush(S21)",
@@ -3595,6 +3595,20 @@
   "ItemShopNotificationsConfig": {
     "Class": "ItemShopNotificationsConfig_TA",
     "bItemShopNotificationsEnabled": "true"
+  },
+  "EngagementEventsConfig": {
+    "Class": "EngagementEventsConfig_TA",
+    "bEngagementEventIconsEnabled": "true",
+    "Events": [
+      {
+        "Description": "Double XP",
+        "EventTypes": [
+          "EngagementEventType_DoubleXP"
+        ],
+        "EpochStartTime": 1772211300,
+        "EpochEndTime": 1773241200
+      }
+    ]
   },
   "EulaConfig": {
     "Class": "EulaConfig_TA",
