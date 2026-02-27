@@ -21891,6 +21891,20 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
+  "BlogConfig": {
+    "Class": "BlogConfig_X",
+    "Entries": [
+      {
+        "Title": "First Look",
+        "Description": "Reset the Meta",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_CGTeaser2_Newspanel_Key_1920x1080%20(2).jpg",
+        "StartTime": "2026-02-27 17:00:00",
+        "EndTime": "2026-02-28 17:00:00",
+        "LinkType": "LinkType_None"
+      }
+    ],
+    "MotD": "<br>"
+  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
