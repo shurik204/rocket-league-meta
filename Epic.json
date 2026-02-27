@@ -3555,13 +3555,13 @@
   },
   "SpecialEventsConfig": {
     "Class": "SpecialEventConfig_TA",
-    "StartTime": 1771347600,
-    "EndTime": 1772211600,
-    "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/LockedIn/RL_LockedIn_Event_aoug.jpg",
-    "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/LockedIn/RL_LockedIn_EventLogo_af98sde.png",
-    "EventFolderName": "Event.RLCS26",
-    "Subtitle": "Locked In",
-    "Description": "Lock in and take on Ranked challenges to unlock Wheels, a Player Title, a Boost, and more."
+    "StartTime": 1772211600,
+    "EndTime": 1773237600,
+    "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen.jpg",
+    "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen_logo.png",
+    "EventFolderName": "Event.FebruarySeasonRush(S21)",
+    "Subtitle": "Boost Your Rocket Pass",
+    "Description": "Season Rush offers a chance to climb the Rocket Pass Tiers at supersonic speed! Complete Season Rush Challenges and level up while you race your way to the Pro Tiers."
   },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
