@@ -6325,6 +6325,14 @@
       {
         "Name": "BARELYALIVE_SPEEDDEMON",
         "ExternalUrl": "https://open.spotify.com/track/3RwMwE1qf4YtewI7wabXT9"
+      },
+      {
+        "Name": "Conro_AllIWant_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/47Ee2r9mvcob1Yep5MQlCu"
+      },
+      {
+        "Name": "Conro_AllIWant",
+        "ExternalUrl": "https://open.spotify.com/track/47Ee2r9mvcob1Yep5MQlCu"
       }
     ]
   },
@@ -7038,6 +7046,8 @@
       "MX_OST_Season21.wev_shigotowerk_RLedit",
       "MX_OST_Season21.BARELYALIVE_SPEEDDEMON",
       "MX_OST_Season21.BARELYALIVE_SPEEDDEMON_RLedit",
+      "MX_OST_Season21.Conro_AllIWant",
+      "MX_OST_Season21.Conro_AllIWant_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -7206,11 +7216,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season21.BARELYALIVE_SPEEDDEMON_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.BARELYALIVE_SPEEDDEMON'"
+          "Track": "AkSoundCue'MX_OST_Season21.Conro_AllIWant_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Conro_AllIWant'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.BARELYALIVE_SPEEDDEMON'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.Conro_AllIWant'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7282,6 +7292,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season21.BARELYALIVE_SPEEDDEMON'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.BARELYALIVE_SPEEDDEMON'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.Conro_AllIWant'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Conro_AllIWant'"
             }
           ]
         },
@@ -7546,6 +7560,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season21.BARELYALIVE_SPEEDDEMON'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.BARELYALIVE_SPEEDDEMON'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season21.Conro_AllIWant'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Conro_AllIWant'"
             }
           ]
         },
@@ -18187,6 +18205,14 @@
       {
         "KeyName": "PrimeUpdate57_1_849609CDCBB78E31418006D297020E44",
         "Content": "KU9TQiAqmQIL11eNyM55eSPEM05+U1uRATeTl0uNucw="
+      },
+      {
+        "KeyName": "PrimeUpdate57_1_CE24375404EA7FBD6F0741FFB6EC5248",
+        "Content": "jkqHYyJIAtSbz3iB/mdZS3tKgU6B6bgty2JW/hOu4fU="
+      },
+      {
+        "KeyName": "PrimeUpdate57_1_33100BDD87C1285DAFEEBDE665231E71",
+        "Content": "6HQ+ajuj7LUbaxoGr2Q+aG80smp8TkRSxf4a3G4MDiQ="
       }
     ]
   },
