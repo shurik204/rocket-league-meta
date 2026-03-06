@@ -21917,6 +21917,20 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
+  "BlogConfig": {
+    "Class": "BlogConfig_X",
+    "Entries": [
+      {
+        "Title": "SEASON 22",
+        "Description": "Rivalries ignite March 11. Season 22 delivers new gameplay features and a Rocket Pass featuring Jordan brand themed items and the BMW M2 Racing!",
+        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_S22_KeyArt_Newspanel_Key_1920x1080.jpg",
+        "StartTime": "2026-03-06 17:00:00",
+        "EndTime": "2026-03-07 17:00:00",
+        "LinkType": "LinkType_None"
+      }
+    ],
+    "MotD": "<br>"
+  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
