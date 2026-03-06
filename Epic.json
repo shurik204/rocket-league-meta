@@ -3553,6 +3553,10 @@
       1
     ]
   },
+  "RankedConfig": {
+    "Class": "RankedConfig_X",
+    "SeasonEndTimeSeconds": 1773241200
+  },
   "SpecialEventsConfig": {
     "Class": "SpecialEventConfig_TA",
     "StartTime": 1772211600,
@@ -14552,6 +14556,11 @@
       {
         "ID": "Washed",
         "Text": "Washed"
+      },
+      {
+        "ID": "RLCS_BOSTON_2026_ATTENDEE",
+        "Category": "Community_Spotlight",
+        "Text": "RLCS BOSTON 2026 ATTENDEE"
       }
     ],
     "ClubTitles": [
@@ -21063,7 +21072,7 @@
         "Package": "Products",
         "Section": "SS_GreyCar",
         "Key": "Label",
-        "Value": "Time Flames"
+        "Value": "Tire Flames"
       },
       {
         "Package": "Products",
