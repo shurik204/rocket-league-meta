@@ -7228,6 +7228,7 @@
       "Playlists": [
         {
           "Name": "PopularSongs",
+          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.PopularSongs'",
           "Tracks": [
             {
@@ -7246,6 +7247,7 @@
         },
         {
           "Name": "Season21",
+          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season21'",
           "Tracks": [
             {
@@ -7300,6 +7302,7 @@
         },
         {
           "Name": "Season20",
+          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season20'",
           "Tracks": [
             {
@@ -7354,6 +7357,7 @@
         },
         {
           "Name": "RocketLeague_Year10",
+          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.rocketleagueyear10'",
           "Tracks": [
             {
@@ -7384,6 +7388,7 @@
         },
         {
           "Name": "Season19",
+          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season19'",
           "Tracks": [
             {
@@ -7486,6 +7491,7 @@
         },
         {
           "Name": "Monstercat2025",
+          "bDefaultSelected": true,
           "Icon": "Texture2D'album_anthem_monstercat2025.Rl_Mc_Playlist_Thumb_2025'",
           "Tracks": [
             {
@@ -8550,7 +8556,6 @@
         },
         {
           "Name": "Monstercat_RL_SS",
-          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_SideSwipe'",
           "Tracks": [
             {
@@ -14556,6 +14561,70 @@
         "ID": "RLCS_BOSTON_2026_ATTENDEE",
         "Category": "Community_Spotlight",
         "Text": "RLCS BOSTON 2026 ATTENDEE"
+      },
+      {
+        "ID": "Rundown_ADFP_Sky_Sentinel",
+        "Text": "Sky Sentinel"
+      },
+      {
+        "ID": "Rundown_GDFP_Sweeper_Keeper",
+        "Text": "Sweeper Keeper"
+      },
+      {
+        "ID": "Rundown_AOFP_Airborne_Thrillness",
+        "Text": "Airborne Thrillness"
+      },
+      {
+        "ID": "Rundown_GOFP_Breakaway_Nine",
+        "Text": "Breakaway Nine"
+      },
+      {
+        "ID": "Rundown_ADPP_Flying_Bulwark",
+        "Text": "Flying Bulwark"
+      },
+      {
+        "ID": "Rundown_GDPP_Bunker_Manager",
+        "Text": "Bunker Manager"
+      },
+      {
+        "ID": "Rundown_AOPP_Ace_Ascendant",
+        "Text": "Ace Ascendant"
+      },
+      {
+        "ID": "Rundown_GOPP_Logistics_Royal",
+        "Text": "Logistics Royal"
+      },
+      {
+        "ID": "Rundown_ADFD_Lofted_Pivot",
+        "Text": "Lofted Pivot"
+      },
+      {
+        "ID": "Rundown_GDFD_Support_Main",
+        "Text": "Support Main"
+      },
+      {
+        "ID": "Rundown_AOFD_Delivery_Pilot",
+        "Text": "Delivery Pilot"
+      },
+      {
+        "ID": "Rundown_GOFD_Sharpshooter",
+        "Text": "Sharpshooter"
+      },
+      {
+        "ID": "Rundown_ADPD_Control_Tower",
+        "Text": "Control Tower"
+      },
+      {
+        "ID": "Rundown_GDPD_Anchor_Orchestrator",
+        "Text": "Anchor Orchestrator"
+      },
+      {
+        "ID": "Rundown_AOPD_Windborne_Architect",
+        "Text": "Windborne Architect"
+      },
+      {
+        "ID": "Rundown_GOPD_Shadow_Catalyst",
+        "Text": "Shadow Catalyst"
       }
     ],
     "ClubTitles": [
