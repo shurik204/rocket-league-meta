@@ -7228,7 +7228,6 @@
       "Playlists": [
         {
           "Name": "PopularSongs",
-          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.PopularSongs'",
           "Tracks": [
             {
@@ -7247,7 +7246,6 @@
         },
         {
           "Name": "Season21",
-          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season21'",
           "Tracks": [
             {
@@ -7302,7 +7300,6 @@
         },
         {
           "Name": "Season20",
-          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season20'",
           "Tracks": [
             {
@@ -7357,7 +7354,6 @@
         },
         {
           "Name": "RocketLeague_Year10",
-          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.rocketleagueyear10'",
           "Tracks": [
             {
@@ -7388,7 +7384,6 @@
         },
         {
           "Name": "Season19",
-          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season19'",
           "Tracks": [
             {
@@ -7491,7 +7486,6 @@
         },
         {
           "Name": "Monstercat2025",
-          "bDefaultSelected": true,
           "Icon": "Texture2D'album_anthem_monstercat2025.Rl_Mc_Playlist_Thumb_2025'",
           "Tracks": [
             {
@@ -8556,6 +8550,7 @@
         },
         {
           "Name": "Monstercat_RL_SS",
+          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_SideSwipe'",
           "Tracks": [
             {
