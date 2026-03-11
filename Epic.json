@@ -81,19 +81,19 @@
           },
           {
             "Map": "MapList.Maps.cs_day_p",
-            "Frequency": 0.75
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.eurostadium_p",
-            "Frequency": 1.25
+            "Frequency": 1.1
           },
           {
             "Map": "MapList.Maps.eurostadium_dusk_p",
-            "Frequency": 1
+            "Frequency": 1.3
           },
           {
             "Map": "MapList.Maps.eurostadium_night_p",
-            "Frequency": 1
+            "Frequency": 1.3
           },
           {
             "Map": "MapList.Maps.eurostadium_rainy_p",
@@ -114,7 +114,7 @@
           },
           {
             "Map": "MapList.Maps.mall_day_p",
-            "Frequency": 0.4
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.neotokyo_standard_p",
@@ -122,7 +122,7 @@
           },
           {
             "Map": "MapList.Maps.neotokyo_arcade_p",
-            "Frequency": 1
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.outlaw_p",
@@ -135,15 +135,27 @@
           },
           {
             "Map": "MapList.Maps.paname_dusk_p",
-            "Frequency": 1.3
+            "Frequency": 0.5
+          },
+          {
+            "Map": "MapList.Maps.park_p",
+            "Frequency": 0.8
+          },
+          {
+            "Map": "MapList.Maps.park_night_p",
+            "Frequency": 0.8
+          },
+          {
+            "Map": "MapList.Maps.park_rainy_p",
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.stadium_p",
-            "Frequency": 1.2
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_day_p",
-            "Frequency": 0.5
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_foggy_p",
@@ -155,7 +167,7 @@
           },
           {
             "Map": "MapList.Maps.street_p",
-            "Frequency": 0.5
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.trainstation_p",
@@ -163,7 +175,7 @@
           },
           {
             "Map": "MapList.Maps.trainstation_dawn_p",
-            "Frequency": 0.3
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.trainstation_night_p",
@@ -179,15 +191,15 @@
           },
           {
             "Map": "MapList.Maps.underwater_grs_p",
-            "Frequency": 0.7
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiastadium_p",
-            "Frequency": 0.7
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiastadium_dusk_p",
-            "Frequency": 1.1
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiaStadium_lux_p",
@@ -230,19 +242,19 @@
           },
           {
             "Map": "MapList.Maps.cs_day_p",
-            "Frequency": 0.75
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.eurostadium_p",
-            "Frequency": 1.25
+            "Frequency": 1.1
           },
           {
             "Map": "MapList.Maps.eurostadium_dusk_p",
-            "Frequency": 1
+            "Frequency": 1.3
           },
           {
             "Map": "MapList.Maps.eurostadium_night_p",
-            "Frequency": 1
+            "Frequency": 1.3
           },
           {
             "Map": "MapList.Maps.eurostadium_rainy_p",
@@ -263,7 +275,7 @@
           },
           {
             "Map": "MapList.Maps.mall_day_p",
-            "Frequency": 0.4
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.neotokyo_standard_p",
@@ -271,7 +283,7 @@
           },
           {
             "Map": "MapList.Maps.neotokyo_arcade_p",
-            "Frequency": 1
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.outlaw_p",
@@ -284,15 +296,27 @@
           },
           {
             "Map": "MapList.Maps.paname_dusk_p",
-            "Frequency": 1.3
+            "Frequency": 0.5
+          },
+          {
+            "Map": "MapList.Maps.park_p",
+            "Frequency": 0.8
+          },
+          {
+            "Map": "MapList.Maps.park_night_p",
+            "Frequency": 0.8
+          },
+          {
+            "Map": "MapList.Maps.park_rainy_p",
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.stadium_p",
-            "Frequency": 1.2
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_day_p",
-            "Frequency": 0.5
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_foggy_p",
@@ -304,7 +328,7 @@
           },
           {
             "Map": "MapList.Maps.street_p",
-            "Frequency": 0.5
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.trainstation_p",
@@ -312,7 +336,7 @@
           },
           {
             "Map": "MapList.Maps.trainstation_dawn_p",
-            "Frequency": 0.3
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.trainstation_night_p",
@@ -328,15 +352,15 @@
           },
           {
             "Map": "MapList.Maps.underwater_grs_p",
-            "Frequency": 0.7
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiastadium_p",
-            "Frequency": 0.7
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiastadium_dusk_p",
-            "Frequency": 1.1
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiaStadium_lux_p",
@@ -418,19 +442,19 @@
           },
           {
             "Map": "MapList.Maps.cs_day_p",
-            "Frequency": 0.75
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.eurostadium_p",
-            "Frequency": 1.25
+            "Frequency": 1.1
           },
           {
             "Map": "MapList.Maps.eurostadium_dusk_p",
-            "Frequency": 1
+            "Frequency": 1.3
           },
           {
             "Map": "MapList.Maps.eurostadium_night_p",
-            "Frequency": 1
+            "Frequency": 1.3
           },
           {
             "Map": "MapList.Maps.eurostadium_rainy_p",
@@ -451,7 +475,7 @@
           },
           {
             "Map": "MapList.Maps.mall_day_p",
-            "Frequency": 0.4
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.neotokyo_standard_p",
@@ -459,7 +483,7 @@
           },
           {
             "Map": "MapList.Maps.neotokyo_arcade_p",
-            "Frequency": 1
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.outlaw_p",
@@ -472,15 +496,27 @@
           },
           {
             "Map": "MapList.Maps.paname_dusk_p",
-            "Frequency": 1.3
+            "Frequency": 0.5
+          },
+          {
+            "Map": "MapList.Maps.park_p",
+            "Frequency": 0.8
+          },
+          {
+            "Map": "MapList.Maps.park_night_p",
+            "Frequency": 0.8
+          },
+          {
+            "Map": "MapList.Maps.park_rainy_p",
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.stadium_p",
-            "Frequency": 1.2
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_day_p",
-            "Frequency": 0.5
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_foggy_p",
@@ -492,7 +528,7 @@
           },
           {
             "Map": "MapList.Maps.street_p",
-            "Frequency": 0.5
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.trainstation_p",
@@ -500,7 +536,7 @@
           },
           {
             "Map": "MapList.Maps.trainstation_dawn_p",
-            "Frequency": 0.3
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.trainstation_night_p",
@@ -516,15 +552,15 @@
           },
           {
             "Map": "MapList.Maps.underwater_grs_p",
-            "Frequency": 0.7
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiastadium_p",
-            "Frequency": 0.7
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiastadium_dusk_p",
-            "Frequency": 1.1
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiaStadium_lux_p",
@@ -832,21 +868,7 @@
         ]
       },
       {
-        "SetName": "SoccarQuads",
-        "Maps": [
-          {
-            "Map": "MapList.Maps.Labs_4v4_Arena15_Retro_P",
-            "Frequency": 1
-          },
-          {
-            "Map": "MapList.Maps.Labs_4v4_Arena15_Blackout_P",
-            "Frequency": 1
-          },
-          {
-            "Map": "MapList.Maps.Labs_4v4_Arena15_EuroStadium_Night_P",
-            "Frequency": 1
-          }
-        ]
+        "SetName": "SoccarQuads"
       },
       {
         "SetName": "Knockout",
@@ -3553,23 +3575,9 @@
       1
     ]
   },
-  "RankedConfig": {
-    "Class": "RankedConfig_X",
-    "SeasonEndTimeSeconds": 1773241200
-  },
   "SpecialEventsConfig": {
     "Class": "SpecialEventConfig_TA",
-    "ActiveEvents": [
-      {
-        "StartTime": 1772211600,
-        "EndTime": 1773241200,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen_logo.png",
-        "EventFolderName": "Event.FebruarySeasonRush(S21)",
-        "Subtitle": "Boost Your Rocket Pass",
-        "Description": "Season Rush offers a chance to climb the Rocket Pass Tiers at supersonic speed! Complete Season Rush Challenges and level up while you race your way to the Pro Tiers."
-      }
-    ]
+    "ActiveEvents": []
   },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
@@ -3603,20 +3611,6 @@
   "ItemShopNotificationsConfig": {
     "Class": "ItemShopNotificationsConfig_TA",
     "bItemShopNotificationsEnabled": "true"
-  },
-  "EngagementEventsConfig": {
-    "Class": "EngagementEventsConfig_TA",
-    "bEngagementEventIconsEnabled": "true",
-    "Events": [
-      {
-        "Description": "Double XP",
-        "EventTypes": [
-          "EngagementEventType_DoubleXP"
-        ],
-        "EpochStartTime": 1772211300,
-        "EpochEndTime": 1773241200
-      }
-    ]
   },
   "EulaConfig": {
     "Class": "EulaConfig_TA",
@@ -9261,8 +9255,7 @@
   },
   "DynamicLogosConfig": {
     "Class": "DynamicLogosConfig_TA",
-    "bUseDynamicLogos": true,
-    "LogoURL": "https://rl-cdn.psyonix.com/LogoImages/S21/RL_U57_S21_Logo_1024x1024_EN.png"
+    "bUseDynamicLogos": true
   },
   "TradeConfig": {
     "Class": "TradeConfig_TA",
@@ -14573,6 +14566,66 @@
         "Text": "RLCS BOSTON 2026 ATTENDEE"
       },
       {
+        "ID": "S35_Grand_Champion",
+        "Category": "SZN_1_Red",
+        "Text": "S21 Grand Champion"
+      },
+      {
+        "ID": "S35_Grand_Champion_Rumble",
+        "Category": "SZN_1_Red",
+        "Text": "S21 RNG Champ"
+      },
+      {
+        "ID": "S35_Grand_Champion_Snowday",
+        "Category": "SZN_1_Red",
+        "Text": "S21 Blizzard Wizard"
+      },
+      {
+        "ID": "S35_Grand_Champion_Hoops",
+        "Category": "SZN_1_Red",
+        "Text": "S21 Dunk Master"
+      },
+      {
+        "ID": "S35_Grand_Champion_Quads",
+        "Category": "SZN_1_Red",
+        "Text": "S21 QUAD SQUAD"
+      },
+      {
+        "ID": "S35_Grand_Champion_Heatseeker",
+        "Category": "SZN_1_Red",
+        "Text": "S21 HEATSEEKER ACE"
+      },
+      {
+        "ID": "S35_SuperSonic_Legend",
+        "Category": "SZN_1_White",
+        "Text": "S21 Supersonic Legend"
+      },
+      {
+        "ID": "S35_SSL_Rumble",
+        "Category": "SZN_1_White",
+        "Text": "S21 RNGenius"
+      },
+      {
+        "ID": "S35_SSL_Snowday",
+        "Category": "SZN_1_White",
+        "Text": "S21 Ice Titan"
+      },
+      {
+        "ID": "S35_SSL_Hoops",
+        "Category": "SZN_1_White",
+        "Text": "S21 Legendary Baller"
+      },
+      {
+        "ID": "S35_SSL_Quads",
+        "Category": "SZN_1_White",
+        "Text": "S21 TOUR DE FOURCE"
+      },
+      {
+        "ID": "S35_SSL_Heetseeker",
+        "Category": "SZN_1_White",
+        "Text": "S21 SUPER SEEKING LEGEND"
+      },
+      {
         "ID": "Rundown_ADFP_Sky_Sentinel",
         "Text": "Sky Sentinel"
       },
@@ -14792,12 +14845,6 @@
       }
     ]
   },
-  "RocketPassConfig": {
-    "Class": "RocketPassConfig_TA",
-    "RocketPassID": 27,
-    "StartTime": 1765386000,
-    "EndTime": 1773241200
-  },
   "UIConfig": {
     "Class": "UIConfig_TA",
     "bCrateRouletteEnabled": "false",
@@ -14810,10 +14857,10 @@
       20000
     ],
     "bUse1LVLIcon": "true",
-    "MainMenuBG": "MMBG_Paris",
+    "MainMenuBG": "MMBG_Default",
     "bShowAnthems": true,
     "bDisplayVideoQualitySetting": "true",
-    "CurrentActiveSeason": 21,
+    "CurrentActiveSeason": 0,
     "SupportURL": "https://support.rocketleague.com/hc/en-us/categories/1260801589709-Rocket-League"
   },
   "TextModerationConfig": {
@@ -15106,9 +15153,7 @@
   "ChallengeConfig": {
     "Class": "ChallengeConfig_TA",
     "MaxSecondsDelayNewNotification": 0,
-    "TrainingFolderName": "Training",
-    "WeeklyFolderName": "Season21.Weekly",
-    "SeasonFolderName": "Season21.Season"
+    "TrainingFolderName": "Training"
   },
   "EOSVoiceConfig": {
     "Class": "EOSVoiceConfig_TA",
