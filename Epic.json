@@ -6367,6 +6367,38 @@
       {
         "Name": "THIRST_ALLDAWAY",
         "ExternalUrl": "https://open.spotify.com/track/1RdDzHxnBXT9h5VmWFh3tO"
+      },
+      {
+        "Name": "FOOL_Drifeater_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/6igiNXwSslsv2xba40Khtc"
+      },
+      {
+        "Name": "FOOL_Drifeater",
+        "ExternalUrl": "https://open.spotify.com/track/6igiNXwSslsv2xba40Khtc"
+      },
+      {
+        "Name": "NVRXMARVAndLXSTURYAndjustforgetme_VOLKSWAGENFUNK_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/4XXMRRvhfnNolO2KqUCNHm"
+      },
+      {
+        "Name": "NVRXMARVAndLXSTURYAndjustforgetme_VOLKSWAGENFUNK",
+        "ExternalUrl": "https://open.spotify.com/track/4XXMRRvhfnNolO2KqUCNHm"
+      },
+      {
+        "Name": "THIRST_MAYHEM_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/5AG78TLX9wI9v4rdJkYCsh"
+      },
+      {
+        "Name": "THIRST_MAYHEM",
+        "ExternalUrl": "https://open.spotify.com/track/5AG78TLX9wI9v4rdJkYCsh"
+      },
+      {
+        "Name": "Prey_ShowMeYourWay_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/5qG54YCIy0cAtfc9pqIGaq"
+      },
+      {
+        "Name": "Prey_ShowMeYourWay",
+        "ExternalUrl": "https://open.spotify.com/track/5qG54YCIy0cAtfc9pqIGaq"
       }
     ]
   },
@@ -7082,8 +7114,16 @@
       "MX_OST_Season21.BARELYALIVE_SPEEDDEMON_RLedit",
       "MX_OST_Season21.Conro_AllIWant",
       "MX_OST_Season21.Conro_AllIWant_RLedit",
+      "MX_OST_Season22.FOOL_Drifeater",
+      "MX_OST_Season22.NVRXMARVAndLXSTURYAndjustforgetme_VOLKSWAGENFUNK",
+      "MX_OST_Season22.Prey_ShowMeYourWay",
       "MX_OST_Season22.THIRST_ALLDAWAY",
+      "MX_OST_Season22.THIRST_MAYHEM",
+      "MX_OST_Season22.FOOL_Drifeater_RLedit",
+      "MX_OST_Season22.NVRXMARVAndLXSTURYAndjustforgetme_VOLKSWAGENFUNK_RLedit",
+      "MX_OST_Season22.Prey_ShowMeYourWay_RLedit",
       "MX_OST_Season22.THIRST_ALLDAWAY_RLedit",
+      "MX_OST_Season22.THIRST_MAYHEM_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -7274,8 +7314,24 @@
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season22'",
           "Tracks": [
             {
+              "Track": "AkSoundCue'MX_OST_Season22.FOOL_Drifeater'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.FOOL_Drifeater'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season22.NVRXMARVAndLXSTURYAndjustforgetme_VOLKSWAGENFUNK'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.NVRXMARVAndLXSTURYAndjustforgetme_VOLKSWAGENFUNK'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season22.Prey_ShowMeYourWay'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Prey_ShowMeYourWay'"
+            },
+            {
               "Track": "AkSoundCue'MX_OST_Season22.THIRST_ALLDAWAY'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_ALLDAWAY'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season22.THIRST_MAYHEM'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_MAYHEM'"
             }
           ]
         },
