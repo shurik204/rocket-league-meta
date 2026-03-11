@@ -22345,36 +22345,6 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
-  "BlogConfig": {
-    "Class": "BlogConfig_X",
-    "Entries": [
-      {
-        "Title": "SEASON 22",
-        "Description": "Rivalries ignite March 11. Season 22 delivers new gameplay features and a Rocket Pass featuring Jordan brand themed items and the BMW M2 Racing!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RL_U57_S22_KeyArt_3panel_Key_672x840.png",
-        "StartTime": "2026-03-09 17:00:00",
-        "EndTime": "2026-03-11 17:00:00",
-        "LinkType": "LinkType_None"
-      },
-      {
-        "Title": "WEEKLY CASH CUPS",
-        "Description": "Cash Cups are back with a new look! Connect your account, play Ranked and win cash. Enter now on http://Repeat.gg",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/CashCup_QRCODE%20(1).png",
-        "StartTime": "2026-03-09 17:00:01",
-        "EndTime": "2026-03-11 17:00:00",
-        "LinkType": "LinkType_None"
-      },
-      {
-        "Title": "RLCS 2026",
-        "Description": "There’s still time to earn your piece of the $6.1 million prize pool. Scan the QR code to register for the RLCS today!",
-        "ImageURL": "https://rl-cdn.psyonix.com/Blog/Images/RLCS_Aftermarket_Tripanel_TrackingQR%20(2).png",
-        "StartTime": "2026-03-09 17:00:02",
-        "EndTime": "2026-03-11 17:00:00",
-        "LinkType": "LinkType_None"
-      }
-    ],
-    "MotD": "<br>"
-  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
