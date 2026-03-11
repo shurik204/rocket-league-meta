@@ -3577,7 +3577,17 @@
   },
   "SpecialEventsConfig": {
     "Class": "SpecialEventConfig_TA",
-    "ActiveEvents": []
+    "ActiveEvents": [
+      {
+        "StartTime": 1773244800,
+        "EndTime": 1781103600,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/BuiltDifferent/RL_U58_LTE_BuiltDifferent_Event_sadio.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/BuiltDifferent/RL_U58_LTE_BuiltDifferent_EventLogo_9a8fj.png",
+        "EventFolderName": "Event.S22SeasonLongRivalryEvent",
+        "Subtitle": "BUILT DIFFERENT",
+        "Description": "This is your proving ground. Complete challenges, take on your biggest rivals, and unlock rewards all season long."
+      }
+    ]
   },
   "PlayerReportConfig": {
     "Class": "PlayerReportConfig_TA",
@@ -22310,6 +22320,18 @@
         "Section": "Losses",
         "Key": "Rank0",
         "Value": "Underdog"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_rhino_psp",
+        "Key": "Label",
+        "Value": "Rhino Horns O+B"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_pearljimpsplus",
+        "Key": "Label",
+        "Value": "Humid Haze O+B"
       },
       {
         "Package": "Products",
