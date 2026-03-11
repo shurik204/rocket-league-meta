@@ -7219,7 +7219,13 @@
   "MusicThemeConfig": {
     "Class": "MusicThemeConfig_TA",
     "Theme": {
-      "TitleTracks": [],
+      "TitleTracks": [
+        {
+          "Track": "AkSoundCue'MX_OST_Season21.Conro_AllIWant_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Conro_AllIWant'"
+        }
+      ],
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.Conro_AllIWant'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7228,6 +7234,7 @@
       "Playlists": [
         {
           "Name": "PopularSongs",
+          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.PopularSongs'",
           "Tracks": [
             {
@@ -7246,6 +7253,7 @@
         },
         {
           "Name": "Season21",
+          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season21'",
           "Tracks": [
             {
@@ -7300,6 +7308,7 @@
         },
         {
           "Name": "Season20",
+          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season20'",
           "Tracks": [
             {
@@ -7354,6 +7363,7 @@
         },
         {
           "Name": "RocketLeague_Year10",
+          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.rocketleagueyear10'",
           "Tracks": [
             {
@@ -7384,6 +7394,7 @@
         },
         {
           "Name": "Season19",
+          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season19'",
           "Tracks": [
             {
@@ -7486,6 +7497,7 @@
         },
         {
           "Name": "Monstercat2025",
+          "bDefaultSelected": true,
           "Icon": "Texture2D'album_anthem_monstercat2025.Rl_Mc_Playlist_Thumb_2025'",
           "Tracks": [
             {
@@ -8550,7 +8562,6 @@
         },
         {
           "Name": "Monstercat_RL_SS",
-          "bDefaultSelected": true,
           "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_SideSwipe'",
           "Tracks": [
             {
@@ -21978,6 +21989,12 @@
         "Section": "Losses",
         "Key": "Rank0",
         "Value": "Underdog"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_quartz_b",
+        "Key": "Label",
+        "Value": "Reel Life (Custom)"
       }
     ]
   },
