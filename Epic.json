@@ -6335,6 +6335,14 @@
       {
         "Name": "Conro_AllIWant",
         "ExternalUrl": "https://open.spotify.com/track/47Ee2r9mvcob1Yep5MQlCu"
+      },
+      {
+        "Name": "THIRST_ALLDAWAY_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/1RdDzHxnBXT9h5VmWFh3tO"
+      },
+      {
+        "Name": "THIRST_ALLDAWAY",
+        "ExternalUrl": "https://open.spotify.com/track/1RdDzHxnBXT9h5VmWFh3tO"
       }
     ]
   },
@@ -7050,6 +7058,8 @@
       "MX_OST_Season21.BARELYALIVE_SPEEDDEMON_RLedit",
       "MX_OST_Season21.Conro_AllIWant",
       "MX_OST_Season21.Conro_AllIWant_RLedit",
+      "MX_OST_Season22.THIRST_ALLDAWAY",
+      "MX_OST_Season22.THIRST_ALLDAWAY_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -7211,7 +7221,11 @@
       "anthem_estiva_parlezvous.Estiva_ParlezVous_MVP",
       "anthem_halfanorange_marktwain.HalfAnOrange_MarkTwain_MVP",
       "anthem_televisor_neon.Televisor_Neon_MVP",
-      "anthem_2026rlcsboston.2026RLCSBoston_MVP"
+      "anthem_2026rlcsboston.2026RLCSBoston_MVP",
+      "anthem_fool_drifter.Anthem_FOOL_Drifter_MVP",
+      "anthem_nvrxmarv_volkswagenfunk.Anthem_Nvrxmarv_VolkswagenFunk_MVP",
+      "anthem_prey_showmeyourway.Anthem_Prey_ShowMeYourWay_MVP",
+      "anthem_thirst_mayhem.Anthem_Thirst_Mayhem_MVP"
     ]
   },
   "MusicThemeConfig": {
@@ -7219,17 +7233,28 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season21.Conro_AllIWant_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Conro_AllIWant'"
+          "Track": "AkSoundCue'MX_OST_Season22.THIRST_ALLDAWAY_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_ALLDAWAY'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season21.Conro_AllIWant'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season22.THIRST_ALLDAWAY'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
         "Icon": "Texture2D'UI_MusicPlaylistThumbs.RLSoundtrack_01'"
       },
       "Playlists": [
+        {
+          "Name": "Season22",
+          "bDefaultSelected": true,
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season22'",
+          "Tracks": [
+            {
+              "Track": "AkSoundCue'MX_OST_Season22.THIRST_ALLDAWAY'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_ALLDAWAY'"
+            }
+          ]
+        },
         {
           "Name": "PopularSongs",
           "bDefaultSelected": true,
@@ -9255,7 +9280,8 @@
   },
   "DynamicLogosConfig": {
     "Class": "DynamicLogosConfig_TA",
-    "bUseDynamicLogos": true
+    "bUseDynamicLogos": true,
+    "LogoURL": "https://rl-cdn.psyonix.com/LogoImages/S22/rl_season-logo_22_EN.png"
   },
   "TradeConfig": {
     "Class": "TradeConfig_TA",
@@ -14566,6 +14592,152 @@
         "Text": "RLCS BOSTON 2026 ATTENDEE"
       },
       {
+        "ID": "AutoTour_22_Bronze_1",
+        "Text": "S22 {Bronze} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_Bronze_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S22 {Bronze} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_Silver_1",
+        "Text": "S22 {Silver} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_Silver_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S22 {Silver} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_Gold_1",
+        "Text": "S22 {Gold} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_Gold_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S22 {Gold} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_Platinum_1",
+        "Text": "S22 {Platinum} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_Platinum_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S22 {Platinum} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_Diamond_1",
+        "Text": "S22 {Diamond} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_Diamond_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S22 {Diamond} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_Champion_1",
+        "Text": "S22 {Champion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_Champion_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S22 {Champion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_GrandChampion_1",
+        "Text": "S22 {GrandChampion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_GrandChampion_2",
+        "Category": "AutoTour_CompletedGC",
+        "Text": "S22 {GrandChampion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_SuperSonicLegend_1",
+        "Category": "AutoTour_CompletedSuperSonicLegend_1",
+        "Text": "S22 {Legend} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_22_SuperSonicLegend_2",
+        "Category": "AutoTour_CompletedSuperSonicLegend_2",
+        "Text": "S22 {Legend} Tournament Winner"
+      },
+      {
+        "ID": "Pentathlon_22_Bronze_1",
+        "Text": "S22 {Bronze} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_Bronze_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S22 {Bronze} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_Silver_1",
+        "Text": "S22 {Silver} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_Silver_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S22 {Silver} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_Gold_1",
+        "Text": "S22 {Gold} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_Gold_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S22 {Gold} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_Platinum_1",
+        "Text": "S22 {Platinum} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_Platinum_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S22 {Platinum} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_Diamond_1",
+        "Text": "S22 {Diamond} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_Diamond_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S22 {Diamond} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_Champion_1",
+        "Text": "S22 {Champion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_Champion_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S22 {Champion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_GrandChampion_1",
+        "Text": "S22 {GrandChampion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_GrandChampion_2",
+        "Category": "AutoTour_CompletedGC",
+        "Text": "S22 {GrandChampion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_SuperSonicLegend_1",
+        "Category": "AutoTour_CompletedSuperSonicLegend_1",
+        "Text": "S22 {Legend} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_22_SuperSonicLegend_2",
+        "Category": "AutoTour_CompletedSuperSonicLegend_2",
+        "Text": "S22 {Legend} Pentathlon Winner"
+      },
+      {
         "ID": "S35_Grand_Champion",
         "Category": "SZN_1_Red",
         "Text": "S21 Grand Champion"
@@ -14624,6 +14796,30 @@
         "ID": "S35_SSL_Heetseeker",
         "Category": "SZN_1_White",
         "Text": "S21 SUPER SEEKING LEGEND"
+      },
+      {
+        "ID": "Low_Level",
+        "Text": "Low Level"
+      },
+      {
+        "ID": "Mid",
+        "Text": "Mid"
+      },
+      {
+        "ID": "Final_Boss",
+        "Text": "Final Boss"
+      },
+      {
+        "ID": "Massive_Gains",
+        "Text": "Massive Gains"
+      },
+      {
+        "ID": "Massive_Gains",
+        "Text": "Massive Gains"
+      },
+      {
+        "ID": "Arch_Nemesis",
+        "Text": "Arch Nemesis"
       },
       {
         "ID": "Rundown_ADFP_Sky_Sentinel",
@@ -14688,6 +14884,10 @@
       {
         "ID": "Rundown_GOPD_Shadow_Catalyst",
         "Text": "Shadow Catalyst"
+      },
+      {
+        "ID": "Season22_Login_Reward",
+        "Text": "All Gas, No Brakes"
       }
     ],
     "ClubTitles": [
@@ -14842,8 +15042,38 @@
       {
         "ID": "Club_S21_Most_Wanted",
         "Text": "Most Wanted"
+      },
+      {
+        "ID": "Club_S22_M1",
+        "Text": "S22 Prospect Club"
+      },
+      {
+        "ID": "Club_S22_M2",
+        "Text": "S22 Signature Club"
+      },
+      {
+        "ID": "Club_S22_M3",
+        "Text": "S22 Premier Club"
+      },
+      {
+        "ID": "Club_Got_Gud",
+        "Text": "Got Gud"
+      },
+      {
+        "ID": "Club_Powerlifters",
+        "Text": "Power Lifters"
+      },
+      {
+        "ID": "Club_Weve_Been_Training",
+        "Text": "We've Been Training"
       }
     ]
+  },
+  "RocketPassConfig": {
+    "Class": "RocketPassConfig_TA",
+    "RocketPassID": 28,
+    "StartTime": 1773244800,
+    "EndTime": 1781103600
   },
   "UIConfig": {
     "Class": "UIConfig_TA",
@@ -14860,7 +15090,7 @@
     "MainMenuBG": "MMBG_Default",
     "bShowAnthems": true,
     "bDisplayVideoQualitySetting": "true",
-    "CurrentActiveSeason": 0,
+    "CurrentActiveSeason": 22,
     "SupportURL": "https://support.rocketleague.com/hc/en-us/categories/1260801589709-Rocket-League"
   },
   "TextModerationConfig": {
@@ -15153,7 +15383,9 @@
   "ChallengeConfig": {
     "Class": "ChallengeConfig_TA",
     "MaxSecondsDelayNewNotification": 0,
-    "TrainingFolderName": "Training"
+    "TrainingFolderName": "Training",
+    "WeeklyFolderName": "Season22.Weekly",
+    "SeasonFolderName": "Season22.Season"
   },
   "EOSVoiceConfig": {
     "Class": "EOSVoiceConfig_TA",
@@ -18337,6 +18569,46 @@
       {
         "KeyName": "PrimeUpdate57_1_33100BDD87C1285DAFEEBDE665231E71",
         "Content": "6HQ+ajuj7LUbaxoGr2Q+aG80smp8TkRSxf4a3G4MDiQ="
+      },
+      {
+        "KeyName": "PrimeUpdate58_36520DC9D4A37A689F4860B553E7C484",
+        "Content": "fAi5MIbLUaHgTp3WO1Hnmi/y+2QQXzEoZj1jEXUq/iQ="
+      },
+      {
+        "KeyName": "PrimeUpdate58_E36EFE30A59858F099EA3D9094D459D0",
+        "Content": "6RUUBXpuucOS5UjJ7bt7MkERXRW4C5T0TnbfSqZeyM0="
+      },
+      {
+        "KeyName": "PrimeUpdate58_8AB645331E4A743C96705AF51EC0E33E",
+        "Content": "XkUxT20ITskwON1WG/iDpDefeoUg4EAIyW+uPkjXdHo="
+      },
+      {
+        "KeyName": "PrimeUpdate58_856A80B0F815416B6BA34E43DAA02DC4",
+        "Content": "KLLJnn4CjcS3CzEGG7kDjGfTh4yYlt+WerhHtwWao4g="
+      },
+      {
+        "KeyName": "PrimeUpdate58_9DA437D64EF7CA216220841BF7A8F4D7",
+        "Content": "EdG9k4++k6pqBy1KfaqKA1SFlRNg369juZU2gMOcVjk="
+      },
+      {
+        "KeyName": "PrimeUpdate58_336F2C5FE4C558BA1C29188B67C101F7",
+        "Content": "RVT74b1Nn6H5jSxSTy1om23WrwwJEyFIWpT3RgeyBJI="
+      },
+      {
+        "KeyName": "PrimeUpdate58_82E57B5775935EDE1966EA840063376B",
+        "Content": "Doca2+Q0U4PtFVrgi8sWkyqW6deWol0iP8/PI6MJNpI="
+      },
+      {
+        "KeyName": "PrimeUpdate58_8921C97575B323C3C63ABCE903FBAD9D",
+        "Content": "PDpso3Sahl5DMHuwKmWgyrUdMhfuBDUX9D42Dg7pN8s="
+      },
+      {
+        "KeyName": "PrimeUpdate58_3C9517E0EC10286A878BF15C60B7FB7F",
+        "Content": "DxeOor35BTzm/qEGQ+s/wZ6fOFE1NkJ0PWIlZNwrZQI="
+      },
+      {
+        "KeyName": "PrimeUpdate58_E3082C5DC15A2B90F4E2C18C238A7974",
+        "Content": "raU8NLUsjmfrjcGfw3BNEelTtFEFXLcLlvfDq3q3yXY="
       }
     ]
   },
@@ -22247,11 +22519,6 @@
         "ImageName": "Icon_3v3"
       },
       {
-        "Label": "Quads",
-        "RequestName": "Skill61",
-        "ImageName": "Icon_4v4"
-      },
-      {
         "Label": "Heatseeker",
         "RequestName": "Skill63",
         "ImageName": "Icon_Heatseeker"
@@ -22260,6 +22527,11 @@
         "Label": "Rumble",
         "RequestName": "Skill28",
         "ImageName": "Icon_Rumble"
+      },
+      {
+        "Label": "Dropshot",
+        "RequestName": "Skill29",
+        "ImageName": "Icon_Dropshot"
       },
       {
         "Label": "Hoops",
