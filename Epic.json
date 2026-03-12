@@ -22472,6 +22472,12 @@
         "Section": "ChatPresets",
         "Key": "Group3Message18",
         "Value": "Let’s lock in."
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_fs_ufo",
+        "Key": "Label",
+        "Value": "Close Encounter"
       }
     ]
   },
