@@ -22408,6 +22408,66 @@
         "Section": "skin_quartz_b",
         "Key": "Label",
         "Value": "Reel Life (Custom)"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "ChatPresets",
+        "Key": "Group1Message15",
+        "Value": "Rotating up!"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "ChatPresets",
+        "Key": "Group1Message16",
+        "Value": "Rotating back!"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "ChatPresets",
+        "Key": "Group1Message18",
+        "Value": "One more!"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "ChatPresets",
+        "Key": "Group1Message19",
+        "Value": "Back post!"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "ChatPresets",
+        "Key": "Group1Message20",
+        "Value": "Leaving."
+      },
+      {
+        "Package": "TAGame",
+        "Section": "ChatPresets",
+        "Key": "Group1Message21",
+        "Value": "Oops, wrong quick chat!"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "ChatPresets",
+        "Key": "Group3Message13",
+        "Value": "Unlucky!"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "ChatPresets",
+        "Key": "Group3Message14",
+        "Value": "This isn’t Rocket League!"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "ChatPresets",
+        "Key": "Group3Message15",
+        "Value": "Oof."
+      },
+      {
+        "Package": "TAGame",
+        "Section": "ChatPresets",
+        "Key": "Group3Message18",
+        "Value": "Let’s lock in."
       }
     ]
   },
