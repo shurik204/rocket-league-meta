@@ -22612,6 +22612,7 @@
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_2026_Open4.png",
         "Title": "RLCS 2026 Open 4",
         "Description": "RLCS 2026 Open 4 - Broadcast Day 3",
+        "UTCStartTime": "2026-03-22 17:30:00",
         "UTCEndTime": "2026-03-22 23:00:00",
         "URL": "https://rl.gg/WatchRLCS26"
       },
