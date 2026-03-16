@@ -22491,6 +22491,18 @@
         "Section": "explosion_fs_ufo",
         "Key": "Label",
         "Value": "Close Encounter"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_thirst_alldaway",
+        "Key": "Label",
+        "Value": "ALLDAWAY"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_thirst_alldaway",
+        "Key": "Artist",
+        "Value": "THIRST"
       }
     ]
   },
