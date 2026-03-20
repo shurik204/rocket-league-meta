@@ -7307,11 +7307,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season22.THIRST_ALLDAWAY_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_ALLDAWAY'"
+          "Track": "AkSoundCue'MX_OST_Monstercat_10YrAnn.Vicetone_Nevada_FeatCoziZuehlsdorff'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.MC_10Yr.Vicetone_Nevada_FeatCoziZuehlsdorff'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season22.THIRST_ALLDAWAY'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Monstercat_10YrAnn.Vicetone_Nevada_FeatCoziZuehlsdorff'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
