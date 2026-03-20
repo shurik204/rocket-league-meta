@@ -3600,6 +3600,15 @@
         "EventFolderName": "Event.S22SeasonLongRivalryEvent",
         "Subtitle": "BUILT DIFFERENT",
         "Description": "This is your proving ground. Complete challenges, take on your biggest rivals, and unlock rewards all season long."
+      },
+      {
+        "StartTime": 1774022400,
+        "EndTime": 1774281600,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/KnowBall/RL_U58.00_YouKnowBall_EventInGame_EventScreen_oiwefu.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/KnowBall/RL_U58.00_YouKnowBall_EventInGame_EventScreenLogo_asd89.png",
+        "EventFolderName": "Event.WeKnowBall26",
+        "Subtitle": "You Know Ball?",
+        "Description": "Well, do you?"
       }
     ]
   },
@@ -14971,6 +14980,94 @@
         "Text": "All Gas, No Brakes"
       },
       {
+        "ID": "Bracket_Rivalry_Team8",
+        "Text": "No Miss Just Fake"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team8_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "No Miss Just Fake"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team7",
+        "Text": "Cracked Captain"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team7_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "Cracked Captain"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team6",
+        "Text": "MENA LEGEND"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team6_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "MENA LEGEND"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team5",
+        "Text": "Pinch Pro"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team5_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "Pinch Pro"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team4",
+        "Text": "Sangre Caliente"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team4_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "Sangre Caliente"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team3",
+        "Text": "Goalmaxxing"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team3_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "Goalmaxxing"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team2",
+        "Text": "Retirement Home"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team2_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "Retirement Home"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team1",
+        "Text": "Baguettes"
+      },
+      {
+        "ID": "Bracket_Rivalry_Team1_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "Baguettes"
+      },
+      {
+        "ID": "I_KNOW_BALL",
+        "Text": "I KNOW BALL"
+      },
+      {
+        "ID": "KNOWLEDGE_DROPPER",
+        "Text": "KNOWLEDGE DROPPER"
+      },
+      {
+        "ID": "ELITE_BALL_KNOWLEDGE",
+        "Text": "ELITE BALL KNOWLEDGE"
+      },
+      {
+        "ID": "INSANE_PULL",
+        "Text": "INSANE PULL"
+      },
+      {
         "ID": "I_GOT_IT_HABIBI",
         "Text": "I GOT IT, HABIBI!"
       }
@@ -22503,6 +22600,12 @@
         "Section": "anthem_thirst_alldaway",
         "Key": "Artist",
         "Value": "THIRST"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_fs_ufo",
+        "Key": "Label",
+        "Value": "Close Encounter"
       }
     ]
   },
@@ -22632,6 +22735,17 @@
         "UTCStartTime": "2026-03-27 15:30:00",
         "UTCEndTime": "2026-03-27 22:00:00",
         "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/RL_U57_S22_BracketRivalry_LTE_PlaylistButton_oicece.jpg",
+        "Title": "Rocket Rivalry",
+        "Description": "Rocket Rivalry Round 1",
+        "UTCStartTime": "2026-03-23 16:00:00",
+        "UTCEndTime": "2026-03-27 15:00:00",
+        "URL": "https://www.rocketleague.com/bracket-rivalry",
+        "ButtonTitle": "Bracket Rivalry",
+        "ButtonDescription": "View Standings",
+        "bShowLiveNow": false
       },
       {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_2026_Open4.png",
