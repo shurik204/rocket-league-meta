@@ -3609,6 +3609,15 @@
         "EventFolderName": "Event.WeKnowBall26",
         "Subtitle": "You Know Ball?",
         "Description": "Well, do you?"
+      },
+      {
+        "StartTime": 1774569600,
+        "EndTime": 1776297600,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Jordan/RL_JordanLTE_EventScreen_ifwj.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Jordan/RL_JordanLTE_Logo_7fwh.png",
+        "EventFolderName": "Event.Nike26",
+        "Subtitle": "Jordan LTE",
+        "Description": "Season 22 continues spotlighting elite competition as Jordan brand enters the arena. From March 26 to April 15, complete Challenges in the Jordan limited-time event to unlock items including the Air Jordan Joga Sinistro Decal."
       }
     ]
   },
@@ -18773,6 +18782,14 @@
         "Content": "wV6KugFksLL6kKx2KowwLXJfTEswXn0i9voPvvJ/YbM="
       },
       {
+        "KeyName": "PrimeUpdate58_D01DB7EEBF3F0C58EDD7373720ADF74C",
+        "Content": "/nvNc+P2/g/Txb/9PQUnULy2076QiMUu1BfZqbEEv6M="
+      },
+      {
+        "KeyName": "PrimeUpdate58_E62D0750C0BB3BAD93BF945BEFC4A08C",
+        "Content": "IIJyS9xQs8nYA+s92p8ShYtNYYFDIR+YTIOSTM5yfi0="
+      },
+      {
         "KeyName": "PrimeUpdate58_36520DC9D4A37A689F4860B553E7C484",
         "Content": "fAi5MIbLUaHgTp3WO1Hnmi/y+2QQXzEoZj1jEXUq/iQ="
       },
@@ -22632,6 +22649,126 @@
         "Section": "skin_atcq",
         "Key": "Label",
         "Value": "Nice Shot"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_luminousairplanelte01",
+        "Key": "Label",
+        "Value": "Jordan Joga Sinistro"
+      },
+      {
+        "Package": "Products",
+        "Section": "crateunlocked_luminousairplane",
+        "Key": "Label",
+        "Value": "Air Jordan Shoebox"
+      },
+      {
+        "Package": "Products",
+        "Section": "Explosion_luminousairplane01",
+        "Key": "Label",
+        "Value": "Air Jordan"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_grain_luminousairplane01",
+        "Key": "Label",
+        "Value": "Air Jordan 6 \"Infrared\""
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_grain_luminousairplane02",
+        "Key": "Label",
+        "Value": "Air Jordan 4 \"White Cement\""
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_luminousairplane01",
+        "Key": "Label",
+        "Value": "Air Jordan Joga Sinistro"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_octane_luminousairplane01",
+        "Key": "Label",
+        "Value": "Air Jordan 1 \"Chicago\""
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_octane_luminousairplanelte01",
+        "Key": "Label",
+        "Value": "Jordan Joga Sinistro"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sheepbolt_luminousairplane01",
+        "Key": "Label",
+        "Value": "Air Jordan 6 \"Infrared\""
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sheepbolt_luminousairplane02",
+        "Key": "Label",
+        "Value": "Air Jordan 4 \"White Cement\""
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_luminousairplane01",
+        "Key": "Label",
+        "Value": "Air Jordan"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_luminousairplanelte01",
+        "Key": "Label",
+        "Value": "Jordan Joga Sinistro"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_sheepbolt",
+        "Key": "Label",
+        "Value": "Rivian R1S"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_sheepbolt",
+        "Key": "Label",
+        "Value": "Rivian R1S"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sheepbolt_flames",
+        "Key": "Label",
+        "Value": "Flames"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sheepbolt_lightning",
+        "Key": "Label",
+        "Value": "Lightning"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sheepbolt_livery01",
+        "Key": "Label",
+        "Value": "R.A.D."
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sheepbolt_stripe",
+        "Key": "Label",
+        "Value": "Stripes"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sheepbolt_wings",
+        "Key": "Label",
+        "Value": "Wings"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_sheepbolt01",
+        "Key": "Label",
+        "Value": "Rivian R1S"
       }
     ]
   },
