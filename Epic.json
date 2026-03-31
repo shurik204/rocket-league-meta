@@ -7316,11 +7316,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Monstercat_10YrAnn.Vicetone_Nevada_FeatCoziZuehlsdorff'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.MC_10Yr.Vicetone_Nevada_FeatCoziZuehlsdorff'"
+          "Track": "AkSoundCue'MX_OST_Season22.FOOL_Drifeater_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.FOOL_Drifeater'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Monstercat_10YrAnn.Vicetone_Nevada_FeatCoziZuehlsdorff'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season22.FOOL_Drifeater'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
