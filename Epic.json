@@ -3040,6 +3040,26 @@
       10000
     ]
   },
+  "ProjectAIM": {
+    "Class": "PlaylistSettings_TA",
+    "PlaylistID": 91,
+    "PlayerCount": 6,
+    "bApplyQuitPenalty": "true",
+    "bAllowClubs": "true",
+    "bIsMicroEventPlaylist": "true",
+    "MapSetName": "SoccarStandard",
+    "Title": "FREE AERIALS *not clickbait*",
+    "Description": "[DEV ONLY] This let's you fly right at the ball when you boost in the air.  This is for developers only so we don't have to hear \"develop some skills\" when we use our dev tags.\n\nWe're getting out of Gold with this one!",
+    "PlaylistImageURL": "https://rl-cdn.psyonix.com/Playlists/TestImages_J29Sfhe3HkoL18/Limited_Events_BG_AprilFools_dsuh.jpg",
+    "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_LTM.playlist_ltm_aprilfools2026",
+    "bAllowStayAsParty": "true",
+    "bAllowBotFills": "true",
+    "PopulationBuckets": [
+      1,
+      5000,
+      10000
+    ]
+  },
   "CrossplayConfig": {
     "Class": "CrossplayConfig_X",
     "Groups": [
@@ -3079,6 +3099,14 @@
   "ThankYouMessageConfig": {
     "Class": "ThankYouMessageConfig_TA",
     "bThankYouMessageEnabled": false
+  },
+  "TargetFindConfig": {
+    "Class": "TargetFindConfig_TA",
+    "StartTime": 1775058900,
+    "EndTime": 1775232000,
+    "AffectedPlaylists": [
+      91
+    ]
   },
   "EpicConfig": {
     "Class": "EpicConfig_X",
@@ -3618,6 +3646,15 @@
         "EventFolderName": "Event.Nike26",
         "Subtitle": "Jordan LTE",
         "Description": "Season 22 continues spotlighting elite competition as Jordan brand enters the arena. From March 26 to April 15, complete Challenges in the Jordan limited-time event to unlock items including the Air Jordan Joga Sinistro Decal."
+      },
+      {
+        "StartTime": 1775059200,
+        "EndTime": 1776096000,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/AprilFools/RL_U58_TrainingWheels_LTE_EventScreen_Background_ad8h.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/AprilFools/RL_U58_TrainingWheels_LTE_EventScreen_Logo_f89ewqajd.png",
+        "EventFolderName": "Event.AprilFools2026",
+        "Subtitle": "Training Wheels",
+        "Description": "Hit ball. Earn Rewards. Repeat."
       }
     ]
   },
@@ -18760,6 +18797,10 @@
       {
         "KeyName": "PrimeUpdate57_1_33100BDD87C1285DAFEEBDE665231E71",
         "Content": "6HQ+ajuj7LUbaxoGr2Q+aG80smp8TkRSxf4a3G4MDiQ="
+      },
+      {
+        "KeyName": "PrimeUpdate58_82508C6A880BEB072A12F71B0C738C90",
+        "Content": "g9qIfMgD6XRllez+MG2hDj3ZLfulZTf4JQHaji62hN8="
       },
       {
         "KeyName": "PrimeUpdate58_7774520DBF2F45E24924B20C06E50611",
