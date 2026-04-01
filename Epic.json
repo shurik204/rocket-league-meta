@@ -22810,6 +22810,12 @@
         "Section": "wheel_sheepbolt01",
         "Key": "Label",
         "Value": "Rivian R1S"
+      },
+      {
+        "Package": "Products",
+        "Section": "crateunlocked_fool",
+        "Key": "Label",
+        "Value": "Fool's Golden Egg"
       }
     ]
   },
