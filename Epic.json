@@ -15116,6 +15116,51 @@
       {
         "ID": "I_GOT_IT_HABIBI",
         "Text": "I GOT IT, HABIBI!"
+      },
+      {
+        "ID": "RLCS_2026_Challenger",
+        "Category": "RLCS_Challenger",
+        "Text": "RLCS 2026 Challenger"
+      },
+      {
+        "ID": "RLCS_2026_Contender",
+        "Category": "RLCS_Champion",
+        "Text": "RLCS 2026 Contender"
+      },
+      {
+        "ID": "RLCS_2026_Regional_Champion",
+        "Category": "RLCS_Champion",
+        "Text": "RLCS 2026 Regional Champion"
+      },
+      {
+        "ID": "RLCS_2026_Major_1_Champion",
+        "Category": "RLCS_Champion",
+        "Text": "RLCS 2026 Boston Major Champion"
+      },
+      {
+        "ID": "RLCS_2026_Major_1_Contender",
+        "Category": "RLCS_Champion",
+        "Text": "RLCS 2026 Boston Major Contender"
+      },
+      {
+        "ID": "RLCS_2026_Major_2_Champion",
+        "Category": "RLCS_Champion",
+        "Text": "RLCS 2026 Paris Major Champion"
+      },
+      {
+        "ID": "RLCS_2026_Major_2_Contender",
+        "Category": "RLCS_Champion",
+        "Text": "RLCS 2026 Paris Major Contender"
+      },
+      {
+        "ID": "RLCS_2026_World_Champion",
+        "Category": "RLCS_Champion",
+        "Text": "RLCS 2026 World Champion"
+      },
+      {
+        "ID": "RLCS_2026_World_Championship_Contender",
+        "Category": "RLCS_Champion",
+        "Text": "RLCS 2026 World Championship Contender"
       }
     ],
     "ClubTitles": [
