@@ -3630,15 +3630,6 @@
         "Description": "This is your proving ground. Complete challenges, take on your biggest rivals, and unlock rewards all season long."
       },
       {
-        "StartTime": 1774022400,
-        "EndTime": 1774281600,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/KnowBall/RL_U58.00_YouKnowBall_EventInGame_EventScreen_oiwefu.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/KnowBall/RL_U58.00_YouKnowBall_EventInGame_EventScreenLogo_asd89.png",
-        "EventFolderName": "Event.WeKnowBall26",
-        "Subtitle": "You Know Ball?",
-        "Description": "Well, do you?"
-      },
-      {
         "StartTime": 1774569600,
         "EndTime": 1776297600,
         "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Jordan/RL_JordanLTE_EventScreen_ifwj.jpg",
