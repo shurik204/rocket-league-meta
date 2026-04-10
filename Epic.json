@@ -7344,11 +7344,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season22.FOOL_Drifeater_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.FOOL_Drifeater'"
+          "Track": "AkSoundCue'MX_OST_Season22.NVRXMARVAndLXSTURYAndjustforgetme_VOLKSWAGENFUNK_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.NVRXMARVAndLXSTURYAndjustforgetme_VOLKSWAGENFUNK'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season22.FOOL_Drifeater'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season22.NVRXMARVAndLXSTURYAndjustforgetme_VOLKSWAGENFUNK'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -9522,6 +9522,10 @@
         "ID": "MinusAura",
         "Color": "C31334",
         "GlowColor": "4A0000"
+      },
+      {
+        "ID": "Rivalry_Red",
+        "Color": "FF0000"
       }
     ],
     "Titles": [
@@ -15018,6 +15022,7 @@
       },
       {
         "ID": "Bracket_Rivalry_Team8",
+        "Category": "Rivalry_Red",
         "Text": "No Miss Just Fake"
       },
       {
@@ -15036,6 +15041,7 @@
       },
       {
         "ID": "Bracket_Rivalry_Team6",
+        "Category": "Rivalry_Red",
         "Text": "MENA LEGEND"
       },
       {
@@ -15054,6 +15060,7 @@
       },
       {
         "ID": "Bracket_Rivalry_Team4",
+        "Category": "Rivalry_Red",
         "Text": "Sangre Caliente"
       },
       {
@@ -15081,6 +15088,7 @@
       },
       {
         "ID": "Bracket_Rivalry_Team1",
+        "Category": "Rivalry_Red",
         "Text": "Baguettes"
       },
       {
