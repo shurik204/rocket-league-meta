@@ -22864,6 +22864,42 @@
         "Section": "crateunlocked_fool",
         "Key": "Label",
         "Value": "Fool's Golden Egg"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_greenclaw",
+        "Key": "Label",
+        "Value": "Pizza Planet Delivery Truck"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_greenclaw",
+        "Key": "Label",
+        "Value": "Pizza Planet Delivery Truck"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_greenclaw01",
+        "Key": "Label",
+        "Value": "Truck Lightwheel"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_greenclaw02",
+        "Key": "Label",
+        "Value": "Zurg Overdrive"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_greenclaw_rustylivery",
+        "Key": "Label",
+        "Value": "Pizza Planet Delivery Truck"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_greenclaw01",
+        "Key": "Label",
+        "Value": "'Za Cruisers"
       }
     ]
   },
