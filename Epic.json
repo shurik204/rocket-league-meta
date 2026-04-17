@@ -18899,6 +18899,10 @@
         "Content": "IIJyS9xQs8nYA+s92p8ShYtNYYFDIR+YTIOSTM5yfi0="
       },
       {
+        "KeyName": "PrimeUpdate58_FBD324F2F3910942A36407CB1F3C469C",
+        "Content": "fbw3bJfJWFSkLoxQVoRpfbb/FnYXPk0YOw7FaOo7lNg="
+      },
+      {
         "KeyName": "PrimeUpdate58_36520DC9D4A37A689F4860B553E7C484",
         "Content": "fAi5MIbLUaHgTp3WO1Hnmi/y+2QQXzEoZj1jEXUq/iQ="
       },
@@ -22920,6 +22924,48 @@
         "Section": "wheel_greenclaw01",
         "Key": "Label",
         "Value": "'Za Cruisers"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_spike",
+        "Key": "Label",
+        "Value": "Havoc"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_spike",
+        "Key": "Label",
+        "Value": "Havoc"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_spikeflames",
+        "Key": "Label",
+        "Value": "Flames"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_spikelivery02",
+        "Key": "Label",
+        "Value": "Augmented"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_spikelivery03",
+        "Key": "Label",
+        "Value": "Ice Vice"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_spikestripes",
+        "Key": "Label",
+        "Value": "Stripes"
+      },
+      {
+        "Package": "Products",
+        "Section": "Wheel_Spike01",
+        "Key": "Label",
+        "Value": "Havoc"
       }
     ]
   },
