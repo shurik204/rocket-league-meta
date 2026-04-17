@@ -3637,6 +3637,15 @@
         "EventFolderName": "Event.RLFN2026",
         "Subtitle": "Rivals & Rockets",
         "Description": "Friendly competition is expanding beyond the pitch with the new Rivals and Rockets event! Complete Quests and Challenges in both Fortnite and Rocket League to earn rewards, including the Havoc vehicle and the Dueling Dragons Jackie Outfit."
+      },
+      {
+        "StartTime": 1776441600,
+        "EndTime": 1776700800,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/FlowState/RL_U58_FlowStateViralLTE_EventScreen_iuhfa78.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/FlowState/RL_U58_FlowStateViralLTE_EventScreen_Logo_uhap7.png",
+        "EventFolderName": "Event.FlowState",
+        "Subtitle": "Flow State",
+        "Description": "Time to genuinely reach your flow state."
       }
     ]
   },
