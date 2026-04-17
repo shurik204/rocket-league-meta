@@ -3628,6 +3628,15 @@
         "EventFolderName": "Event.S22SeasonLongRivalryEvent",
         "Subtitle": "BUILT DIFFERENT",
         "Description": "This is your proving ground. Complete challenges, take on your biggest rivals, and unlock rewards all season long."
+      },
+      {
+        "StartTime": 1776434400,
+        "EndTime": 1777557600,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/RivalsRockets/FNECO_40.20_Rivals&Rockets_EventScreen_Image_uhh.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/RivalsRockets/FNECO_40.20_Rivals&Rockets_EventScreen_Logo_ohfa9.png",
+        "EventFolderName": "Event.RLFN2026",
+        "Subtitle": "Rivals & Rockets",
+        "Description": "Friendly competition is expanding beyond the pitch with the new Rivals and Rockets event! Complete Quests and Challenges in both Fortnite and Rocket League to earn rewards, including the Havoc vehicle and the Dueling Dragons Jackie Outfit."
       }
     ]
   },
