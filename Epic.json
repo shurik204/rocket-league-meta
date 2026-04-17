@@ -3628,24 +3628,6 @@
         "EventFolderName": "Event.S22SeasonLongRivalryEvent",
         "Subtitle": "BUILT DIFFERENT",
         "Description": "This is your proving ground. Complete challenges, take on your biggest rivals, and unlock rewards all season long."
-      },
-      {
-        "StartTime": 1774569600,
-        "EndTime": 1776297600,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Jordan/RL_JordanLTE_EventScreen_ifwj.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Jordan/RL_JordanLTE_Logo_7fwh.png",
-        "EventFolderName": "Event.Nike26",
-        "Subtitle": "Jordan LTE",
-        "Description": "Season 22 continues spotlighting elite competition as Jordan brand enters the arena. From March 26 to April 15, complete Challenges in the Jordan limited-time event to unlock items including the Air Jordan Joga Sinistro Decal."
-      },
-      {
-        "StartTime": 1775059200,
-        "EndTime": 1776096000,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/AprilFools/RL_U58_TrainingWheels_LTE_EventScreen_Background_ad8h.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/AprilFools/RL_U58_TrainingWheels_LTE_EventScreen_Logo_f89ewqajd.png",
-        "EventFolderName": "Event.AprilFools2026",
-        "Subtitle": "Training Wheels",
-        "Description": "Hit ball. Earn Rewards. Repeat."
       }
     ]
   },
@@ -18669,6 +18651,10 @@
       {
         "KeyName": "PrimeUpdate57_C3F1B67C3E335BDF5947635E35B57FC3",
         "Content": "/ysUtk0fBA943vElQxyXQwda8IC/GhT0wqnGBVTJJBQ="
+      },
+      {
+        "KeyName": "PrimeUpdate57_C957E61A8A501083F610DC76C760226B",
+        "Content": "Ny9AFIDz7dNKehOKzG0FIXRc71hGv5eV8+w//HD5JCA="
       },
       {
         "KeyName": "PrimeUpdate57_8BE923D162C0552F4F13F87C40191C3A",
