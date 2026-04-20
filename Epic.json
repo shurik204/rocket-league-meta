@@ -7344,11 +7344,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season22.NVRXMARVAndLXSTURYAndjustforgetme_VOLKSWAGENFUNK_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.NVRXMARVAndLXSTURYAndjustforgetme_VOLKSWAGENFUNK'"
+          "Track": "AkSoundCue'MX_OST_Season22.THIRST_MAYHEM_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_MAYHEM'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season22.NVRXMARVAndLXSTURYAndjustforgetme_VOLKSWAGENFUNK'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season22.THIRST_MAYHEM'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -22999,6 +22999,17 @@
         "UTCStartTime": "2026-04-24 14:30:00",
         "UTCEndTime": "2026-04-24 21:00:00",
         "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/BracketRivalryLogo_512x256_2.png",
+        "Title": "Rocket Rivalry",
+        "Description": "Rocket Rivalry Round 2",
+        "UTCStartTime": "2026-04-20 16:00:00",
+        "UTCEndTime": "2026-04-25 14:00:00",
+        "URL": "https://www.rocketleague.com/bracket-rivalry",
+        "ButtonTitle": "Bracket Rivalry",
+        "ButtonDescription": "View Standings",
+        "bShowLiveNow": false
       },
       {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_2026_Open6.png",
