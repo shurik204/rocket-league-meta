@@ -15133,6 +15133,11 @@
         "Text": "CALL ME CLUTCH"
       },
       {
+        "ID": "IN_THE_NET",
+        "Category": "Helper",
+        "Text": "IN THE NET"
+      },
+      {
         "ID": "RLCS_2026_Challenger",
         "Category": "RLCS_Challenger",
         "Text": "RLCS 2026 Challenger"
