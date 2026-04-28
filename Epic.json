@@ -1152,6 +1152,8 @@
     "Description": "Welcome to 4v4, revamped! New, larger, Rocket Labs-inspired Arenas give more space to play. The Boost layout on these Arenas has been optimized for the extra length and width of the field. Be sure to grab the new wall-mounted Boosts to keep up the attacking pressure or when rotating back to defend!",
     "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_LTM.playlist_ltm_4v4",
     "bAllowStayAsParty": "true",
+    "bAllowEACWhitelist": "false",
+    "bAllowEACTerminations": "true",
     "PopulationBuckets": [
       1,
       3000,
@@ -1174,6 +1176,8 @@
     "Description": "Ranked play with a team",
     "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_CasualCompetitive.playlist_3v3_keyart",
     "bAllowStayAsParty": "true",
+    "bAllowEACWhitelist": "false",
+    "bAllowEACTerminations": "true",
     "PopulationBuckets": [
       1,
       15000,
@@ -1196,6 +1200,8 @@
     "Description": "Ranked play with a partner",
     "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_CasualCompetitive.playlist_2v2_keyart",
     "bAllowStayAsParty": "true",
+    "bAllowEACWhitelist": "false",
+    "bAllowEACTerminations": "true",
     "PopulationBuckets": [
       1,
       30000,
@@ -1218,6 +1224,8 @@
     "Description": "Ranked one-on-one",
     "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_CasualCompetitive.playlist_1v1_keyart",
     "bAllowVoiceChat": false,
+    "bAllowEACWhitelist": "false",
+    "bAllowEACTerminations": "true",
     "PopulationBuckets": [
       1,
       4000,
@@ -1311,6 +1319,7 @@
     "bIgnoreAssignTeams": "true",
     "TourServerInfoClass": "TourServerInfo_TA",
     "bHasVariablePlayerCount": "true",
+    "bAllowEACWhitelist": "false",
     "Title": "Tournament Match"
   },
   "AutoTournament": {
@@ -1324,6 +1333,7 @@
     "bIgnoreAssignTeams": "true",
     "bHasVariablePlayerCount": "true",
     "TourServerInfoClass": "TourServerInfo_AutoTour_TA",
+    "bAllowEACWhitelist": "false",
     "Title": "Tournament Match"
   },
   "FaceIt": {
@@ -1339,6 +1349,7 @@
     "TourServerInfoClass": "TourServerInfo_FaceIt_TA",
     "bHasVariablePlayerCount": "true",
     "bIgnoreAssignTeams": "true",
+    "bAllowEACWhitelist": "false",
     "Title": "External Match"
   },
   "RankedRumble": {
@@ -1357,6 +1368,8 @@
     "Description": "Play with power-ups",
     "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_Arcade.playlist_rumble_keyart",
     "bAllowStayAsParty": "true",
+    "bAllowEACWhitelist": "false",
+    "bAllowEACTerminations": "true",
     "PopulationBuckets": [
       1,
       3000,
@@ -1379,6 +1392,8 @@
     "Description": "Break the floor and score",
     "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_Arcade.playlist_dropshot_keyart",
     "bAllowStayAsParty": "true",
+    "bAllowEACWhitelist": "false",
+    "bAllowEACTerminations": "true",
     "PopulationBuckets": [
       1,
       900,
@@ -1401,6 +1416,8 @@
     "Description": "Play with a basketball",
     "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_Arcade.playlist_hoops_keyart",
     "bAllowStayAsParty": "true",
+    "bAllowEACWhitelist": "false",
+    "bAllowEACTerminations": "true",
     "PopulationBuckets": [
       1,
       2000,
@@ -1423,6 +1440,8 @@
     "Description": "Play with a hockey puck",
     "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_Arcade.playlist_snowday_keyart",
     "bAllowStayAsParty": "true",
+    "bAllowEACWhitelist": "false",
+    "bAllowEACTerminations": "true",
     "PopulationBuckets": [
       1,
       650,
@@ -1445,6 +1464,8 @@
     "Description": "Heatseeker is now 2v2! Touching the ball automatically sends it in the direction of the opposing team’s goal. It fires back toward your goal if it hits the backboard, so be careful! The ball gains speed with each touch. Scoring 7 goals wins! ",
     "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_LTM.playlist_ltm_heatseeker",
     "bAllowStayAsParty": "true",
+    "bAllowEACWhitelist": "false",
+    "bAllowEACTerminations": "true",
     "PopulationBuckets": [
       1,
       3000,
@@ -18946,6 +18967,10 @@
       {
         "KeyName": "PrimeUpdate58_E3082C5DC15A2B90F4E2C18C238A7974",
         "Content": "raU8NLUsjmfrjcGfw3BNEelTtFEFXLcLlvfDq3q3yXY="
+      },
+      {
+        "KeyName": "PrimeUpdate58_1_BC9055AC14E8C1527D9997B47F774977",
+        "Content": "RsfWDcEMEB7F9IAxE4Hy4+r6uKyWNlfarCk4a5B94o4="
       }
     ]
   },
@@ -22971,6 +22996,72 @@
         "Section": "Wheel_Spike01",
         "Key": "Label",
         "Value": "Havoc"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_habstraktlizdek_surge",
+        "Key": "Label",
+        "Value": "SURGE"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_habstraktlizdek_surge",
+        "Key": "Artist",
+        "Value": "Habstrakt & Lizdek"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_s22rlcs01",
+        "Key": "Label",
+        "Value": "Slaymaker"
+      },
+      {
+        "Package": "Products",
+        "Section": "playerbanner_rocketbaguette",
+        "Key": "Label",
+        "Value": "Rocket Baguette"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_force_modernartgraffiti02",
+        "Key": "Label",
+        "Value": "Noir Chat"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_octane_modernartgraffiti02",
+        "Key": "Label",
+        "Value": "Hello My Name Is Brainwash"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_octanecourgette01",
+        "Key": "Label",
+        "Value": "Little Chef"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_oubliette2",
+        "Key": "Label",
+        "Value": "Shot Caller"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_pixelpizza",
+        "Key": "Label",
+        "Value": "Pixelated Pizza"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_rl252",
+        "Key": "Label",
+        "Value": "Disposer"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_rl262",
+        "Key": "Label",
+        "Value": "Heat Lightning"
       }
     ]
   },
