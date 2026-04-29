@@ -18986,6 +18986,10 @@
         "Content": "raU8NLUsjmfrjcGfw3BNEelTtFEFXLcLlvfDq3q3yXY="
       },
       {
+        "KeyName": "PrimeUpdate58_1_61175F3C73C9AC4B87B15551BD766313",
+        "Content": "zodPSz8Gt5cZ+C6GeB47zZVd61RlvGJwt6bXsPhg1Lk="
+      },
+      {
         "KeyName": "PrimeUpdate58_1_BC9055AC14E8C1527D9997B47F774977",
         "Content": "RsfWDcEMEB7F9IAxE4Hy4+r6uKyWNlfarCk4a5B94o4="
       }
@@ -23049,6 +23053,48 @@
         "Section": "skin_quartz_wings",
         "Key": "Label",
         "Value": "Wings"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_courgette01",
+        "Key": "Label",
+        "Value": "Remy's Taste"
+      },
+      {
+        "Package": "Products",
+        "Section": "crateunlocked_courgette",
+        "Key": "Label",
+        "Value": "Cooking Pot Crate"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_courgette",
+        "Key": "Label",
+        "Value": "Anyone Can Cook"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_courgettelte01",
+        "Key": "Label",
+        "Value": "Chef Remy"
+      },
+      {
+        "Package": "Products",
+        "Section": "playerbanner_courgette",
+        "Key": "Label",
+        "Value": "Ratatouille"
+      },
+      {
+        "Package": "Products",
+        "Section": "ss_courgette01",
+        "Key": "Label",
+        "Value": "Remy's Taste"
+      },
+      {
+        "Package": "Products",
+        "Section": "Wheel_Courgette01",
+        "Key": "Label",
+        "Value": "Ratatouille"
       },
       {
         "Package": "Products",
