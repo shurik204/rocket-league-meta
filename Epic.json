@@ -3708,6 +3708,10 @@
       }
     ]
   },
+  "AntiCheatConfig": {
+    "Class": "AntiCheatConfig_TA",
+    "LearnMoreURL": "https://www.epicgames.com/help/rocket-league-c-202300000001622/technical-support-c-202300000001679/how-to-enable-easy-anti-cheat-for-rocket-league-a202300000084282"
+  },
   "ItemShopNotificationsConfig": {
     "Class": "ItemShopNotificationsConfig_TA",
     "bItemShopNotificationsEnabled": "true"
