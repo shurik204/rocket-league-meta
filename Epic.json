@@ -3667,6 +3667,15 @@
         "EventFolderName": "Event.FlowState",
         "Subtitle": "Flow State",
         "Description": "Time to genuinely reach your flow state."
+      },
+      {
+        "StartTime": 1777478400,
+        "EndTime": 1779206400,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Apex/RL_U58.1_ApexOverdrive_LTE_EventScreen_qpoui.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Apex/RL_U58.1_ApexOverdrive_LTE_EventScreenLogo_poiup.png",
+        "EventFolderName": "Event.ApexLTE2026",
+        "Subtitle": "Apex Overdrive LTE",
+        "Description": "Jump into Apex Overdrive. Complete Challenges to earn up to 13 painted variants of the Apex Wheels!"
       }
     ]
   },
