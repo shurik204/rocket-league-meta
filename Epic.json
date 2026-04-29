@@ -18889,6 +18889,10 @@
         "Content": "6HQ+ajuj7LUbaxoGr2Q+aG80smp8TkRSxf4a3G4MDiQ="
       },
       {
+        "KeyName": "PrimeUpdate58_14E5B05BCBC31EF164CA854284CD469F",
+        "Content": "UUdHIZ05/BZO/F4TMAQOaoKNcbmHcF2lFILPIsEIo20="
+      },
+      {
         "KeyName": "PrimeUpdate58_82508C6A880BEB072A12F71B0C738C90",
         "Content": "g9qIfMgD6XRllez+MG2hDj3ZLfulZTf4JQHaji62hN8="
       },
@@ -22996,6 +23000,42 @@
         "Section": "Wheel_Spike01",
         "Key": "Label",
         "Value": "Havoc"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_quartz_b",
+        "Key": "Label",
+        "Value": "Reel Life (Custom)"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_quartz_flames",
+        "Key": "Label",
+        "Value": "Flames"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_quartz_gold",
+        "Key": "Label",
+        "Value": "Solid Gold"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_quartz_lightning",
+        "Key": "Label",
+        "Value": "Lightning"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_quartz_stripes",
+        "Key": "Label",
+        "Value": "Stripes"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_quartz_wings",
+        "Key": "Label",
+        "Value": "Wings"
       },
       {
         "Package": "Products",
