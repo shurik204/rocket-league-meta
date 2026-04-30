@@ -7378,11 +7378,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season22.THIRST_MAYHEM_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_MAYHEM'"
+          "Track": "AkSoundCue'MX_OST_Season22.Prey_ShowMeYourWay_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Prey_ShowMeYourWay'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season22.THIRST_MAYHEM'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season22.Prey_ShowMeYourWay'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
