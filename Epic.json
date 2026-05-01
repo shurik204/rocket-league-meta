@@ -9560,6 +9560,10 @@
       {
         "ID": "Rivalry_Red",
         "Color": "FF0000"
+      },
+      {
+        "ID": "Rivalry_Blue",
+        "Color": "2C9EFF"
       }
     ],
     "Titles": [
@@ -15056,7 +15060,7 @@
       },
       {
         "ID": "Bracket_Rivalry_Team8",
-        "Category": "Rivalry_Red",
+        "Category": "Rivalry_Blue",
         "Text": "No Miss Just Fake"
       },
       {
@@ -15094,7 +15098,7 @@
       },
       {
         "ID": "Bracket_Rivalry_Team4",
-        "Category": "Rivalry_Red",
+        "Category": "Rivalry_Blue",
         "Text": "Sangre Caliente"
       },
       {
