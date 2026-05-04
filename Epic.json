@@ -23236,6 +23236,17 @@
       {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/BracketRivalryLogo_512x256_2.png",
         "Title": "Rocket Rivalry",
+        "Description": "Rocket Rivalry Round 3",
+        "UTCStartTime": "2026-05-04 16:00:00",
+        "UTCEndTime": "2026-05-20 00:00:00",
+        "URL": "https://www.rocketleague.com/bracket-rivalry",
+        "ButtonTitle": "Bracket Rivalry",
+        "ButtonDescription": "View Standings",
+        "bShowLiveNow": false
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/BracketRivalryLogo_512x256_2.png",
+        "Title": "Rocket Rivalry",
         "Description": "Rocket Rivalry Round 2",
         "UTCStartTime": "2026-04-26 23:00:00",
         "UTCEndTime": "2026-05-02 16:00:00",
