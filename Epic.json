@@ -7204,6 +7204,8 @@
       "MX_OST_Season22.Prey_ShowMeYourWay_RLedit",
       "MX_OST_Season22.THIRST_ALLDAWAY_RLedit",
       "MX_OST_Season22.THIRST_MAYHEM_RLedit",
+      "MX_OST_Season22.GodlandsAndTisoki_TELLME",
+      "MX_OST_Season22.GodlandsAndTisoki_TELLME_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -7378,11 +7380,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season22.Prey_ShowMeYourWay_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Prey_ShowMeYourWay'"
+          "Track": "AkSoundCue'MX_OST_Season22.GodlandsAndTisoki_TELLME_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.GodlandsAndTisoki_TELLME'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season22.Prey_ShowMeYourWay'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season22.GodlandsAndTisoki_TELLME'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7413,6 +7415,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season22.THIRST_MAYHEM'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_MAYHEM'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season22.GodlandsAndTisoki_TELLME'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.GodlandsAndTisoki_TELLME'"
             }
           ]
         },
@@ -19004,6 +19010,14 @@
       {
         "KeyName": "PrimeUpdate58_1_BC9055AC14E8C1527D9997B47F774977",
         "Content": "RsfWDcEMEB7F9IAxE4Hy4+r6uKyWNlfarCk4a5B94o4="
+      },
+      {
+        "KeyName": "PrimeUpdate58_1_480030AA8F608828CD4492CA4E04E1FE",
+        "Content": "bZU7ykZBt12N53a/g62mxM6yoj8ot4LwYZFh71TqPRg="
+      },
+      {
+        "KeyName": "PrimeUpdate58_1_629192747BBE6AF1AA366B286DA6FB61",
+        "Content": "KKxb34Qid+HhqNvQnAo4exFJuVjVXkVkqSnITdW5Hco="
       }
     ]
   },
