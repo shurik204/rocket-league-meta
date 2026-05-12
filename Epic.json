@@ -14767,6 +14767,11 @@
         "Text": "RLCS BOSTON 2026 ATTENDEE"
       },
       {
+        "ID": "RLCS_PARIS_2026_ATTENDEE",
+        "Category": "Community_Spotlight",
+        "Text": "RLCS PARIS 2026 ATTENDEE"
+      },
+      {
         "ID": "AutoTour_22_Bronze_1",
         "Text": "S22 {Bronze} Tournament Winner"
       },
