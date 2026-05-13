@@ -19009,6 +19009,10 @@
         "Content": "caN2/LsumJ5zeIz5SeUkcy2BR+G0KdHHreyYWIKxCGI="
       },
       {
+        "KeyName": "PrimeUpdate58_1_9BBA739BE3D366AC8DF23C8242576770",
+        "Content": "G1EWrNvIqcvjhRNQOgbCZlCN35P0zer8L0LBn9yiobM="
+      },
+      {
         "KeyName": "PrimeUpdate58_1_61175F3C73C9AC4B87B15551BD766313",
         "Content": "zodPSz8Gt5cZ+C6GeB47zZVd61RlvGJwt6bXsPhg1Lk="
       },
@@ -23090,6 +23094,60 @@
         "Section": "skin_quartz_wings",
         "Key": "Label",
         "Value": "Wings"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_bluetorque",
+        "Key": "Label",
+        "Value": "Porsche Cayenne Turbo Electric"
+      },
+      {
+        "Package": "Products",
+        "Section": "EngineAudio_BlueTorque",
+        "Key": "Label",
+        "Value": "Porsche Cayenne Turbo Electric"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_bluetorque_livery01",
+        "Key": "Label",
+        "Value": "Psych Wave"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_bluetorque01",
+        "Key": "Label",
+        "Value": "Tracer"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_bluetorque02",
+        "Key": "Label",
+        "Value": "Mercy"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_bluetorque03",
+        "Key": "Label",
+        "Value": "D.Va"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_bluetorque04",
+        "Key": "Label",
+        "Value": "Genji"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_bluetorque01",
+        "Key": "Label",
+        "Value": "Porsche Cayenne Turbo Electric"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_bluetorque02",
+        "Key": "Label",
+        "Value": "Shimada Spinners"
       },
       {
         "Package": "Products",
