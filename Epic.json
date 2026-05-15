@@ -3121,14 +3121,6 @@
     "Class": "ThankYouMessageConfig_TA",
     "bThankYouMessageEnabled": false
   },
-  "TargetFindConfig": {
-    "Class": "TargetFindConfig_TA",
-    "StartTime": 1775058900,
-    "EndTime": 1775232000,
-    "AffectedPlaylists": [
-      91
-    ]
-  },
   "EpicConfig": {
     "Class": "EpicConfig_X",
     "bAllowRemoteAvatars": true,
