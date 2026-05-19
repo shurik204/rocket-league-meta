@@ -3661,15 +3661,6 @@
         "Description": "Time to genuinely reach your flow state."
       },
       {
-        "StartTime": 1777478400,
-        "EndTime": 1779206400,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Apex/RL_U58.1_ApexOverdrive_LTE_EventScreen_qpoui.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Apex/RL_U58.1_ApexOverdrive_LTE_EventScreenLogo_poiup.png",
-        "EventFolderName": "Event.ApexLTE2026",
-        "Subtitle": "Apex Overdrive LTE",
-        "Description": "Jump into Apex Overdrive. Complete Challenges to earn up to 13 painted variants of the Apex Wheels!"
-      },
-      {
         "StartTime": 1778860800,
         "EndTime": 1779724800,
         "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/AbsoluteCinema/RL_U58.1_AbsoluteCinema_LTE_EventScreen_vadp98u.jpg",
@@ -18809,6 +18800,10 @@
         "Content": "bDjyNQP4ewksO7/qvcVcLxS3F3AoH6g7Xtaum8tPuxk="
       },
       {
+        "KeyName": "PrimeUpdate57_658386F8264D207FAB4499F6E15DF61B",
+        "Content": "mKeNJgaxYvYMrZLubjJy2Wx3q6siKHzJKaui/sav+/E="
+      },
+      {
         "KeyName": "PrimeUpdate57_145C0C34C82C807512CD96F87BD541B0",
         "Content": "MLMR8QaJXgZ6TSS0lOZto1UoCGSNKd/9McXXpc5pYwI="
       },
@@ -19035,6 +19030,10 @@
       {
         "KeyName": "PrimeUpdate58_E7E3C36245058DF613343523909109DA",
         "Content": "Q+HO02ojqR/LWyB9ElFLs6tRURy/Gfz5myEevCsEKCw="
+      },
+      {
+        "KeyName": "PrimeUpdate58_9502160CD786E1D11A8A9D4264F360AE",
+        "Content": "a353IJqt0j3cGxrLYnkmkv4g6W4HDcJW6T5tKm8olbY="
       },
       {
         "KeyName": "PrimeUpdate58_1_CF3B2A3A9A8039EC649A6BAAA7371772",
