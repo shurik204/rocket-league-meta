@@ -23416,6 +23416,46 @@
     "Class": "ESportConfig_TA",
     "Events": [
       {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_ParisMajor2026.png",
+        "Title": "RL Paris Major 2026",
+        "Description": "RL Paris Major 2026 - Broadcast Day 1",
+        "UTCStartTime": "2026-05-20 12:00:00",
+        "UTCEndTime": "2026-05-20 18:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_ParisMajor2026.png",
+        "Title": "RL Paris Major 2026",
+        "Description": "RL Paris Major 2026 - Broadcast Day 2",
+        "UTCStartTime": "2026-05-21 12:00:00",
+        "UTCEndTime": "2026-05-21 18:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_ParisMajor2026.png",
+        "Title": "RL Paris Major 2026",
+        "Description": "RL Paris Major 2026 - Broadcast Day 3",
+        "UTCStartTime": "2026-05-22 12:00:00",
+        "UTCEndTime": "2026-05-22 18:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_ParisMajor2026.png",
+        "Title": "RL Paris Major 2026",
+        "Description": "RL Paris Major 2026 - Broadcast Day 4",
+        "UTCStartTime": "2026-05-23 10:30:00",
+        "UTCEndTime": "2026-05-23 17:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_ParisMajor2026.png",
+        "Title": "RL Paris Major 2026",
+        "Description": "RL Paris Major 2026 - Broadcast Day 5",
+        "UTCStartTime": "2026-05-24 10:30:00",
+        "UTCEndTime": "2026-05-24 18:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/BracketRivalryLogo_512x256_2.png",
         "Title": "Rocket Rivalry",
         "Description": "Rocket Rivalry Round 3",
