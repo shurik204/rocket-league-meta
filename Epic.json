@@ -7205,6 +7205,8 @@
       "MX_OST_Season22.Prey_ShowMeYourWay_RLedit",
       "MX_OST_Season22.THIRST_ALLDAWAY_RLedit",
       "MX_OST_Season22.THIRST_MAYHEM_RLedit",
+      "MX_OST_Esports.HabstraktAndLizdek_SURGE",
+      "MX_OST_Esports.HabstraktAndLizdek_SURGE_RLedit",
       "MX_OST_Season22.GodlandsAndTisoki_TELLME",
       "MX_OST_Season22.GodlandsAndTisoki_TELLME_RLedit",
       "MX_OST_Season22.NXSTYAndRYA_ListenUp",
@@ -7383,11 +7385,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season22.NXSTYAndRYA_ListenUp_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.NXSTYAndRYA_ListenUp'"
+          "Track": "AkSoundCue'MX_OST_Esports.HabstraktAndLizdek_SURGE_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.HabstraktAndLizdek_SURGE'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season22.NXSTYAndRYA_ListenUp'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Esports.HabstraktAndLizdek_SURGE'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -8480,6 +8482,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season19.EpicGames_ThisIsRocketLeague'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.EpicGames_ThisIsRocketLeague'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Esports.HabstraktAndLizdek_SURGE'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.HabstraktAndLizdek_SURGE'"
             }
           ]
         },
@@ -19058,6 +19064,14 @@
       {
         "KeyName": "PrimeUpdate58_1_BC9055AC14E8C1527D9997B47F774977",
         "Content": "RsfWDcEMEB7F9IAxE4Hy4+r6uKyWNlfarCk4a5B94o4="
+      },
+      {
+        "KeyName": "PrimeUpdate58_1_FC6C77F454164D3D37A0B76D50662CF9",
+        "Content": "UWhR1RVb+Bl6H5+1CeRzqtOXet4VBiomfchRAXXeIQI="
+      },
+      {
+        "KeyName": "PrimeUpdate58_1_D9AD7360BBF1B3C388E62C997FCD5511",
+        "Content": "Qir0Enq21kFSxrQv/ywTLV21ED4euI8HGKTuZzyzKsg="
       },
       {
         "KeyName": "PrimeUpdate58_1_7267B5B2B936B8A51F85CB8285E0718C",
