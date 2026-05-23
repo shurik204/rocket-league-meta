@@ -9583,6 +9583,10 @@
       {
         "ID": "Rivalry_Blue",
         "Color": "2C9EFF"
+      },
+      {
+        "ID": "Rivalry_Yellow",
+        "Color": "F8BF26"
       }
     ],
     "Titles": [
@@ -15118,7 +15122,7 @@
       },
       {
         "ID": "Bracket_Rivalry_Team4",
-        "Category": "Rivalry_Blue",
+        "Category": "Rivalry_Yellow",
         "Text": "Sangre Caliente"
       },
       {
