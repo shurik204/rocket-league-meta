@@ -23430,11 +23430,6 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
-  "BlogConfig": {
-    "Class": "BlogConfig_X",
-    "Entries": [],
-    "MotD": "Tune in to the Paris Major broadcast on May 24 between Semifinal 1 and 2 for a reveal you don’t want to miss!"
-  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
