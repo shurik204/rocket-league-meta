@@ -3661,15 +3661,6 @@
         "Description": "Time to genuinely reach your flow state."
       },
       {
-        "StartTime": 1778860800,
-        "EndTime": 1779724800,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/AbsoluteCinema/RL_U58.1_AbsoluteCinema_LTE_EventScreen_vadp98u.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/AbsoluteCinema/RL_U58.1_AbsoluteCinema_LTE_EventLogo_adfs0978aydf7.png",
-        "EventFolderName": "Event.MemeCinema26",
-        "Subtitle": "Absolute Cinema",
-        "Description": "It’s time to put on a show. Complete Challenges to earn Titles and a Black Market Drop!"
-      },
-      {
         "StartTime": 1779148800,
         "EndTime": 1780358400,
         "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Ratatouille/RL_U58.1_Ratatouille_LTE_EventScreen_ijowoijw.jpg",
@@ -15210,18 +15201,6 @@
       {
         "ID": "1v3ing",
         "Text": "1v3ing"
-      },
-      {
-        "ID": "I_HEART_RULE_ONE",
-        "Text": "I <3 RULE 1"
-      },
-      {
-        "ID": "ABSOLUTE_CINEMA",
-        "Text": "ABSOLUTE CINEMA"
-      },
-      {
-        "ID": "CLIP_MACHINE",
-        "Text": "CLIP MACHINE"
       },
       {
         "ID": "RLCS_2026_Challenger",
