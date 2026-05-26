@@ -3668,6 +3668,15 @@
         "EventFolderName": "Event.RAT2026",
         "Subtitle": "Ratatouille LTE",
         "Description": "Let’s get cooking, the Disney and Pixar Ratatouille LTE is LIVE! Complete Challenges, earn Rewards, and check out themed Items fresh in the Shop!"
+      },
+      {
+        "StartTime": 1779818400,
+        "EndTime": 1781100000,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen_logo.png",
+        "EventFolderName": "Event.MaySeasonRush(S22)",
+        "Subtitle": "Boost Your Rocket Pass",
+        "Description": "Season Rush offers a chance to climb the Rocket Pass Tiers at supersonic speed! Complete Season Rush Challenges and level up while you race your way to the Pro Tiers."
       }
     ]
   },
