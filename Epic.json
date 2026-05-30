@@ -19068,6 +19068,10 @@
         "Content": "ONzote1qD2gSrGh+cA9lVdGkuMo963vqWOy8WQnY1BY="
       },
       {
+        "KeyName": "PrimeUpdate58_1_ACBF1B48AA08E857E4DD311C0D0C36DF",
+        "Content": "e5dx5TmKVpSQJ5LWvQWxB8BSl1EkJhvCIvTtqipDfT4="
+      },
+      {
         "KeyName": "PrimeUpdate58_1_313D351B5D987AF464199FC8F38E9A9C",
         "Content": "caN2/LsumJ5zeIz5SeUkcy2BR+G0KdHHreyYWIKxCGI="
       },
@@ -23227,6 +23231,48 @@
         "Section": "wheel_bluetorque02",
         "Key": "Label",
         "Value": "Shimada Spinners"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_condormotor",
+        "Key": "Label",
+        "Value": "GMC Sierra 2500 AT4X"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_condormotor",
+        "Key": "Label",
+        "Value": "GMC Sierra 2500 AT4X"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_condormotor_livery01",
+        "Key": "Label",
+        "Value": "Professional Gray"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_condormotor_livery02",
+        "Key": "Label",
+        "Value": "Off-Road"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_condormotor_livery03",
+        "Key": "Label",
+        "Value": "Urban Camo"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_condormotor01",
+        "Key": "Label",
+        "Value": "GMC Sierra 2500 AT4X"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_condormotor02",
+        "Key": "Label",
+        "Value": "GMC Sierra 2500 AT4X (Off-Road)"
       },
       {
         "Package": "Products",
