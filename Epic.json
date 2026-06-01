@@ -7225,6 +7225,8 @@
       "MX_OST_Season22.GodlandsAndTisoki_TELLME_RLedit",
       "MX_OST_Season22.NXSTYAndRYA_ListenUp",
       "MX_OST_Season22.NXSTYAndRYA_ListenUp_RLedit",
+      "MX_OST_Season22.Pirapus_ENERGYIFeel",
+      "MX_OST_Season22.Pirapus_ENERGYIFeel_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -7399,11 +7401,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Esports.HabstraktAndLizdek_SURGE_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.HabstraktAndLizdek_SURGE'"
+          "Track": "AkSoundCue'MX_OST_Season22.Pirapus_ENERGYIFeel_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Pirapus_ENERGYIFeel'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Esports.HabstraktAndLizdek_SURGE'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season22.Pirapus_ENERGYIFeel'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7442,6 +7444,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season22.NXSTYAndRYA_ListenUp'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.NXSTYAndRYA_ListenUp'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season22.Pirapus_ENERGYIFeel'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Pirapus_ENERGYIFeel'"
             }
           ]
         },
@@ -19110,6 +19116,14 @@
       {
         "KeyName": "PrimeUpdate58_1_629192747BBE6AF1AA366B286DA6FB61",
         "Content": "KKxb34Qid+HhqNvQnAo4exFJuVjVXkVkqSnITdW5Hco="
+      },
+      {
+        "KeyName": "PrimeUpdate58_1_4586F6D6CA8BF044A8EE210F53C7EBB3",
+        "Content": "9bIbGTqsw4DlPwAqYKCLpJTDd/4f+9igoQRBegRBbSk="
+      },
+      {
+        "KeyName": "PrimeUpdate58_1_64E0EA7D393651CAA9B405C0DDC587CC",
+        "Content": "o7BndUVvpXXOxke4Ic+cyeOxrpV11WS+ksreWYJd4to="
       }
     ]
   },
