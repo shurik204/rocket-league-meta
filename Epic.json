@@ -3630,6 +3630,10 @@
       1
     ]
   },
+  "RankedConfig": {
+    "Class": "RankedConfig_X",
+    "SeasonEndTimeSeconds": 1781103600
+  },
   "SpecialEventsConfig": {
     "Class": "SpecialEventConfig_TA",
     "ActiveEvents": [
