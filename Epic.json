@@ -2489,7 +2489,8 @@
     "bDisableSaveReplays": "true",
     "bPrivate": "true",
     "bAllowBotFills": "false",
-    "bSkipGameModeVerification": "false"
+    "bSkipGameModeVerification": "false",
+    "bAllowAnonymize": "false"
   },
   "NonStandardSoccar": {
     "Class": "PlaylistSettings_TA",
@@ -7402,7 +7403,15 @@
       "anthem_nvrxmarv_volkswagenfunk.Anthem_Nvrxmarv_VolkswagenFunk_MVP",
       "anthem_prey_showmeyourway.Anthem_Prey_ShowMeYourWay_MVP",
       "anthem_thirst_alldaway.Anthem_Thirst_Alldaway_MVP",
-      "anthem_thirst_mayhem.Anthem_Thirst_Mayhem_MVP"
+      "anthem_thirst_mayhem.Anthem_Thirst_Mayhem_MVP",
+      "anthem_epicaudioteam_s23rankrewards01.Anthem_EpicAudioTeam_S23RankRewards01_MVP",
+      "anthem_epicaudioteam_s23rankrewards02.Anthem_EpicAudioTeam_S23RankRewards02_MVP",
+      "anthem_epicaudioteam_s23rankrewards03.Anthem_EpicAudioTeam_S23RankRewards03_MVP",
+      "anthem_epicaudioteam_s23rankrewards04.Anthem_EpicAudioTeam_S23RankRewards04_MVP",
+      "anthem_epicaudioteam_s23rankrewards05.Anthem_EpicAudioTeam_S23RankRewards05_MVP",
+      "anthem_epicaudioteam_s23rankrewards06.Anthem_EpicAudioTeam_S23RankRewards06_MVP",
+      "anthem_epicaudioteam_s23rankrewards07.Anthem_EpicAudioTeam_S23RankRewards07_MVP",
+      "anthem_epicaudioteam_s23rankrewards08.Anthem_EpicAudioTeam_S23RankRewards08_MVP"
     ]
   },
   "MusicThemeConfig": {
@@ -15296,6 +15305,66 @@
         "ID": "RLCS_2026_World_Championship_Contender",
         "Category": "RLCS_Champion",
         "Text": "RLCS 2026 World Championship Contender"
+      },
+      {
+        "ID": "S36_Grand_Champion",
+        "Category": "SZN_1_Red",
+        "Text": "S22 Grand Champion"
+      },
+      {
+        "ID": "S36_Grand_Champion_Rumble",
+        "Category": "SZN_1_Red",
+        "Text": "S22 RNG Champ"
+      },
+      {
+        "ID": "S36_Grand_Champion_Snowday",
+        "Category": "SZN_1_Red",
+        "Text": "S22 Blizzard Wizard"
+      },
+      {
+        "ID": "S36_Grand_Champion_Hoops",
+        "Category": "SZN_1_Red",
+        "Text": "S22 Dunk Master"
+      },
+      {
+        "ID": "S36_Grand_Champion_Dropshot",
+        "Category": "SZN_1_Red",
+        "Text": "S22 Floor Destroyer"
+      },
+      {
+        "ID": "S36_Grand_Champion_Heatseeker",
+        "Category": "SZN_1_Red",
+        "Text": "S22 HEATSEEKER ACE"
+      },
+      {
+        "ID": "S36_SuperSonic_Legend",
+        "Category": "SZN_1_White",
+        "Text": "S22 Supersonic Legend"
+      },
+      {
+        "ID": "S36_SSL_Rumble",
+        "Category": "SZN_1_White",
+        "Text": "S22 RNGenius"
+      },
+      {
+        "ID": "S36_SSL_Snowday",
+        "Category": "SZN_1_White",
+        "Text": "S22 Ice Titan"
+      },
+      {
+        "ID": "S36_SSL_Hoops",
+        "Category": "SZN_1_White",
+        "Text": "S22 Legendary Baller"
+      },
+      {
+        "ID": "S36_SSL_Dropshot",
+        "Category": "SZN_1_White",
+        "Text": "S22 Tile Annihilator"
+      },
+      {
+        "ID": "S36_SSL_Heetseeker",
+        "Category": "SZN_1_White",
+        "Text": "S22 SUPER SEEKING LEGEND"
       }
     ],
     "ClubTitles": [
