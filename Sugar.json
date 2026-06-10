@@ -1,8 +1,8 @@
 {
-    "build_date": "May  6 2026 07:48:39",
-    "g_psyonix_build_id": "260506.26700.517210",
-    "build_id": -1652286008,
-    "feature_set": "PrimeUpdate58_1",
+    "build_date": "Jun  2 2026 21:29:27",
+    "g_psyonix_build_id": "260602.75104.519749",
+    "build_id": 939334844,
+    "feature_set": "PrimeUpdate59",
     "curl_version": "7.67.0",
     "eos_sdk_version": "1.18.0.0-45084530"
 }
