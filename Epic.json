@@ -1011,6 +1011,35 @@
         ]
       },
       {
+        "SetName": "WorldCup",
+        "Maps": [
+          {
+            "Map": "MapList.Maps.eurostadium_p",
+            "Frequency": 1
+          },
+          {
+            "Map": "MapList.Maps.eurostadium_night_p",
+            "Frequency": 1
+          },
+          {
+            "Map": "MapList.Maps.eurostadium_dusk_p",
+            "Frequency": 1
+          },
+          {
+            "Map": "MapList.Maps.paname_dusk_p",
+            "Frequency": 1
+          },
+          {
+            "Map": "MapList.Maps.ff_dusk_p",
+            "Frequency": 1
+          },
+          {
+            "Map": "MapList.Maps.uf_night_p",
+            "Frequency": 1
+          }
+        ]
+      },
+      {
         "SetName": "SonicRush",
         "Maps": [
           {
@@ -1058,6 +1087,16 @@
     "bStandard": "true",
     "bApplyQuitPenalty": "true",
     "MapSetName": "SoccarStandard",
+    "PresetMutators": [
+      {
+        "PresetTags": [
+          {
+            "Category": "BallType",
+            "Setting": "Ball_WorldCup"
+          }
+        ]
+      }
+    ],
     "bAllowClubs": "true",
     "Title": "Standard",
     "Description": "Classic team play",
@@ -1076,6 +1115,16 @@
     "bStandard": "true",
     "bApplyQuitPenalty": "true",
     "MapSetName": "SoccarStandard",
+    "PresetMutators": [
+      {
+        "PresetTags": [
+          {
+            "Category": "BallType",
+            "Setting": "Ball_WorldCup"
+          }
+        ]
+      }
+    ],
     "bAllowClubs": "true",
     "Title": "Doubles",
     "Description": "Play with a partner",
@@ -1093,6 +1142,16 @@
     "PlayerCount": 2,
     "bStandard": "true",
     "MapSetName": "SoccarStandard",
+    "PresetMutators": [
+      {
+        "PresetTags": [
+          {
+            "Category": "BallType",
+            "Setting": "Ball_WorldCup"
+          }
+        ]
+      }
+    ],
     "Title": "Duel",
     "Description": "One-on-one",
     "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_CasualCompetitive.playlist_1v1_keyart",
@@ -1109,6 +1168,16 @@
     "PlayerCount": 8,
     "bApplyQuitPenalty": "true",
     "MapSetName": "SoccarQuads",
+    "PresetMutators": [
+      {
+        "PresetTags": [
+          {
+            "Category": "BallType",
+            "Setting": "Ball_WorldCup"
+          }
+        ]
+      }
+    ],
     "bAllowClubs": "true",
     "bIsMicroEventPlaylist": "true",
     "Title": "Quads",
@@ -1182,6 +1251,16 @@
     "bApplyQuitPenalty": "true",
     "bServerBroadcastCancellations": "true",
     "MapSetName": "RankedSoccarStandard",
+    "PresetMutators": [
+      {
+        "PresetTags": [
+          {
+            "Category": "BallType",
+            "Setting": "Ball_WorldCup"
+          }
+        ]
+      }
+    ],
     "bAllowClubs": "true",
     "bKickOnMigrate": "true",
     "Title": "Standard",
@@ -1205,6 +1284,16 @@
     "bCheckRankedMatchReservationID": "true",
     "bApplyQuitPenalty": "true",
     "MapSetName": "RankedSoccarStandard",
+    "PresetMutators": [
+      {
+        "PresetTags": [
+          {
+            "Category": "BallType",
+            "Setting": "Ball_WorldCup"
+          }
+        ]
+      }
+    ],
     "bServerBroadcastCancellations": "true",
     "bAllowClubs": "true",
     "bKickOnMigrate": "true",
@@ -1231,6 +1320,16 @@
     "bApplyQuitPenalty": "true",
     "bServerBroadcastCancellations": "true",
     "MapSetName": "RankedSoccarStandard",
+    "PresetMutators": [
+      {
+        "PresetTags": [
+          {
+            "Category": "BallType",
+            "Setting": "Ball_WorldCup"
+          }
+        ]
+      }
+    ],
     "bKickOnMigrate": "true",
     "Title": "Duel",
     "Description": "Ranked one-on-one",
@@ -2896,7 +2995,7 @@
     "bApplyQuitPenalty": "true",
     "bAllowClubs": "true",
     "bIsMicroEventPlaylist": "true",
-    "MapSetName": "FCShowdown",
+    "MapSetName": "WorldCup",
     "PresetMutators": [
       {
         "PresetTags": [
@@ -2906,14 +3005,15 @@
           },
           {
             "Category": "BallType",
-            "Setting": "Ball_Shoe"
+            "Setting": "Ball_WorldCup"
           }
         ]
       }
     ],
-    "Title": "Adidas Soccar Strike",
-    "Description": "Football meets Soccar! Adidas Soccer Strike uses the official Adidas Clubs World Cup Ball that curves smoothly through the air. Hit the left side of the ball to curve right and the right side of the ball to curve left. Reduced ball bounciness and increased ball gravity means you'll need teamwork in this mode to succeed, just like the beautiful game!",
-    "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_LTM.playlist_ltm_magnusfutball",
+    "Title": "FIFA Soccar Strike",
+    "Description": "Football meets Soccar! Soccar Strike uses a soccer ball that curves smoothly through the air. Hit the left side of the ball to curve right and the right side of the ball to curve left. Reduced ball bounciness and increased ball gravity means you'll need teamwork in this mode to succeed, just like the beautiful game!",
+    "PlaylistImageURL": "https://rl-cdn.psyonix.com/Playlists/Images/RL_U59_FIFAWorldCupLTE_PlaylistDetailsImage_1920x1080_iupahsdf.jpg",
+    "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_LTM.playlist_ltm_worldcup_2026",
     "bAllowStayAsParty": "true",
     "bAllowBotFills": "true",
     "PopulationBuckets": [
@@ -3643,10 +3743,6 @@
       1
     ]
   },
-  "RankedConfig": {
-    "Class": "RankedConfig_X",
-    "SeasonEndTimeSeconds": 1781103600
-  },
   "SpecialEventsConfig": {
     "Class": "SpecialEventConfig_TA",
     "ActiveEvents": [
@@ -3667,6 +3763,705 @@
         "EventFolderName": "Event.MaySeasonRush(S22)",
         "Subtitle": "Boost Your Rocket Pass",
         "Description": "Season Rush offers a chance to climb the Rocket Pass Tiers at supersonic speed! Complete Season Rush Challenges and level up while you race your way to the Pro Tiers."
+      },
+      {
+        "StartTime": 1781107200,
+        "EndTime": 1790175600,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/RUX/RL_U59_RUX-LTE_Event-Screen-Background_foiewo.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/RUX/RL_U59_RUX-LTE_EventScreen-Logo_foiojr.png",
+        "EventFolderName": "Event.RUX26",
+        "bIsTargetedChallengeEvent": true,
+        "Subtitle": "Welcome Back, {0?PlayerName}",
+        "Description": "Get back in action with Re-Fueled Challenges and earn rewards you may have missed while you were gone!"
+      },
+      {
+        "StartTime": 1781107200,
+        "EndTime": 1784563200,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/FIFA/RL_U59_FIFAWorldCupLTE_Event-Screen_Background_ofejoi.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/FIFA/RL_U59_FIFAWorldCupLTE_Event-Screen_Background_Logo_aoijijre.png",
+        "EventFolderName": "Event.WorldCup2026",
+        "Subtitle": "The FIFA World Cup 2026 LTE has kicked off!",
+        "Description": "Join a country by July 13 at 9 AM PST to get a free Octane Decal and Title. Equip either one and earn 1 point for every goal you score. Play the FIFA Soccar Strike LTM during the first and last week of the event to earn 2 points per goal, or 3 points if your entire team represents the same country. Complete Challenges along the way to earn rewards like the IONIQ 6 N Line. Check the Rocket League website for full details and to track country standings."
+      }
+    ]
+  },
+  "WorldCupConfig": {
+    "Class": "WorldCupConfig_TA",
+    "bIsEnabled": true,
+    "ChallengeEventPageName": "Event.WorldCup2026",
+    "SelectCountryTimeLimit": 1783958400,
+    "TeamsData": [
+      {
+        "TeamCodeName": "mx",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.4078,
+          "B": 0.2784
+        },
+        "TeamColorSecondary": {
+          "R": 0.8078,
+          "G": 0.0667,
+          "B": 0.149
+        },
+        "CosmeticID": 12797
+      },
+      {
+        "TeamCodeName": "za",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.4784,
+          "B": 0.302
+        },
+        "TeamColorSecondary": {
+          "R": 1,
+          "G": 0.7137,
+          "B": 0.0706
+        },
+        "CosmeticID": 12823
+      },
+      {
+        "TeamCodeName": "kr",
+        "TeamColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1
+        },
+        "TeamColorSecondary": {
+          "R": 0.8039,
+          "G": 0.1803,
+          "B": 0.2274
+        },
+        "CosmeticID": 12853
+      },
+      {
+        "TeamCodeName": "cz",
+        "TeamColor": {
+          "R": 0.8431,
+          "G": 0.0784,
+          "B": 0.1019
+        },
+        "TeamColorSecondary": {
+          "R": 0.0666,
+          "G": 0.2705,
+          "B": 0.4941
+        },
+        "CosmeticID": 12885
+      },
+      {
+        "TeamCodeName": "ca",
+        "TeamColor": {
+          "R": 0.8353,
+          "G": 0.1686,
+          "B": 0.1176
+        },
+        "TeamColorSecondary": {
+          "R": 1,
+          "G": 1,
+          "B": 1
+        },
+        "CosmeticID": 12815
+      },
+      {
+        "TeamCodeName": "qa",
+        "TeamColor": {
+          "R": 0.5411,
+          "G": 0.0823,
+          "B": 0.2196
+        },
+        "TeamColorSecondary": {
+          "R": 1,
+          "G": 1,
+          "B": 1
+        },
+        "CosmeticID": 12854
+      },
+      {
+        "TeamCodeName": "ch",
+        "TeamColor": {
+          "R": 0.8353,
+          "G": 0.1686,
+          "B": 0.1176
+        },
+        "TeamColorSecondary": {
+          "R": 1,
+          "G": 1,
+          "B": 1
+        },
+        "CosmeticID": 12787
+      },
+      {
+        "TeamCodeName": "ba",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.1843,
+          "B": 0.4235
+        },
+        "TeamColorSecondary": {
+          "R": 0.9686,
+          "G": 0.8313,
+          "B": 0.0901
+        },
+        "CosmeticID": 12826
+      },
+      {
+        "TeamCodeName": "br",
+        "TeamColor": {
+          "R": 1,
+          "G": 0.8745,
+          "B": 0
+        },
+        "TeamColorSecondary": {
+          "R": 0,
+          "G": 0.6118,
+          "B": 0.2314
+        },
+        "CosmeticID": 12807
+      },
+      {
+        "TeamCodeName": "ma",
+        "TeamColor": {
+          "R": 0.7843,
+          "G": 0.0627,
+          "B": 0.1803
+        },
+        "TeamColorSecondary": {
+          "R": 0,
+          "G": 0.3843,
+          "B": 0.2
+        },
+        "CosmeticID": 12840
+      },
+      {
+        "TeamCodeName": "ht",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.1254,
+          "B": 0.6235
+        },
+        "TeamColorSecondary": {
+          "R": 0.8235,
+          "G": 0.0627,
+          "B": 0.2039
+        },
+        "CosmeticID": 12855
+      },
+      {
+        "TeamCodeName": "sc",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.3686,
+          "B": 0.7216
+        },
+        "TeamColorSecondary": {
+          "R": 1,
+          "G": 1,
+          "B": 1
+        },
+        "CosmeticID": 12799
+      },
+      {
+        "TeamCodeName": "us",
+        "TeamColor": {
+          "R": 0.2353,
+          "G": 0.2314,
+          "B": 0.4314
+        },
+        "TeamColorSecondary": {
+          "R": 0.698,
+          "G": 0.1333,
+          "B": 0.2039
+        },
+        "CosmeticID": 12817
+      },
+      {
+        "TeamCodeName": "py",
+        "TeamColor": {
+          "R": 0.8353,
+          "G": 0.1686,
+          "B": 0.1176
+        },
+        "TeamColorSecondary": {
+          "R": 0,
+          "G": 0.6588,
+          "B": 0.0039
+        },
+        "CosmeticID": 12789
+      },
+      {
+        "TeamCodeName": "au",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.5176,
+          "B": 0.2392
+        },
+        "TeamColorSecondary": {
+          "R": 1,
+          "G": 0.8039,
+          "B": 0
+        },
+        "CosmeticID": 12871
+      },
+      {
+        "TeamCodeName": "tr",
+        "TeamColor": {
+          "R": 0.8901,
+          "G": 0.0392,
+          "B": 0.0901
+        },
+        "TeamColorSecondary": {
+          "R": 1,
+          "G": 1,
+          "B": 1
+        },
+        "CosmeticID": 12872
+      },
+      {
+        "TeamCodeName": "de",
+        "TeamColor": {
+          "R": 0,
+          "G": 0,
+          "B": 0
+        },
+        "TeamColorSecondary": {
+          "R": 1,
+          "G": 0.8,
+          "B": 0
+        },
+        "CosmeticID": 12886
+      },
+      {
+        "TeamCodeName": "cw",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.1765,
+          "B": 0.3843
+        },
+        "TeamColorSecondary": {
+          "R": 0.9765,
+          "G": 0.8902,
+          "B": 0
+        },
+        "CosmeticID": 12792
+      },
+      {
+        "TeamCodeName": "ci",
+        "TeamColor": {
+          "R": 0.9686,
+          "G": 0.498,
+          "B": 0
+        },
+        "TeamColorSecondary": {
+          "R": 0,
+          "G": 0.6196,
+          "B": 0.3764
+        },
+        "CosmeticID": 12902
+      },
+      {
+        "TeamCodeName": "ec",
+        "TeamColor": {
+          "R": 1,
+          "G": 0.8196,
+          "B": 0
+        },
+        "TeamColorSecondary": {
+          "R": 0,
+          "G": 0.2,
+          "B": 0.6275
+        },
+        "CosmeticID": 12774
+      },
+      {
+        "TeamCodeName": "nl",
+        "TeamColor": {
+          "R": 0.6823,
+          "G": 0.1098,
+          "B": 0.1568
+        },
+        "TeamColorSecondary": {
+          "R": 0.1294,
+          "G": 0.2745,
+          "B": 0.545
+        },
+        "CosmeticID": 12908
+      },
+      {
+        "TeamCodeName": "jp",
+        "TeamColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1
+        },
+        "TeamColorSecondary": {
+          "R": 0.7373,
+          "G": 0,
+          "B": 0.1765
+        },
+        "CosmeticID": 12804
+      },
+      {
+        "TeamCodeName": "tn",
+        "TeamColor": {
+          "R": 0.9059,
+          "G": 0,
+          "B": 0.0745
+        },
+        "TeamColorSecondary": {
+          "R": 1,
+          "G": 1,
+          "B": 1
+        },
+        "CosmeticID": 12819
+      },
+      {
+        "TeamCodeName": "se",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.3215,
+          "B": 0.5764
+        },
+        "TeamColorSecondary": {
+          "R": 0.996,
+          "G": 0.796,
+          "B": 0
+        },
+        "CosmeticID": 12866
+      },
+      {
+        "TeamCodeName": "be",
+        "TeamColor": {
+          "R": 0,
+          "G": 0,
+          "B": 0
+        },
+        "TeamColorSecondary": {
+          "R": 1,
+          "G": 0.8196,
+          "B": 0
+        },
+        "CosmeticID": 12892
+      },
+      {
+        "TeamCodeName": "eg",
+        "TeamColor": {
+          "R": 0.8078,
+          "G": 0.0666,
+          "B": 0.149
+        },
+        "TeamColorSecondary": {
+          "R": 0,
+          "G": 0,
+          "B": 0
+        },
+        "CosmeticID": 12864
+      },
+      {
+        "TeamCodeName": "ir",
+        "TeamColor": {
+          "R": 0.1372,
+          "G": 0.6235,
+          "B": 0.2509
+        },
+        "TeamColorSecondary": {
+          "R": 0.8549,
+          "G": 0,
+          "B": 0
+        },
+        "CosmeticID": 12827
+      },
+      {
+        "TeamCodeName": "nz",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.1412,
+          "B": 0.4902
+        },
+        "TeamColorSecondary": {
+          "R": 0.8,
+          "G": 0.0784,
+          "B": 0.1686
+        },
+        "CosmeticID": 12812
+      },
+      {
+        "TeamCodeName": "es",
+        "TeamColor": {
+          "R": 0.9451,
+          "G": 0.749,
+          "B": 0
+        },
+        "TeamColorSecondary": {
+          "R": 0.6667,
+          "G": 0.0824,
+          "B": 0.1059
+        },
+        "CosmeticID": 12805
+      },
+      {
+        "TeamCodeName": "cv",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.2392,
+          "B": 0.5333
+        },
+        "TeamColorSecondary": {
+          "R": 0.8078,
+          "G": 0.0666,
+          "B": 0.149
+        },
+        "CosmeticID": 12912
+      },
+      {
+        "TeamCodeName": "sa",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.4235,
+          "B": 0.2078
+        },
+        "TeamColorSecondary": {
+          "R": 1,
+          "G": 1,
+          "B": 1
+        },
+        "CosmeticID": 12890
+      },
+      {
+        "TeamCodeName": "uy",
+        "TeamColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1
+        },
+        "TeamColorSecondary": {
+          "R": 0.0392,
+          "G": 0.3569,
+          "B": 0.7098
+        },
+        "CosmeticID": 12770
+      },
+      {
+        "TeamCodeName": "iq",
+        "TeamColor": {
+          "R": 0.8078,
+          "G": 0.0666,
+          "B": 0.149
+        },
+        "TeamColorSecondary": {
+          "R": 0,
+          "G": 0,
+          "B": 0
+        },
+        "CosmeticID": 12904
+      },
+      {
+        "TeamCodeName": "fr",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.3333,
+          "B": 0.6431
+        },
+        "TeamColorSecondary": {
+          "R": 0.9373,
+          "G": 0.2549,
+          "B": 0.2078
+        },
+        "CosmeticID": 12786
+      },
+      {
+        "TeamCodeName": "sn",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.5215,
+          "B": 0.247
+        },
+        "TeamColorSecondary": {
+          "R": 0.9921,
+          "G": 0.9372,
+          "B": 0
+        },
+        "CosmeticID": 12909
+      },
+      {
+        "TeamCodeName": "no",
+        "TeamColor": {
+          "R": 0.7294,
+          "G": 0.0471,
+          "B": 0.1843
+        },
+        "TeamColorSecondary": {
+          "R": 0,
+          "G": 0.1255,
+          "B": 0.3569
+        },
+        "CosmeticID": 12784
+      },
+      {
+        "TeamCodeName": "ar",
+        "TeamColor": {
+          "R": 0.4588,
+          "G": 0.6667,
+          "B": 0.8588
+        },
+        "TeamColorSecondary": {
+          "R": 1,
+          "G": 1,
+          "B": 1
+        },
+        "CosmeticID": 12800
+      },
+      {
+        "TeamCodeName": "dz",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.3843,
+          "B": 0.2
+        },
+        "TeamColorSecondary": {
+          "R": 0.8235,
+          "G": 0.0627,
+          "B": 0.2039
+        },
+        "CosmeticID": 12873
+      },
+      {
+        "TeamCodeName": "at",
+        "TeamColor": {
+          "R": 0.9294,
+          "G": 0.1608,
+          "B": 0.2235
+        },
+        "TeamColorSecondary": {
+          "R": 1,
+          "G": 1,
+          "B": 1
+        },
+        "CosmeticID": 12813
+      },
+      {
+        "TeamCodeName": "jo",
+        "TeamColor": {
+          "R": 0,
+          "G": 0,
+          "B": 0
+        },
+        "TeamColorSecondary": {
+          "R": 0.8078,
+          "G": 0.0666,
+          "B": 0.149
+        },
+        "CosmeticID": 12903
+      },
+      {
+        "TeamCodeName": "cd",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.6392,
+          "B": 0.8784
+        },
+        "TeamColorSecondary": {
+          "R": 0.8078,
+          "G": 0.0666,
+          "B": 0.149
+        },
+        "CosmeticID": 12910
+      },
+      {
+        "TeamCodeName": "pt",
+        "TeamColor": {
+          "R": 0.8784,
+          "G": 0.2353,
+          "B": 0.1922
+        },
+        "TeamColorSecondary": {
+          "R": 0,
+          "G": 0.4235,
+          "B": 0.2235
+        },
+        "CosmeticID": 12818
+      },
+      {
+        "TeamCodeName": "uz",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.6,
+          "B": 0.7098
+        },
+        "TeamColorSecondary": {
+          "R": 0.1176,
+          "G": 0.7098,
+          "B": 0.2275
+        },
+        "CosmeticID": 12820
+      },
+      {
+        "TeamCodeName": "co",
+        "TeamColor": {
+          "R": 1,
+          "G": 0.8196,
+          "B": 0
+        },
+        "TeamColorSecondary": {
+          "R": 0,
+          "G": 0.2,
+          "B": 0.6275
+        },
+        "CosmeticID": 12776
+      },
+      {
+        "TeamCodeName": "en",
+        "TeamColor": {
+          "R": 1,
+          "G": 1,
+          "B": 1
+        },
+        "TeamColorSecondary": {
+          "R": 0.8078,
+          "G": 0.0667,
+          "B": 0.149
+        },
+        "CosmeticID": 12788
+      },
+      {
+        "TeamCodeName": "hr",
+        "TeamColor": {
+          "R": 0.7843,
+          "G": 0.0627,
+          "B": 0.1804
+        },
+        "TeamColorSecondary": {
+          "R": 0.0039,
+          "G": 0.1294,
+          "B": 0.4118
+        },
+        "CosmeticID": 12816
+      },
+      {
+        "TeamCodeName": "gh",
+        "TeamColor": {
+          "R": 0.9882,
+          "G": 0.8196,
+          "B": 0.0862
+        },
+        "TeamColorSecondary": {
+          "R": 0,
+          "G": 0.4196,
+          "B": 0.247
+        },
+        "CosmeticID": 12911
+      },
+      {
+        "TeamCodeName": "pa",
+        "TeamColor": {
+          "R": 0,
+          "G": 0.3216,
+          "B": 0.5765
+        },
+        "TeamColorSecondary": {
+          "R": 0.8235,
+          "G": 0.0627,
+          "B": 0.2039
+        },
+        "CosmeticID": 12783
       }
     ]
   },
@@ -7235,6 +8030,8 @@
       "MX_OST_Season22.NXSTYAndRYA_ListenUp_RLedit",
       "MX_OST_Season22.Pirapus_ENERGYIFeel",
       "MX_OST_Season22.Pirapus_ENERGYIFeel_RLedit",
+      "MX_OST_Season23.ehok_WearMyFlag",
+      "MX_OST_Season23.ehok_WearMyFlag_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -7417,17 +8214,28 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season22.Pirapus_ENERGYIFeel_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Pirapus_ENERGYIFeel'"
+          "Track": "AkSoundCue'MX_OST_Season23.ehok_WearMyFlag_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.ehok_WearMyFlag'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season22.Pirapus_ENERGYIFeel'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.ehok_WearMyFlag'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
         "Icon": "Texture2D'UI_MusicPlaylistThumbs.RLSoundtrack_01'"
       },
       "Playlists": [
+        {
+          "Name": "Season23",
+          "bDefaultSelected": true,
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season23'",
+          "Tracks": [
+            {
+              "Track": "AkSoundCue'MX_OST_Season23.ehok_WearMyFlag'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.ehok_WearMyFlag'"
+            }
+          ]
+        },
         {
           "Name": "Season22",
           "bDefaultSelected": true,
@@ -9496,7 +10304,8 @@
   },
   "DynamicLogosConfig": {
     "Class": "DynamicLogosConfig_TA",
-    "bUseDynamicLogos": true
+    "bUseDynamicLogos": true,
+    "LogoURL": "https://rl-cdn.psyonix.com/LogoImages/S23/rl_season-logo_23_EN.png"
   },
   "TradeConfig": {
     "Class": "TradeConfig_TA",
@@ -9622,6 +10431,10 @@
       {
         "ID": "Rivalry_Yellow",
         "Color": "F8BF26"
+      },
+      {
+        "ID": "World_Cup_Gold",
+        "Color": "FFCF5C"
       }
     ],
     "Titles": [
@@ -15304,6 +16117,821 @@
         "Text": "RLCS 2026 World Championship Contender"
       },
       {
+        "ID": "AutoTour_23_Bronze_1",
+        "Text": "S23 {Bronze} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_Bronze_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S23 {Bronze} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_Silver_1",
+        "Text": "S23 {Silver} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_Silver_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S23 {Silver} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_Gold_1",
+        "Text": "S23 {Gold} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_Gold_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S23 {Gold} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_Platinum_1",
+        "Text": "S23 {Platinum} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_Platinum_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S23 {Platinum} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_Diamond_1",
+        "Text": "S23 {Diamond} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_Diamond_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S23 {Diamond} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_Champion_1",
+        "Text": "S23 {Champion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_Champion_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S23 {Champion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_GrandChampion_1",
+        "Text": "S23 {GrandChampion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_GrandChampion_2",
+        "Category": "AutoTour_CompletedGC",
+        "Text": "S23 {GrandChampion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_SuperSonicLegend_1",
+        "Category": "AutoTour_CompletedSuperSonicLegend_1",
+        "Text": "S23 {Legend} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_23_SuperSonicLegend_2",
+        "Category": "AutoTour_CompletedSuperSonicLegend_2",
+        "Text": "S23 {Legend} Tournament Winner"
+      },
+      {
+        "ID": "Pentathlon_23_Bronze_1",
+        "Text": "S23 {Bronze} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_Bronze_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S23 {Bronze} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_Silver_1",
+        "Text": "S23 {Silver} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_Silver_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S23 {Silver} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_Gold_1",
+        "Text": "S23 {Gold} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_Gold_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S23 {Gold} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_Platinum_1",
+        "Text": "S23 {Platinum} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_Platinum_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S23 {Platinum} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_Diamond_1",
+        "Text": "S23 {Diamond} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_Diamond_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S23 {Diamond} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_Champion_1",
+        "Text": "S23 {Champion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_Champion_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S23 {Champion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_GrandChampion_1",
+        "Text": "S23 {GrandChampion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_GrandChampion_2",
+        "Category": "AutoTour_CompletedGC",
+        "Text": "S23 {GrandChampion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_SuperSonicLegend_1",
+        "Category": "AutoTour_CompletedSuperSonicLegend_1",
+        "Text": "S23 {Legend} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_23_SuperSonicLegend_2",
+        "Category": "AutoTour_CompletedSuperSonicLegend_2",
+        "Text": "S23 {Legend} Pentathlon Winner"
+      },
+      {
+        "ID": "Mexico_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_mx}"
+      },
+      {
+        "ID": "South_Africa_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_za}"
+      },
+      {
+        "ID": "South_Korea_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_kr}"
+      },
+      {
+        "ID": "Czechia_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_cz}"
+      },
+      {
+        "ID": "Canada_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_ca}"
+      },
+      {
+        "ID": "Switzerland_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_ch}"
+      },
+      {
+        "ID": "Qatar_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_qa}"
+      },
+      {
+        "ID": "Bosnia_&_Herz._World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_ba}"
+      },
+      {
+        "ID": "Brazil_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_br}"
+      },
+      {
+        "ID": "Morocco_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_ma}"
+      },
+      {
+        "ID": "Scotland_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_sc}"
+      },
+      {
+        "ID": "Haiti_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_ht}"
+      },
+      {
+        "ID": "United_States_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_us}"
+      },
+      {
+        "ID": "Paraguay_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_py}"
+      },
+      {
+        "ID": "Australia_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_au}"
+      },
+      {
+        "ID": "Turkiye_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_tr}"
+      },
+      {
+        "ID": "Germany_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_de}"
+      },
+      {
+        "ID": "Curacao_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_cw}"
+      },
+      {
+        "ID": "Ivory_Coast_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_ci}"
+      },
+      {
+        "ID": "Ecuador_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_ec}"
+      },
+      {
+        "ID": "Netherlands_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_nl}"
+      },
+      {
+        "ID": "Japan_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_jp}"
+      },
+      {
+        "ID": "Sweden_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_se}"
+      },
+      {
+        "ID": "Tunisia_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_tn}"
+      },
+      {
+        "ID": "Belgium_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_be}"
+      },
+      {
+        "ID": "Egypt_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_eg}"
+      },
+      {
+        "ID": "Iran_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_ir}"
+      },
+      {
+        "ID": "New_Zealand_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_nz}"
+      },
+      {
+        "ID": "Spain_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_es}"
+      },
+      {
+        "ID": "Uruguay_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_uy}"
+      },
+      {
+        "ID": "Saudi_Arabia_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_sa}"
+      },
+      {
+        "ID": "Cape_Verde_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_cv}"
+      },
+      {
+        "ID": "France_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_fr}"
+      },
+      {
+        "ID": "Senegal_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_sn}"
+      },
+      {
+        "ID": "Norway_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_no}"
+      },
+      {
+        "ID": "Iraq_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_iq}"
+      },
+      {
+        "ID": "Argentina_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_ar}"
+      },
+      {
+        "ID": "Austria_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_at}"
+      },
+      {
+        "ID": "Algeria_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_dz}"
+      },
+      {
+        "ID": "Jordan_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_jo}"
+      },
+      {
+        "ID": "Portugal_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_pt}"
+      },
+      {
+        "ID": "Colombia_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_co}"
+      },
+      {
+        "ID": "Uzbekistan_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_uz}"
+      },
+      {
+        "ID": "DR_Congo_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_cd}"
+      },
+      {
+        "ID": "England_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_en}"
+      },
+      {
+        "ID": "Croatia_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_hr}"
+      },
+      {
+        "ID": "Ghana_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_gh}"
+      },
+      {
+        "ID": "Panama_World_Cup_2026_Champion",
+        "Text": "World Cup Champion '26 {flag_pa}"
+      },
+      {
+        "ID": "Mexico_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_mx}"
+      },
+      {
+        "ID": "South_Africa_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_za}"
+      },
+      {
+        "ID": "South_Korea_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_kr}"
+      },
+      {
+        "ID": "Czechia_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_cz}"
+      },
+      {
+        "ID": "Canada_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_ca}"
+      },
+      {
+        "ID": "Switzerland_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_ch}"
+      },
+      {
+        "ID": "Qatar_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_qa}"
+      },
+      {
+        "ID": "Bosnia_&_Herz._World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_ba}"
+      },
+      {
+        "ID": "Brazil_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_br}"
+      },
+      {
+        "ID": "Morocco_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_ma}"
+      },
+      {
+        "ID": "Scotland_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_sc}"
+      },
+      {
+        "ID": "Haiti_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_ht}"
+      },
+      {
+        "ID": "United_States_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_us}"
+      },
+      {
+        "ID": "Paraguay_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_py}"
+      },
+      {
+        "ID": "Australia_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_au}"
+      },
+      {
+        "ID": "Turkiye_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_tr}"
+      },
+      {
+        "ID": "Germany_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_de}"
+      },
+      {
+        "ID": "Curacao_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_cw}"
+      },
+      {
+        "ID": "Ivory_Coast_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_ci}"
+      },
+      {
+        "ID": "Ecuador_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_ec}"
+      },
+      {
+        "ID": "Netherlands_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_nl}"
+      },
+      {
+        "ID": "Japan_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_jp}"
+      },
+      {
+        "ID": "Sweden_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_se}"
+      },
+      {
+        "ID": "Tunisia_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_tn}"
+      },
+      {
+        "ID": "Belgium_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_be}"
+      },
+      {
+        "ID": "Egypt_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_eg}"
+      },
+      {
+        "ID": "Iran_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_ir}"
+      },
+      {
+        "ID": "New_Zealand_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_nz}"
+      },
+      {
+        "ID": "Spain_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_es}"
+      },
+      {
+        "ID": "Uruguay_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_uy}"
+      },
+      {
+        "ID": "Saudi_Arabia_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_sa}"
+      },
+      {
+        "ID": "Cape_Verde_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_cv}"
+      },
+      {
+        "ID": "France_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_fr}"
+      },
+      {
+        "ID": "Senegal_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_sn}"
+      },
+      {
+        "ID": "Norway_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_no}"
+      },
+      {
+        "ID": "Iraq_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_iq}"
+      },
+      {
+        "ID": "Argentina_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_ar}"
+      },
+      {
+        "ID": "Austria_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_at}"
+      },
+      {
+        "ID": "Algeria_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_dz}"
+      },
+      {
+        "ID": "Jordan_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_jo}"
+      },
+      {
+        "ID": "Portugal_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_pt}"
+      },
+      {
+        "ID": "Colombia_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_co}"
+      },
+      {
+        "ID": "Uzbekistan_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_uz}"
+      },
+      {
+        "ID": "DR_Congo_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_cd}"
+      },
+      {
+        "ID": "England_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_en}"
+      },
+      {
+        "ID": "Croatia_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_hr}"
+      },
+      {
+        "ID": "Ghana_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_gh}"
+      },
+      {
+        "ID": "Panama_World_Cup_2026_Champion_Gold",
+        "Category": "World_Cup_Gold",
+        "Text": "World Cup Champion '26 {flag_pa}"
+      },
+      {
+        "ID": "Team_Mexico_World_Cup_2026",
+        "Text": "Team Mexico '26 {flag_mx}"
+      },
+      {
+        "ID": "Team_South_Africa_World_Cup_2026",
+        "Text": "Team South Africa '26 {flag_za}"
+      },
+      {
+        "ID": "Team_Korea_Republic_World_Cup_2026",
+        "Text": "Team Korea Republic '26 {flag_kr}"
+      },
+      {
+        "ID": "Team_Czechia_World_Cup_2026",
+        "Text": "Team Czechia '26 {flag_cz}"
+      },
+      {
+        "ID": "Team_Canada_World_Cup_2026",
+        "Text": "Team Canada '26 {flag_ca}"
+      },
+      {
+        "ID": "Team_Switzerland_World_Cup_2026",
+        "Text": "Team Switzerland '26 {flag_ch}"
+      },
+      {
+        "ID": "Team_Qatar_World_Cup_2026",
+        "Text": "Team Qatar '26 {flag_qa}"
+      },
+      {
+        "ID": "Team_Bosnia-Herzegovina_World_Cup_2026",
+        "Text": "Bosnia & Herz. '26 {flag_ba}"
+      },
+      {
+        "ID": "Team_Brazil_World_Cup_2026",
+        "Text": "Team Brazil '26 {flag_br}"
+      },
+      {
+        "ID": "Team_Morocco_World_Cup_2026",
+        "Text": "Team Morocco '26 {flag_ma}"
+      },
+      {
+        "ID": "Team_Scotland_World_Cup_2026",
+        "Text": "Team Scotland '26 {flag_sc}"
+      },
+      {
+        "ID": "Team_Haiti_World_Cup_2026",
+        "Text": "Team Haiti '26 {flag_ht}"
+      },
+      {
+        "ID": "Team_USA_World_Cup_2026",
+        "Text": "Team USA '26 {flag_us}"
+      },
+      {
+        "ID": "Team_Paraguay_World_Cup_2026",
+        "Text": "Team Paraguay '26 {flag_py}"
+      },
+      {
+        "ID": "Team_Australia_World_Cup_2026",
+        "Text": "Team Australia '26 {flag_au}"
+      },
+      {
+        "ID": "Team_Turkiye_World_Cup_2026",
+        "Text": "Team Türkiye '26 {flag_tr}"
+      },
+      {
+        "ID": "Team_Germany_World_Cup_2026",
+        "Text": "Team Germany '26 {flag_de}"
+      },
+      {
+        "ID": "Team_Curacao_World_Cup_2026",
+        "Text": "Team Curaçao '26 {flag_cw}"
+      },
+      {
+        "ID": "Team_Cote_dIvoire_World_Cup_2026",
+        "Text": "Team Côte d'Ivoire '26 {flag_ci}"
+      },
+      {
+        "ID": "Team_Ecuador_World_Cup_2026",
+        "Text": "Team Ecuador '26 {flag_ec}"
+      },
+      {
+        "ID": "Team_Netherlands_World_Cup_2026",
+        "Text": "Team Netherlands '26 {flag_nl}"
+      },
+      {
+        "ID": "Team_Japan_World_Cup_2026",
+        "Text": "Team Japan '26 {flag_jp}"
+      },
+      {
+        "ID": "Team_Sweden_World_Cup_2026",
+        "Text": "Team Sweden '26 {flag_se}"
+      },
+      {
+        "ID": "Team_Tunisia_World_Cup_2026",
+        "Text": "Team Tunisia '26 {flag_tn}"
+      },
+      {
+        "ID": "Team_Belgium_World_Cup_2026",
+        "Text": "Team Belgium '26 {flag_be}"
+      },
+      {
+        "ID": "Team_Egypt_World_Cup_2026",
+        "Text": "Team Egypt '26 {flag_eg}"
+      },
+      {
+        "ID": "Team_Iran_World_Cup_2026",
+        "Text": "Team Iran '26 {flag_ir}"
+      },
+      {
+        "ID": "Team_New_Zealand_World_Cup_2026",
+        "Text": "Team New Zealand '26 {flag_nz}"
+      },
+      {
+        "ID": "Team_Spain_World_Cup_2026",
+        "Text": "Team Spain '26 {flag_es}"
+      },
+      {
+        "ID": "Team_Uruguay_World_Cup_2026",
+        "Text": "Team Uruguay '26 {flag_uy}"
+      },
+      {
+        "ID": "Team_Saudi_Arabia_World_Cup_2026",
+        "Text": "Team Saudi Arabia '26 {flag_sa}"
+      },
+      {
+        "ID": "Team_Cabo_Verde_World_Cup_2026",
+        "Text": "Team Cabo Verde '26 {flag_cv}"
+      },
+      {
+        "ID": "Team_France_World_Cup_2026",
+        "Text": "Team France '26 {flag_fr}"
+      },
+      {
+        "ID": "Team_Senegal_World_Cup_2026",
+        "Text": "Team Senegal '26 {flag_sn}"
+      },
+      {
+        "ID": "Team_Norway_World_Cup_2026",
+        "Text": "Team Norway '26 {flag_no}"
+      },
+      {
+        "ID": "Team_Iraq_World_Cup_2026",
+        "Text": "Team Iraq '26 {flag_iq}"
+      },
+      {
+        "ID": "Team_Argentina_World_Cup_2026",
+        "Text": "Team Argentina '26 {flag_ar}"
+      },
+      {
+        "ID": "Team_Austria_World_Cup_2026",
+        "Text": "Team Austria '26 {flag_at}"
+      },
+      {
+        "ID": "Team_Algeria_World_Cup_2026",
+        "Text": "Team Algeria '26 {flag_dz}"
+      },
+      {
+        "ID": "Team_Jordan_World_Cup_2026",
+        "Text": "Team Jordan '26 {flag_jo}"
+      },
+      {
+        "ID": "Team_Portugal_World_Cup_2026",
+        "Text": "Team Portugal '26 {flag_pt}"
+      },
+      {
+        "ID": "Team_Colombia_World_Cup_2026",
+        "Text": "Team Colombia '26 {flag_co}"
+      },
+      {
+        "ID": "Team_Uzbekistan_World_Cup_2026",
+        "Text": "Team Uzbekistan '26 {flag_uz}"
+      },
+      {
+        "ID": "Team_Congo_DR_World_Cup_2026",
+        "Text": "Team Congo DR '26 {flag_cd}"
+      },
+      {
+        "ID": "Team_England_World_Cup_2026",
+        "Text": "Team England '26 {flag_en}"
+      },
+      {
+        "ID": "Team_Croatia_World_Cup_2026",
+        "Text": "Team Croatia '26 {flag_hr}"
+      },
+      {
+        "ID": "Team_Ghana_World_Cup_2026",
+        "Text": "Team Ghana '26 {flag_gh}"
+      },
+      {
+        "ID": "Team_Panama_World_Cup_2026",
+        "Text": "Team Panama '26 {flag_pa}"
+      },
+      {
+        "ID": "Jynxzi_BALRIGHT",
+        "Category": "Community_Spotlight",
+        "Text": "BALRIGHT"
+      },
+      {
+        "ID": "Junko",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "Junko"
+      },
+      {
+        "ID": "FASHIONABLY_EARLY",
+        "Text": "FASHIONABLY EARLY"
+      },
+      {
+        "ID": "Test_Title1",
+        "Category": "StatTrackerStage1",
+        "Text": "S24 MVPs: 5"
+      },
+      {
+        "ID": "Test_Title2",
+        "Category": "StatTrackerStage2",
+        "Text": "S24 MVPs: 15"
+      },
+      {
+        "ID": "Test_Title3",
+        "Category": "StatTrackerStage3",
+        "Text": "S24 MVPs: 25"
+      },
+      {
+        "ID": "FOOTBALL_IS_LIFE",
+        "Text": "FOOTBALL IS LIFE"
+      },
+      {
+        "ID": "HOLY_GOALIE",
+        "Text": "HOLY GOALIE"
+      },
+      {
+        "ID": "TOP_OF_THE_TABLE",
+        "Text": "TOP OF THE TABLE"
+      },
+      {
+        "ID": "POINTS_DONT_MATTER",
+        "Text": "POINTS DON'T MATTER"
+      },
+      {
         "ID": "S36_Grand_Champion",
         "Category": "SZN_1_Red",
         "Text": "S22 Grand Champion"
@@ -15362,6 +16990,20 @@
         "ID": "S36_SSL_Heetseeker",
         "Category": "SZN_1_White",
         "Text": "S22 SUPER SEEKING LEGEND"
+      },
+      {
+        "ID": "Mizuista",
+        "Category": "Community_Spotlight",
+        "Text": "Mizuista"
+      },
+      {
+        "ID": "Mizuista_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "Mizuista"
+      },
+      {
+        "ID": "New_Car_Who_Dis",
+        "Text": "New Car, Who Dis?"
       }
     ],
     "ClubTitles": [
@@ -15540,8 +17182,38 @@
       {
         "ID": "Club_Weve_Been_Training",
         "Text": "We've Been Training"
+      },
+      {
+        "ID": "Club_S23_M1",
+        "Text": "S23 Prospect Club"
+      },
+      {
+        "ID": "Club_S23_M2",
+        "Text": "S23 Signature Club"
+      },
+      {
+        "ID": "Club_S23_M3",
+        "Text": "S23 Premier Club"
+      },
+      {
+        "ID": "Club_International_Aces",
+        "Text": "International Aces"
+      },
+      {
+        "ID": "Club_World_Class_Strikers",
+        "Text": "World-Class Strikers"
+      },
+      {
+        "ID": "Club_Glorius_Goalkeepers",
+        "Text": "Glorious Goalkeepers"
       }
     ]
+  },
+  "RocketPassConfig": {
+    "Class": "RocketPassConfig_TA",
+    "RocketPassID": 29,
+    "StartTime": 1781107200,
+    "EndTime": 1790175600
   },
   "UIConfig": {
     "Class": "UIConfig_TA",
@@ -15555,10 +17227,10 @@
       20000
     ],
     "bUse1LVLIcon": "true",
-    "MainMenuBG": "MMBG_Default",
+    "MainMenuBG": "MMBG_FuturaNight",
     "bShowAnthems": true,
     "bDisplayVideoQualitySetting": "true",
-    "CurrentActiveSeason": 0,
+    "CurrentActiveSeason": 23,
     "SupportURL": "https://support.rocketleague.com/hc/en-us/categories/1260801589709-Rocket-League"
   },
   "TextModerationConfig": {
@@ -15851,7 +17523,9 @@
   "ChallengeConfig": {
     "Class": "ChallengeConfig_TA",
     "MaxSecondsDelayNewNotification": 0,
-    "TrainingFolderName": "Training"
+    "TrainingFolderName": "Training",
+    "WeeklyFolderName": "Season23.Weekly",
+    "SeasonFolderName": "Season23.Season"
   },
   "EOSVoiceConfig": {
     "Class": "EOSVoiceConfig_TA",
@@ -19191,6 +20865,18 @@
       {
         "KeyName": "PrimeUpdate58_1_64E0EA7D393651CAA9B405C0DDC587CC",
         "Content": "o7BndUVvpXXOxke4Ic+cyeOxrpV11WS+ksreWYJd4to="
+      },
+      {
+        "KeyName": "PrimeUpdate59_3204120809628B6FDBEB1192FF49B677",
+        "Content": "7tJSV/cyCllpVnBysLrzI5MOTaOvoMa0CfIUIWBgyVs="
+      },
+      {
+        "KeyName": "PrimeUpdate59_635ECB2A12743E169C1B35A6493D63C9",
+        "Content": "DuGoXQj1kyMUBHxtn+dssuDxmErLa7gsuvz49Lu1JyM="
+      },
+      {
+        "KeyName": "PrimeUpdate59_D257DF4A5897C55A75AD9592F308AAC5",
+        "Content": "KTwbUJHNn9HFEnDBYfeS6njzi+c93MRkSfsTAKqFYqA="
       }
     ]
   },
@@ -23564,6 +25250,30 @@
         "Section": "wheel_zedthirty01",
         "Key": "Label",
         "Value": "Nissan 350Z"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_benchriver01",
+        "Key": "Label",
+        "Value": "Jynxzi's OG Chair"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_benchriver02",
+        "Key": "Label",
+        "Value": "Dad's Reinforced Chair"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_autobenchriver01",
+        "Key": "Label",
+        "Value": "BAZALRIGHT"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_grain_benchriver02",
+        "Key": "Label",
+        "Value": "MOGGER"
       }
     ]
   },
@@ -23597,6 +25307,116 @@
         "UTCStartTime": "2026-06-07 14:30:00",
         "UTCEndTime": "2026-06-07 20:00:00",
         "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "",
+        "Title": "World Cup LTE",
+        "Description": "World Cup LTE",
+        "UTCStartTime": "2026-06-10 16:00:00",
+        "UTCEndTime": "2026-06-12 16:45:00",
+        "URL": "https://www.rocketleague.com/fifa-world-cup",
+        "ButtonTitle": "Current Winner: {country-code}",
+        "ButtonDescription": "Check the stats!",
+        "bShowLiveNow": false
+      },
+      {
+        "Image": "",
+        "Title": "World Cup LTE",
+        "Description": "World Cup LTE",
+        "UTCStartTime": "2026-06-12 23:00:00",
+        "UTCEndTime": "2026-06-13 16:30:00",
+        "URL": "https://www.rocketleague.com/fifa-world-cup",
+        "ButtonTitle": "Current Winner: {country-code}",
+        "ButtonDescription": "Check the stats!",
+        "bShowLiveNow": false
+      },
+      {
+        "Image": "",
+        "Title": "World Cup LTE",
+        "Description": "World Cup LTE",
+        "UTCStartTime": "2026-06-13 21:00:00",
+        "UTCEndTime": "2026-06-14 16:30:00",
+        "URL": "https://www.rocketleague.com/fifa-world-cup",
+        "ButtonTitle": "Current Winner: {country-code}",
+        "ButtonDescription": "Check the stats!",
+        "bShowLiveNow": false
+      },
+      {
+        "Image": "",
+        "Title": "World Cup LTE",
+        "Description": "World Cup LTE",
+        "UTCStartTime": "2026-06-14 22:00:00",
+        "UTCEndTime": "2026-06-19 14:45:00",
+        "URL": "https://www.rocketleague.com/fifa-world-cup",
+        "ButtonTitle": "Current Winner: {country-code}",
+        "ButtonDescription": "Check the stats!",
+        "bShowLiveNow": false
+      },
+      {
+        "Image": "",
+        "Title": "World Cup LTE",
+        "Description": "World Cup LTE",
+        "UTCStartTime": "2026-06-19 21:00:00",
+        "UTCEndTime": "2026-06-20 14:30:00",
+        "URL": "https://www.rocketleague.com/fifa-world-cup",
+        "ButtonTitle": "Current Winner: {country-code}",
+        "ButtonDescription": "Check the stats!",
+        "bShowLiveNow": false
+      },
+      {
+        "Image": "",
+        "Title": "World Cup LTE",
+        "Description": "World Cup LTE",
+        "UTCStartTime": "2026-06-20 19:00:00",
+        "UTCEndTime": "2026-06-21 14:30:00",
+        "URL": "https://www.rocketleague.com/fifa-world-cup",
+        "ButtonTitle": "Current Winner: {country-code}",
+        "ButtonDescription": "Check the stats!",
+        "bShowLiveNow": false
+      },
+      {
+        "Image": "",
+        "Title": "World Cup LTE",
+        "Description": "World Cup LTE",
+        "UTCStartTime": "2026-06-21 20:00:00",
+        "UTCEndTime": "2026-06-26 16:45:00",
+        "URL": "https://www.rocketleague.com/fifa-world-cup",
+        "ButtonTitle": "Current Winner: {country-code}",
+        "ButtonDescription": "Check the stats!",
+        "bShowLiveNow": false
+      },
+      {
+        "Image": "",
+        "Title": "World Cup LTE",
+        "Description": "World Cup LTE",
+        "UTCStartTime": "2026-06-26 23:00:00",
+        "UTCEndTime": "2026-06-27 16:30:00",
+        "URL": "https://www.rocketleague.com/fifa-world-cup",
+        "ButtonTitle": "Current Winner: {country-code}",
+        "ButtonDescription": "Check the stats!",
+        "bShowLiveNow": false
+      },
+      {
+        "Image": "",
+        "Title": "World Cup LTE",
+        "Description": "World Cup LTE",
+        "UTCStartTime": "2026-06-27 21:00:00",
+        "UTCEndTime": "2026-06-28 16:30:00",
+        "URL": "https://www.rocketleague.com/fifa-world-cup",
+        "ButtonTitle": "Current Winner: {country-code}",
+        "ButtonDescription": "Check the stats!",
+        "bShowLiveNow": false
+      },
+      {
+        "Image": "",
+        "Title": "World Cup LTE",
+        "Description": "World Cup LTE",
+        "UTCStartTime": "2026-06-28 22:00:00",
+        "UTCEndTime": "2026-07-20 16:00:00",
+        "URL": "https://www.rocketleague.com/fifa-world-cup",
+        "ButtonTitle": "Current Winner: {country-code}",
+        "ButtonDescription": "Check the stats!",
+        "bShowLiveNow": false
       }
     ]
   },
