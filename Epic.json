@@ -3695,20 +3695,6 @@
     "Class": "ItemShopNotificationsConfig_TA",
     "bItemShopNotificationsEnabled": "true"
   },
-  "EngagementEventsConfig": {
-    "Class": "EngagementEventsConfig_TA",
-    "bEngagementEventIconsEnabled": "true",
-    "Events": [
-      {
-        "Description": "Double XP",
-        "EventTypes": [
-          "EngagementEventType_DoubleXP"
-        ],
-        "EpochStartTime": 1779818400,
-        "EpochEndTime": 1781100000
-      }
-    ]
-  },
   "EulaConfig": {
     "Class": "EulaConfig_TA",
     "bRequiresAcceptance": "true"
