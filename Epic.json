@@ -10304,8 +10304,7 @@
   },
   "DynamicLogosConfig": {
     "Class": "DynamicLogosConfig_TA",
-    "bUseDynamicLogos": true,
-    "LogoURL": "https://rl-cdn.psyonix.com/LogoImages/S23/rl_season-logo_23_EN.png"
+    "bUseDynamicLogos": true
   },
   "TradeConfig": {
     "Class": "TradeConfig_TA",
