@@ -20871,6 +20871,10 @@
         "Content": "0Lm045TWT3fc46zPjCaIsmWPt9OIG4KGh3XVqiCJ4YM="
       },
       {
+        "KeyName": "PrimeUpdate59_73F4E89E4933BB52368E263D78DD026A",
+        "Content": "MCxAxL+WTavVBMZaYLBDbjQZKtpyNq3u+ury7SQUoOc="
+      },
+      {
         "KeyName": "PrimeUpdate59_3204120809628B6FDBEB1192FF49B677",
         "Content": "7tJSV/cyCllpVnBysLrzI5MOTaOvoMa0CfIUIWBgyVs="
       },
@@ -25260,6 +25264,12 @@
         "Section": "explosion_lightsheen",
         "Key": "Label",
         "Value": "Lit Up"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_autounirainbowtext",
+        "Key": "Label",
+        "Value": "Craynbow"
       },
       {
         "Package": "Products",
