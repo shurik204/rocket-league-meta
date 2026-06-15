@@ -1251,16 +1251,6 @@
     "bApplyQuitPenalty": "true",
     "bServerBroadcastCancellations": "true",
     "MapSetName": "RankedSoccarStandard",
-    "PresetMutators": [
-      {
-        "PresetTags": [
-          {
-            "Category": "BallType",
-            "Setting": "Ball_WorldCup"
-          }
-        ]
-      }
-    ],
     "bAllowClubs": "true",
     "bKickOnMigrate": "true",
     "Title": "Standard",
@@ -1284,16 +1274,6 @@
     "bCheckRankedMatchReservationID": "true",
     "bApplyQuitPenalty": "true",
     "MapSetName": "RankedSoccarStandard",
-    "PresetMutators": [
-      {
-        "PresetTags": [
-          {
-            "Category": "BallType",
-            "Setting": "Ball_WorldCup"
-          }
-        ]
-      }
-    ],
     "bServerBroadcastCancellations": "true",
     "bAllowClubs": "true",
     "bKickOnMigrate": "true",
@@ -1320,16 +1300,6 @@
     "bApplyQuitPenalty": "true",
     "bServerBroadcastCancellations": "true",
     "MapSetName": "RankedSoccarStandard",
-    "PresetMutators": [
-      {
-        "PresetTags": [
-          {
-            "Category": "BallType",
-            "Setting": "Ball_WorldCup"
-          }
-        ]
-      }
-    ],
     "bKickOnMigrate": "true",
     "Title": "Duel",
     "Description": "Ranked one-on-one",
