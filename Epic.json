@@ -1011,35 +1011,6 @@
         ]
       },
       {
-        "SetName": "WorldCup",
-        "Maps": [
-          {
-            "Map": "MapList.Maps.eurostadium_p",
-            "Frequency": 1
-          },
-          {
-            "Map": "MapList.Maps.eurostadium_night_p",
-            "Frequency": 1
-          },
-          {
-            "Map": "MapList.Maps.eurostadium_dusk_p",
-            "Frequency": 1
-          },
-          {
-            "Map": "MapList.Maps.paname_dusk_p",
-            "Frequency": 1
-          },
-          {
-            "Map": "MapList.Maps.ff_dusk_p",
-            "Frequency": 1
-          },
-          {
-            "Map": "MapList.Maps.uf_night_p",
-            "Frequency": 1
-          }
-        ]
-      },
-      {
         "SetName": "SonicRush",
         "Maps": [
           {
@@ -2965,7 +2936,7 @@
     "bApplyQuitPenalty": "true",
     "bAllowClubs": "true",
     "bIsMicroEventPlaylist": "true",
-    "MapSetName": "WorldCup",
+    "MapSetName": "FCShowdown",
     "PresetMutators": [
       {
         "PresetTags": [
@@ -2975,15 +2946,14 @@
           },
           {
             "Category": "BallType",
-            "Setting": "Ball_WorldCup"
+            "Setting": "Ball_Shoe"
           }
         ]
       }
     ],
-    "Title": "FIFA Soccar Strike",
-    "Description": "Football meets Soccar! Soccar Strike uses a soccer ball that curves smoothly through the air. Hit the left side of the ball to curve right and the right side of the ball to curve left. Reduced ball bounciness and increased ball gravity means you'll need teamwork in this mode to succeed, just like the beautiful game!",
-    "PlaylistImageURL": "https://rl-cdn.psyonix.com/Playlists/Images/RL_U59_FIFAWorldCupLTE_PlaylistDetailsImage_1920x1080_iupahsdf.jpg",
-    "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_LTM.playlist_ltm_worldcup_2026",
+    "Title": "Adidas Soccar Strike",
+    "Description": "Football meets Soccar! Adidas Soccer Strike uses the official Adidas Clubs World Cup Ball that curves smoothly through the air. Hit the left side of the ball to curve right and the right side of the ball to curve left. Reduced ball bounciness and increased ball gravity means you'll need teamwork in this mode to succeed, just like the beautiful game!",
+    "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_LTM.playlist_ltm_magnusfutball",
     "bAllowStayAsParty": "true",
     "bAllowBotFills": "true",
     "PopulationBuckets": [
