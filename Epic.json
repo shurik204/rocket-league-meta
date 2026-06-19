@@ -25435,6 +25435,14 @@
         "bShowLiveNow": false
       },
       {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_2026_1sEU.png",
+        "Title": "RLCS 2026 EU 1v1 Open",
+        "Description": "RLCS 2026 EU 1v1 Open - Broadcast Day 1",
+        "UTCStartTime": "2026-06-19 14:45:00",
+        "UTCEndTime": "2026-06-19 21:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_FIFAWorldCup2026_iudddd.png",
         "Title": "World Cup LTE",
         "Description": "World Cup LTE",
@@ -25446,6 +25454,14 @@
         "bShowLiveNow": false
       },
       {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_2026_1sEU.png",
+        "Title": "RLCS 2026 EU 1v1 Open",
+        "Description": "RLCS 2026 EU 1v1 Open - Broadcast Day 2",
+        "UTCStartTime": "2026-06-20 14:30:00",
+        "UTCEndTime": "2026-06-20 19:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_FIFAWorldCup2026_iudddd.png",
         "Title": "World Cup LTE",
         "Description": "World Cup LTE",
@@ -25455,6 +25471,14 @@
         "ButtonTitle": "Current Winner: {country-code}",
         "ButtonDescription": "Check the stats!",
         "bShowLiveNow": false
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_2026_1sEU.png",
+        "Title": "RLCS 2026 EU 1v1 Open",
+        "Description": "RLCS 2026 EU 1v1 Open - Broadcast Day 3",
+        "UTCStartTime": "2026-06-21 14:30:00",
+        "UTCEndTime": "2026-06-21 20:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
       },
       {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_FIFAWorldCup2026_iudddd.png",
