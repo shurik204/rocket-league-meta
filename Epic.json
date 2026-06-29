@@ -3704,15 +3704,6 @@
         "EventFolderName": "Event.WorldCup2026",
         "Subtitle": "The FIFA World Cup 2026 LTE has kicked off!",
         "Description": "Join a country by July 13 at 9 AM PST to get a free Octane Decal and Title. Equip either one and earn 1 point for every goal you score. Play the FIFA Soccar Strike LTM during the first and last week of the event to earn 2 points per goal, or 3 points if your entire team represents the same country."
-      },
-      {
-        "StartTime": 1782489600,
-        "EndTime": 1782748800,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Saiko/RL_U59_SaikoSaikoLTE_EventScreen_jfhe.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Saiko/RL_U59_SaikoSaikoLTE_EventScreen_logo_ouffww.png",
-        "EventFolderName": "Event.ArtOfRocketLeague",
-        "Subtitle": "Saiko Saiko",
-        "Description": "Saiko Saiko"
       }
     ]
   },
