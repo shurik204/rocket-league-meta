@@ -7236,6 +7236,14 @@
       {
         "Name": "TeminiteAndNokae_BurnItDown_RLedit",
         "ExternalUrl": "https://open.spotify.com/track/0148LGbNSeHx6qSWdou7WP"
+      },
+      {
+        "Name": "TESSERACTSAndCODEBREAKERZ_THUNDER",
+        "ExternalUrl": "https://open.spotify.com/track/2ixV3QTHRM7jG4T6wvM0gI"
+      },
+      {
+        "Name": "TESSERACTSAndCODEBREAKERZ_THUNDER_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/2ixV3QTHRM7jG4T6wvM0gI"
       }
     ]
   },
@@ -7975,6 +7983,8 @@
       "MX_OST_Season23.ehok_WearMyFlag_RLedit",
       "MX_OST_Season23.TeminiteAndNokae_BurnItDown",
       "MX_OST_Season23.TeminiteAndNokae_BurnItDown_RLedit",
+      "MX_OST_Season23.TESSERACTSAndCODEBREAKERZ_THUNDER",
+      "MX_OST_Season23.TESSERACTSAndCODEBREAKERZ_THUNDER_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -8157,11 +8167,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season23.TeminiteAndNokae_BurnItDown_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.TeminiteAndNokae_BurnItDown'"
+          "Track": "AkSoundCue'MX_OST_Season23.TESSERACTSAndCODEBREAKERZ_THUNDER_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.TESSERACTSAndCODEBREAKERZ_THUNDER'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.TeminiteAndNokae_BurnItDown'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.TESSERACTSAndCODEBREAKERZ_THUNDER'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -8184,6 +8194,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season23.TeminiteAndNokae_BurnItDown'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.TeminiteAndNokae_BurnItDown'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season23.TESSERACTSAndCODEBREAKERZ_THUNDER'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.TESSERACTSAndCODEBREAKERZ_THUNDER'"
             }
           ]
         },
@@ -20888,6 +20902,14 @@
       {
         "KeyName": "PrimeUpdate59_649CB7E7B14E1E597C0CA0D91747AE9E",
         "Content": "B7h1gfVJutOclnnJGdE7i3ocU7TFgL+TWOQLsDPOaLI="
+      },
+      {
+        "KeyName": "PrimeUpdate59_EB60A0FAEDB4B6E6F5E4038CCD670054",
+        "Content": "sOR8SwmKmnQa139Da6ihuqhTE73NOpW58xvYf1VuSPs="
+      },
+      {
+        "KeyName": "PrimeUpdate59_FB8650A999D5E7C19222C3F24311ED8E",
+        "Content": "mhIwsgcaBioWoa8xJfbfSGiYC58g6eEMQ2duNDyLenM="
       }
     ]
   },
