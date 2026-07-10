@@ -3704,15 +3704,6 @@
         "EventFolderName": "Event.WorldCup2026",
         "Subtitle": "The FIFA World Cup 2026 LTE has kicked off!",
         "Description": "Join a country by July 13 at 9 AM PST to get a free Octane Decal and Title. Equip either one and earn 1 point for every goal you score. Play the FIFA Soccar Strike LTM during the first and last week of the event to earn 2 points per goal, or 3 points if your entire team represents the same country."
-      },
-      {
-        "StartTime": 1783094400,
-        "EndTime": 1783699200,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/11thBday/RL_U59_BirthdayBallLTE_EventScreen_afjsoh.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/11thBday/RL_U59_BirthdayBallLTE_EventScreen_Logo_as9f8du.png",
-        "EventFolderName": "Event.BDay26",
-        "Subtitle": "Birthday Ball",
-        "Description": "The party is on! Celebrate Rocket League's 11th birthday by completing Birthday Ball Challenges to unlock festive rewards, including the Birthday Cake Topper and Candy Box Wheels."
       }
     ]
   },
