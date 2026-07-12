@@ -7235,6 +7235,14 @@
       {
         "Name": "TESSERACTSAndCODEBREAKERZ_THUNDER_RLedit",
         "ExternalUrl": "https://open.spotify.com/track/2ixV3QTHRM7jG4T6wvM0gI"
+      },
+      {
+        "Name": "THIRST_AURORA",
+        "ExternalUrl": "https://open.spotify.com/track/4lj3VGDX5Osyiuz6KsAdgg"
+      },
+      {
+        "Name": "THIRST_AURORA_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/4lj3VGDX5Osyiuz6KsAdgg"
       }
     ]
   },
@@ -7976,6 +7984,8 @@
       "MX_OST_Season23.TeminiteAndNokae_BurnItDown_RLedit",
       "MX_OST_Season23.TESSERACTSAndCODEBREAKERZ_THUNDER",
       "MX_OST_Season23.TESSERACTSAndCODEBREAKERZ_THUNDER_RLedit",
+      "MX_OST_Season23.THIRST_AURORA",
+      "MX_OST_Season23.THIRST_AURORA_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -8158,11 +8168,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season23.TESSERACTSAndCODEBREAKERZ_THUNDER_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.TESSERACTSAndCODEBREAKERZ_THUNDER'"
+          "Track": "AkSoundCue'MX_OST_Season23.THIRST_AURORA_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_AURORA'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.TESSERACTSAndCODEBREAKERZ_THUNDER'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.THIRST_AURORA'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -8189,6 +8199,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season23.TESSERACTSAndCODEBREAKERZ_THUNDER'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.TESSERACTSAndCODEBREAKERZ_THUNDER'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season23.THIRST_AURORA'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_AURORA'"
             }
           ]
         },
@@ -20901,6 +20915,14 @@
       {
         "KeyName": "PrimeUpdate59_FB8650A999D5E7C19222C3F24311ED8E",
         "Content": "mhIwsgcaBioWoa8xJfbfSGiYC58g6eEMQ2duNDyLenM="
+      },
+      {
+        "KeyName": "PrimeUpdate59_B601ECE5C9151E37590973A58DC0EBA6",
+        "Content": "vaKtibjsMrKvLhSKArQabf7bMCqDBmOyY8ncZlkTGHQ="
+      },
+      {
+        "KeyName": "PrimeUpdate59_39E72FD34B7EA9DC466C8CA5A769B5F6",
+        "Content": "0gKoE3JwH7ybOfTKlYafc8er8DSMCtwA5//5glx5DOc="
       }
     ]
   },
