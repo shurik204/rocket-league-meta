@@ -60,7 +60,7 @@
         "Maps": [
           {
             "Map": "MapList.Maps.beach_p",
-            "Frequency": 0.2,
+            "Frequency": 0.65,
             "bInRotation": false
           },
           {
@@ -69,15 +69,15 @@
           },
           {
             "Map": "MapList.Maps.chn_stadium_p",
-            "Frequency": 0.4
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.chn_stadium_day_P",
-            "Frequency": 0.5
+            "Frequency": 0.65
           },
           {
             "Map": "MapList.Maps.cs_p",
-            "Frequency": 2.95
+            "Frequency": 1.25
           },
           {
             "Map": "MapList.Maps.cs_day_p",
@@ -85,19 +85,19 @@
           },
           {
             "Map": "MapList.Maps.eurostadium_p",
-            "Frequency": 2.95
+            "Frequency": 2.1
           },
           {
             "Map": "MapList.Maps.eurostadium_dusk_p",
-            "Frequency": 0.05
+            "Frequency": 0.3
           },
           {
             "Map": "MapList.Maps.eurostadium_night_p",
-            "Frequency": 0.6
+            "Frequency": 0.2
           },
           {
             "Map": "MapList.Maps.eurostadium_rainy_p",
-            "Frequency": 0.05
+            "Frequency": 0.1
           },
           {
             "Map": "MapList.Maps.farm_p",
@@ -114,11 +114,11 @@
           },
           {
             "Map": "MapList.Maps.mall_day_p",
-            "Frequency": 0.5
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.neotokyo_standard_p",
-            "Frequency": 1.1
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.neotokyo_arcade_p",
@@ -126,64 +126,64 @@
           },
           {
             "Map": "MapList.Maps.outlaw_p",
-            "Frequency": 0.2,
+            "Frequency": 0.7,
             "bInRotation": false
           },
           {
             "Map": "MapList.Maps.outlaw_oasis_p",
-            "Frequency": 0.2
-          },
-          {
-            "Map": "MapList.Maps.paname_dusk_p",
-            "Frequency": 0.5
-          },
-          {
-            "Map": "MapList.Maps.park_p",
-            "Frequency": 1.2
-          },
-          {
-            "Map": "MapList.Maps.park_night_p",
-            "Frequency": 0.35
-          },
-          {
-            "Map": "MapList.Maps.park_rainy_p",
-            "Frequency": 0.3
-          },
-          {
-            "Map": "MapList.Maps.stadium_p",
-            "Frequency": 2.95
-          },
-          {
-            "Map": "MapList.Maps.stadium_day_p",
-            "Frequency": 0.25
-          },
-          {
-            "Map": "MapList.Maps.stadium_foggy_p",
-            "Frequency": 0.05
-          },
-          {
-            "Map": "MapList.Maps.stadium_10a_p",
             "Frequency": 0.7
           },
           {
-            "Map": "MapList.Maps.street_p",
+            "Map": "MapList.Maps.paname_dusk_p",
+            "Frequency": 0.75
+          },
+          {
+            "Map": "MapList.Maps.park_p",
+            "Frequency": 1.35
+          },
+          {
+            "Map": "MapList.Maps.park_night_p",
+            "Frequency": 0.4
+          },
+          {
+            "Map": "MapList.Maps.park_rainy_p",
             "Frequency": 0.2
+          },
+          {
+            "Map": "MapList.Maps.stadium_p",
+            "Frequency": 2.1
+          },
+          {
+            "Map": "MapList.Maps.stadium_day_p",
+            "Frequency": 0.28
+          },
+          {
+            "Map": "MapList.Maps.stadium_foggy_p",
+            "Frequency": 0.16
+          },
+          {
+            "Map": "MapList.Maps.stadium_10a_p",
+            "Frequency": 0.28
+          },
+          {
+            "Map": "MapList.Maps.street_p",
+            "Frequency": 0.75
           },
           {
             "Map": "MapList.Maps.trainstation_p",
-            "Frequency": 1.3
+            "Frequency": 1.1
           },
           {
             "Map": "MapList.Maps.trainstation_dawn_p",
-            "Frequency": 0.3
+            "Frequency": 0.25
           },
           {
             "Map": "MapList.Maps.trainstation_night_p",
-            "Frequency": 0.2
+            "Frequency": 0.25
           },
           {
             "Map": "MapList.Maps.uf_day_p",
-            "Frequency": 3.2
+            "Frequency": 2.4
           },
           {
             "Map": "MapList.Maps.uf_night_p",
@@ -191,27 +191,27 @@
           },
           {
             "Map": "MapList.Maps.underwater_p",
-            "Frequency": 0.4
+            "Frequency": 0.75
           },
           {
             "Map": "MapList.Maps.underwater_grs_p",
-            "Frequency": 0.5
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiastadium_p",
-            "Frequency": 1.3
+            "Frequency": 1.2
           },
           {
             "Map": "MapList.Maps.utopiastadium_dusk_p",
-            "Frequency": 0.2
+            "Frequency": 0.15
           },
           {
             "Map": "MapList.Maps.utopiaStadium_lux_p",
-            "Frequency": 0.3
+            "Frequency": 0.35
           },
           {
             "Map": "MapList.Maps.wasteland_s_p",
-            "Frequency": 0.2,
+            "Frequency": 0.65,
             "bInRotation": false
           },
           {
@@ -225,7 +225,7 @@
         "Maps": [
           {
             "Map": "MapList.Maps.beach_p",
-            "Frequency": 0.2,
+            "Frequency": 0.65,
             "bInRotation": false
           },
           {
@@ -234,15 +234,15 @@
           },
           {
             "Map": "MapList.Maps.chn_stadium_p",
-            "Frequency": 0.4
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.chn_stadium_day_P",
-            "Frequency": 0.5
+            "Frequency": 0.65
           },
           {
             "Map": "MapList.Maps.cs_p",
-            "Frequency": 2.95
+            "Frequency": 1.25
           },
           {
             "Map": "MapList.Maps.cs_day_p",
@@ -250,19 +250,19 @@
           },
           {
             "Map": "MapList.Maps.eurostadium_p",
-            "Frequency": 2.95
+            "Frequency": 2.1
           },
           {
             "Map": "MapList.Maps.eurostadium_dusk_p",
-            "Frequency": 0.05
+            "Frequency": 0.3
           },
           {
             "Map": "MapList.Maps.eurostadium_night_p",
-            "Frequency": 0.6
+            "Frequency": 0.2
           },
           {
             "Map": "MapList.Maps.eurostadium_rainy_p",
-            "Frequency": 0.05
+            "Frequency": 0.1
           },
           {
             "Map": "MapList.Maps.farm_p",
@@ -279,11 +279,11 @@
           },
           {
             "Map": "MapList.Maps.mall_day_p",
-            "Frequency": 0.5
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.neotokyo_standard_p",
-            "Frequency": 1.1
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.neotokyo_arcade_p",
@@ -291,64 +291,64 @@
           },
           {
             "Map": "MapList.Maps.outlaw_p",
-            "Frequency": 0.2,
+            "Frequency": 0.7,
             "bInRotation": false
           },
           {
             "Map": "MapList.Maps.outlaw_oasis_p",
-            "Frequency": 0.2
-          },
-          {
-            "Map": "MapList.Maps.paname_dusk_p",
-            "Frequency": 0.5
-          },
-          {
-            "Map": "MapList.Maps.park_p",
-            "Frequency": 1.2
-          },
-          {
-            "Map": "MapList.Maps.park_night_p",
-            "Frequency": 0.35
-          },
-          {
-            "Map": "MapList.Maps.park_rainy_p",
-            "Frequency": 0.3
-          },
-          {
-            "Map": "MapList.Maps.stadium_p",
-            "Frequency": 2.95
-          },
-          {
-            "Map": "MapList.Maps.stadium_day_p",
-            "Frequency": 0.25
-          },
-          {
-            "Map": "MapList.Maps.stadium_foggy_p",
-            "Frequency": 0.05
-          },
-          {
-            "Map": "MapList.Maps.stadium_10a_p",
             "Frequency": 0.7
           },
           {
-            "Map": "MapList.Maps.street_p",
+            "Map": "MapList.Maps.paname_dusk_p",
+            "Frequency": 0.75
+          },
+          {
+            "Map": "MapList.Maps.park_p",
+            "Frequency": 1.35
+          },
+          {
+            "Map": "MapList.Maps.park_night_p",
+            "Frequency": 0.4
+          },
+          {
+            "Map": "MapList.Maps.park_rainy_p",
             "Frequency": 0.2
+          },
+          {
+            "Map": "MapList.Maps.stadium_p",
+            "Frequency": 2.1
+          },
+          {
+            "Map": "MapList.Maps.stadium_day_p",
+            "Frequency": 0.28
+          },
+          {
+            "Map": "MapList.Maps.stadium_foggy_p",
+            "Frequency": 0.16
+          },
+          {
+            "Map": "MapList.Maps.stadium_10a_p",
+            "Frequency": 0.28
+          },
+          {
+            "Map": "MapList.Maps.street_p",
+            "Frequency": 0.75
           },
           {
             "Map": "MapList.Maps.trainstation_p",
-            "Frequency": 1.3
+            "Frequency": 1.1
           },
           {
             "Map": "MapList.Maps.trainstation_dawn_p",
-            "Frequency": 0.3
+            "Frequency": 0.25
           },
           {
             "Map": "MapList.Maps.trainstation_night_p",
-            "Frequency": 0.2
+            "Frequency": 0.25
           },
           {
             "Map": "MapList.Maps.uf_day_p",
-            "Frequency": 3.2
+            "Frequency": 2.4
           },
           {
             "Map": "MapList.Maps.uf_night_p",
@@ -356,27 +356,27 @@
           },
           {
             "Map": "MapList.Maps.underwater_p",
-            "Frequency": 0.4
+            "Frequency": 0.75
           },
           {
             "Map": "MapList.Maps.underwater_grs_p",
-            "Frequency": 0.5
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiastadium_p",
-            "Frequency": 1.3
+            "Frequency": 1.2
           },
           {
             "Map": "MapList.Maps.utopiastadium_dusk_p",
-            "Frequency": 0.2
+            "Frequency": 0.15
           },
           {
             "Map": "MapList.Maps.utopiaStadium_lux_p",
-            "Frequency": 0.3
+            "Frequency": 0.35
           },
           {
             "Map": "MapList.Maps.wasteland_s_p",
-            "Frequency": 0.2,
+            "Frequency": 0.65,
             "bInRotation": false
           },
           {
@@ -429,7 +429,7 @@
         "Maps": [
           {
             "Map": "MapList.Maps.beach_p",
-            "Frequency": 0.2,
+            "Frequency": 0.65,
             "bInRotation": false
           },
           {
@@ -438,15 +438,15 @@
           },
           {
             "Map": "MapList.Maps.chn_stadium_p",
-            "Frequency": 0.4
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.chn_stadium_day_P",
-            "Frequency": 0.5
+            "Frequency": 0.65
           },
           {
             "Map": "MapList.Maps.cs_p",
-            "Frequency": 2.95
+            "Frequency": 1.25
           },
           {
             "Map": "MapList.Maps.cs_day_p",
@@ -454,19 +454,19 @@
           },
           {
             "Map": "MapList.Maps.eurostadium_p",
-            "Frequency": 2.95
+            "Frequency": 2.1
           },
           {
             "Map": "MapList.Maps.eurostadium_dusk_p",
-            "Frequency": 0.05
+            "Frequency": 0.3
           },
           {
             "Map": "MapList.Maps.eurostadium_night_p",
-            "Frequency": 0.6
+            "Frequency": 0.2
           },
           {
             "Map": "MapList.Maps.eurostadium_rainy_p",
-            "Frequency": 0.05
+            "Frequency": 0.1
           },
           {
             "Map": "MapList.Maps.farm_p",
@@ -483,11 +483,11 @@
           },
           {
             "Map": "MapList.Maps.mall_day_p",
-            "Frequency": 0.5
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.neotokyo_standard_p",
-            "Frequency": 1.1
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.neotokyo_arcade_p",
@@ -495,64 +495,64 @@
           },
           {
             "Map": "MapList.Maps.outlaw_p",
-            "Frequency": 0.2,
+            "Frequency": 0.7,
             "bInRotation": false
           },
           {
             "Map": "MapList.Maps.outlaw_oasis_p",
-            "Frequency": 0.2
-          },
-          {
-            "Map": "MapList.Maps.paname_dusk_p",
-            "Frequency": 0.5
-          },
-          {
-            "Map": "MapList.Maps.park_p",
-            "Frequency": 1.2
-          },
-          {
-            "Map": "MapList.Maps.park_night_p",
-            "Frequency": 0.35
-          },
-          {
-            "Map": "MapList.Maps.park_rainy_p",
-            "Frequency": 0.3
-          },
-          {
-            "Map": "MapList.Maps.stadium_p",
-            "Frequency": 2.95
-          },
-          {
-            "Map": "MapList.Maps.stadium_day_p",
-            "Frequency": 0.25
-          },
-          {
-            "Map": "MapList.Maps.stadium_foggy_p",
-            "Frequency": 0.05
-          },
-          {
-            "Map": "MapList.Maps.stadium_10a_p",
             "Frequency": 0.7
           },
           {
-            "Map": "MapList.Maps.street_p",
+            "Map": "MapList.Maps.paname_dusk_p",
+            "Frequency": 0.75
+          },
+          {
+            "Map": "MapList.Maps.park_p",
+            "Frequency": 1.35
+          },
+          {
+            "Map": "MapList.Maps.park_night_p",
+            "Frequency": 0.4
+          },
+          {
+            "Map": "MapList.Maps.park_rainy_p",
             "Frequency": 0.2
+          },
+          {
+            "Map": "MapList.Maps.stadium_p",
+            "Frequency": 2.1
+          },
+          {
+            "Map": "MapList.Maps.stadium_day_p",
+            "Frequency": 0.28
+          },
+          {
+            "Map": "MapList.Maps.stadium_foggy_p",
+            "Frequency": 0.16
+          },
+          {
+            "Map": "MapList.Maps.stadium_10a_p",
+            "Frequency": 0.28
+          },
+          {
+            "Map": "MapList.Maps.street_p",
+            "Frequency": 0.75
           },
           {
             "Map": "MapList.Maps.trainstation_p",
-            "Frequency": 1.3
+            "Frequency": 1.1
           },
           {
             "Map": "MapList.Maps.trainstation_dawn_p",
-            "Frequency": 0.3
+            "Frequency": 0.25
           },
           {
             "Map": "MapList.Maps.trainstation_night_p",
-            "Frequency": 0.2
+            "Frequency": 0.25
           },
           {
             "Map": "MapList.Maps.uf_day_p",
-            "Frequency": 3.2
+            "Frequency": 2.4
           },
           {
             "Map": "MapList.Maps.uf_night_p",
@@ -560,27 +560,27 @@
           },
           {
             "Map": "MapList.Maps.underwater_p",
-            "Frequency": 0.4
+            "Frequency": 0.75
           },
           {
             "Map": "MapList.Maps.underwater_grs_p",
-            "Frequency": 0.5
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiastadium_p",
-            "Frequency": 1.3
+            "Frequency": 1.2
           },
           {
             "Map": "MapList.Maps.utopiastadium_dusk_p",
-            "Frequency": 0.2
+            "Frequency": 0.15
           },
           {
             "Map": "MapList.Maps.utopiaStadium_lux_p",
-            "Frequency": 0.3
+            "Frequency": 0.35
           },
           {
             "Map": "MapList.Maps.wasteland_s_p",
-            "Frequency": 0.2,
+            "Frequency": 0.65,
             "bInRotation": false
           },
           {
