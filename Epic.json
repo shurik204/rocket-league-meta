@@ -3205,6 +3205,20 @@
     "Class": "ThankYouMessageConfig_TA",
     "bThankYouMessageEnabled": false
   },
+  "ViralItemConfig": {
+    "Class": "ViralItemConfig_TA",
+    "bAllowViralItemsInAllPlaylists": true,
+    "bRequiresViralItemEquipped": true,
+    "ViralSeriesGroups": [
+      {
+        "InfectedType": "InfectedType_NormalInfected",
+        "SeriesIDs": [
+          9727
+        ]
+      }
+    ],
+    "AvatarInfectedTypes": []
+  },
   "EpicConfig": {
     "Class": "EpicConfig_X",
     "bAllowRemoteAvatars": true,
