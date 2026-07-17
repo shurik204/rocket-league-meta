@@ -1222,6 +1222,16 @@
     "bApplyQuitPenalty": "true",
     "bServerBroadcastCancellations": "true",
     "MapSetName": "RankedSoccarStandard",
+    "PresetMutators": [
+      {
+        "PresetTags": [
+          {
+            "Category": "BallType",
+            "Setting": "Ball_WorldCup"
+          }
+        ]
+      }
+    ],
     "bAllowClubs": "true",
     "bKickOnMigrate": "true",
     "Title": "Standard",
@@ -1245,6 +1255,16 @@
     "bCheckRankedMatchReservationID": "true",
     "bApplyQuitPenalty": "true",
     "MapSetName": "RankedSoccarStandard",
+    "PresetMutators": [
+      {
+        "PresetTags": [
+          {
+            "Category": "BallType",
+            "Setting": "Ball_WorldCup"
+          }
+        ]
+      }
+    ],
     "bServerBroadcastCancellations": "true",
     "bAllowClubs": "true",
     "bKickOnMigrate": "true",
@@ -1271,6 +1291,16 @@
     "bApplyQuitPenalty": "true",
     "bServerBroadcastCancellations": "true",
     "MapSetName": "RankedSoccarStandard",
+    "PresetMutators": [
+      {
+        "PresetTags": [
+          {
+            "Category": "BallType",
+            "Setting": "Ball_WorldCup"
+          }
+        ]
+      }
+    ],
     "bKickOnMigrate": "true",
     "Title": "Duel",
     "Description": "Ranked one-on-one",
@@ -3704,6 +3734,24 @@
         "EventFolderName": "Event.WorldCup2026",
         "Subtitle": "The FIFA World Cup 2026 LTE has kicked off!",
         "Description": "Join a country by July 13 at 9 AM PST to get a free Octane Decal and Title. Equip either one and earn 1 point for every goal you score. Play the FIFA Soccar Strike LTM during the first and last week of the event to earn 2 points per goal, or 3 points if your entire team represents the same country."
+      },
+      {
+        "StartTime": 1784304000,
+        "EndTime": 1786377600,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Jynxzi/RL_U59_JynxziLTE_Event-Screen_Background_asfkj.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Jynxzi/RL_U59_JynxziLTE_Event-Screen_Logo_ejofkhh.png",
+        "EventFolderName": "Event.Jynxzi26",
+        "Subtitle": "JYNXZI LTE",
+        "Description": "Starting with Jynxzi and his friends, the BALRIGHT Title spreads from player to player. Win with or against someone who has it equipped to unlock the Title and MOGGER Decal, then keep the chain alive. Plus, rack up Drops by completing Challenges along the way!"
+      },
+      {
+        "StartTime": 1784304000,
+        "EndTime": 1784563200,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/FIFA/RL_U59_FIFAFinalsLTE_Event-Screen_bahgr.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/FIFA/RL_U59_FIFAFinalsLTE_Event-Screen-Logo_poioq.png",
+        "EventFolderName": "Event.FIFAFinals26",
+        "Subtitle": "FINALS LTE",
+        "Description": "The FIFA World Cup 2026™ comes down to the final weekend! Complete Challenges during the Finals LTE to score Player Titles and a Black Market Drop before a champion is crowned."
       }
     ]
   },
