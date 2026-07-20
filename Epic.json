@@ -1058,16 +1058,6 @@
     "bStandard": "true",
     "bApplyQuitPenalty": "true",
     "MapSetName": "SoccarStandard",
-    "PresetMutators": [
-      {
-        "PresetTags": [
-          {
-            "Category": "BallType",
-            "Setting": "Ball_WorldCup"
-          }
-        ]
-      }
-    ],
     "bAllowClubs": "true",
     "Title": "Standard",
     "Description": "Classic team play",
@@ -1086,16 +1076,6 @@
     "bStandard": "true",
     "bApplyQuitPenalty": "true",
     "MapSetName": "SoccarStandard",
-    "PresetMutators": [
-      {
-        "PresetTags": [
-          {
-            "Category": "BallType",
-            "Setting": "Ball_WorldCup"
-          }
-        ]
-      }
-    ],
     "bAllowClubs": "true",
     "Title": "Doubles",
     "Description": "Play with a partner",
@@ -1113,16 +1093,6 @@
     "PlayerCount": 2,
     "bStandard": "true",
     "MapSetName": "SoccarStandard",
-    "PresetMutators": [
-      {
-        "PresetTags": [
-          {
-            "Category": "BallType",
-            "Setting": "Ball_WorldCup"
-          }
-        ]
-      }
-    ],
     "Title": "Duel",
     "Description": "One-on-one",
     "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_CasualCompetitive.playlist_1v1_keyart",
@@ -1139,16 +1109,6 @@
     "PlayerCount": 8,
     "bApplyQuitPenalty": "true",
     "MapSetName": "SoccarQuads",
-    "PresetMutators": [
-      {
-        "PresetTags": [
-          {
-            "Category": "BallType",
-            "Setting": "Ball_WorldCup"
-          }
-        ]
-      }
-    ],
     "bAllowClubs": "true",
     "bIsMicroEventPlaylist": "true",
     "Title": "Quads",
@@ -1222,16 +1182,6 @@
     "bApplyQuitPenalty": "true",
     "bServerBroadcastCancellations": "true",
     "MapSetName": "RankedSoccarStandard",
-    "PresetMutators": [
-      {
-        "PresetTags": [
-          {
-            "Category": "BallType",
-            "Setting": "Ball_WorldCup"
-          }
-        ]
-      }
-    ],
     "bAllowClubs": "true",
     "bKickOnMigrate": "true",
     "Title": "Standard",
@@ -1255,16 +1205,6 @@
     "bCheckRankedMatchReservationID": "true",
     "bApplyQuitPenalty": "true",
     "MapSetName": "RankedSoccarStandard",
-    "PresetMutators": [
-      {
-        "PresetTags": [
-          {
-            "Category": "BallType",
-            "Setting": "Ball_WorldCup"
-          }
-        ]
-      }
-    ],
     "bServerBroadcastCancellations": "true",
     "bAllowClubs": "true",
     "bKickOnMigrate": "true",
@@ -1291,16 +1231,6 @@
     "bApplyQuitPenalty": "true",
     "bServerBroadcastCancellations": "true",
     "MapSetName": "RankedSoccarStandard",
-    "PresetMutators": [
-      {
-        "PresetTags": [
-          {
-            "Category": "BallType",
-            "Setting": "Ball_WorldCup"
-          }
-        ]
-      }
-    ],
     "bKickOnMigrate": "true",
     "Title": "Duel",
     "Description": "Ranked one-on-one",
@@ -3742,15 +3672,6 @@
         "Description": "Get back in action with Re-Fueled Challenges and earn rewards you may have missed while you were gone!"
       },
       {
-        "StartTime": 1781107200,
-        "EndTime": 1784563200,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/FIFA/RL_U59_FIFAWorldCupLTE_Event-Screen_Background_ofejoi.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/FIFA/RL_U59_FIFAWorldCupLTE_Event-Screen_Background_Logo_aoijijre.png",
-        "EventFolderName": "Event.WorldCup2026",
-        "Subtitle": "The FIFA World Cup 2026 LTE has kicked off!",
-        "Description": "Join a country by July 13 at 9 AM PST to get a free Octane Decal and Title. Equip either one and earn 1 point for every goal you score. Play the FIFA Soccar Strike LTM during the first and last week of the event to earn 2 points per goal, or 3 points if your entire team represents the same country."
-      },
-      {
         "StartTime": 1784304000,
         "EndTime": 1786377600,
         "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Jynxzi/RL_U59_JynxziLTE_Event-Screen_Background_asfkj.jpg",
@@ -3758,695 +3679,6 @@
         "EventFolderName": "Event.Jynxzi26",
         "Subtitle": "JYNXZI LTE",
         "Description": "Starting with Jynxzi and his friends, the BALRIGHT Title spreads from player to player. Win with or against someone who has it equipped to unlock the Title and MOGGER Decal, then keep the chain alive. Plus, rack up Drops by completing Challenges along the way!"
-      },
-      {
-        "StartTime": 1784304000,
-        "EndTime": 1784563200,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/FIFA/RL_U59_FIFAFinalsLTE_Event-Screen_bahgr.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/FIFA/RL_U59_FIFAFinalsLTE_Event-Screen-Logo_poioq.png",
-        "EventFolderName": "Event.FIFAFinals26",
-        "Subtitle": "FINALS LTE",
-        "Description": "The FIFA World Cup 2026™ comes down to the final weekend! Complete Challenges during the Finals LTE to score Player Titles and a Black Market Drop before a champion is crowned."
-      }
-    ]
-  },
-  "WorldCupConfig": {
-    "Class": "WorldCupConfig_TA",
-    "bIsEnabled": true,
-    "ChallengeEventPageName": "Event.WorldCup2026",
-    "SelectCountryTimeLimit": 1783958400,
-    "TeamsData": [
-      {
-        "TeamCodeName": "mx",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.4078,
-          "B": 0.2784
-        },
-        "TeamColorSecondary": {
-          "R": 0.8078,
-          "G": 0.0667,
-          "B": 0.149
-        },
-        "CosmeticID": 12797
-      },
-      {
-        "TeamCodeName": "za",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.4784,
-          "B": 0.302
-        },
-        "TeamColorSecondary": {
-          "R": 1,
-          "G": 0.7137,
-          "B": 0.0706
-        },
-        "CosmeticID": 12823
-      },
-      {
-        "TeamCodeName": "kr",
-        "TeamColor": {
-          "R": 1,
-          "G": 1,
-          "B": 1
-        },
-        "TeamColorSecondary": {
-          "R": 0.8039,
-          "G": 0.1803,
-          "B": 0.2274
-        },
-        "CosmeticID": 12853
-      },
-      {
-        "TeamCodeName": "cz",
-        "TeamColor": {
-          "R": 0.8431,
-          "G": 0.0784,
-          "B": 0.1019
-        },
-        "TeamColorSecondary": {
-          "R": 0.0666,
-          "G": 0.2705,
-          "B": 0.4941
-        },
-        "CosmeticID": 12885
-      },
-      {
-        "TeamCodeName": "ca",
-        "TeamColor": {
-          "R": 0.8353,
-          "G": 0.1686,
-          "B": 0.1176
-        },
-        "TeamColorSecondary": {
-          "R": 1,
-          "G": 1,
-          "B": 1
-        },
-        "CosmeticID": 12815
-      },
-      {
-        "TeamCodeName": "qa",
-        "TeamColor": {
-          "R": 0.5411,
-          "G": 0.0823,
-          "B": 0.2196
-        },
-        "TeamColorSecondary": {
-          "R": 1,
-          "G": 1,
-          "B": 1
-        },
-        "CosmeticID": 12854
-      },
-      {
-        "TeamCodeName": "ch",
-        "TeamColor": {
-          "R": 0.8353,
-          "G": 0.1686,
-          "B": 0.1176
-        },
-        "TeamColorSecondary": {
-          "R": 1,
-          "G": 1,
-          "B": 1
-        },
-        "CosmeticID": 12787
-      },
-      {
-        "TeamCodeName": "ba",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.1843,
-          "B": 0.4235
-        },
-        "TeamColorSecondary": {
-          "R": 0.9686,
-          "G": 0.8313,
-          "B": 0.0901
-        },
-        "CosmeticID": 12826
-      },
-      {
-        "TeamCodeName": "br",
-        "TeamColor": {
-          "R": 1,
-          "G": 0.8745,
-          "B": 0
-        },
-        "TeamColorSecondary": {
-          "R": 0,
-          "G": 0.6118,
-          "B": 0.2314
-        },
-        "CosmeticID": 12807
-      },
-      {
-        "TeamCodeName": "ma",
-        "TeamColor": {
-          "R": 0.7843,
-          "G": 0.0627,
-          "B": 0.1803
-        },
-        "TeamColorSecondary": {
-          "R": 0,
-          "G": 0.3843,
-          "B": 0.2
-        },
-        "CosmeticID": 12840
-      },
-      {
-        "TeamCodeName": "ht",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.1254,
-          "B": 0.6235
-        },
-        "TeamColorSecondary": {
-          "R": 0.8235,
-          "G": 0.0627,
-          "B": 0.2039
-        },
-        "CosmeticID": 12855
-      },
-      {
-        "TeamCodeName": "sc",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.3686,
-          "B": 0.7216
-        },
-        "TeamColorSecondary": {
-          "R": 1,
-          "G": 1,
-          "B": 1
-        },
-        "CosmeticID": 12799
-      },
-      {
-        "TeamCodeName": "us",
-        "TeamColor": {
-          "R": 0.2353,
-          "G": 0.2314,
-          "B": 0.4314
-        },
-        "TeamColorSecondary": {
-          "R": 0.698,
-          "G": 0.1333,
-          "B": 0.2039
-        },
-        "CosmeticID": 12817
-      },
-      {
-        "TeamCodeName": "py",
-        "TeamColor": {
-          "R": 0.8353,
-          "G": 0.1686,
-          "B": 0.1176
-        },
-        "TeamColorSecondary": {
-          "R": 0,
-          "G": 0.6588,
-          "B": 0.0039
-        },
-        "CosmeticID": 12789
-      },
-      {
-        "TeamCodeName": "au",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.5176,
-          "B": 0.2392
-        },
-        "TeamColorSecondary": {
-          "R": 1,
-          "G": 0.8039,
-          "B": 0
-        },
-        "CosmeticID": 12871
-      },
-      {
-        "TeamCodeName": "tr",
-        "TeamColor": {
-          "R": 0.8901,
-          "G": 0.0392,
-          "B": 0.0901
-        },
-        "TeamColorSecondary": {
-          "R": 1,
-          "G": 1,
-          "B": 1
-        },
-        "CosmeticID": 12872
-      },
-      {
-        "TeamCodeName": "de",
-        "TeamColor": {
-          "R": 0,
-          "G": 0,
-          "B": 0
-        },
-        "TeamColorSecondary": {
-          "R": 1,
-          "G": 0.8,
-          "B": 0
-        },
-        "CosmeticID": 12886
-      },
-      {
-        "TeamCodeName": "cw",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.1765,
-          "B": 0.3843
-        },
-        "TeamColorSecondary": {
-          "R": 0.9765,
-          "G": 0.8902,
-          "B": 0
-        },
-        "CosmeticID": 12792
-      },
-      {
-        "TeamCodeName": "ci",
-        "TeamColor": {
-          "R": 0.9686,
-          "G": 0.498,
-          "B": 0
-        },
-        "TeamColorSecondary": {
-          "R": 0,
-          "G": 0.6196,
-          "B": 0.3764
-        },
-        "CosmeticID": 12902
-      },
-      {
-        "TeamCodeName": "ec",
-        "TeamColor": {
-          "R": 1,
-          "G": 0.8196,
-          "B": 0
-        },
-        "TeamColorSecondary": {
-          "R": 0,
-          "G": 0.2,
-          "B": 0.6275
-        },
-        "CosmeticID": 12774
-      },
-      {
-        "TeamCodeName": "nl",
-        "TeamColor": {
-          "R": 0.6823,
-          "G": 0.1098,
-          "B": 0.1568
-        },
-        "TeamColorSecondary": {
-          "R": 0.1294,
-          "G": 0.2745,
-          "B": 0.545
-        },
-        "CosmeticID": 12908
-      },
-      {
-        "TeamCodeName": "jp",
-        "TeamColor": {
-          "R": 1,
-          "G": 1,
-          "B": 1
-        },
-        "TeamColorSecondary": {
-          "R": 0.7373,
-          "G": 0,
-          "B": 0.1765
-        },
-        "CosmeticID": 12804
-      },
-      {
-        "TeamCodeName": "tn",
-        "TeamColor": {
-          "R": 0.9059,
-          "G": 0,
-          "B": 0.0745
-        },
-        "TeamColorSecondary": {
-          "R": 1,
-          "G": 1,
-          "B": 1
-        },
-        "CosmeticID": 12819
-      },
-      {
-        "TeamCodeName": "se",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.3215,
-          "B": 0.5764
-        },
-        "TeamColorSecondary": {
-          "R": 0.996,
-          "G": 0.796,
-          "B": 0
-        },
-        "CosmeticID": 12866
-      },
-      {
-        "TeamCodeName": "be",
-        "TeamColor": {
-          "R": 0,
-          "G": 0,
-          "B": 0
-        },
-        "TeamColorSecondary": {
-          "R": 1,
-          "G": 0.8196,
-          "B": 0
-        },
-        "CosmeticID": 12892
-      },
-      {
-        "TeamCodeName": "eg",
-        "TeamColor": {
-          "R": 0.8078,
-          "G": 0.0666,
-          "B": 0.149
-        },
-        "TeamColorSecondary": {
-          "R": 0,
-          "G": 0,
-          "B": 0
-        },
-        "CosmeticID": 12864
-      },
-      {
-        "TeamCodeName": "ir",
-        "TeamColor": {
-          "R": 0.1372,
-          "G": 0.6235,
-          "B": 0.2509
-        },
-        "TeamColorSecondary": {
-          "R": 0.8549,
-          "G": 0,
-          "B": 0
-        },
-        "CosmeticID": 12827
-      },
-      {
-        "TeamCodeName": "nz",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.1412,
-          "B": 0.4902
-        },
-        "TeamColorSecondary": {
-          "R": 0.8,
-          "G": 0.0784,
-          "B": 0.1686
-        },
-        "CosmeticID": 12812
-      },
-      {
-        "TeamCodeName": "es",
-        "TeamColor": {
-          "R": 0.9451,
-          "G": 0.749,
-          "B": 0
-        },
-        "TeamColorSecondary": {
-          "R": 0.6667,
-          "G": 0.0824,
-          "B": 0.1059
-        },
-        "CosmeticID": 12805
-      },
-      {
-        "TeamCodeName": "cv",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.2392,
-          "B": 0.5333
-        },
-        "TeamColorSecondary": {
-          "R": 0.8078,
-          "G": 0.0666,
-          "B": 0.149
-        },
-        "CosmeticID": 12912
-      },
-      {
-        "TeamCodeName": "sa",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.4235,
-          "B": 0.2078
-        },
-        "TeamColorSecondary": {
-          "R": 1,
-          "G": 1,
-          "B": 1
-        },
-        "CosmeticID": 12890
-      },
-      {
-        "TeamCodeName": "uy",
-        "TeamColor": {
-          "R": 1,
-          "G": 1,
-          "B": 1
-        },
-        "TeamColorSecondary": {
-          "R": 0.0392,
-          "G": 0.3569,
-          "B": 0.7098
-        },
-        "CosmeticID": 12770
-      },
-      {
-        "TeamCodeName": "iq",
-        "TeamColor": {
-          "R": 0.8078,
-          "G": 0.0666,
-          "B": 0.149
-        },
-        "TeamColorSecondary": {
-          "R": 0,
-          "G": 0,
-          "B": 0
-        },
-        "CosmeticID": 12904
-      },
-      {
-        "TeamCodeName": "fr",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.3333,
-          "B": 0.6431
-        },
-        "TeamColorSecondary": {
-          "R": 0.9373,
-          "G": 0.2549,
-          "B": 0.2078
-        },
-        "CosmeticID": 12786
-      },
-      {
-        "TeamCodeName": "sn",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.5215,
-          "B": 0.247
-        },
-        "TeamColorSecondary": {
-          "R": 0.9921,
-          "G": 0.9372,
-          "B": 0
-        },
-        "CosmeticID": 12909
-      },
-      {
-        "TeamCodeName": "no",
-        "TeamColor": {
-          "R": 0.7294,
-          "G": 0.0471,
-          "B": 0.1843
-        },
-        "TeamColorSecondary": {
-          "R": 0,
-          "G": 0.1255,
-          "B": 0.3569
-        },
-        "CosmeticID": 12784
-      },
-      {
-        "TeamCodeName": "ar",
-        "TeamColor": {
-          "R": 0.4588,
-          "G": 0.6667,
-          "B": 0.8588
-        },
-        "TeamColorSecondary": {
-          "R": 1,
-          "G": 1,
-          "B": 1
-        },
-        "CosmeticID": 12800
-      },
-      {
-        "TeamCodeName": "dz",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.3843,
-          "B": 0.2
-        },
-        "TeamColorSecondary": {
-          "R": 0.8235,
-          "G": 0.0627,
-          "B": 0.2039
-        },
-        "CosmeticID": 12873
-      },
-      {
-        "TeamCodeName": "at",
-        "TeamColor": {
-          "R": 0.9294,
-          "G": 0.1608,
-          "B": 0.2235
-        },
-        "TeamColorSecondary": {
-          "R": 1,
-          "G": 1,
-          "B": 1
-        },
-        "CosmeticID": 12813
-      },
-      {
-        "TeamCodeName": "jo",
-        "TeamColor": {
-          "R": 0,
-          "G": 0,
-          "B": 0
-        },
-        "TeamColorSecondary": {
-          "R": 0.8078,
-          "G": 0.0666,
-          "B": 0.149
-        },
-        "CosmeticID": 12903
-      },
-      {
-        "TeamCodeName": "cd",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.6392,
-          "B": 0.8784
-        },
-        "TeamColorSecondary": {
-          "R": 0.8078,
-          "G": 0.0666,
-          "B": 0.149
-        },
-        "CosmeticID": 12910
-      },
-      {
-        "TeamCodeName": "pt",
-        "TeamColor": {
-          "R": 0.8784,
-          "G": 0.2353,
-          "B": 0.1922
-        },
-        "TeamColorSecondary": {
-          "R": 0,
-          "G": 0.4235,
-          "B": 0.2235
-        },
-        "CosmeticID": 12818
-      },
-      {
-        "TeamCodeName": "uz",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.6,
-          "B": 0.7098
-        },
-        "TeamColorSecondary": {
-          "R": 0.1176,
-          "G": 0.7098,
-          "B": 0.2275
-        },
-        "CosmeticID": 12820
-      },
-      {
-        "TeamCodeName": "co",
-        "TeamColor": {
-          "R": 1,
-          "G": 0.8196,
-          "B": 0
-        },
-        "TeamColorSecondary": {
-          "R": 0,
-          "G": 0.2,
-          "B": 0.6275
-        },
-        "CosmeticID": 12776
-      },
-      {
-        "TeamCodeName": "en",
-        "TeamColor": {
-          "R": 1,
-          "G": 1,
-          "B": 1
-        },
-        "TeamColorSecondary": {
-          "R": 0.8078,
-          "G": 0.0667,
-          "B": 0.149
-        },
-        "CosmeticID": 12788
-      },
-      {
-        "TeamCodeName": "hr",
-        "TeamColor": {
-          "R": 0.7843,
-          "G": 0.0627,
-          "B": 0.1804
-        },
-        "TeamColorSecondary": {
-          "R": 0.0039,
-          "G": 0.1294,
-          "B": 0.4118
-        },
-        "CosmeticID": 12816
-      },
-      {
-        "TeamCodeName": "gh",
-        "TeamColor": {
-          "R": 0.9882,
-          "G": 0.8196,
-          "B": 0.0862
-        },
-        "TeamColorSecondary": {
-          "R": 0,
-          "G": 0.4196,
-          "B": 0.247
-        },
-        "CosmeticID": 12911
-      },
-      {
-        "TeamCodeName": "pa",
-        "TeamColor": {
-          "R": 0,
-          "G": 0.3216,
-          "B": 0.5765
-        },
-        "TeamColorSecondary": {
-          "R": 0.8235,
-          "G": 0.0627,
-          "B": 0.2039
-        },
-        "CosmeticID": 12783
       }
     ]
   },
@@ -25590,34 +24822,12 @@
         "URL": "https://rl.gg/WatchRLCS26"
       },
       {
-        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_FIFAWorldCup2026_iudddd.png",
-        "Title": "World Cup LTE",
-        "Description": "World Cup LTE",
-        "UTCStartTime": "2026-06-10 16:00:00",
-        "UTCEndTime": "2026-06-12 16:45:00",
-        "URL": "https://www.rocketleague.com/fifa-world-cup",
-        "ButtonTitle": "Current Winner: {country-code}",
-        "ButtonDescription": "Check the stats!",
-        "bShowLiveNow": false
-      },
-      {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_2026_2sNA.png",
         "Title": "RLCS 2026 NA 2v2 Open",
         "Description": "RLCS 2026 NA 2v2 Open - Broadcast Day 1",
         "UTCStartTime": "2026-06-12 16:45:00",
         "UTCEndTime": "2026-06-12 23:00:00",
         "URL": "https://rl.gg/WatchRLCS26"
-      },
-      {
-        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_FIFAWorldCup2026_iudddd.png",
-        "Title": "World Cup LTE",
-        "Description": "World Cup LTE",
-        "UTCStartTime": "2026-06-12 23:00:00",
-        "UTCEndTime": "2026-06-13 16:30:00",
-        "URL": "https://www.rocketleague.com/fifa-world-cup",
-        "ButtonTitle": "Current Winner: {country-code}",
-        "ButtonDescription": "Check the stats!",
-        "bShowLiveNow": false
       },
       {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_2026_2sNA.png",
@@ -25628,34 +24838,12 @@
         "URL": "https://rl.gg/WatchRLCS26"
       },
       {
-        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_FIFAWorldCup2026_iudddd.png",
-        "Title": "World Cup LTE",
-        "Description": "World Cup LTE",
-        "UTCStartTime": "2026-06-13 21:00:00",
-        "UTCEndTime": "2026-06-14 16:30:00",
-        "URL": "https://www.rocketleague.com/fifa-world-cup",
-        "ButtonTitle": "Current Winner: {country-code}",
-        "ButtonDescription": "Check the stats!",
-        "bShowLiveNow": false
-      },
-      {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_2026_2sNA.png",
         "Title": "RLCS 2026 NA 2v2 Open",
         "Description": "RLCS 2026 NA 2v2 Open - Broadcast Day 3",
         "UTCStartTime": "2026-06-14 16:30:00",
         "UTCEndTime": "2026-06-14 22:00:00",
         "URL": "https://rl.gg/WatchRLCS26"
-      },
-      {
-        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_FIFAWorldCup2026_iudddd.png",
-        "Title": "World Cup LTE",
-        "Description": "World Cup LTE",
-        "UTCStartTime": "2026-06-14 22:00:00",
-        "UTCEndTime": "2026-06-19 14:45:00",
-        "URL": "https://www.rocketleague.com/fifa-world-cup",
-        "ButtonTitle": "Current Winner: {country-code}",
-        "ButtonDescription": "Check the stats!",
-        "bShowLiveNow": false
       },
       {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_2026_1sEU.png",
@@ -25666,34 +24854,12 @@
         "URL": "https://rl.gg/WatchRLCS26"
       },
       {
-        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_FIFAWorldCup2026_iudddd.png",
-        "Title": "World Cup LTE",
-        "Description": "World Cup LTE",
-        "UTCStartTime": "2026-06-19 21:00:00",
-        "UTCEndTime": "2026-06-20 14:30:00",
-        "URL": "https://www.rocketleague.com/fifa-world-cup",
-        "ButtonTitle": "Current Winner: {country-code}",
-        "ButtonDescription": "Check the stats!",
-        "bShowLiveNow": false
-      },
-      {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_2026_1sEU.png",
         "Title": "RLCS 2026 EU 1v1 Open",
         "Description": "RLCS 2026 EU 1v1 Open - Broadcast Day 2",
         "UTCStartTime": "2026-06-20 14:30:00",
         "UTCEndTime": "2026-06-20 19:00:00",
         "URL": "https://rl.gg/WatchRLCS26"
-      },
-      {
-        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_FIFAWorldCup2026_iudddd.png",
-        "Title": "World Cup LTE",
-        "Description": "World Cup LTE",
-        "UTCStartTime": "2026-06-20 19:00:00",
-        "UTCEndTime": "2026-06-21 14:30:00",
-        "URL": "https://www.rocketleague.com/fifa-world-cup",
-        "ButtonTitle": "Current Winner: {country-code}",
-        "ButtonDescription": "Check the stats!",
-        "bShowLiveNow": false
       },
       {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_2026_1sEU.png",
@@ -25704,34 +24870,12 @@
         "URL": "https://rl.gg/WatchRLCS26"
       },
       {
-        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_FIFAWorldCup2026_iudddd.png",
-        "Title": "World Cup LTE",
-        "Description": "World Cup LTE",
-        "UTCStartTime": "2026-06-21 20:00:00",
-        "UTCEndTime": "2026-06-26 16:45:00",
-        "URL": "https://www.rocketleague.com/fifa-world-cup",
-        "ButtonTitle": "Current Winner: {country-code}",
-        "ButtonDescription": "Check the stats!",
-        "bShowLiveNow": false
-      },
-      {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_2026_1sNA.png",
         "Title": "RLCS 2026 NA 1v1 Open",
         "Description": "RLCS 2026 NA 1v1 Open - Broadcast Day 1",
         "UTCStartTime": "2026-06-26 16:45:00",
         "UTCEndTime": "2026-06-26 23:00:00",
         "URL": "https://rl.gg/WatchRLCS26"
-      },
-      {
-        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_FIFAWorldCup2026_iudddd.png",
-        "Title": "World Cup LTE",
-        "Description": "World Cup LTE",
-        "UTCStartTime": "2026-06-26 23:00:00",
-        "UTCEndTime": "2026-06-27 16:30:00",
-        "URL": "https://www.rocketleague.com/fifa-world-cup",
-        "ButtonTitle": "Current Winner: {country-code}",
-        "ButtonDescription": "Check the stats!",
-        "bShowLiveNow": false
       },
       {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_2026_1sNA.png",
@@ -25742,34 +24886,12 @@
         "URL": "https://rl.gg/WatchRLCS26"
       },
       {
-        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_FIFAWorldCup2026_iudddd.png",
-        "Title": "World Cup LTE",
-        "Description": "World Cup LTE",
-        "UTCStartTime": "2026-06-27 21:00:00",
-        "UTCEndTime": "2026-06-28 16:30:00",
-        "URL": "https://www.rocketleague.com/fifa-world-cup",
-        "ButtonTitle": "Current Winner: {country-code}",
-        "ButtonDescription": "Check the stats!",
-        "bShowLiveNow": false
-      },
-      {
         "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_2026_1sNA.png",
         "Title": "RLCS 2026 NA 1v1 Open",
         "Description": "RLCS 2026 NA 1v1 Open - Broadcast Day 3",
         "UTCStartTime": "2026-06-28 16:30:00",
         "UTCEndTime": "2026-06-28 22:00:00",
         "URL": "https://rl.gg/WatchRLCS26"
-      },
-      {
-        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButtonIcon_FIFAWorldCup2026_iudddd.png",
-        "Title": "World Cup LTE",
-        "Description": "World Cup LTE",
-        "UTCStartTime": "2026-06-28 22:00:00",
-        "UTCEndTime": "2026-07-20 16:00:00",
-        "URL": "https://www.rocketleague.com/fifa-world-cup",
-        "ButtonTitle": "Current Winner: {country-code}",
-        "ButtonDescription": "Check the stats!",
-        "bShowLiveNow": false
       }
     ]
   },
