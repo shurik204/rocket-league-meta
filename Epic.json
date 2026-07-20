@@ -20192,6 +20192,10 @@
         "Content": "7tJSV/cyCllpVnBysLrzI5MOTaOvoMa0CfIUIWBgyVs="
       },
       {
+        "KeyName": "PrimeUpdate59_A3D9F5898BB7555E8E571012EAAED078",
+        "Content": "J496hZifFmK8rjPw+pSjY0Ol1dkbkY0BWaiHIsnfmUg="
+      },
+      {
         "KeyName": "PrimeUpdate59_C939A6CDDDC026AA81D4965BE5D81762",
         "Content": "4tdlGlKeB4d68ZwH15mxd85w5gHlKtVTOlrkWMCUz3k="
       },
@@ -24727,6 +24731,78 @@
         "Section": "skin_grain_benchriver02",
         "Key": "Label",
         "Value": "MOGGER"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_hayve_whatitfeelslike",
+        "Key": "Label",
+        "Value": "What it feels like"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_hayve_whatitfeelslike",
+        "Key": "Artist",
+        "Value": "Hayve"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_nostalgixkiesza_dancingthroughitall",
+        "Key": "Label",
+        "Value": "Dancing Through It All"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_nostalgixkiesza_dancingthroughitall",
+        "Key": "Artist",
+        "Value": "Nostalgix & Kiesza"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_tiffanyday_pretty4U",
+        "Key": "Label",
+        "Value": "PRETTY4U"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_tiffanyday_pretty4U",
+        "Key": "Artist",
+        "Value": "Tiffany Day"
+      },
+      {
+        "Package": "Products",
+        "Section": "Anthem_Wuki_Rainbow",
+        "Key": "Label",
+        "Value": "Rainbow"
+      },
+      {
+        "Package": "Products",
+        "Section": "Anthem_Wuki_Rainbow",
+        "Key": "Artist",
+        "Value": "Wuki"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_rainbow23",
+        "Key": "Label",
+        "Value": "Toon Rainbow"
+      },
+      {
+        "Package": "Products",
+        "Section": "crateunlocked_S23MusicalLTE",
+        "Key": "Label",
+        "Value": "Unity 2026"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_heartbeating_rainbow",
+        "Key": "Label",
+        "Value": "Rainbow Flyer"
+      },
+      {
+        "Package": "Products",
+        "Section": "playerbanner_rainbow",
+        "Key": "Label",
+        "Value": "Rainbow Flyer"
       },
       {
         "Package": "Products",
