@@ -24986,6 +24986,46 @@
         "UTCStartTime": "2026-06-28 16:30:00",
         "UTCEndTime": "2026-06-28 22:00:00",
         "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/MENA LCQ.png",
+        "Title": "RL LCQ",
+        "Description": "RL LCQ MENA Broadcast Day 1",
+        "UTCStartTime": "2026-07-23 16:00:00",
+        "UTCEndTime": "2026-07-23 22:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/SAM LCQ.png",
+        "Title": "RL LCQ",
+        "Description": "RL LCQ SAM Broadcast Day 2",
+        "UTCStartTime": "2026-07-24 19:00:00",
+        "UTCEndTime": "2026-07-25 01:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/NA LCQ.png",
+        "Title": "RL LCQ",
+        "Description": "RL LCQ NA Broadcast Day 3",
+        "UTCStartTime": "2026-07-25 17:00:00",
+        "UTCEndTime": "2026-07-25 23:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/OCE tiebreaker.png",
+        "Title": "RL LCQ",
+        "Description": "RL LCQ OCE Broadcast Day 4",
+        "UTCStartTime": "2026-07-26 12:00:00",
+        "UTCEndTime": "2026-07-26 13:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EU LCQ.png",
+        "Title": "RL LCQ",
+        "Description": "RL LCQ EU Broadcast Day 4",
+        "UTCStartTime": "2026-07-26 15:00:00",
+        "UTCEndTime": "2026-07-26 21:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
       }
     ]
   },
