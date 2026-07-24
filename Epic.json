@@ -3679,6 +3679,15 @@
         "EventFolderName": "Event.Jynxzi26",
         "Subtitle": "JYNXZI LTE",
         "Description": "Starting with Jynxzi and his friends, the BALRIGHT Title spreads from player to player. Win with or against someone who has it equipped to unlock the Title and MOGGER Decal, then keep the chain alive. Plus, rack up Drops by completing Challenges along the way!"
+      },
+      {
+        "StartTime": 1784908800,
+        "EndTime": 1786118400,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/MusicalUnity/RL_U59_MusicalUnityLTE_EventScreen_aksoljhe.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/MusicalUnity/RL_U59_MusicalUnity_EventScreen_Logo_pioasdhjf.png",
+        "EventFolderName": "Event.Unity26",
+        "Subtitle": "MUSICAL UNITY",
+        "Description": "Celebrate the power of music! Complete Event Challenges to unlock Anthems, the Rainbow Flyer Topper and more."
       }
     ]
   },
