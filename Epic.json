@@ -7284,6 +7284,8 @@
       "MX_OST_Season23.CLVAndRich1e_IDWBL_RLedit",
       "MX_OST_Season23.ehok_WearMyFlag",
       "MX_OST_Season23.ehok_WearMyFlag_RLedit",
+      "MX_OST_Season23.LowMileage_Erase",
+      "MX_OST_Season23.LowMileage_Erase_RLedit",
       "MX_OST_Season23.TeminiteAndNokae_BurnItDown",
       "MX_OST_Season23.TeminiteAndNokae_BurnItDown_RLedit",
       "MX_OST_Season23.TESSERACTSAndCODEBREAKERZ_THUNDER",
@@ -7474,11 +7476,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season23.THIRST_LIGHTSHOW_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_LIGHTSHOW'"
+          "Track": "AkSoundCue'MX_OST_Season23.LowMileage_Erase_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.LowMileage_Erase'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.THIRST_LIGHTSHOW'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.LowMileage_Erase'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7497,6 +7499,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season23.ehok_WearMyFlag'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.ehok_WearMyFlag'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season23.LowMileage_Erase'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.LowMileage_Erase'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Season23.TeminiteAndNokae_BurnItDown'",
@@ -20269,6 +20275,14 @@
       {
         "KeyName": "PrimeUpdate59_B9697D65225100541480F944500C845D",
         "Content": "6nyVaX5k2MPqOt7QXWPvYKWAoNUFc5Fh57Qd/T/bnbQ="
+      },
+      {
+        "KeyName": "PrimeUpdate59_F477BF091EFE196F3CC62F427D9EE195",
+        "Content": "0itY8O3HjzOJMKvWED/Cy9A7jA8/m/sBGdS6/gPfu88="
+      },
+      {
+        "KeyName": "PrimeUpdate59_B0BE4329B002806870532C4A3B73BB7C",
+        "Content": "trbPLJ6ItGPZ+Gww/QJcHE41UYoys1kW856UF58f3Hs="
       }
     ]
   },
