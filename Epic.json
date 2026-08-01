@@ -20197,6 +20197,10 @@
         "Content": "/HbQGYdkDBTaSSww5w2LZTqXEAMGsrb5yv89sucvNw8="
       },
       {
+        "KeyName": "PrimeUpdate59_E8BE978E0AB20F00CD67B714A7E47284",
+        "Content": "AYNV23bzFKfWKosBbGCy90lth1Q5FpwnpSbtnqqEPZk="
+      },
+      {
         "KeyName": "PrimeUpdate59_B6C9B69C030BC04466A021C2684C715A",
         "Content": "nljLrWMRQ6oeG3EBvUXomZZ/QWeyFAeQRgvSXnBPQmM="
       },
@@ -24728,6 +24732,24 @@
         "Section": "wheel_fancyflake01",
         "Key": "Label",
         "Value": "Dodge Viper GTS-R"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_heaven_flames",
+        "Key": "Label",
+        "Value": "Flames"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_heaven_livery01",
+        "Key": "Label",
+        "Value": "Solid Gold"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_heaven_stripes",
+        "Key": "Label",
+        "Value": "Stripes"
       },
       {
         "Package": "Products",
