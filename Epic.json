@@ -9603,15 +9603,6 @@
       ]
     }
   },
-  "EOSGameClipsConfig": {
-    "Class": "EOSGameClipsConfig_TA",
-    "bFeatureEnabled": true,
-    "bGameplayClippingEnabled": true,
-    "bGoalReplayClippingEnabled": true,
-    "bLinkAccountPopupEnabled": false,
-    "bSettingsMenuButtonEnabled": true,
-    "MaxClipUploadsPerMinute": 4
-  },
   "DynamicLogosConfig": {
     "Class": "DynamicLogosConfig_TA",
     "bUseDynamicLogos": true,
