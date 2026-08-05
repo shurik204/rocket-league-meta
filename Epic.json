@@ -6571,6 +6571,14 @@
       {
         "Name": "THIRST_LIGHTSHOW_RLedit",
         "ExternalUrl": "https://open.spotify.com/track/4adPSM4awRZkMR24DmZ3gj"
+      },
+      {
+        "Name": "Tisoki_WAVEY",
+        "ExternalUrl": "https://open.spotify.com/track/37x8Nxgz2xqdOEfFtrRRgk"
+      },
+      {
+        "Name": "Tisoki_WAVEY_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/37x8Nxgz2xqdOEfFtrRRgk"
       }
     ]
   },
@@ -7318,6 +7326,8 @@
       "MX_OST_Season23.THIRST_AURORA_RLedit",
       "MX_OST_Season23.THIRST_LIGHTSHOW",
       "MX_OST_Season23.THIRST_LIGHTSHOW_RLedit",
+      "MX_OST_Season23.Tisoki_WAVEY",
+      "MX_OST_Season23.Tisoki_WAVEY_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -7500,11 +7510,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season23.LowMileage_Erase_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.LowMileage_Erase'"
+          "Track": "AkSoundCue'MX_OST_Season23.Tisoki_WAVEY_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Tisoki_WAVEY'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.LowMileage_Erase'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.Tisoki_WAVEY'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7543,6 +7553,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season23.THIRST_LIGHTSHOW'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_LIGHTSHOW'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season23.Tisoki_WAVEY'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Tisoki_WAVEY'"
             }
           ]
         },
@@ -20302,6 +20316,14 @@
       {
         "KeyName": "PrimeUpdate59_B0BE4329B002806870532C4A3B73BB7C",
         "Content": "trbPLJ6ItGPZ+Gww/QJcHE41UYoys1kW856UF58f3Hs="
+      },
+      {
+        "KeyName": "PrimeUpdate59_1_C055C6BE481EEC87065D591CA8A095FC",
+        "Content": "6ahijCHxXo37QdlvOXYem263YeQIZ936AeKdR7Y/Wdc="
+      },
+      {
+        "KeyName": "PrimeUpdate59_1_53741B72AF77CE4FE6A2A15E29D13E04",
+        "Content": "EovAC3FLiuxz4Be7KTtGzC7O305jRmXCSAc3+hleH6s="
       }
     ]
   },
