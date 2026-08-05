@@ -43,6 +43,7 @@ Binaries/Win64/api-ms-win-crt-stdio-l1-1-0.dll
 Binaries/Win64/api-ms-win-crt-string-l1-1-0.dll
 Binaries/Win64/api-ms-win-crt-time-l1-1-0.dll
 Binaries/Win64/api-ms-win-crt-utility-l1-1-0.dll
+Binaries/Win64/clang_rt.asan_dynamic-x86_64.dll
 Binaries/Win64/concrt140.dll
 Binaries/Win64/d3dcompiler_47.dll
 Binaries/Win64/dbghelp.dll
@@ -351,6 +352,7 @@ TAGame/CookedPCConsole/241096975.ewem
 TAGame/CookedPCConsole/241522204.ewem
 TAGame/CookedPCConsole/241888277.wem
 TAGame/CookedPCConsole/242172996.wem
+TAGame/CookedPCConsole/244820535.ewem
 TAGame/CookedPCConsole/245686418.wem
 TAGame/CookedPCConsole/247035866.ewem
 TAGame/CookedPCConsole/247537294.ewem
@@ -370,6 +372,7 @@ TAGame/CookedPCConsole/26025501.ewem
 TAGame/CookedPCConsole/260747555.ewem
 TAGame/CookedPCConsole/261129404.ewem
 TAGame/CookedPCConsole/264419280.ewem
+TAGame/CookedPCConsole/265313820.ewem
 TAGame/CookedPCConsole/265774690.ewem
 TAGame/CookedPCConsole/26585258.ewem
 TAGame/CookedPCConsole/267347516.wem
@@ -407,6 +410,7 @@ TAGame/CookedPCConsole/296784303.wem
 TAGame/CookedPCConsole/296795090.wem
 TAGame/CookedPCConsole/297547215.ewem
 TAGame/CookedPCConsole/298125336.ewem
+TAGame/CookedPCConsole/298142956.ewem
 TAGame/CookedPCConsole/299220699.wem
 TAGame/CookedPCConsole/299675380.wem
 TAGame/CookedPCConsole/300666254.ewem
@@ -455,6 +459,7 @@ TAGame/CookedPCConsole/330275802.wem
 TAGame/CookedPCConsole/332141298.ewem
 TAGame/CookedPCConsole/332142228.wem
 TAGame/CookedPCConsole/332469346.ewem
+TAGame/CookedPCConsole/334249578.ewem
 TAGame/CookedPCConsole/334316009.wem
 TAGame/CookedPCConsole/335605506.ewem
 TAGame/CookedPCConsole/337234019.ewem
@@ -465,6 +470,7 @@ TAGame/CookedPCConsole/344326044.ewem
 TAGame/CookedPCConsole/345422383.wem
 TAGame/CookedPCConsole/345655576.ewem
 TAGame/CookedPCConsole/347673293.ewem
+TAGame/CookedPCConsole/347863342.ewem
 TAGame/CookedPCConsole/347991228.wem
 TAGame/CookedPCConsole/350957044.ewem
 TAGame/CookedPCConsole/351741106.ewem
@@ -804,6 +810,7 @@ TAGame/CookedPCConsole/625612467.ewem
 TAGame/CookedPCConsole/625655472.ewem
 TAGame/CookedPCConsole/626976882.wem
 TAGame/CookedPCConsole/627229130.ewem
+TAGame/CookedPCConsole/628201180.ewem
 TAGame/CookedPCConsole/629208709.wem
 TAGame/CookedPCConsole/629424154.ewem
 TAGame/CookedPCConsole/629689268.ewem
@@ -886,6 +893,7 @@ TAGame/CookedPCConsole/683426809.wem
 TAGame/CookedPCConsole/683706663.wem
 TAGame/CookedPCConsole/684138713.wem
 TAGame/CookedPCConsole/684951173.ewem
+TAGame/CookedPCConsole/686531332.ewem
 TAGame/CookedPCConsole/686943995.wem
 TAGame/CookedPCConsole/687340327.ewem
 TAGame/CookedPCConsole/689246645.ewem
@@ -931,6 +939,7 @@ TAGame/CookedPCConsole/719850385.wem
 TAGame/CookedPCConsole/720250918.ewem
 TAGame/CookedPCConsole/720754059.ewem
 TAGame/CookedPCConsole/721348847.ewem
+TAGame/CookedPCConsole/722625827.ewem
 TAGame/CookedPCConsole/722628619.ewem
 TAGame/CookedPCConsole/722989606.ewem
 TAGame/CookedPCConsole/723897635.ewem
@@ -1136,11 +1145,13 @@ TAGame/CookedPCConsole/885896795.ewem
 TAGame/CookedPCConsole/886007212.ewem
 TAGame/CookedPCConsole/886554693.ewem
 TAGame/CookedPCConsole/88838090.wem
+TAGame/CookedPCConsole/889051172.ewem
 TAGame/CookedPCConsole/890008211.ewem
 TAGame/CookedPCConsole/89072600.ewem
 TAGame/CookedPCConsole/891584875.wem
 TAGame/CookedPCConsole/891771221.ewem
 TAGame/CookedPCConsole/893591604.ewem
+TAGame/CookedPCConsole/895967473.ewem
 TAGame/CookedPCConsole/898239923.ewem
 TAGame/CookedPCConsole/899411316.ewem
 TAGame/CookedPCConsole/899604389.ewem
@@ -2180,6 +2191,8 @@ TAGame/CookedPCConsole/anthem_s17_arcadecabinet_SF.upk
 TAGame/CookedPCConsole/Anthem_S17_ArcadeCabinet_T_SF.upk
 TAGame/CookedPCConsole/anthem_s17_neon_SF.upk
 TAGame/CookedPCConsole/Anthem_S17_Neon_T_SF.upk
+TAGame/CookedPCConsole/Anthem_S23ItemShop_SF.upk
+TAGame/CookedPCConsole/Anthem_S23ItemShop_T_SF.upk
 TAGame/CookedPCConsole/anthem_saxsquatch_madness_SF.upk
 TAGame/CookedPCConsole/Anthem_Saxsquatch_Madness_T_SF.upk
 TAGame/CookedPCConsole/anthem_sfx_birthdayball_SF.upk
@@ -2438,6 +2451,8 @@ TAGame/CookedPCConsole/avatarborder_october_SF.upk
 TAGame/CookedPCConsole/AvatarBorder_October_T_SF.upk
 TAGame/CookedPCConsole/avatarborder_ombre_SF.upk
 TAGame/CookedPCConsole/AvatarBorder_ombre_T_SF.upk
+TAGame/CookedPCConsole/avatarborder_opticorangelte01_SF.upk
+TAGame/CookedPCConsole/AvatarBorder_OpticOrangeLTE01_T_SF.upk
 TAGame/CookedPCConsole/avatarborder_paladin_SF.upk
 TAGame/CookedPCConsole/AvatarBorder_Paladin_T_SF.upk
 TAGame/CookedPCConsole/avatarborder_pipedream_SF.upk
@@ -2742,6 +2757,8 @@ TAGame/CookedPCConsole/body_brick_SF.upk
 TAGame/CookedPCConsole/Body_Brick_T_SF.upk
 TAGame/CookedPCConsole/body_bullet_SF.upk
 TAGame/CookedPCConsole/Body_Bullet_T_SF.upk
+TAGame/CookedPCConsole/body_burnishedraven_SF.upk
+TAGame/CookedPCConsole/Body_BurnishedRaven_T_SF.upk
 TAGame/CookedPCConsole/body_butter_t1_SF.upk
 TAGame/CookedPCConsole/Body_Butter_T1_T_SF.upk
 TAGame/CookedPCConsole/body_butter_t2_SF.upk
@@ -3000,6 +3017,8 @@ TAGame/CookedPCConsole/Body_Octane_SF.upk
 TAGame/CookedPCConsole/Body_Octane_T_SF.upk
 TAGame/CookedPCConsole/body_odb_SF.upk
 TAGame/CookedPCConsole/body_ODB_T_SF.upk
+TAGame/CookedPCConsole/body_opticorange_SF.upk
+TAGame/CookedPCConsole/Body_OpticOrange_T_SF.upk
 TAGame/CookedPCConsole/body_oramac_SF.upk
 TAGame/CookedPCConsole/Body_Oramac_T_SF.upk
 TAGame/CookedPCConsole/Body_Orion_SF.upk
@@ -3150,6 +3169,8 @@ TAGame/CookedPCConsole/Body_Torment_Premium_Skins_SF.upk
 TAGame/CookedPCConsole/Body_Torment_Premium_Skins_T_SF.upk
 TAGame/CookedPCConsole/Body_Torment_SF.upk
 TAGame/CookedPCConsole/Body_Torment_T_SF.upk
+TAGame/CookedPCConsole/body_trackspice_SF.upk
+TAGame/CookedPCConsole/body_Trackspice_T_SF.upk
 TAGame/CookedPCConsole/body_trap_SF.upk
 TAGame/CookedPCConsole/Body_Trap_T_SF.upk
 TAGame/CookedPCConsole/body_tritip_SF.upk
@@ -3658,6 +3679,8 @@ TAGame/CookedPCConsole/Boost_NutsBolts_SF.upk
 TAGame/CookedPCConsole/Boost_NutsBolts_T_SF.upk
 TAGame/CookedPCConsole/boost_octo_SF.upk
 TAGame/CookedPCConsole/Boost_Octo_T_SF.upk
+TAGame/CookedPCConsole/boost_opticorangelte01_SF.upk
+TAGame/CookedPCConsole/Boost_OpticOrangeLTE01_T_SF.upk
 TAGame/CookedPCConsole/boost_paladin_SF.upk
 TAGame/CookedPCConsole/Boost_Paladin_T_SF.upk
 TAGame/CookedPCConsole/boost_ParalyzingFear_SF.upk
@@ -3786,6 +3809,8 @@ TAGame/CookedPCConsole/boost_s21rlcs_SF.upk
 TAGame/CookedPCConsole/Boost_S21RLCS_T_SF.upk
 TAGame/CookedPCConsole/boost_s22rlcs01_SF.upk
 TAGame/CookedPCConsole/boost_S22RLCS01_T_SF.upk
+TAGame/CookedPCConsole/boost_s23rlcs01_SF.upk
+TAGame/CookedPCConsole/Boost_S23RLCS01_T_SF.upk
 TAGame/CookedPCConsole/boost_s2_SF.upk
 TAGame/CookedPCConsole/boost_s2_T_SF.upk
 TAGame/CookedPCConsole/boost_s8r_2_bsg_SF.upk
@@ -4578,6 +4603,8 @@ TAGame/CookedPCConsole/engineaudio_brick_SF.upk
 TAGame/CookedPCConsole/EngineAudio_Brick_T_SF.upk
 TAGame/CookedPCConsole/engineaudio_bullet_SF.upk
 TAGame/CookedPCConsole/EngineAudio_Bullet_T_SF.upk
+TAGame/CookedPCConsole/engineaudio_burnishedraven_SF.upk
+TAGame/CookedPCConsole/EngineAudio_BurnishedRaven_T_SF.upk
 TAGame/CookedPCConsole/engineaudio_butter_t1_SF.upk
 TAGame/CookedPCConsole/EngineAudio_Butter_T1_T_SF.upk
 TAGame/CookedPCConsole/engineaudio_butter_t2_SF.upk
@@ -4807,6 +4834,8 @@ TAGame/CookedPCConsole/EngineAudio_October_SF.upk
 TAGame/CookedPCConsole/EngineAudio_October_T_SF.upk
 TAGame/CookedPCConsole/engineaudio_ODB_SF.upk
 TAGame/CookedPCConsole/EngineAudio_ODB_T_SF.upk
+TAGame/CookedPCConsole/engineaudio_OpticOrange_SF.upk
+TAGame/CookedPCConsole/EngineAudio_OpticOrange_T_SF.upk
 TAGame/CookedPCConsole/engineaudio_peach_SF.upk
 TAGame/CookedPCConsole/EngineAudio_Peach_T_SF.upk
 TAGame/CookedPCConsole/engineaudio_Pepe_SF.upk
@@ -4944,6 +4973,8 @@ TAGame/CookedPCConsole/engineaudio_tomb_SF.upk
 TAGame/CookedPCConsole/EngineAudio_Tomb_T_SF.upk
 TAGame/CookedPCConsole/engineaudio_topple_SF.upk
 TAGame/CookedPCConsole/EngineAudio_Topple_T_SF.upk
+TAGame/CookedPCConsole/engineaudio_trackspice_SF.upk
+TAGame/CookedPCConsole/EngineAudio_TrackSpice_T_SF.upk
 TAGame/CookedPCConsole/engineaudio_train_SF.upk
 TAGame/CookedPCConsole/EngineAudio_Train_T_SF.upk
 TAGame/CookedPCConsole/engineaudio_train_voice_SF.upk
@@ -5407,6 +5438,8 @@ TAGame/CookedPCConsole/explosion_october_SF.upk
 TAGame/CookedPCConsole/Explosion_October_T_SF.upk
 TAGame/CookedPCConsole/explosion_oldcrt_SF.upk
 TAGame/CookedPCConsole/Explosion_OldCRT_T_SF.upk
+TAGame/CookedPCConsole/explosion_opticorange01_SF.upk
+TAGame/CookedPCConsole/Explosion_OpticOrange01_T_SF.upk
 TAGame/CookedPCConsole/explosion_paintball_SF.upk
 TAGame/CookedPCConsole/Explosion_Paintball_T_SF.upk
 TAGame/CookedPCConsole/explosion_paintpuzzle_SF.upk
@@ -5457,6 +5490,8 @@ TAGame/CookedPCConsole/explosion_s23autotournament_SF.upk
 TAGame/CookedPCConsole/Explosion_S23AutoTournament_T_SF.upk
 TAGame/CookedPCConsole/explosion_s23catportal_SF.upk
 TAGame/CookedPCConsole/Explosion_S23CatPortal_T_SF.upk
+TAGame/CookedPCConsole/explosion_s23rlcs01_SF.upk
+TAGame/CookedPCConsole/Explosion_S23RLCS01_T_SF.upk
 TAGame/CookedPCConsole/Explosion_S5_SF.upk
 TAGame/CookedPCConsole/Explosion_S5_T_SF.upk
 TAGame/CookedPCConsole/explosion_safe_SF.upk
@@ -7358,6 +7393,8 @@ TAGame/CookedPCConsole/hat_oldpc_SF.upk
 TAGame/CookedPCConsole/Hat_OldPC_T_SF.upk
 TAGame/CookedPCConsole/hat_Onem_SF.upk
 TAGame/CookedPCConsole/Hat_Onem_T_SF.upk
+TAGame/CookedPCConsole/hat_opticorangelte01_SF.upk
+TAGame/CookedPCConsole/Hat_OpticOrangeLTE01_T_SF.upk
 TAGame/CookedPCConsole/hat_ox_SF.upk
 TAGame/CookedPCConsole/hat_ox_T_SF.upk
 TAGame/CookedPCConsole/hat_oxhorns_SF.upk
@@ -8101,6 +8138,7 @@ TAGame/CookedPCConsole/MX_Anthem_S16_Spooky1.bnk
 TAGame/CookedPCConsole/MX_Anthem_S16_Spooky2.bnk
 TAGame/CookedPCConsole/MX_Anthem_S17_ArcadeCabinet.bnk
 TAGame/CookedPCConsole/MX_Anthem_S17_Neon.bnk
+TAGame/CookedPCConsole/MX_Anthem_S23ItemShop.bnk
 TAGame/CookedPCConsole/MX_Anthem_S5_Feature_01.bnk
 TAGame/CookedPCConsole/MX_Anthem_S5_Feature_02.bnk
 TAGame/CookedPCConsole/MX_Anthem_Saxsquatch_Madness.bnk
@@ -9526,6 +9564,8 @@ TAGame/CookedPCConsole/playerbanner_odb_SF.upk
 TAGame/CookedPCConsole/PlayerBanner_odb_T_SF.upk
 TAGame/CookedPCConsole/playerbanner_ombre_SF.upk
 TAGame/CookedPCConsole/PlayerBanner_ombre_T_SF.upk
+TAGame/CookedPCConsole/playerbanner_opticorangelte01_SF.upk
+TAGame/CookedPCConsole/PlayerBanner_OpticOrangeLTE01_T_SF.upk
 TAGame/CookedPCConsole/playerbanner_OxyGen_SF.upk
 TAGame/CookedPCConsole/PlayerBanner_Oxygen_T_SF.upk
 TAGame/CookedPCConsole/playerbanner_Pecan_SF.upk
@@ -10420,6 +10460,7 @@ TAGame/CookedPCConsole/SFX_Boost_Numb.bnk
 TAGame/CookedPCConsole/SFX_Boost_NutsBolts.bnk
 TAGame/CookedPCConsole/SFX_Boost_OB.bnk
 TAGame/CookedPCConsole/SFX_Boost_Octo.bnk
+TAGame/CookedPCConsole/SFX_Boost_OpticOrangeLTE01.bnk
 TAGame/CookedPCConsole/SFX_Boost_Paladin.bnk
 TAGame/CookedPCConsole/SFX_Boost_ParalyzingFear.bnk
 TAGame/CookedPCConsole/SFX_Boost_PartyHorn.bnk
@@ -10483,6 +10524,7 @@ TAGame/CookedPCConsole/SFX_Boost_S16_T3.bnk
 TAGame/CookedPCConsole/SFX_Boost_S19ChampionsRoad.bnk
 TAGame/CookedPCConsole/SFX_Boost_S21RCLS.bnk
 TAGame/CookedPCConsole/SFX_Boost_S22RLCS01.bnk
+TAGame/CookedPCConsole/SFX_Boost_S23RLCS01.bnk
 TAGame/CookedPCConsole/SFX_Boost_s2_01.bnk
 TAGame/CookedPCConsole/SFX_Boost_s2_03.bnk
 TAGame/CookedPCConsole/SFX_Boost_s2_05.bnk
@@ -10724,6 +10766,7 @@ TAGame/CookedPCConsole/SFX_GoalExplosion_Nuke.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_Numb.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_October.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_OldCRT.bnk
+TAGame/CookedPCConsole/SFX_GoalExplosion_OpticOrange01.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_Paintball.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_PaintPuzzle.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_Phoenix.bnk
@@ -10753,6 +10796,7 @@ TAGame/CookedPCConsole/SFX_GoalExplosion_Runestone_01.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_Runestone_02.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_Runestone_03.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_S22_ESports_v4.bnk
+TAGame/CookedPCConsole/SFX_GoalExplosion_S23RLC01.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_Safe.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_SARBPC.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_Season06_T1.bnk
@@ -10840,6 +10884,7 @@ TAGame/CookedPCConsole/SFX_Motor_NeoCar.bnk
 TAGame/CookedPCConsole/SFX_Motor_Number6.bnk
 TAGame/CookedPCConsole/SFX_Motor_Oasis.bnk
 TAGame/CookedPCConsole/SFX_Motor_OctaneMK2.bnk
+TAGame/CookedPCConsole/SFX_Motor_OpticOrange.bnk
 TAGame/CookedPCConsole/SFX_Motor_Pepe.bnk
 TAGame/CookedPCConsole/SFX_Motor_Pod.bnk
 TAGame/CookedPCConsole/SFX_Motor_RoadHogMK2.bnk
@@ -10878,6 +10923,7 @@ TAGame/CookedPCConsole/SFX_REV_Bober.bnk
 TAGame/CookedPCConsole/SFX_REV_BreakoutMK2.bnk
 TAGame/CookedPCConsole/SFX_REV_Brick.bnk
 TAGame/CookedPCConsole/SFX_REV_Bullet.bnk
+TAGame/CookedPCConsole/SFX_REV_BurnishedRaven.bnk
 TAGame/CookedPCConsole/SFX_REV_Butter_T1.bnk
 TAGame/CookedPCConsole/SFX_REV_Butter_T2.bnk
 TAGame/CookedPCConsole/SFX_REV_Cannonboy.bnk
@@ -11033,6 +11079,7 @@ TAGame/CookedPCConsole/SFX_REV_Thrice.bnk
 TAGame/CookedPCConsole/SFX_REV_Tomahawk.bnk
 TAGame/CookedPCConsole/SFX_REV_Tomb.bnk
 TAGame/CookedPCConsole/SFX_REV_Topple.bnk
+TAGame/CookedPCConsole/SFX_REV_TrackSpice.bnk
 TAGame/CookedPCConsole/SFX_REV_Trap.bnk
 TAGame/CookedPCConsole/SFX_REV_TurtleModem.bnk
 TAGame/CookedPCConsole/SFX_REV_Twinzer.bnk
@@ -11490,6 +11537,16 @@ TAGame/CookedPCConsole/skin_bullet_stripes_SF.upk
 TAGame/CookedPCConsole/skin_bullet_stripes_T_SF.upk
 TAGame/CookedPCConsole/skin_bullet_wings_SF.upk
 TAGame/CookedPCConsole/skin_bullet_wings_T_SF.upk
+TAGame/CookedPCConsole/skin_burnishedravenflames_SF.upk
+TAGame/CookedPCConsole/skin_BurnishedRavenFlames_T_SF.upk
+TAGame/CookedPCConsole/skin_burnishedravenlightning_SF.upk
+TAGame/CookedPCConsole/skin_BurnishedRavenLightning_T_SF.upk
+TAGame/CookedPCConsole/skin_burnishedravenlivery01_SF.upk
+TAGame/CookedPCConsole/Skin_BurnishedRavenLivery01_T_SF.upk
+TAGame/CookedPCConsole/skin_burnishedravenstripes_SF.upk
+TAGame/CookedPCConsole/skin_BurnishedRavenStripes_T_SF.upk
+TAGame/CookedPCConsole/skin_burnishedravenwings_SF.upk
+TAGame/CookedPCConsole/skin_BurnishedRavenWings_T_SF.upk
 TAGame/CookedPCConsole/skin_butter_flames_tierall_SF.upk
 TAGame/CookedPCConsole/skin_butter_flames_tierall_T_SF.upk
 TAGame/CookedPCConsole/skin_butter_frosted_tierall_SF.upk
@@ -11644,6 +11701,8 @@ TAGame/CookedPCConsole/skin_chrisp_livery1_SF.upk
 TAGame/CookedPCConsole/skin_chrisp_livery1_T_SF.upk
 TAGame/CookedPCConsole/skin_chrisp_livery2_SF.upk
 TAGame/CookedPCConsole/skin_chrisp_livery2_T_SF.upk
+TAGame/CookedPCConsole/skin_chrisp_livery3_SF.upk
+TAGame/CookedPCConsole/skin_chrisp_livery3_T_SF.upk
 TAGame/CookedPCConsole/skin_chrome_SF.upk
 TAGame/CookedPCConsole/Skin_Chrome_T_SF.upk
 TAGame/CookedPCConsole/skin_circlej_SF.upk
@@ -13874,6 +13933,8 @@ TAGame/CookedPCConsole/skin_musclecar_edgedots_psplus_SF.upk
 TAGame/CookedPCConsole/skin_musclecar_edgedots_psplus_T_SF.upk
 TAGame/CookedPCConsole/skin_musclecar_egglife_SF.upk
 TAGame/CookedPCConsole/Skin_MuscleCar_EggLife_T_SF.upk
+TAGame/CookedPCConsole/skin_musclecar_electricaltribal_SF.upk
+TAGame/CookedPCConsole/Skin_Musclecar_ElectricalTribal_T_SF.upk
 TAGame/CookedPCConsole/skin_musclecar_elevate_024_SF.upk
 TAGame/CookedPCConsole/skin_musclecar_elevate_024_T_SF.upk
 TAGame/CookedPCConsole/skin_musclecar_endgame_away_SF.upk
@@ -14612,6 +14673,8 @@ TAGame/CookedPCConsole/skin_nevermind_SF.upk
 TAGame/CookedPCConsole/skin_nevermind_T_SF.upk
 TAGame/CookedPCConsole/skin_nofx_SF.upk
 TAGame/CookedPCConsole/skin_NOFX_T_SF.upk
+TAGame/CookedPCConsole/skin_nopilgrim_SF.upk
+TAGame/CookedPCConsole/skin_NoPilgrim_T_SF.upk
 TAGame/CookedPCConsole/skin_norton_dimensional_SF.upk
 TAGame/CookedPCConsole/skin_norton_dimensional_T_SF.upk
 TAGame/CookedPCConsole/skin_norton_flames_SF.upk
@@ -15364,6 +15427,8 @@ TAGame/CookedPCConsole/skin_octane_opticgaming_away_SF.upk
 TAGame/CookedPCConsole/Skin_Octane_OpticGaming_Away_T_SF.upk
 TAGame/CookedPCConsole/skin_octane_opticgaming_home_SF.upk
 TAGame/CookedPCConsole/Skin_Octane_OpticGaming_Home_T_SF.upk
+TAGame/CookedPCConsole/skin_octane_opticorangelte01_SF.upk
+TAGame/CookedPCConsole/Skin_Octane_OpticOrangeLTE01_T_SF.upk
 TAGame/CookedPCConsole/skin_octane_orbit_SF.upk
 TAGame/CookedPCConsole/Skin_Octane_Orbit_T_SF.upk
 TAGame/CookedPCConsole/skin_octane_oxygen_024_SF.upk
@@ -15482,6 +15547,8 @@ TAGame/CookedPCConsole/skin_octane_ruleone_024_SF.upk
 TAGame/CookedPCConsole/Skin_Octane_Ruleone_024_T_SF.upk
 TAGame/CookedPCConsole/skin_octane_s20rocketpass_SF.upk
 TAGame/CookedPCConsole/skin_octane_S20RocketPass_T_SF.upk
+TAGame/CookedPCConsole/skin_octane_s23rlcs01_SF.upk
+TAGame/CookedPCConsole/Skin_Octane_S23RLCS01_T_SF.upk
 TAGame/CookedPCConsole/skin_octane_sakura_SF.upk
 TAGame/CookedPCConsole/Skin_Octane_Sakura_T_SF.upk
 TAGame/CookedPCConsole/Skin_Octane_SamTrT_SF.upk
@@ -15950,6 +16017,14 @@ TAGame/CookedPCConsole/skin_operators_SF.upk
 TAGame/CookedPCConsole/Skin_Operators_T_SF.upk
 TAGame/CookedPCConsole/skin_OpIvy_SF.upk
 TAGame/CookedPCConsole/skin_OpIvy_T_SF.upk
+TAGame/CookedPCConsole/skin_opticorange01_SF.upk
+TAGame/CookedPCConsole/skin_OpticOrange01_T_SF.upk
+TAGame/CookedPCConsole/skin_opticorange02_SF.upk
+TAGame/CookedPCConsole/skin_OpticOrange02_T_SF.upk
+TAGame/CookedPCConsole/skin_opticorange03_SF.upk
+TAGame/CookedPCConsole/skin_OpticOrange03_T_SF.upk
+TAGame/CookedPCConsole/skin_opticorangelte01_SF.upk
+TAGame/CookedPCConsole/skin_opticorangeLTE01_T_SF.upk
 TAGame/CookedPCConsole/skin_orion_bm_SF.upk
 TAGame/CookedPCConsole/skin_orion_bm_T_SF.upk
 TAGame/CookedPCConsole/skin_orion_cogignition_SF.upk
@@ -17068,6 +17143,14 @@ TAGame/CookedPCConsole/skin_ToroMoi_SF.upk
 TAGame/CookedPCConsole/Skin_ToroMoi_T_SF.upk
 TAGame/CookedPCConsole/Skin_torres_SF.upk
 TAGame/CookedPCConsole/skin_Torres_T_SF.upk
+TAGame/CookedPCConsole/skin_trackspice01_SF.upk
+TAGame/CookedPCConsole/skin_trackspice01_T_SF.upk
+TAGame/CookedPCConsole/skin_trackspice02_SF.upk
+TAGame/CookedPCConsole/skin_trackspice02_T_SF.upk
+TAGame/CookedPCConsole/skin_trackspice03_SF.upk
+TAGame/CookedPCConsole/skin_TrackSpice03_T_SF.upk
+TAGame/CookedPCConsole/skin_trackspice04_SF.upk
+TAGame/CookedPCConsole/skin_trackspice04_T_SF.upk
 TAGame/CookedPCConsole/skin_triangleflip_psplus_SF.upk
 TAGame/CookedPCConsole/skin_triangleflip_psplus_T_SF.upk
 TAGame/CookedPCConsole/skin_triangleflip_SF.upk
@@ -17634,6 +17717,8 @@ TAGame/CookedPCConsole/ss_octo_SF.upk
 TAGame/CookedPCConsole/SS_Octo_T_SF.upk
 TAGame/CookedPCConsole/ss_oilslick_SF.upk
 TAGame/CookedPCConsole/SS_OilSlick_T_SF.upk
+TAGame/CookedPCConsole/ss_opticorangelte01_SF.upk
+TAGame/CookedPCConsole/ss_opticorangelte01_T_SF.upk
 TAGame/CookedPCConsole/ss_orangeblack_SF.upk
 TAGame/CookedPCConsole/SS_OrangeBlack_T_SF.upk
 TAGame/CookedPCConsole/ss_pearldream_SF.upk
@@ -18196,6 +18281,8 @@ TAGame/CookedPCConsole/wheel_burnercoil_Inverted_SF.upk
 TAGame/CookedPCConsole/wheel_burnercoil_Inverted_T_SF.upk
 TAGame/CookedPCConsole/wheel_burnercoil_SF.upk
 TAGame/CookedPCConsole/wheel_BurnerCoil_T_SF.upk
+TAGame/CookedPCConsole/wheel_burnishedraven01_SF.upk
+TAGame/CookedPCConsole/Wheel_BurnishedRaven01_T_SF.upk
 TAGame/CookedPCConsole/wheel_butter_t1_SF.upk
 TAGame/CookedPCConsole/Wheel_Butter_T1_T_SF.upk
 TAGame/CookedPCConsole/wheel_buttonmash_SF.upk
@@ -19130,6 +19217,12 @@ TAGame/CookedPCConsole/wheel_oni_SF.upk
 TAGame/CookedPCConsole/Wheel_Oni_T_SF.upk
 TAGame/CookedPCConsole/wheel_onix_SF.upk
 TAGame/CookedPCConsole/wheel_Onix_T_SF.upk
+TAGame/CookedPCConsole/wheel_opticorange01_SF.upk
+TAGame/CookedPCConsole/Wheel_OpticOrange01_T_SF.upk
+TAGame/CookedPCConsole/wheel_opticorange02_SF.upk
+TAGame/CookedPCConsole/Wheel_OpticOrange02_T_SF.upk
+TAGame/CookedPCConsole/wheel_opticorangelte01_SF.upk
+TAGame/CookedPCConsole/wheel_OpticOrangeLTE01_T_SF.upk
 TAGame/CookedPCConsole/wheel_oranged_SF.upk
 TAGame/CookedPCConsole/wheel_oranged_T_SF.upk
 TAGame/CookedPCConsole/wheel_orbis_SF.upk
@@ -19344,6 +19437,8 @@ TAGame/CookedPCConsole/wheel_rl027_radiant_SF.upk
 TAGame/CookedPCConsole/wheel_rl027_Radiant_T_SF.upk
 TAGame/CookedPCConsole/wheel_rl027_SF.upk
 TAGame/CookedPCConsole/wheel_rl027_T_SF.upk
+TAGame/CookedPCConsole/wheel_rl03_SF.upk
+TAGame/CookedPCConsole/wheel_rl03_T_SF.upk
 TAGame/CookedPCConsole/wheel_rl071_SF.upk
 TAGame/CookedPCConsole/Wheel_RL071_T_SF.upk
 TAGame/CookedPCConsole/wheel_rl095_SF.upk
@@ -19488,6 +19583,8 @@ TAGame/CookedPCConsole/wheel_rl197_a_SF.upk
 TAGame/CookedPCConsole/wheel_rl197_A_T_SF.upk
 TAGame/CookedPCConsole/wheel_rl198_SF.upk
 TAGame/CookedPCConsole/wheel_rl198_T_SF.upk
+TAGame/CookedPCConsole/wheel_rl199_SF.upk
+TAGame/CookedPCConsole/wheel_rl199_T_SF.upk
 TAGame/CookedPCConsole/wheel_rl205_SF.upk
 TAGame/CookedPCConsole/wheel_rl205_T_SF.upk
 TAGame/CookedPCConsole/wheel_rl206_steely_SF.upk
@@ -19916,6 +20013,8 @@ TAGame/CookedPCConsole/wheel_spoken_se_SF.upk
 TAGame/CookedPCConsole/wheel_spoken_SE_T_SF.upk
 TAGame/CookedPCConsole/wheel_spoken_SF.upk
 TAGame/CookedPCConsole/wheel_spoken_T_SF.upk
+TAGame/CookedPCConsole/wheel_sport67_SF.upk
+TAGame/CookedPCConsole/Wheel_Sport67_T_SF.upk
 TAGame/CookedPCConsole/wheel_sport73_SF.upk
 TAGame/CookedPCConsole/Wheel_Sport73_T_SF.upk
 TAGame/CookedPCConsole/wheel_sporty01_SF.upk
@@ -20142,6 +20241,10 @@ TAGame/CookedPCConsole/Wheel_Totaka_SF.upk
 TAGame/CookedPCConsole/Wheel_Totaka_T_SF.upk
 TAGame/CookedPCConsole/wheel_touge_SF.upk
 TAGame/CookedPCConsole/Wheel_Touge_T_SF.upk
+TAGame/CookedPCConsole/wheel_trackspice01_SF.upk
+TAGame/CookedPCConsole/Wheel_TrackSpice01_T_SF.upk
+TAGame/CookedPCConsole/wheel_trackspice02_SF.upk
+TAGame/CookedPCConsole/Wheel_TrackSpice02_T_SF.upk
 TAGame/CookedPCConsole/wheel_trap_SF.upk
 TAGame/CookedPCConsole/Wheel_Trap_T_SF.upk
 TAGame/CookedPCConsole/wheel_tre_SF.upk
