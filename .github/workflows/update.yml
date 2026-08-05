@@ -101,7 +101,7 @@ jobs:
 
       - name: Install legendary
         run: |
-          sudo wget -O /bin/legendary https://github.com/derrod/legendary/releases/latest/download/legendary
+          sudo wget -O /bin/legendary https://github.com/derrod/legendary/releases/latest/download/legendary_linux_x64
           sudo chmod +x /bin/legendary
 
       - name: Download Rocket League
