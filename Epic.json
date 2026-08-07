@@ -3688,6 +3688,15 @@
         "EventFolderName": "Event.Unity26",
         "Subtitle": "MUSICAL UNITY",
         "Description": "Celebrate the power of music! Complete Event Challenges to unlock Anthems, the Rainbow Flyer Topper and more."
+      },
+      {
+        "StartTime": 1786118400,
+        "EndTime": 1788192000,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/HotStreak/RL_U59.1_HotStreakLTE_Event-Screen_Background_jkhjh.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/HotStreak/RL_U59.1_HotStreakLTE_Event-Screen_Logo_ijfwp.png",
+        "EventFolderName": "Event.AugustDrops2026",
+        "Subtitle": "Hot Streak",
+        "Description": "Complete Hot Streak LTE Challenges to unlock up to five Inferno Collection Drops featuring Luxury Quality items like the Phoenix Fire Goal Explosion, Flametress Decal, Ronin GXT body and more."
       }
     ]
   },
