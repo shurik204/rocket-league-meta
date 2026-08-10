@@ -3135,20 +3135,6 @@
     "Class": "ThankYouMessageConfig_TA",
     "bThankYouMessageEnabled": false
   },
-  "ViralItemConfig": {
-    "Class": "ViralItemConfig_TA",
-    "bAllowViralItemsInAllPlaylists": true,
-    "bRequiresViralItemEquipped": true,
-    "ViralSeriesGroups": [
-      {
-        "InfectedType": "InfectedType_NormalInfected",
-        "SeriesIDs": [
-          9727
-        ]
-      }
-    ],
-    "AvatarInfectedTypes": []
-  },
   "EpicConfig": {
     "Class": "EpicConfig_X",
     "bAllowRemoteAvatars": true,
@@ -3670,15 +3656,6 @@
         "bIsTargetedChallengeEvent": true,
         "Subtitle": "Welcome Back, {0?PlayerName}",
         "Description": "Get back in action with Re-Fueled Challenges and earn rewards you may have missed while you were gone!"
-      },
-      {
-        "StartTime": 1784304000,
-        "EndTime": 1786377600,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Jynxzi/RL_U59_JynxziLTE_Event-Screen_Background_asfkj.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Jynxzi/RL_U59_JynxziLTE_Event-Screen_Logo_ejofkhh.png",
-        "EventFolderName": "Event.Jynxzi26",
-        "Subtitle": "JYNXZI LTE",
-        "Description": "Starting with Jynxzi and his friends, the BALRIGHT Title spreads from player to player. Win with or against someone who has it equipped to unlock the Title and MOGGER Decal, then keep the chain alive. Plus, rack up Drops by completing Challenges along the way!"
       },
       {
         "StartTime": 1786118400,
