@@ -25051,6 +25051,46 @@
         "UTCStartTime": "2026-07-26 15:00:00",
         "UTCEndTime": "2026-07-26 21:00:00",
         "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/Rocket-League-Watch-Button-In-Game-Wordmark_v1.png",
+        "Title": "RL EWC",
+        "Description": "RL EWC Day 1",
+        "UTCStartTime": "2026-08-12 10:00:00",
+        "UTCEndTime": "2026-08-12 16:30:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/Rocket-League-Watch-Button-In-Game-Wordmark_v1.png",
+        "Title": "RL EWC",
+        "Description": "RL EWC Day 2",
+        "UTCStartTime": "2026-08-13 10:00:00",
+        "UTCEndTime": "2026-08-13 15:30:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/Rocket-League-Watch-Button-In-Game-Wordmark_v1.png",
+        "Title": "RL EWC",
+        "Description": "RL EWC Day 3",
+        "UTCStartTime": "2026-08-14 10:00:00",
+        "UTCEndTime": "2026-08-14 16:30:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/Rocket-League-Watch-Button-In-Game-Wordmark_v1.png",
+        "Title": "RL EWC",
+        "Description": "RL EWC Day 4",
+        "UTCStartTime": "2026-08-15 13:00:00",
+        "UTCEndTime": "2026-08-15 17:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/Rocket-League-Watch-Button-In-Game-Wordmark_v1.png",
+        "Title": "RL EWC",
+        "Description": "RL EWC Day 5",
+        "UTCStartTime": "2026-08-16 13:00:00",
+        "UTCEndTime": "2026-08-16 17:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
       }
     ]
   },
