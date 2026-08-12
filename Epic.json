@@ -6550,6 +6550,14 @@
         "ExternalUrl": "https://open.spotify.com/track/4adPSM4awRZkMR24DmZ3gj"
       },
       {
+        "Name": "ARMNHMRAndTrella_IMissYou",
+        "ExternalUrl": "https://open.spotify.com/track/0wVvGOvARxFOa42XLRTqAU"
+      },
+      {
+        "Name": "ARMNHMRAndTrella_IMissYou_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/0wVvGOvARxFOa42XLRTqAU"
+      },
+      {
         "Name": "Tisoki_WAVEY",
         "ExternalUrl": "https://open.spotify.com/track/37x8Nxgz2xqdOEfFtrRRgk"
       },
@@ -7303,6 +7311,8 @@
       "MX_OST_Season23.THIRST_AURORA_RLedit",
       "MX_OST_Season23.THIRST_LIGHTSHOW",
       "MX_OST_Season23.THIRST_LIGHTSHOW_RLedit",
+      "MX_OST_Season23.ARMNHMRAndTrella_IMissYou",
+      "MX_OST_Season23.ARMNHMRAndTrella_IMissYou_RLedit",
       "MX_OST_Season23.Tisoki_WAVEY",
       "MX_OST_Season23.Tisoki_WAVEY_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
@@ -7487,11 +7497,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season23.Tisoki_WAVEY_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Tisoki_WAVEY'"
+          "Track": "AkSoundCue'MX_OST_Season23.ARMNHMRAndTrella_IMissYou_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.ARMNHMRAndTrella_IMissYou'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.Tisoki_WAVEY'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.ARMNHMRAndTrella_IMissYou'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7530,6 +7540,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season23.THIRST_LIGHTSHOW'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_LIGHTSHOW'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season23.ARMNHMRAndTrella_IMissYou'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.ARMNHMRAndTrella_IMissYou'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Season23.Tisoki_WAVEY'",
@@ -20297,6 +20311,14 @@
       {
         "KeyName": "PrimeUpdate59_B0BE4329B002806870532C4A3B73BB7C",
         "Content": "trbPLJ6ItGPZ+Gww/QJcHE41UYoys1kW856UF58f3Hs="
+      },
+      {
+        "KeyName": "PrimeUpdate59_1_8E33B76EECC72B7DC0A1AAC07CB99F7C",
+        "Content": "Ltds6gjumVlxfRIf7R5++fdm+gFOo756mRWl2/Y4VUg="
+      },
+      {
+        "KeyName": "PrimeUpdate59_1_F30F29DA10CFD929E9379394D75A7C49",
+        "Content": "/8J8cAYh7wxohsYm2GbaPgayJGq5TCa+EnBk9e9uILA="
       },
       {
         "KeyName": "PrimeUpdate59_1_C055C6BE481EEC87065D591CA8A095FC",
