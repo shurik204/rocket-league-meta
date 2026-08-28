@@ -16382,6 +16382,11 @@
       {
         "ID": "ViralBallGame2026_Title03",
         "Text": "Ball Game"
+      },
+      {
+        "ID": "World_Championship_2026_Attendee",
+        "Category": "Community_Spotlight",
+        "Text": "World Championship 2026 Attendee"
       }
     ],
     "ClubTitles": [
