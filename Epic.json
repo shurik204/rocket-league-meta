@@ -6558,6 +6558,14 @@
         "ExternalUrl": "https://open.spotify.com/track/0wVvGOvARxFOa42XLRTqAU"
       },
       {
+        "Name": "RamesesBAndVeela_Timeless",
+        "ExternalUrl": "https://open.spotify.com/track/3FyOGvpEXWUjLkLeBQmK38"
+      },
+      {
+        "Name": "RamesesBAndVeela_Timeless_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/3FyOGvpEXWUjLkLeBQmK38"
+      },
+      {
         "Name": "THIRST_YELLOWTREE",
         "ExternalUrl": "https://open.spotify.com/track/35YoV9SYWRj9ghjFP2xvd6"
       },
@@ -7321,6 +7329,8 @@
       "MX_OST_Season23.THIRST_LIGHTSHOW_RLedit",
       "MX_OST_Season23.ARMNHMRAndTrella_IMissYou",
       "MX_OST_Season23.ARMNHMRAndTrella_IMissYou_RLedit",
+      "MX_OST_Season23.RamesesBAndVeela_Timeless",
+      "MX_OST_Season23.RamesesBAndVeela_Timeless_RLedit",
       "MX_OST_Season23.THIRST_YELLOWTREE",
       "MX_OST_Season23.THIRST_YELLOWTREE_RLedit",
       "MX_OST_Season23.Tisoki_WAVEY",
@@ -7507,11 +7517,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season23.THIRST_YELLOWTREE_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_YELLOWTREE'"
+          "Track": "AkSoundCue'MX_OST_Season23.RamesesBAndVeela_Timeless_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.RamesesBAndVeela_Timeless'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.THIRST_YELLOWTREE'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.RamesesBAndVeela_Timeless'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7554,6 +7564,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season23.ARMNHMRAndTrella_IMissYou'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.ARMNHMRAndTrella_IMissYou'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season23.RamesesBAndVeela_Timeless'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.RamesesBAndVeela_Timeless'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Season23.THIRST_YELLOWTREE'",
@@ -20349,6 +20363,14 @@
       {
         "KeyName": "PrimeUpdate59_1_F30F29DA10CFD929E9379394D75A7C49",
         "Content": "/8J8cAYh7wxohsYm2GbaPgayJGq5TCa+EnBk9e9uILA="
+      },
+      {
+        "KeyName": "PrimeUpdate59_1_2CC05C3A94E5FD3737E044DEFA1E69DD",
+        "Content": "ozvjXzMWIw2CX+SxXeK4v+TGKqwX65JT9denIQQKhRs="
+      },
+      {
+        "KeyName": "PrimeUpdate59_1_2CB5DB3D694002CBF0DAC0E4EA9D38D8",
+        "Content": "QIf4qv/uZQmlwQVVJonQ0gOPlahMBsjgJtvnbiLOKGU="
       },
       {
         "KeyName": "PrimeUpdate59_1_E536CC1A1AC365DB08F586EBE28CE73C",
