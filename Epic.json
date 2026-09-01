@@ -3656,6 +3656,15 @@
         "bIsTargetedChallengeEvent": true,
         "Subtitle": "Welcome Back, {0?PlayerName}",
         "Description": "Get back in action with Re-Fueled Challenges and earn rewards you may have missed while you were gone!"
+      },
+      {
+        "StartTime": 1788278400,
+        "EndTime": 1790179200,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Worlds2026/RL_U59.1_WorldChampionshipLTE_EventScreen_Background_jiuashf87.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Worlds2026/RL_U59.1_WorldChampionshipLTE_EventScreen_Logo_saouify.png",
+        "EventFolderName": "Event.RLCSWorldChampionship2026",
+        "Subtitle": "The Stage Is Set",
+        "Description": "Gear up for the Rocket League World Championship 2026 with new Challenges to complete and Rewards to earn!"
       }
     ]
   },
@@ -16359,6 +16368,10 @@
         "Text": "SAIKO SAIKO"
       },
       {
+        "ID": "RLCSWC_Title_01",
+        "Text": "Heartless"
+      },
+      {
         "ID": "Unity2026_Title_01",
         "Text": "Diva Energy"
       },
@@ -20351,6 +20364,10 @@
       {
         "KeyName": "PrimeUpdate59_1_2B2D450DADCF088671E769D9AD1C95AB",
         "Content": "2RbjWpd+Z1WnGCUb6f7kAd/G2mS87gQe6GXFXwHHh3o="
+      },
+      {
+        "KeyName": "PrimeUpdate59_1_491D450367E9619F0AF4D39BBDA1FDCB",
+        "Content": "YpHVf+ndGRQGas4yv2nS/5YKgRj3588lM9uN7jSdnZE="
       },
       {
         "KeyName": "PrimeUpdate59_1_8E33B76EECC72B7DC0A1AAC07CB99F7C",
