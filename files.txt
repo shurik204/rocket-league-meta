@@ -43,7 +43,6 @@ Binaries/Win64/api-ms-win-crt-stdio-l1-1-0.dll
 Binaries/Win64/api-ms-win-crt-string-l1-1-0.dll
 Binaries/Win64/api-ms-win-crt-time-l1-1-0.dll
 Binaries/Win64/api-ms-win-crt-utility-l1-1-0.dll
-Binaries/Win64/clang_rt.asan_dynamic-x86_64.dll
 Binaries/Win64/concrt140.dll
 Binaries/Win64/d3dcompiler_47.dll
 Binaries/Win64/dbghelp.dll
