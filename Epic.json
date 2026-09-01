@@ -15451,6 +15451,22 @@
         "Text": "RLCS 2026 World Championship Contender"
       },
       {
+        "ID": "2026_CRL_Fall_Championship_Contender",
+        "Text": "2026 CRL Fall Championship Contender"
+      },
+      {
+        "ID": "2026_CRL_Fall_Champion",
+        "Text": "2026 CRL Fall Champion"
+      },
+      {
+        "ID": "2026_CRL_Spring_Championship_Contender",
+        "Text": "2026 CRL Spring Championship Contender"
+      },
+      {
+        "ID": "2026_CRL_Spring_Champion",
+        "Text": "2026 CRL Spring Champion"
+      },
+      {
         "ID": "AutoTour_23_Bronze_1",
         "Text": "S23 {Bronze} Tournament Winner"
       },
