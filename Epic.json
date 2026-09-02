@@ -7468,6 +7468,8 @@
       "anthem_kevinriepl_incessuspulsus.KevinRiepl_IncessusPulsus_MVP",
       "anthem_haj_whatasave.Anthem_HAJ_WhatASave_MVP",
       "anthem_parkwild_showmethestars.Parkwild_ShowMeTheStars_MVP",
+      "Anthem_BadComputer_Breathe.BadComputer_Breathe_MVP",
+      "Anthem_PMoney_Whiney_Hayve_99Octane.Anthem_PMoney_Whiney_Hayve_99Octane_MVP",
       "anthem_bossfight_endgame_vip.Bossfight_Endgame_VIP_MVP",
       "anthem_conro_therapy.Conro_Therapy_MVP",
       "anthem_crankdat_powerstone.Crankdat_PowerStone_MVP",
@@ -7509,7 +7511,19 @@
       "anthem_epicaudioteam_s23rankrewards05.Anthem_EpicAudioTeam_S23RankRewards05_MVP",
       "anthem_epicaudioteam_s23rankrewards06.Anthem_EpicAudioTeam_S23RankRewards06_MVP",
       "anthem_epicaudioteam_s23rankrewards07.Anthem_EpicAudioTeam_S23RankRewards07_MVP",
-      "anthem_epicaudioteam_s23rankrewards08.Anthem_EpicAudioTeam_S23RankRewards08_MVP"
+      "anthem_epicaudioteam_s23rankrewards08.Anthem_EpicAudioTeam_S23RankRewards08_MVP",
+      "Anthem_Habstrakt_ZERO200.Anthem_Habstrakt_ZERO200_MVP",
+      "Anthem_Bishu_ThirdPerson.Bishu_ThirdPerson_MVP",
+      "Anthem_Feint_Atlas.Feint_Atlas_MVP",
+      "Anthem_Puppet_Dynamo.Puppet_Dynamo_MVP",
+      "Anthem_InternetGirl_TREATHIMLIKEABABY.InternetGirl_TREATHIMLIKEABABY_MVP",
+      "Anthem_HabstraktLizdek_Surge.Anthem_HabstraktLizdek_SURGE_MVP",
+      "Anthem_ehok_WearMyFlag.Anthem_ehok_WearMyFlag_MVP",
+      "Anthem_Hayve_WhatItFeelsLike.Anthem_Hayve_WhatItFeelsLike_MVP",
+      "Anthem_NostalgixKiesza_DancingThroughItAll.Anthem_NostalgixKiesza_DancingThroughItAll_MVP",
+      "Anthem_TiffanyDay_PRETTY4U.Anthem_TiffanyDay_PRETTY4U_MVP",
+      "Anthem_Wuki_Rainbow.Anthem_Wuki_Rainbow_MVP",
+      "Anthem_S23ItemShop.Anthem_S23ItemShop_MVP"
     ]
   },
   "MusicThemeConfig": {
@@ -15452,18 +15466,22 @@
       },
       {
         "ID": "2026_CRL_Fall_Championship_Contender",
+        "Category": "Champion",
         "Text": "2026 CRL Fall Championship Contender"
       },
       {
         "ID": "2026_CRL_Fall_Champion",
+        "Category": "Champion",
         "Text": "2026 CRL Fall Champion"
       },
       {
         "ID": "2026_CRL_Spring_Championship_Contender",
+        "Category": "Champion",
         "Text": "2026 CRL Spring Championship Contender"
       },
       {
         "ID": "2026_CRL_Spring_Champion",
+        "Category": "Champion",
         "Text": "2026 CRL Spring Champion"
       },
       {
