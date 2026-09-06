@@ -25336,6 +25336,14 @@
         "UTCStartTime": "2026-08-16 13:00:00",
         "UTCEndTime": "2026-08-16 17:00:00",
         "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/CRLLeaguePlayW1.png",
+        "Title": "CRL League Play",
+        "Description": "CRL League Play Week 1",
+        "UTCStartTime": "2026-09-06 17:00:00",
+        "UTCEndTime": "2026-09-06 21:00:00",
+        "URL": "https://rl.gg/crl"
       }
     ]
   },
