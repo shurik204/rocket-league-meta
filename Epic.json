@@ -3665,6 +3665,15 @@
         "EventFolderName": "Event.RLCSWorldChampionship2026",
         "Subtitle": "The Stage Is Set",
         "Description": "Gear up for the Rocket League World Championship 2026 with new Challenges to complete and Rewards to earn!"
+      },
+      {
+        "StartTime": 1788883200,
+        "EndTime": 1790179200,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen_logo.png",
+        "EventFolderName": "Event.SeptemberSeasonRush(S23)",
+        "Subtitle": "Boost Your Rocket Pass",
+        "Description": "Season Rush offers a chance to climb the Rocket Pass Tiers at supersonic speed! Complete Season Rush Challenges and level up while you race your way to the Pro Tiers."
       }
     ]
   },
