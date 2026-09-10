@@ -14180,6 +14180,16 @@
         "Text": "CRL Spring 2025 Contender"
       },
       {
+        "ID": "2025_CRL_Fall_Champion",
+        "Category": "Champion",
+        "Text": "CRL Fall 2025 Champion"
+      },
+      {
+        "ID": "2025_CRL_Fall_Championship_Contender",
+        "Category": "Champion",
+        "Text": "CRL Fall 2025 Contender"
+      },
+      {
         "ID": "Maddening_Mutator",
         "Text": "Maddening Mutator"
       },
