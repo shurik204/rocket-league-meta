@@ -3714,6 +3714,20 @@
     "Class": "ItemShopNotificationsConfig_TA",
     "bItemShopNotificationsEnabled": "true"
   },
+  "EngagementEventsConfig": {
+    "Class": "EngagementEventsConfig_TA",
+    "bEngagementEventIconsEnabled": "true",
+    "Events": [
+      {
+        "Description": "Double XP",
+        "EventTypes": [
+          "EngagementEventType_DoubleXP"
+        ],
+        "EpochStartTime": 1788883200,
+        "EpochEndTime": 1790179200
+      }
+    ]
+  },
   "EulaConfig": {
     "Class": "EulaConfig_TA",
     "bRequiresAcceptance": "true"
@@ -25270,6 +25284,54 @@
         "Section": "wheel_rl03",
         "Key": "Label",
         "Value": "Furnacer"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_burnishedraven",
+        "Key": "Label",
+        "Value": "Cadillac CT5-V Blackwing"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_burnishedraven",
+        "Key": "Label",
+        "Value": "Cadillac CT5-V Blackwing"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_burnishedravenflames",
+        "Key": "Label",
+        "Value": "Flames"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_burnishedravenlightning",
+        "Key": "Label",
+        "Value": "Lightning"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_burnishedravenlivery01",
+        "Key": "Label",
+        "Value": "Absolute Blackwing"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_burnishedravenstripes",
+        "Key": "Label",
+        "Value": "Stripes"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_burnishedravenwings",
+        "Key": "Label",
+        "Value": "Wings"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_burnishedraven01",
+        "Key": "Label",
+        "Value": "Cadillac CT5-V Blackwing"
       }
     ]
   },
