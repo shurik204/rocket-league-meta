@@ -7564,11 +7564,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season23.Bossfight_ShockLimit_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Bossfight_ShockLimit'"
+          "Track": "AkSoundCue'MX_OST_Season23.LowMileage_Erase_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.LowMileage_Erase'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.Bossfight_ShockLimit'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.LowMileage_Erase'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -16467,6 +16467,16 @@
       {
         "ID": "ViralBallGame2026_Title03",
         "Text": "Ball Game"
+      },
+      {
+        "ID": "jstncrdbl_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "jstncrdbl"
+      },
+      {
+        "ID": "jstncrdbl",
+        "Category": "Community_Spotlight",
+        "Text": "jstncrdbl"
       },
       {
         "ID": "World_Championship_2026_Attendee",
