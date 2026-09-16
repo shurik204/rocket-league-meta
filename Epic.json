@@ -25444,6 +25444,46 @@
         "UTCStartTime": "2026-09-06 17:00:00",
         "UTCEndTime": "2026-09-06 21:00:00",
         "URL": "https://rl.gg/crl"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_Worlds2026.png",
+        "Title": "RL Worlds 2026",
+        "Description": "RL Worlds 2026 - Broadcast Day 2",
+        "UTCStartTime": "2026-09-16 16:00:00",
+        "UTCEndTime": "2026-09-17 00:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_Worlds2026.png",
+        "Title": "RL Worlds 2026",
+        "Description": "RL Worlds 2026 - Broadcast Day 3",
+        "UTCStartTime": "2026-09-17 16:00:00",
+        "UTCEndTime": "2026-09-18 00:00:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_Worlds2026.png",
+        "Title": "RL Worlds 2026",
+        "Description": "RL Worlds 2026 - Broadcast Day 4",
+        "UTCStartTime": "2026-09-18 16:00:00",
+        "UTCEndTime": "2026-09-18 23:30:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_Worlds2026.png",
+        "Title": "RL Worlds 2026",
+        "Description": "RL Worlds 2026 - Broadcast Day 5",
+        "UTCStartTime": "2026-09-19 16:00:00",
+        "UTCEndTime": "2026-09-19 23:30:00",
+        "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/EsportsButton_Worlds2026.png",
+        "Title": "RL Worlds 2026",
+        "Description": "RL Worlds 2026 - Broadcast Day 6",
+        "UTCStartTime": "2026-09-20 16:00:00",
+        "UTCEndTime": "2026-09-20 23:30:00",
+        "URL": "https://rl.gg/WatchRLCS26"
       }
     ]
   },
