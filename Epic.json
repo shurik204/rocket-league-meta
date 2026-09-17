@@ -3678,6 +3678,15 @@
         "EventFolderName": "Event.SeptemberSeasonRush(S23)",
         "Subtitle": "Boost Your Rocket Pass",
         "Description": "Season Rush offers a chance to climb the Rocket Pass Tiers at supersonic speed! Complete Season Rush Challenges and level up while you race your way to the Pro Tiers."
+      },
+      {
+        "StartTime": 1789660800,
+        "EndTime": 1791302400,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/KingdomHearts/RL_U59.1_KingdomHearts_LTE_EventScreen_ajisfh.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/KingdomHearts/RL_U59.1_KingdomHearts_LTE_EventScreen_logo_a9uifh.png",
+        "EventFolderName": "Event.KH2026",
+        "Subtitle": "GUMMI SHIP HAS ARRIVED",
+        "Description": "Journey through KINGDOM HEARTS LTE Challenges to earn themed rewards, then set course with the Gummi Ship, available now in the Shop!"
       }
     ]
   },
@@ -16453,6 +16462,10 @@
         "Text": "SAIKO SAIKO"
       },
       {
+        "ID": "KHearts_2026_Title01",
+        "Text": "KEYBLADE'S CHOSEN"
+      },
+      {
         "ID": "RLCSWC_Title_01",
         "Text": "Heartless"
       },
@@ -25346,6 +25359,120 @@
         "Section": "wheel_burnishedraven01",
         "Key": "Label",
         "Value": "Cadillac CT5-V Blackwing"
+      },
+      {
+        "Package": "Products",
+        "Section": "Anthem_S23ItemShop",
+        "Key": "Label",
+        "Value": "Blast Away! - Gummi Ship II"
+      },
+      {
+        "Package": "Products",
+        "Section": "Anthem_S23ItemShop",
+        "Key": "Artist",
+        "Value": "Yoko Shimomura"
+      },
+      {
+        "Package": "Products",
+        "Section": "avatarborder_opticorangelte01",
+        "Key": "Label",
+        "Value": "Keyblade"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_opticorange",
+        "Key": "Label",
+        "Value": "Gummi Ship"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_opticorangelte01",
+        "Key": "Label",
+        "Value": "Star Trails"
+      },
+      {
+        "Package": "Products",
+        "Section": "crateunlocked_OpticOrange",
+        "Key": "Label",
+        "Value": "Treasure Chest"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_OpticOrange",
+        "Key": "Label",
+        "Value": "Gummi Ship"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_opticorange01",
+        "Key": "Label",
+        "Value": "Seal the Goal"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_opticorangelte01",
+        "Key": "Label",
+        "Value": "Keyblade"
+      },
+      {
+        "Package": "Products",
+        "Section": "playerbanner_opticorangelte01",
+        "Key": "Label",
+        "Value": "Keyblade"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_octane_opticorangelte01",
+        "Key": "Label",
+        "Value": "Sora"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_opticorange01",
+        "Key": "Label",
+        "Value": "Classic"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_opticorange02",
+        "Key": "Label",
+        "Value": "Magic"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_opticorange03",
+        "Key": "Label",
+        "Value": "Heartless"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_opticorangelte01",
+        "Key": "Label",
+        "Value": "Full Hearted"
+      },
+      {
+        "Package": "Products",
+        "Section": "ss_opticorangelte01",
+        "Key": "Label",
+        "Value": "Star Trails"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_opticorange01",
+        "Key": "Label",
+        "Value": "Gummi Ship"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_opticorange02",
+        "Key": "Label",
+        "Value": "Heartless"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_opticorangelte01",
+        "Key": "Label",
+        "Value": "Lucky Emblem"
       }
     ]
   },
