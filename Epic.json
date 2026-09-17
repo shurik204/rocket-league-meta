@@ -3624,6 +3624,10 @@
       }
     ]
   },
+  "MutatorConfig": {
+    "Class": "MutatorConfig_TA",
+    "MaxNumRowsOverride": 13
+  },
   "GameModesConfig": {
     "Class": "GameModesConfig_TA",
     "EnabledGameModes": [
