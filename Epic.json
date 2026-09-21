@@ -25477,6 +25477,12 @@
         "Section": "wheel_opticorangelte01",
         "Key": "Label",
         "Value": "Lucky Emblem"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "ProductSeries",
+        "Key": "Series10178",
+        "Value": "Treasure Chest"
       }
     ]
   },
