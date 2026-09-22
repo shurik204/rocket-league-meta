@@ -25490,6 +25490,11 @@
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
   },
+  "BlogConfig": {
+    "Class": "BlogConfig_X",
+    "Entries": [],
+    "MotD": "Congratulations to your Rocket League 2026 World Champions, TEAM FALCONS! Celebrate with their items, now in the Featured Shop!"
+  },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
     "Events": [
