@@ -1048,6 +1048,15 @@
             "Frequency": 1
           }
         ]
+      },
+      {
+        "SetName": "BulletBall",
+        "Maps": [
+          {
+            "Map": "MapList.Maps.Labs_Octagon_Vent_P",
+            "Frequency": 1
+          }
+        ]
       }
     ]
   },
@@ -3094,6 +3103,40 @@
       5000,
       10000
     ]
+  },
+  "BulletBall": {
+    "Class": "PlaylistSettings_TA",
+    "PlaylistID": 92,
+    "PlayerCount": 6,
+    "bIsMicroEventPlaylist": "true",
+    "bAllowClubs": "true",
+    "MapSetName": "BulletBall",
+    "ServerCommand": "Game=TAGame.GameInfo_BladeBall_TA?playtest?listen?Public?GameTags=BotsNone",
+    "PresetMutators": [
+      {
+        "PresetTags": [
+          {
+            "Category": "FireBallObstacle",
+            "Setting": "BladeBallEnabled"
+          }
+        ]
+      }
+    ],
+    "Title": "Bullet Ball",
+    "Description": "Dodge the bullet [not approved loc]",
+    "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_LTM.playlist_ltm_bulletball",
+    "SecondaryTitleOverride": "Free-for-all",
+    "bAllowStayAsParty": "true",
+    "bHasVariablePlayerCount": "true",
+    "bAllowVoiceChat": false,
+    "PopulationBuckets": [
+      1,
+      5000,
+      10000
+    ],
+    "bNoBackFill": true,
+    "bIgnoreAssignTeams": true,
+    "bOpenDetailsOnFirstTimeClicked": true
   },
   "CrossplayConfig": {
     "Class": "CrossplayConfig_X",
@@ -16503,6 +16546,66 @@
         "ID": "World_Championship_2026_Attendee",
         "Category": "Community_Spotlight",
         "Text": "World Championship 2026 Attendee"
+      },
+      {
+        "ID": "S37_SSL_Heetseeker",
+        "Category": "SZN_1_White",
+        "Text": "S23 SUPER SEEKING LEGEND"
+      },
+      {
+        "ID": "S37_SSL_Dropshot",
+        "Category": "SZN_1_White",
+        "Text": "S23 Tile Annihilator"
+      },
+      {
+        "ID": "S37_SSL_Hoops",
+        "Category": "SZN_1_White",
+        "Text": "S23 Legendary Baller"
+      },
+      {
+        "ID": "S37_SSL_Snowday",
+        "Category": "SZN_1_White",
+        "Text": "S23 Ice Titan"
+      },
+      {
+        "ID": "S37_SSL_Rumble",
+        "Category": "SZN_1_White",
+        "Text": "S23 RNGenius"
+      },
+      {
+        "ID": "S37_SuperSonic_Legend",
+        "Category": "SZN_1_White",
+        "Text": "S23 Supersonic Legend"
+      },
+      {
+        "ID": "S37_Grand_Champion_Heatseeker",
+        "Category": "SZN_1_Red",
+        "Text": "S23 HEATSEEKER ACE"
+      },
+      {
+        "ID": "S37_Grand_Champion_Dropshot",
+        "Category": "SZN_1_Red",
+        "Text": "S23 Floor Destroyer"
+      },
+      {
+        "ID": "S37_Grand_Champion_Hoops",
+        "Category": "SZN_1_Red",
+        "Text": "S23 Dunk Master"
+      },
+      {
+        "ID": "S37_Grand_Champion_Snowday",
+        "Category": "SZN_1_Red",
+        "Text": "S23 Blizzard Wizard"
+      },
+      {
+        "ID": "S37_Grand_Champion_Rumble",
+        "Category": "SZN_1_Red",
+        "Text": "S23 RNG Champ"
+      },
+      {
+        "ID": "S37_Grand_Champion",
+        "Category": "SZN_1_Red",
+        "Text": "S23 Grand Champion"
       }
     ],
     "ClubTitles": [
