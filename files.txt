@@ -10950,6 +10950,7 @@ TAGame/CookedPCConsole/SFX_GoalExplosion_Ring_T01.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_Ring_T02.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_Ring_T03.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_Ringer.bnk
+TAGame/CookedPCConsole/SFX_GoalExplosion_RIP.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_RLCS_01.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_RPGoldenLychee.bnk
 TAGame/CookedPCConsole/SFX_GoalExplosion_RubberDucky.bnk
