@@ -60,7 +60,7 @@
         "Maps": [
           {
             "Map": "MapList.Maps.beach_p",
-            "Frequency": 0.65,
+            "Frequency": 0.1,
             "bInRotation": false
           },
           {
@@ -69,23 +69,23 @@
           },
           {
             "Map": "MapList.Maps.chn_stadium_p",
-            "Frequency": 1
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.chn_stadium_day_P",
-            "Frequency": 0.65
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.cs_p",
-            "Frequency": 1.25
+            "Frequency": 0.9
           },
           {
             "Map": "MapList.Maps.cs_day_p",
-            "Frequency": 0.65
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.eurostadium_p",
-            "Frequency": 2.1
+            "Frequency": 1.1
           },
           {
             "Map": "MapList.Maps.eurostadium_dusk_p",
@@ -93,7 +93,7 @@
           },
           {
             "Map": "MapList.Maps.eurostadium_night_p",
-            "Frequency": 0.2
+            "Frequency": 0.3
           },
           {
             "Map": "MapList.Maps.eurostadium_rainy_p",
@@ -101,7 +101,7 @@
           },
           {
             "Map": "MapList.Maps.farm_p",
-            "Frequency": 0.65,
+            "Frequency": 0.5,
             "bInRotation": false
           },
           {
@@ -110,15 +110,15 @@
           },
           {
             "Map": "MapList.Maps.ff_dusk_p",
-            "Frequency": 0.8
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.mall_day_p",
-            "Frequency": 0.8
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.neotokyo_standard_p",
-            "Frequency": 1
+            "Frequency": 1.6
           },
           {
             "Map": "MapList.Maps.neotokyo_arcade_p",
@@ -126,20 +126,20 @@
           },
           {
             "Map": "MapList.Maps.outlaw_p",
-            "Frequency": 0.7,
+            "Frequency": 0.5,
             "bInRotation": false
           },
           {
             "Map": "MapList.Maps.outlaw_oasis_p",
-            "Frequency": 0.7
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.paname_dusk_p",
-            "Frequency": 0.75
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.park_p",
-            "Frequency": 1.35
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.park_night_p",
@@ -151,67 +151,67 @@
           },
           {
             "Map": "MapList.Maps.stadium_p",
-            "Frequency": 2.1
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_day_p",
-            "Frequency": 0.28
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_foggy_p",
-            "Frequency": 0.16
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_10a_p",
-            "Frequency": 0.28
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.street_p",
-            "Frequency": 0.75
-          },
-          {
-            "Map": "MapList.Maps.trainstation_p",
-            "Frequency": 1.1
-          },
-          {
-            "Map": "MapList.Maps.trainstation_dawn_p",
-            "Frequency": 0.25
-          },
-          {
-            "Map": "MapList.Maps.trainstation_night_p",
-            "Frequency": 0.25
-          },
-          {
-            "Map": "MapList.Maps.uf_day_p",
-            "Frequency": 2.4
-          },
-          {
-            "Map": "MapList.Maps.uf_night_p",
-            "Frequency": 0.9
-          },
-          {
-            "Map": "MapList.Maps.underwater_p",
-            "Frequency": 0.75
-          },
-          {
-            "Map": "MapList.Maps.underwater_grs_p",
             "Frequency": 0.8
           },
           {
+            "Map": "MapList.Maps.trainstation_p",
+            "Frequency": 1.5
+          },
+          {
+            "Map": "MapList.Maps.trainstation_dawn_p",
+            "Frequency": 1
+          },
+          {
+            "Map": "MapList.Maps.trainstation_night_p",
+            "Frequency": 1
+          },
+          {
+            "Map": "MapList.Maps.uf_day_p",
+            "Frequency": 0.5
+          },
+          {
+            "Map": "MapList.Maps.uf_night_p",
+            "Frequency": 1
+          },
+          {
+            "Map": "MapList.Maps.underwater_p",
+            "Frequency": 0.6
+          },
+          {
+            "Map": "MapList.Maps.underwater_grs_p",
+            "Frequency": 1
+          },
+          {
             "Map": "MapList.Maps.utopiastadium_p",
-            "Frequency": 1.2
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiastadium_dusk_p",
-            "Frequency": 0.15
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.utopiaStadium_lux_p",
-            "Frequency": 0.35
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.wasteland_s_p",
-            "Frequency": 0.65,
+            "Frequency": 0.5,
             "bInRotation": false
           },
           {
@@ -225,7 +225,7 @@
         "Maps": [
           {
             "Map": "MapList.Maps.beach_p",
-            "Frequency": 0.65,
+            "Frequency": 0.1,
             "bInRotation": false
           },
           {
@@ -234,23 +234,23 @@
           },
           {
             "Map": "MapList.Maps.chn_stadium_p",
-            "Frequency": 1
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.chn_stadium_day_P",
-            "Frequency": 0.65
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.cs_p",
-            "Frequency": 1.25
+            "Frequency": 0.9
           },
           {
             "Map": "MapList.Maps.cs_day_p",
-            "Frequency": 0.65
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.eurostadium_p",
-            "Frequency": 2.1
+            "Frequency": 1.1
           },
           {
             "Map": "MapList.Maps.eurostadium_dusk_p",
@@ -258,7 +258,7 @@
           },
           {
             "Map": "MapList.Maps.eurostadium_night_p",
-            "Frequency": 0.2
+            "Frequency": 0.3
           },
           {
             "Map": "MapList.Maps.eurostadium_rainy_p",
@@ -266,7 +266,7 @@
           },
           {
             "Map": "MapList.Maps.farm_p",
-            "Frequency": 0.65,
+            "Frequency": 0.5,
             "bInRotation": false
           },
           {
@@ -275,15 +275,15 @@
           },
           {
             "Map": "MapList.Maps.ff_dusk_p",
-            "Frequency": 0.8
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.mall_day_p",
-            "Frequency": 0.8
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.neotokyo_standard_p",
-            "Frequency": 1
+            "Frequency": 1.6
           },
           {
             "Map": "MapList.Maps.neotokyo_arcade_p",
@@ -291,20 +291,20 @@
           },
           {
             "Map": "MapList.Maps.outlaw_p",
-            "Frequency": 0.7,
+            "Frequency": 0.5,
             "bInRotation": false
           },
           {
             "Map": "MapList.Maps.outlaw_oasis_p",
-            "Frequency": 0.7
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.paname_dusk_p",
-            "Frequency": 0.75
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.park_p",
-            "Frequency": 1.35
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.park_night_p",
@@ -316,67 +316,67 @@
           },
           {
             "Map": "MapList.Maps.stadium_p",
-            "Frequency": 2.1
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_day_p",
-            "Frequency": 0.28
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_foggy_p",
-            "Frequency": 0.16
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_10a_p",
-            "Frequency": 0.28
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.street_p",
-            "Frequency": 0.75
-          },
-          {
-            "Map": "MapList.Maps.trainstation_p",
-            "Frequency": 1.1
-          },
-          {
-            "Map": "MapList.Maps.trainstation_dawn_p",
-            "Frequency": 0.25
-          },
-          {
-            "Map": "MapList.Maps.trainstation_night_p",
-            "Frequency": 0.25
-          },
-          {
-            "Map": "MapList.Maps.uf_day_p",
-            "Frequency": 2.4
-          },
-          {
-            "Map": "MapList.Maps.uf_night_p",
-            "Frequency": 0.9
-          },
-          {
-            "Map": "MapList.Maps.underwater_p",
-            "Frequency": 0.75
-          },
-          {
-            "Map": "MapList.Maps.underwater_grs_p",
             "Frequency": 0.8
           },
           {
+            "Map": "MapList.Maps.trainstation_p",
+            "Frequency": 1.5
+          },
+          {
+            "Map": "MapList.Maps.trainstation_dawn_p",
+            "Frequency": 1
+          },
+          {
+            "Map": "MapList.Maps.trainstation_night_p",
+            "Frequency": 1
+          },
+          {
+            "Map": "MapList.Maps.uf_day_p",
+            "Frequency": 0.5
+          },
+          {
+            "Map": "MapList.Maps.uf_night_p",
+            "Frequency": 1
+          },
+          {
+            "Map": "MapList.Maps.underwater_p",
+            "Frequency": 0.6
+          },
+          {
+            "Map": "MapList.Maps.underwater_grs_p",
+            "Frequency": 1
+          },
+          {
             "Map": "MapList.Maps.utopiastadium_p",
-            "Frequency": 1.2
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiastadium_dusk_p",
-            "Frequency": 0.15
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.utopiaStadium_lux_p",
-            "Frequency": 0.35
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.wasteland_s_p",
-            "Frequency": 0.65,
+            "Frequency": 0.5,
             "bInRotation": false
           },
           {
@@ -429,7 +429,7 @@
         "Maps": [
           {
             "Map": "MapList.Maps.beach_p",
-            "Frequency": 0.65,
+            "Frequency": 0.1,
             "bInRotation": false
           },
           {
@@ -438,23 +438,23 @@
           },
           {
             "Map": "MapList.Maps.chn_stadium_p",
-            "Frequency": 1
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.chn_stadium_day_P",
-            "Frequency": 0.65
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.cs_p",
-            "Frequency": 1.25
+            "Frequency": 0.9
           },
           {
             "Map": "MapList.Maps.cs_day_p",
-            "Frequency": 0.65
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.eurostadium_p",
-            "Frequency": 2.1
+            "Frequency": 1.1
           },
           {
             "Map": "MapList.Maps.eurostadium_dusk_p",
@@ -462,7 +462,7 @@
           },
           {
             "Map": "MapList.Maps.eurostadium_night_p",
-            "Frequency": 0.2
+            "Frequency": 0.3
           },
           {
             "Map": "MapList.Maps.eurostadium_rainy_p",
@@ -470,7 +470,7 @@
           },
           {
             "Map": "MapList.Maps.farm_p",
-            "Frequency": 0.65,
+            "Frequency": 0.5,
             "bInRotation": false
           },
           {
@@ -479,15 +479,15 @@
           },
           {
             "Map": "MapList.Maps.ff_dusk_p",
-            "Frequency": 0.8
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.mall_day_p",
-            "Frequency": 0.8
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.neotokyo_standard_p",
-            "Frequency": 1
+            "Frequency": 1.6
           },
           {
             "Map": "MapList.Maps.neotokyo_arcade_p",
@@ -495,20 +495,20 @@
           },
           {
             "Map": "MapList.Maps.outlaw_p",
-            "Frequency": 0.7,
+            "Frequency": 0.5,
             "bInRotation": false
           },
           {
             "Map": "MapList.Maps.outlaw_oasis_p",
-            "Frequency": 0.7
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.paname_dusk_p",
-            "Frequency": 0.75
+            "Frequency": 0.5
           },
           {
             "Map": "MapList.Maps.park_p",
-            "Frequency": 1.35
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.park_night_p",
@@ -520,67 +520,67 @@
           },
           {
             "Map": "MapList.Maps.stadium_p",
-            "Frequency": 2.1
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_day_p",
-            "Frequency": 0.28
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_foggy_p",
-            "Frequency": 0.16
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.stadium_10a_p",
-            "Frequency": 0.28
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.street_p",
-            "Frequency": 0.75
-          },
-          {
-            "Map": "MapList.Maps.trainstation_p",
-            "Frequency": 1.1
-          },
-          {
-            "Map": "MapList.Maps.trainstation_dawn_p",
-            "Frequency": 0.25
-          },
-          {
-            "Map": "MapList.Maps.trainstation_night_p",
-            "Frequency": 0.25
-          },
-          {
-            "Map": "MapList.Maps.uf_day_p",
-            "Frequency": 2.4
-          },
-          {
-            "Map": "MapList.Maps.uf_night_p",
-            "Frequency": 0.9
-          },
-          {
-            "Map": "MapList.Maps.underwater_p",
-            "Frequency": 0.75
-          },
-          {
-            "Map": "MapList.Maps.underwater_grs_p",
             "Frequency": 0.8
           },
           {
+            "Map": "MapList.Maps.trainstation_p",
+            "Frequency": 1.5
+          },
+          {
+            "Map": "MapList.Maps.trainstation_dawn_p",
+            "Frequency": 1
+          },
+          {
+            "Map": "MapList.Maps.trainstation_night_p",
+            "Frequency": 1
+          },
+          {
+            "Map": "MapList.Maps.uf_day_p",
+            "Frequency": 0.5
+          },
+          {
+            "Map": "MapList.Maps.uf_night_p",
+            "Frequency": 1
+          },
+          {
+            "Map": "MapList.Maps.underwater_p",
+            "Frequency": 0.6
+          },
+          {
+            "Map": "MapList.Maps.underwater_grs_p",
+            "Frequency": 1
+          },
+          {
             "Map": "MapList.Maps.utopiastadium_p",
-            "Frequency": 1.2
+            "Frequency": 0.8
           },
           {
             "Map": "MapList.Maps.utopiastadium_dusk_p",
-            "Frequency": 0.15
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.utopiaStadium_lux_p",
-            "Frequency": 0.35
+            "Frequency": 1
           },
           {
             "Map": "MapList.Maps.wasteland_s_p",
-            "Frequency": 0.65,
+            "Frequency": 0.5,
             "bInRotation": false
           },
           {
@@ -1137,6 +1137,7 @@
     "bHidden": "true",
     "bSkipGameModeVerification": "false",
     "bPrivate": "true",
+    "bAllowHonorDuelChallenges": "false",
     "bIgnoreAssignTeams": "true"
   },
   "Season": {
@@ -1341,6 +1342,7 @@
     "TourServerInfoClass": "TourServerInfo_TA",
     "bHasVariablePlayerCount": "true",
     "bAllowEACWhitelist": "false",
+    "bAllowHonorDuelChallenges": "false",
     "Title": "Tournament Match"
   },
   "AutoTournament": {
@@ -1355,6 +1357,7 @@
     "bHasVariablePlayerCount": "true",
     "TourServerInfoClass": "TourServerInfo_AutoTour_TA",
     "bAllowEACWhitelist": "false",
+    "bAllowHonorDuelChallenges": "false",
     "Title": "Tournament Match"
   },
   "FaceIt": {
@@ -1371,6 +1374,7 @@
     "bHasVariablePlayerCount": "true",
     "bIgnoreAssignTeams": "true",
     "bAllowEACWhitelist": "false",
+    "bAllowHonorDuelChallenges": "false",
     "Title": "External Match"
   },
   "RankedRumble": {
@@ -2137,6 +2141,39 @@
       10000
     ]
   },
+  "HonorDuel": {
+    "Class": "PlaylistSettings_TA",
+    "PlaylistID": 53,
+    "PlayerCount": 8,
+    "bHidden": "true",
+    "MapSetName": "SoccarStandard",
+    "PresetMutators": [
+      {
+        "bHideSettings": true,
+        "PresetTags": [
+          {
+            "Category": "GameTimes",
+            "Setting": "3Minutes"
+          }
+        ]
+      }
+    ],
+    "bAllowForfeit": true,
+    "bIgnoreAssignTeams": true,
+    "bAllowBotFills": false,
+    "bAllowHonorDuelChallenges": false,
+    "Title": "Honor Duel",
+    "Description": "1v1 me bro",
+    "TeamNames": [
+      "Challenger",
+      "Defender"
+    ],
+    "PopulationBuckets": [
+      1,
+      5000,
+      10000
+    ]
+  },
   "Knockout": {
     "Class": "PlaylistSettings_TA",
     "PlaylistID": 54,
@@ -2511,6 +2548,7 @@
     "bPrivate": "true",
     "bAllowBotFills": "false",
     "bSkipGameModeVerification": "false",
+    "bAllowHonorDuelChallenges": "false",
     "bAllowAnonymize": "false"
   },
   "NonStandardSoccar": {
@@ -3123,7 +3161,8 @@
       }
     ],
     "Title": "Bullet Ball",
-    "Description": "Dodge the bullet [not approved loc]",
+    "Description": "<font color=\"#7bfcff\">Last car standing wins this high-stakes arena battle! A fast-moving, homing ball targets a single player. The ball will demolish its target on impact, unless you take action.</font>\n\n<b>Attack</b>: Dodge forward to parry the ball to a new target\n\n<b>Freeze</b>: Backflip the ball at the exact moment of impact to temporarily stop the Bullet Ball's attack! After a short cooldown, whoever is closest to the ball will be the next target\n\n<b>Grab</b>: Hold GP_LTrigger while dodging to grab an opponent. Do this while you're the target to turn them into the next target!",
+    "PlaylistImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/BulletBall/RL_U60_BulletBallLTE_Playlist_DetailImage_iohoaf.jpg",
     "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_LTM.playlist_ltm_bulletball",
     "SecondaryTitleOverride": "Free-for-all",
     "bAllowStayAsParty": "true",
@@ -3177,6 +3216,11 @@
   "ThankYouMessageConfig": {
     "Class": "ThankYouMessageConfig_TA",
     "bThankYouMessageEnabled": false
+  },
+  "HonorDuelConfig": {
+    "Class": "HonorDuelConfig_X",
+    "StartTime": 1789542000,
+    "EndTime": 1796832000
   },
   "EpicConfig": {
     "Class": "EpicConfig_X",
@@ -3691,10 +3735,6 @@
       1
     ]
   },
-  "RankedConfig": {
-    "Class": "RankedConfig_X",
-    "SeasonEndTimeSeconds": 1790175600
-  },
   "SpecialEventsConfig": {
     "Class": "SpecialEventConfig_TA",
     "ActiveEvents": [
@@ -3709,31 +3749,31 @@
         "Description": "Get back in action with Re-Fueled Challenges and earn rewards you may have missed while you were gone!"
       },
       {
-        "StartTime": 1788278400,
-        "EndTime": 1790179200,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Worlds2026/RL_U59.1_WorldChampionshipLTE_EventScreen_Background_jiuashf87.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/Worlds2026/RL_U59.1_WorldChampionshipLTE_EventScreen_Logo_saouify.png",
-        "EventFolderName": "Event.RLCSWorldChampionship2026",
-        "Subtitle": "The Stage Is Set",
-        "Description": "Gear up for the Rocket League World Championship 2026 with new Challenges to complete and Rewards to earn!"
+        "StartTime": 1790179200,
+        "EndTime": 1796832000,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/RunItUp/RL_U60_RunItUpLTE_EventScreen_asfkjh.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/RunItUp/RL_U60_RunItUpLTE_EventScreen_Logo_asfjoh.png",
+        "EventFolderName": "Event.S24SeasonLongLTE",
+        "Subtitle": "RUN IT UP",
+        "Description": "Take on Challenges in the new Season-Long LTE to earn Nova Collection Drops and two stat-tracking Titles that update with your Season 24 Wins and MVPs!"
       },
       {
-        "StartTime": 1788883200,
-        "EndTime": 1790179200,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/rl_season-rush_event-screen_logo.png",
-        "EventFolderName": "Event.SeptemberSeasonRush(S23)",
-        "Subtitle": "Boost Your Rocket Pass",
-        "Description": "Season Rush offers a chance to climb the Rocket Pass Tiers at supersonic speed! Complete Season Rush Challenges and level up while you race your way to the Pro Tiers."
+        "StartTime": 1793552400,
+        "EndTime": 1795453200,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/OnePiece/RL_U60.1_OnePieceLTE_EventScreen_afi9uh.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/OnePiece/RL_U60.1_OnePieceLTE_EventScreen_Logo_ais0ofj.png",
+        "EventFolderName": "Event.ONEPIECE2026",
+        "Subtitle": "ONE PIECE",
+        "Description": "Goals. Wins. Rewards. Gold Roger, the king of the pirates, obtained this and everything else the Arena had to offer. And his last words drove countless souls to the pitch. \"You want my treasure? You can have it! I left everything I gathered together in one place. Now you just have to find it!\""
       },
       {
-        "StartTime": 1789660800,
-        "EndTime": 1791302400,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/KingdomHearts/RL_U59.1_KingdomHearts_LTE_EventScreen_ajisfh.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/KingdomHearts/RL_U59.1_KingdomHearts_LTE_EventScreen_logo_a9uifh.png",
-        "EventFolderName": "Event.KH2026",
-        "Subtitle": "GUMMI SHIP HAS ARRIVED",
-        "Description": "Journey through KINGDOM HEARTS LTE Challenges to earn themed rewards, then set course with the Gummi Ship, available now in the Shop!"
+        "StartTime": 1793811600,
+        "EndTime": 1795453200,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/GrudgeMatch/RL_U60_GrudgeMatch_LTE_EventDashboard_89aysf.png",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/GrudgeMatch/RL_U60_GrudgeMatch_LTE_EventLogo_98ayfj.png",
+        "EventFolderName": "Event.DUEL2026",
+        "Subtitle": "GRUDGE MATCH",
+        "Description": "The bragging rights are nice, but the rewards are even better. Face off in Honor Duels and complete Grudge Match Challenges to earn an Octane Decal, Goal Explosion, and more!"
       }
     ]
   },
@@ -3773,20 +3813,6 @@
   "ItemShopNotificationsConfig": {
     "Class": "ItemShopNotificationsConfig_TA",
     "bItemShopNotificationsEnabled": "true"
-  },
-  "EngagementEventsConfig": {
-    "Class": "EngagementEventsConfig_TA",
-    "bEngagementEventIconsEnabled": "true",
-    "Events": [
-      {
-        "Description": "Double XP",
-        "EventTypes": [
-          "EngagementEventType_DoubleXP"
-        ],
-        "EpochStartTime": 1788883200,
-        "EpochEndTime": 1790179200
-      }
-    ]
   },
   "EulaConfig": {
     "Class": "EulaConfig_TA",
@@ -6671,6 +6697,62 @@
       {
         "Name": "Tisoki_WAVEY_RLedit",
         "ExternalUrl": "https://open.spotify.com/track/37x8Nxgz2xqdOEfFtrRRgk"
+      },
+      {
+        "Name": "SPACERUSH_STAYWITHTHELIGHT_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/0gmMoNJ60gVDX2TjKEMReM"
+      },
+      {
+        "Name": "SPACERUSH_STAYWITHTHELIGHT",
+        "ExternalUrl": "https://open.spotify.com/track/0gmMoNJ60gVDX2TjKEMReM"
+      },
+      {
+        "Name": "THIRST_DREAMING_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/7s9kvnMdXwIgVznT4VULHe"
+      },
+      {
+        "Name": "THIRST_DREAMING",
+        "ExternalUrl": "https://open.spotify.com/track/7s9kvnMdXwIgVznT4VULHe"
+      },
+      {
+        "Name": "THIRST_NEVERLEAVEU_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/0OxMNrGnrrCfBTAck3wtsR"
+      },
+      {
+        "Name": "THIRST_NEVERLEAVEU",
+        "ExternalUrl": "https://open.spotify.com/track/0OxMNrGnrrCfBTAck3wtsR"
+      },
+      {
+        "Name": "Typhon_GoNuts_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/3IrH2ebUWY4gLd82GD0Svc"
+      },
+      {
+        "Name": "Typhon_GoNuts",
+        "ExternalUrl": "https://open.spotify.com/track/3IrH2ebUWY4gLd82GD0Svc"
+      },
+      {
+        "Name": "WestonAndTestonAndpolymath_WakeInTheSilence_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/6QMThZfYMVu8MxDA5koEkn"
+      },
+      {
+        "Name": "WestonAndTestonAndpolymath_WakeInTheSilence",
+        "ExternalUrl": "https://open.spotify.com/track/6QMThZfYMVu8MxDA5koEkn"
+      },
+      {
+        "Name": "RamesesB_OldSchool_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/4PJ2d3KGZ0goovJMHOpxwr"
+      },
+      {
+        "Name": "RamesesB_OldSchool",
+        "ExternalUrl": "https://open.spotify.com/track/4PJ2d3KGZ0goovJMHOpxwr"
+      },
+      {
+        "Name": "kid_akio_cagescriptera_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/0VyiBxmaSFkEKh6x5a3zfg"
+      },
+      {
+        "Name": "kid_akio_cagescriptera",
+        "ExternalUrl": "https://open.spotify.com/track/0VyiBxmaSFkEKh6x5a3zfg"
       }
     ]
   },
@@ -7428,6 +7510,20 @@
       "MX_OST_Season23.THIRST_YELLOWTREE_RLedit",
       "MX_OST_Season23.Tisoki_WAVEY",
       "MX_OST_Season23.Tisoki_WAVEY_RLedit",
+      "MX_OST_Season24.SPACERUSH_STAYWITHTHELIGHT",
+      "MX_OST_Season24.SPACERUSH_STAYWITHTHELIGHT_RLedit",
+      "MX_OST_Season24.THIRST_DREAMING",
+      "MX_OST_Season24.THIRST_DREAMING_RLedit",
+      "MX_OST_Season24.THIRST_NEVERLEAVEU",
+      "MX_OST_Season24.THIRST_NEVERLEAVEU_RLedit",
+      "MX_OST_Season24.Typhon_GoNuts",
+      "MX_OST_Season24.Typhon_GoNuts_RLedit",
+      "MX_OST_Season24.kid_akio_cagescriptera",
+      "MX_OST_Season24.kid_akio_cagescriptera_RLedit",
+      "MX_OST_Season24.RamesesB_OldSchool",
+      "MX_OST_Season24.RamesesB_OldSchool_RLedit",
+      "MX_OST_Season24.WestonAndTestonAndpolymath_WakeInTheSilence",
+      "MX_OST_Season24.WestonAndTestonAndpolymath_WakeInTheSilence_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
       "mx_anthems_rp8.Anthem_House_Funky_MVP",
       "mx_anthems_rp8.Anthem_House_Tropical_MVP",
@@ -7616,7 +7712,10 @@
       "Anthem_NostalgixKiesza_DancingThroughItAll.Anthem_NostalgixKiesza_DancingThroughItAll_MVP",
       "Anthem_TiffanyDay_PRETTY4U.Anthem_TiffanyDay_PRETTY4U_MVP",
       "Anthem_Wuki_Rainbow.Anthem_Wuki_Rainbow_MVP",
-      "Anthem_S23ItemShop.Anthem_S23ItemShop_MVP"
+      "Anthem_S23ItemShop.Anthem_S23ItemShop_MVP",
+      "Anthem_Primate_Booyah.Anthem_Primate_Booyah_MVP",
+      "Anthem_SPORTMODE_BACKSPIN.Anthem_SPORTMODE_BACKSPIN_MVP",
+      "Anthem_seanpitaro_mirrors.Anthem_seanpitaro_mirrors_MVP"
     ]
   },
   "MusicThemeConfig": {
@@ -7624,17 +7723,52 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season23.LowMileage_Erase_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.LowMileage_Erase'"
+          "Track": "AkSoundCue'MX_OST_Season24.kid_akio_cagescriptera_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.kid_akio_cagescriptera'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season23.LowMileage_Erase'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season24.kid_akio_cagescriptera'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
         "Icon": "Texture2D'UI_MusicPlaylistThumbs.RLSoundtrack_01'"
       },
       "Playlists": [
+        {
+          "Name": "Season24",
+          "bDefaultSelected": true,
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.RocketLeague_Season24'",
+          "Tracks": [
+            {
+              "Track": "AkSoundCue'MX_OST_Season24.SPACERUSH_STAYWITHTHELIGHT'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.SPACERUSH_STAYWITHTHELIGHT'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season24.THIRST_DREAMING'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_DREAMING'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season24.THIRST_NEVERLEAVEU'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.THIRST_NEVERLEAVEU'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season24.Typhon_GoNuts'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Typhon_GoNuts'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season24.kid_akio_cagescriptera'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.kid_akio_cagescriptera'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season24.RamesesB_OldSchool'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.RamesesB_OldSchool'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season24.WestonAndTestonAndpolymath_WakeInTheSilence'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.WestonAndTestonAndpolymath_WakeInTheSilence'"
+            }
+          ]
+        },
         {
           "Name": "Season23",
           "bDefaultSelected": true,
@@ -9750,7 +9884,7 @@
   "DynamicLogosConfig": {
     "Class": "DynamicLogosConfig_TA",
     "bUseDynamicLogos": true,
-    "LogoURL": "https://rl-cdn.psyonix.com/LogoImages/S23/rl_season-logo_23_EN_1.png"
+    "LogoURL": "https://rl-cdn.psyonix.com/LogoImages/S24/RL_U60_S24_MainMenuLogo_aoih.png"
   },
   "TradeConfig": {
     "Class": "TradeConfig_TA",
@@ -9880,6 +10014,36 @@
       {
         "ID": "World_Cup_Gold",
         "Color": "FFCF5C"
+      },
+      {
+        "ID": "StatTitleThreshold0",
+        "Color": "FFFFFF",
+        "GlowColor": "000000"
+      },
+      {
+        "ID": "StatTitleThreshold1",
+        "Color": "FFFFFF",
+        "GlowColor": "03C1FF"
+      },
+      {
+        "ID": "StatTitleThreshold2",
+        "Color": "FFFFFF",
+        "GlowColor": "B603FC"
+      },
+      {
+        "ID": "StatTitleThreshold3",
+        "Color": "FFFFFF",
+        "GlowColor": "FF0370"
+      },
+      {
+        "ID": "TopRank_Purple",
+        "Color": "FFFFFF",
+        "GlowColor": "FF8DDD"
+      },
+      {
+        "ID": "TopRank_YellowAndPurple",
+        "Color": "FFCF5C",
+        "GlowColor": "FF8DDD"
       }
     ],
     "Titles": [
@@ -15592,6 +15756,21 @@
         "Text": "2026 CRL Spring Champion"
       },
       {
+        "ID": "RLCS_2025_1v1_World_Champion",
+        "Category": "RLCS_Champion",
+        "Text": "RLCS 2025 1v1 World Champion"
+      },
+      {
+        "ID": "RLCS_2026_1v1_World_Champion",
+        "Category": "RLCS_Champion",
+        "Text": "RLCS 2026 1v1 World Champion"
+      },
+      {
+        "ID": "RLCS_2026_2v2_World_Champion",
+        "Category": "RLCS_Champion",
+        "Text": "RLCS 2026 2v2 World Champion"
+      },
+      {
         "ID": "AutoTour_23_Bronze_1",
         "Text": "S23 {Bronze} Tournament Winner"
       },
@@ -16376,21 +16555,6 @@
         "Text": "FASHIONABLY EARLY"
       },
       {
-        "ID": "Test_Title1",
-        "Category": "StatTrackerStage1",
-        "Text": "S24 MVPs: 5"
-      },
-      {
-        "ID": "Test_Title2",
-        "Category": "StatTrackerStage2",
-        "Text": "S24 MVPs: 15"
-      },
-      {
-        "ID": "Test_Title3",
-        "Category": "StatTrackerStage3",
-        "Text": "S24 MVPs: 25"
-      },
-      {
         "ID": "FOOTBALL_IS_LIFE",
         "Text": "FOOTBALL IS LIFE"
       },
@@ -16543,9 +16707,246 @@
         "Text": "jstncrdbl"
       },
       {
+        "ID": "Professional_Yapper_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "Professional Yapper"
+      },
+      {
+        "ID": "Professional_Yapper",
+        "Category": "Community_Spotlight",
+        "Text": "Professional Yapper"
+      },
+      {
+        "ID": "Unstoppable",
+        "Category": "AuraFarmer",
+        "Text": "UNSTOPPABLE {Train}"
+      },
+      {
+        "ID": "S24_MVP_TRACKER",
+        "Category": "StatTitleThreshold0",
+        "StatName": "Title_S24_MVPs",
+        "Text": "S24 MVPs: {StatValue}"
+      },
+      {
+        "ID": "S24_WINS_TRACKER",
+        "Category": "StatTitleThreshold0",
+        "StatName": "Title_S24_Wins",
+        "Text": "S24 Wins: {StatValue}"
+      },
+      {
+        "ID": "S24_SHOTSONTARGET_TRACKER",
+        "Category": "StatTitleThreshold0",
+        "StatName": "Title_S24_ShotsOnTarget",
+        "Text": "Shots on Target: {StatValue}"
+      },
+      {
+        "ID": "S24_SHOTSALMOSTONTARGET_TRACKER",
+        "Category": "StatTitleThreshold0",
+        "StatName": "Title_S24_ShotsAlmostOnTarget",
+        "Text": "Shots Almost on Target: {StatValue}"
+      },
+      {
+        "ID": "Okay_Boomer",
+        "Text": "Okay Boomer"
+      },
+      {
+        "ID": "P5_TAKE_YOUR_HEART",
+        "Text": "TAKE YOUR HEART"
+      },
+      {
+        "ID": "S23_3v3_TopRank_100",
+        "Category": "TopRank_Purple",
+        "Text": "S23 3V3 TOP 100",
+        "SortPriority": 10
+      },
+      {
+        "ID": "S23_3v3_TopRank_50",
+        "Category": "TopRank_Purple",
+        "Text": "S23 3V3 TOP 50",
+        "SortPriority": 10
+      },
+      {
+        "ID": "S23_3v3_TopRank_25",
+        "Category": "TopRank_Purple",
+        "Text": "S23 3V3 TOP 25",
+        "SortPriority": 10
+      },
+      {
+        "ID": "S23_3v3_TopRank_10",
+        "Category": "TopRank_Purple",
+        "Text": "S23 3V3 TOP 10",
+        "SortPriority": 10
+      },
+      {
+        "ID": "S23_3v3_TopRank_1",
+        "Category": "TopRank_YellowAndPurple",
+        "Text": "S23 3V3 GLOBAL #1",
+        "SortPriority": 10
+      },
+      {
+        "ID": "S23_2v2_TopRank_100",
+        "Category": "TopRank_Purple",
+        "Text": "S23 2V2 TOP 100",
+        "SortPriority": 10
+      },
+      {
+        "ID": "S23_2v2_TopRank_50",
+        "Category": "TopRank_Purple",
+        "Text": "S23 2V2 TOP 50",
+        "SortPriority": 10
+      },
+      {
+        "ID": "S23_2v2_TopRank_25",
+        "Category": "TopRank_Purple",
+        "Text": "S23 2V2 TOP 25",
+        "SortPriority": 10
+      },
+      {
+        "ID": "S23_2v2_TopRank_10",
+        "Category": "TopRank_Purple",
+        "Text": "S23 2V2 TOP 10",
+        "SortPriority": 10
+      },
+      {
+        "ID": "S23_2v2_TopRank_1",
+        "Category": "TopRank_YellowAndPurple",
+        "Text": "S23 2V2 GLOBAL #1",
+        "SortPriority": 10
+      },
+      {
+        "ID": "S23_1v1_TopRank_100",
+        "Category": "TopRank_Purple",
+        "Text": "S23 1V1 TOP 100",
+        "SortPriority": 10
+      },
+      {
+        "ID": "S23_1v1_TopRank_50",
+        "Category": "TopRank_Purple",
+        "Text": "S23 1V1 TOP 50",
+        "SortPriority": 10
+      },
+      {
+        "ID": "S23_1v1_TopRank_25",
+        "Category": "TopRank_Purple",
+        "Text": "S23 1V1 TOP 25",
+        "SortPriority": 10
+      },
+      {
+        "ID": "S23_1v1_TopRank_10",
+        "Category": "TopRank_Purple",
+        "Text": "S23 1V1 TOP 10",
+        "SortPriority": 10
+      },
+      {
+        "ID": "S23_1v1_TopRank_1",
+        "Category": "TopRank_YellowAndPurple",
+        "Text": "S23 1V1 GLOBAL #1",
+        "SortPriority": 10
+      },
+      {
         "ID": "World_Championship_2026_Attendee",
         "Category": "Community_Spotlight",
-        "Text": "World Championship 2026 Attendee"
+        "Text": "RLCS World Championship 2026 Attendee"
+      },
+      {
+        "ID": "ANIMATRONIC",
+        "Text": "ANIMATRONIC"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team1",
+        "Category": "Community_Spotlight",
+        "Text": "FORK IN THE ROAD"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team1_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "FORK IN THE ROAD"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team2",
+        "Category": "Community_Spotlight",
+        "Text": "TENACIOUS LEGEND"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team2_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "TENACIOUS LEGEND"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team3",
+        "Category": "Community_Spotlight",
+        "Text": "FENOMENO"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team3_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "FENOMENO"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team4",
+        "Category": "Community_Spotlight",
+        "Text": "ALMOST IMPOSSIBLE"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team4_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "ALMOST IMPOSSIBLE"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team5",
+        "Category": "Community_Spotlight",
+        "Text": "FREESTYLER"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team5_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "FREESTYLER"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team6",
+        "Category": "Community_Spotlight",
+        "Text": "JACK OF ALL TRADES"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team6_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "JACK OF ALL TRADES"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team7",
+        "Category": "Community_Spotlight",
+        "Text": "MENA AURA"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team7_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "MENA AURA"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team8",
+        "Category": "Community_Spotlight",
+        "Text": "STAY TWISTY"
+      },
+      {
+        "ID": "RocketRivalry_S24_Team8_Creator",
+        "Category": "Community_Spotlight_Creator",
+        "Text": "STAY TWISTY"
+      },
+      {
+        "ID": "RP_S24_FreeTitle01",
+        "Text": "Passenger Princess"
+      },
+      {
+        "ID": "RP_S24_PremiumTitle01",
+        "Text": "Clip This"
+      },
+      {
+        "ID": "RP_S24_PremiumTitle02",
+        "Text": "Thanks for Watching"
+      },
+      {
+        "ID": "RP_S24_PremiumTitle03",
+        "Text": "Generational Talent"
       },
       {
         "ID": "S37_SSL_Heetseeker",
@@ -16606,6 +17007,152 @@
         "ID": "S37_Grand_Champion",
         "Category": "SZN_1_Red",
         "Text": "S23 Grand Champion"
+      },
+      {
+        "ID": "AutoTour_24_Bronze_1",
+        "Text": "S24 {Bronze} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_Bronze_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S24 {Bronze} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_Silver_1",
+        "Text": "S24 {Silver} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_Silver_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S24 {Silver} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_Gold_1",
+        "Text": "S24 {Gold} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_Gold_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S24 {Gold} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_Platinum_1",
+        "Text": "S24 {Platinum} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_Platinum_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S24 {Platinum} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_Diamond_1",
+        "Text": "S24 {Diamond} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_Diamond_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S24 {Diamond} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_Champion_1",
+        "Text": "S24 {Champion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_Champion_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S24 {Champion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_GrandChampion_1",
+        "Text": "S24 {GrandChampion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_GrandChampion_2",
+        "Category": "AutoTour_CompletedGC",
+        "Text": "S24 {GrandChampion} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_SuperSonicLegend_1",
+        "Category": "AutoTour_CompletedSuperSonicLegend_1",
+        "Text": "S24 {Legend} Tournament Winner"
+      },
+      {
+        "ID": "AutoTour_24_SuperSonicLegend_2",
+        "Category": "AutoTour_CompletedSuperSonicLegend_2",
+        "Text": "S24 {Legend} Tournament Winner"
+      },
+      {
+        "ID": "Pentathlon_24_Bronze_1",
+        "Text": "S24 {Bronze} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_Bronze_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S24 {Bronze} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_Silver_1",
+        "Text": "S24 {Silver} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_Silver_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S24 {Silver} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_Gold_1",
+        "Text": "S24 {Gold} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_Gold_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S24 {Gold} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_Platinum_1",
+        "Text": "S24 {Platinum} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_Platinum_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S24 {Platinum} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_Diamond_1",
+        "Text": "S24 {Diamond} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_Diamond_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S24 {Diamond} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_Champion_1",
+        "Text": "S24 {Champion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_Champion_2",
+        "Category": "AutoTour_Completed",
+        "Text": "S24 {Champion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_GrandChampion_1",
+        "Text": "S24 {GrandChampion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_GrandChampion_2",
+        "Category": "AutoTour_CompletedGC",
+        "Text": "S24 {GrandChampion} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_SuperSonicLegend_1",
+        "Category": "AutoTour_CompletedSuperSonicLegend_1",
+        "Text": "S24 {Legend} Pentathlon Winner"
+      },
+      {
+        "ID": "Pentathlon_24_SuperSonicLegend_2",
+        "Category": "AutoTour_CompletedSuperSonicLegend_2",
+        "Text": "S24 {Legend} Pentathlon Winner"
       }
     ],
     "ClubTitles": [
@@ -16808,14 +17355,59 @@
       {
         "ID": "Club_Glorius_Goalkeepers",
         "Text": "Glorious Goalkeepers"
+      },
+      {
+        "ID": "Club_Freshly_Imported",
+        "Text": "Freshly Imported"
+      },
+      {
+        "ID": "Club_Raw_Muscle_Power",
+        "Text": "Raw Muscle Power"
+      },
+      {
+        "ID": "Club_MVP_or_Bust",
+        "Text": "MVP or Bust"
+      },
+      {
+        "ID": "Club_S24_M1",
+        "Text": "S24 Prospect Club"
+      },
+      {
+        "ID": "Club_S24_M2",
+        "Text": "S24 Signature Club"
+      },
+      {
+        "ID": "Club_S24_M3",
+        "Text": "S24 Premier Club"
+      },
+      {
+        "ID": "Club_S24_GG_EZ",
+        "Text": "GG EZ"
+      },
+      {
+        "ID": "Club_S24_GotMotion",
+        "Text": "Got Motion"
+      },
+      {
+        "ID": "Club_S24_No Introduction",
+        "Text": "No Introduction"
       }
+    ]
+  },
+  "ShopConfig": {
+    "Class": "ShopsConfig_TA",
+    "DisallowedProductsForBundlePreview": [
+      12343,
+      12344,
+      11906,
+      11907
     ]
   },
   "RocketPassConfig": {
     "Class": "RocketPassConfig_TA",
-    "RocketPassID": 29,
-    "StartTime": 1781107200,
-    "EndTime": 1790175600
+    "RocketPassID": 30,
+    "StartTime": 1790179200,
+    "EndTime": 1796832000
   },
   "UIConfig": {
     "Class": "UIConfig_TA",
@@ -16829,10 +17421,10 @@
       20000
     ],
     "bUse1LVLIcon": "true",
-    "MainMenuBG": "MMBG_FuturaNight",
+    "MainMenuBG": "MMBG_Default",
     "bShowAnthems": true,
     "bDisplayVideoQualitySetting": "true",
-    "CurrentActiveSeason": 23,
+    "CurrentActiveSeason": 24,
     "SupportURL": "https://support.rocketleague.com/hc/en-us/categories/1260801589709-Rocket-League"
   },
   "TextModerationConfig": {
@@ -17126,8 +17718,8 @@
     "Class": "ChallengeConfig_TA",
     "MaxSecondsDelayNewNotification": 0,
     "TrainingFolderName": "Training",
-    "WeeklyFolderName": "Season23.Weekly",
-    "SeasonFolderName": "Season23.Season"
+    "WeeklyFolderName": "Season24.Weekly",
+    "SeasonFolderName": "Season24.Season"
   },
   "EOSVoiceConfig": {
     "Class": "EOSVoiceConfig_TA",
@@ -20631,6 +21223,130 @@
       {
         "KeyName": "PrimeUpdate59_1_53741B72AF77CE4FE6A2A15E29D13E04",
         "Content": "EovAC3FLiuxz4Be7KTtGzC7O305jRmXCSAc3+hleH6s="
+      },
+      {
+        "KeyName": "PrimeUpdate60_4EC3312A4B9D8EDF92C1A84CD94D83DD",
+        "Content": "b3cyW2Q01uy/1MGWDlwSUujuKnZ2Zqm8yKlzm5fXtms="
+      },
+      {
+        "KeyName": "PrimeUpdate60_21E1BD45C59C6ADB832FBFADDB60387A",
+        "Content": "1iB4fXVgY1G656m0Sl+YirBlPHer60RsI54NJC7K8nA="
+      },
+      {
+        "KeyName": "PrimeUpdate60_4599D9152F2BD267F194A42F84F05D95",
+        "Content": "4tV3JAjW6jDRWmMM70H/dMxoV9/dNlZ5yG6OROkg6Tk="
+      },
+      {
+        "KeyName": "PrimeUpdate60_FA1144ED798BFE513454780ECCDF7E1F",
+        "Content": "IWYebGRkA3z6LZPHM0FCZu+mnPpv2GrvgpsrIVAUhms="
+      },
+      {
+        "KeyName": "PrimeUpdate60_FFE7A62B41040BB67F8829FD67F2EE8A",
+        "Content": "h2q5o9A8QqfhB177fYEPomFXuUHdrCxesy2cVlqHE7k="
+      },
+      {
+        "KeyName": "PrimeUpdate60_B2BA8ADADDFF8FFCE2960443DF5B5A3A",
+        "Content": "aV3EHNBs09kjgDJNHGdkAS6/MgdXXqYDzBk3m8TzjmU="
+      },
+      {
+        "KeyName": "PrimeUpdate60_ECD423CAA6C429BB8CA2DD8FA0426FF4",
+        "Content": "mv4GYhEJyeHDqeXyGDoS8hLigxnnWy/DEKI72hUwYfE="
+      },
+      {
+        "KeyName": "PrimeUpdate60_C4AD33F39D1D0E4DAA5DA123A3C0E1BE",
+        "Content": "KQa9AbXrwMll+6FsU8YwIGWUAV4msC338rQ85SdceqU="
+      },
+      {
+        "KeyName": "PrimeUpdate60_DF918FFE565C8717F8A09C2D4EE5F73D",
+        "Content": "6Ze2LCu9SDElAuyEDe0S4cReOW8S/JPtuSZNGkeTqTY="
+      },
+      {
+        "KeyName": "PrimeUpdate60_75C6B629454310CA7AFD6E208B075DAA",
+        "Content": "9ilehAV/25M6+YjdnDzK7ZoGbn8rJxud99QyasKNND4="
+      },
+      {
+        "KeyName": "PrimeUpdate60_8E4A32B8C23F90891F30AE9131C6297F",
+        "Content": "ULLwqP5LI7JMq8e3P14QoYD9usyg2yScnxXkbdJQfw8="
+      },
+      {
+        "KeyName": "PrimeUpdate60_46D6C174791554C58F31C1314A41DA26",
+        "Content": "PEAq+suaqY74yRyeqJFM2Q9eITxkktg0iKTW125S6hQ="
+      },
+      {
+        "KeyName": "PrimeUpdate60_BC59364322731D7CD1F9A13B72B1770A",
+        "Content": "lnnVMtxTtoykOCxgvHoXhEgYWrFjvWWdAG51rXZTh6I="
+      },
+      {
+        "KeyName": "PrimeUpdate60_A1DDD216D5D32B290B09D6923DFD7DF4",
+        "Content": "Sj39fZUu9a5vaZkbU2AiLODGxlNND7TdPEhIVm5Jak4="
+      },
+      {
+        "KeyName": "PrimeUpdate60_FE7723D152F3288FFCD75B92D527CDDB",
+        "Content": "TUwxVohT337GAZWk9f9Y7buoBVIhHII0D1bdnqzBGHc="
+      },
+      {
+        "KeyName": "PrimeUpdate60_70B351F5646DACE35C8433D605531E24",
+        "Content": "jd6AKblBGuTTgKV4ZXQ9xbhgc+z97BdvvdTJ5HNpVeM="
+      },
+      {
+        "KeyName": "PrimeUpdate60_9B809C0F09C4C70BFCF20D7AF6ADB66C",
+        "Content": "W8UqGJTj1hVgkDxwsD3idJk2zQ2VUaTVHx1AbCzDa4k="
+      },
+      {
+        "KeyName": "PrimeUpdate60_F310BEB6E5822CF8D7DA50CCE6BE25A7",
+        "Content": "B+h7ZoK65FUM7B0fyYRKSEzIcNbCJKTJJHWNJHN6W3M="
+      },
+      {
+        "KeyName": "PrimeUpdate60_127576B831F1D3B9CDBD58BE32B9CE7E",
+        "Content": "nZBtsC524ozUxt6EkX+oBUv9ExnMtwHRrrfxRvNSadI="
+      },
+      {
+        "KeyName": "PrimeUpdate60_FA6E9AF781AD2B6B3871FD2ED7A6E5EA",
+        "Content": "gkyydQ8KJh4egcGByv9/4DYmqpmqtFbPEx+avwMiBZw="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_621176E5330724C39EFB9ACFA86E1F51",
+        "Content": "i56llb6IqiPfEh2DvrAXVrgAyEsHl6WCH1bv6w1wkug="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_4D9164DD03091E54104BCB9A004B8668",
+        "Content": "Ofy/K3tAUq9aVDzVw2BKozti7PrRkUuCBlpsCpM1vxA="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_60ACE2692E9A7A03EF06B23F767D42DF",
+        "Content": "5wANImd3Ymi5YZBntvyFzhg4jOXXnsj3F24oXlbj/yA="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_091EDC19B6EF38E9286947F523749A43",
+        "Content": "z0/2vkarlmK4O8OFs3GVdkYu5S1xpQRU68n1u5MXy7k="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_00E7AA34ADDFF6D8203EA36B7908E041",
+        "Content": "ku+kBmPxYW77+BoRczH+6trsXeO0SVbh1O4BwUI7Dcs="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_9B5639D96D289225B66BB56C80DB7EEC",
+        "Content": "LRky2ZJaZ0ZSX98LgEYAdaxe6Z6rQfo/rBinf2zVH1I="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_F7647FC21B4082ACAE8718EEBEE59AB4",
+        "Content": "hjtrBXXYCDVqoxL1jFJER4D/KF5otObL7ZhCcFIoPoE="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_8C725F2D9B949DFCFAAED9DFDA492D77",
+        "Content": "ACqAiKsKWvcfk8j3mSh2QSptIiUb/FRoTEOnSdgAj0o="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_9540CC986ADFB383D82DBC4B3418453D",
+        "Content": "tVGO4SfaHw+pS8gJ62Bw1PvSNJ5P8CwGdm2MK4YKnpc="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_50A0B1FB3CB02D42394E0BF6E2C934F0",
+        "Content": "IwPZaPb0BxMUjX/HcX/uheNZlnjn7uIpBCtgozL9hk8="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_8400D6077BF2DC2064762BA963D8392B",
+        "Content": "5US5zVAs6OGT0y53OYNm2BSJp6ZZdVxNGAMVMmVRbH4="
       }
     ]
   },
@@ -25586,17 +26302,708 @@
         "Section": "ProductSeries",
         "Key": "Series10178",
         "Value": "Treasure Chest"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_revivalline",
+        "Key": "Label",
+        "Value": "Nissan GT-R Nismo"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_luckyonyx",
+        "Key": "Label",
+        "Value": "Anti-Magic"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_revivalline",
+        "Key": "Label",
+        "Value": "Nissan GT-R Nismo"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_luckyonyx01",
+        "Key": "Label",
+        "Value": "Arsène"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_revivalline_flames",
+        "Key": "Label",
+        "Value": "Flames"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_revivalline_livery_01",
+        "Key": "Label",
+        "Value": "Steel Line"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_revivalline_livery_02",
+        "Key": "Label",
+        "Value": "High Line"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_revivalline_luckyonyx_01",
+        "Key": "Label",
+        "Value": "Black Bulls Asta"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_revivalline_luckyonyx_02",
+        "Key": "Label",
+        "Value": "Golden Dawn Yuno"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_revivalline_luckyonyx_03",
+        "Key": "Label",
+        "Value": "Black Bulls Noelle"
+      },
+      {
+        "Package": "Products",
+        "Section": "ss_luckyonyx01",
+        "Key": "Label",
+        "Value": "Anti-Magic"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_luckyonyx01",
+        "Key": "Label",
+        "Value": "Anti-Magic"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_revivalline01",
+        "Key": "Label",
+        "Value": "Nissan GT-R Nismo"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_revivalline02",
+        "Key": "Label",
+        "Value": "Nissan GT-R Nismo - Gold"
+      },
+      {
+        "Package": "Products",
+        "Section": "avatarborder_umbragenesislte01",
+        "Key": "Label",
+        "Value": "P5R"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_umbragenesis",
+        "Key": "Label",
+        "Value": "Mona Car"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_umbragenesis",
+        "Key": "Label",
+        "Value": "Morgana's Token"
+      },
+      {
+        "Package": "Products",
+        "Section": "crateunlocked_UmbraGenesis",
+        "Key": "Label",
+        "Value": "Treasure Chest"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_umbragenesis",
+        "Key": "Label",
+        "Value": "Mona Car"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_umbragenesis01",
+        "Key": "Label",
+        "Value": "Phantom Thieves of Hearts"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_umbragenesislte01",
+        "Key": "Label",
+        "Value": "Joker"
+      },
+      {
+        "Package": "Products",
+        "Section": "playerbanner_umbragenesislte01",
+        "Key": "Label",
+        "Value": "Morgana"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_octane_umbragenesis01",
+        "Key": "Label",
+        "Value": "Persona 5 Royal"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_umbragenesis_umbragenesis01",
+        "Key": "Label",
+        "Value": "Mona Car"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_umbragenesis02",
+        "Key": "Label",
+        "Value": "Joker (P5R)"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_umbragenesis03",
+        "Key": "Label",
+        "Value": "Panther (P5R)"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_uniumbragenesis",
+        "Key": "Label",
+        "Value": "Phantom Thieves of Hearts"
+      },
+      {
+        "Package": "Products",
+        "Section": "ss_umbragenesislte01",
+        "Key": "Label",
+        "Value": "Morgana's Token"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_umbragenesis01",
+        "Key": "Label",
+        "Value": "Mona Car"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_umbragenesis02",
+        "Key": "Label",
+        "Value": "Phantom Thieves of Hearts (P5R)"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_umbragenesislte01",
+        "Key": "Label",
+        "Value": "The Trickstar (P5R)"
+      },
+      {
+        "Package": "Products",
+        "Section": "album_anthem_season24",
+        "Key": "Label",
+        "Value": "Season 24"
+      },
+      {
+        "Package": "Products",
+        "Section": "album_anthem_season24",
+        "Key": "Artist",
+        "Value": "Various Artists"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_BassVenturaLGJ_Doublin",
+        "Key": "Label",
+        "Value": "Doublin"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_BassVenturaLGJ_Doublin",
+        "Key": "Artist",
+        "Value": "Bass Ventura x LGJ"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_mrbillvctre_absence",
+        "Key": "Label",
+        "Value": "Absence"
+      },
+      {
+        "Package": "Products",
+        "Section": "anthem_mrbillvctre_absence",
+        "Key": "Artist",
+        "Value": "Mr. Bill & VCTRE"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_redplasma",
+        "Key": "Label",
+        "Value": "Villainous"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_fs_voidgaze",
+        "Key": "Label",
+        "Value": "Phrosgoth"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_powerstar",
+        "Key": "Label",
+        "Value": "Starmageddon"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_autogoo",
+        "Key": "Label",
+        "Value": "Drippy"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_rl249",
+        "Key": "Label",
+        "Value": "Fast Forward"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_mvp01",
+        "Key": "Label",
+        "Value": "Light Speed"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_automvp01",
+        "Key": "Label",
+        "Value": "Sweet Sweep"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_grain_mvp01",
+        "Key": "Label",
+        "Value": "Outer Shine"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_musclecar_astroglacier",
+        "Key": "Label",
+        "Value": "Astro Iceberg"
+      },
+      {
+        "Package": "Products",
+        "Section": "ss_mvp01",
+        "Key": "Label",
+        "Value": "Light Speed"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_alphadevreward",
+        "Key": "Label",
+        "Value": "Dev Boost"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_reactiveshop01",
+        "Key": "Label",
+        "Value": "Ball 4 All"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_cobaltdagger",
+        "Key": "Label",
+        "Value": "Volkswagen Golf GTI Edition 50"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_neonmarmot",
+        "Key": "Label",
+        "Value": "Dominus GT 76"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_safari",
+        "Key": "Label",
+        "Value": "Pareto 5S"
+      },
+      {
+        "Package": "Products",
+        "Section": "Explosion_Butterflies_GP",
+        "Key": "Label",
+        "Value": "Butterflies: Gilded"
+      },
+      {
+        "Package": "Products",
+        "Section": "antenna_honduel01",
+        "Key": "Label",
+        "Value": "Honor Duelist"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_octane_honduel01",
+        "Key": "Label",
+        "Value": "LCV Steel"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_autohonduel01",
+        "Key": "Label",
+        "Value": "En Garde"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_honduel01",
+        "Key": "Label",
+        "Value": "Honor Clash"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_honduel01",
+        "Key": "Label",
+        "Value": "Jousting Lance"
+      },
+      {
+        "Package": "Products",
+        "Section": "antenna_routinebarley01",
+        "Key": "Label",
+        "Value": "One Piece"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_sandtote",
+        "Key": "Label",
+        "Value": "Mercedes-AMG G 63 'G-Wagon'"
+      },
+      {
+        "Package": "Products",
+        "Section": "boost_routinebarley01",
+        "Key": "Label",
+        "Value": "Straw Hat Crew"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_grain_routinebarley01",
+        "Key": "Label",
+        "Value": "Monkey D. Luffy"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_grain_routinebarley02",
+        "Key": "Label",
+        "Value": "Going Merry"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_octane_routinebarley01",
+        "Key": "Label",
+        "Value": "Monkey D. Luffy"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_octane_routinebarley02",
+        "Key": "Label",
+        "Value": "Going Merry"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sandtotelivery01",
+        "Key": "Label",
+        "Value": "Baroque"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sandtotelivery02",
+        "Key": "Label",
+        "Value": "Selfie Snap"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sandtotelivery03",
+        "Key": "Label",
+        "Value": "Inka"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sandtoteroutinebarley01",
+        "Key": "Label",
+        "Value": "Monkey D. Luffy"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sandtoteroutinebarley02",
+        "Key": "Label",
+        "Value": "Going Merry"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sandtoteroutinebarley03",
+        "Key": "Label",
+        "Value": "Straw Hat Gold"
+      },
+      {
+        "Package": "Products",
+        "Section": "crateunlocked_RoutineBarley",
+        "Key": "Label",
+        "Value": "Treasure Chest"
+      },
+      {
+        "Package": "Products",
+        "Section": "ss_routinebarley01",
+        "Key": "Label",
+        "Value": "Going Merry Sea Trail"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_sandtote",
+        "Key": "Label",
+        "Value": "Mercedes-AMG G 63 'G-Wagon'"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_routinebarley01",
+        "Key": "Label",
+        "Value": "Going Merry"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_routinebarley01",
+        "Key": "Label",
+        "Value": "Luffy's Straw Hat"
+      },
+      {
+        "Package": "Products",
+        "Section": "playerbanner_routinebarleylte01",
+        "Key": "Label",
+        "Value": "Going Merry Journey"
+      },
+      {
+        "Package": "Products",
+        "Section": "playerbanner_routinebarleylte02",
+        "Key": "Label",
+        "Value": "One Piece"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_routinebarley01",
+        "Key": "Label",
+        "Value": "Straw Hats' Jolly Roger"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_sandtote01",
+        "Key": "Label",
+        "Value": "Mercedes-AMG G 63 'G-Wagon'"
+      },
+      {
+        "Package": "Products",
+        "Section": "avatarborder_sunseteffigylte01",
+        "Key": "Label",
+        "Value": "Five Nights"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_octane_sunseteffigy01",
+        "Key": "Label",
+        "Value": "Freddy Fazbear"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_unisunseteffigylte01",
+        "Key": "Label",
+        "Value": "Five Nights"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_sunseteffgy01",
+        "Key": "Label",
+        "Value": "Freddy Fazbear"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_sunseteffigylte02",
+        "Key": "Label",
+        "Value": "Foxy The Pirate Fox"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_sunseteffigylte03",
+        "Key": "Label",
+        "Value": "Bonnie The Bunny"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_sunseteffigylte04",
+        "Key": "Label",
+        "Value": "Chica The Chicken"
+      },
+      {
+        "Package": "Products",
+        "Section": "playerbanner_sunseteffigylte01",
+        "Key": "Label",
+        "Value": "Freddy Fazbear"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_sunseteffigylte01",
+        "Key": "Label",
+        "Value": "Faz-Token"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_sunseteffigylte01",
+        "Key": "Label",
+        "Value": "Freddy Fazbear"
+      },
+      {
+        "Package": "Products",
+        "Section": "CrateUnlocked_SunsetEffigy",
+        "Key": "Label",
+        "Value": "No. 1 Crate"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_burnishedraven_treasurehunt01",
+        "Key": "Label",
+        "Value": "Golden Llama Crew"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_eagle_treasurehunt01",
+        "Key": "Label",
+        "Value": "Golden Llama Crew"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sandtote_treasurehunt01",
+        "Key": "Label",
+        "Value": "Golden Llama Crew"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_sandtotetreasurehunt02",
+        "Key": "Label",
+        "Value": "Golden Llama Crew - Sleek"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_wurst_treasurehunt01",
+        "Key": "Label",
+        "Value": "Golden Llama Crew"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_scar_a_default",
+        "Key": "Label",
+        "Value": "NASCAR Classic"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_scara_ramuh01",
+        "Key": "Label",
+        "Value": "Team Penske"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_scara_ramuh02",
+        "Key": "Label",
+        "Value": "Wood Brothers Racing"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_scara_ramuh03",
+        "Key": "Label",
+        "Value": "Front Row Motorsports"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_scara_ramuh04",
+        "Key": "Label",
+        "Value": "RFK Racing"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_s24rlcswinner",
+        "Key": "Label",
+        "Value": "World Champs"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "ProductSeries",
+        "Key": "Series10741",
+        "Value": "Treasure Chest"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "ProductSeries",
+        "Key": "Series10721",
+        "Value": "No. 1 Crate"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "kid_akio_cagescriptera",
+        "Value": "akio (cage script era)"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "kid_akio_cagescriptera",
+        "Value": "k?d"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "kid_akio_cagescriptera_RLedit",
+        "Value": "akio (cage script era)"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "kid_akio_cagescriptera_RLedit",
+        "Value": "k?d"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "RamesesB_OldSchool",
+        "Value": "Old School"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "RamesesB_OldSchool",
+        "Value": "Rameses B"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "RamesesB_OldSchool_RLedit",
+        "Value": "Old School"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "RamesesB_OldSchool_RLedit",
+        "Value": "Rameses B"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "WestonAndTestonAndpolymath_WakeInTheSilence",
+        "Value": "Wake In The Silence"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "WestonAndTestonAndpolymath_WakeInTheSilence",
+        "Value": "Weston & Teston & polyma+h"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "WestonAndTestonAndpolymath_WakeInTheSilence_RLedit",
+        "Value": "Wake In The Silence"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "WestonAndTestonAndpolymath_WakeInTheSilence_RLedit",
+        "Value": "Weston & Teston & polyma+h"
       }
     ]
   },
   "RPCConfig": {
     "Class": "RPCConfig_X",
     "MaxRPCsPerBatch": 1
-  },
-  "BlogConfig": {
-    "Class": "BlogConfig_X",
-    "Entries": [],
-    "MotD": "Congratulations to your Rocket League 2026 World Champions, TEAM FALCONS! Celebrate with their items, now in the Featured Shop!"
   },
   "EsportConfig": {
     "Class": "ESportConfig_TA",
@@ -25728,6 +27135,15 @@
         "UTCStartTime": "2026-09-20 16:00:00",
         "UTCEndTime": "2026-09-20 23:30:00",
         "URL": "https://rl.gg/WatchRLCS26"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/RL_U60_HonorDuels_LTE_EventWidget_asdpuioh.png",
+        "ButtonTitle": "Rocket Rivalry",
+        "ButtonDescription": "View Leaderboard",
+        "UTCStartTime": "2026-09-23 16:00:00",
+        "UTCEndTime": "2026-09-27 17:00:00",
+        "URL": "https://www.rocketleague.com/rocket-rivalry/honor-duels?mode=game",
+        "bShowLiveNow": false
       }
     ]
   },
