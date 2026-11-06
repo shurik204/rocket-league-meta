@@ -8564,6 +8564,7 @@ TAGame/CookedPCConsole/p3d7d433e2008897b9448_SF.upk
 TAGame/CookedPCConsole/p3d7d433e2008897b9448_T_SF.upk
 TAGame/CookedPCConsole/p3d91b762de8b7f3e5a98_SF.upk
 TAGame/CookedPCConsole/p3d91b762de8b7f3e5a98_T_SF.upk
+TAGame/CookedPCConsole/p4ec2e2dccdb017d87229_SF.upk
 TAGame/CookedPCConsole/p568d898d082ff315b2e9_SF.tfc
 TAGame/CookedPCConsole/p568d898d082ff315b2e9_SF.upk
 TAGame/CookedPCConsole/p568d898d082ff315b2e9_T_SF.upk
@@ -8586,6 +8587,9 @@ TAGame/CookedPCConsole/p6c3c2bbeba9ded88ef26_T_SF.upk
 TAGame/CookedPCConsole/p7254d7cd4f6f2d9fa41e_SF.tfc
 TAGame/CookedPCConsole/p7254d7cd4f6f2d9fa41e_SF.upk
 TAGame/CookedPCConsole/p7254d7cd4f6f2d9fa41e_T_SF.upk
+TAGame/CookedPCConsole/p763340412c043ae4c81a_SF.tfc
+TAGame/CookedPCConsole/p763340412c043ae4c81a_SF.upk
+TAGame/CookedPCConsole/p763340412c043ae4c81a_T_SF.upk
 TAGame/CookedPCConsole/p808580ed0f5c6b67957d_SF.upk
 TAGame/CookedPCConsole/p808580ed0f5c6b67957d_T_SF.upk
 TAGame/CookedPCConsole/p889932aada4a4583cdab_SF.tfc
@@ -8607,6 +8611,9 @@ TAGame/CookedPCConsole/p8f7e61deca53c9737c50_T_SF.upk
 TAGame/CookedPCConsole/p910e9d1d8e5953af7682_SF.tfc
 TAGame/CookedPCConsole/p910e9d1d8e5953af7682_SF.upk
 TAGame/CookedPCConsole/p910e9d1d8e5953af7682_T_SF.upk
+TAGame/CookedPCConsole/p9321c1ed19e72d3acd8b_SF.tfc
+TAGame/CookedPCConsole/p9321c1ed19e72d3acd8b_SF.upk
+TAGame/CookedPCConsole/p9321c1ed19e72d3acd8b_T_SF.upk
 TAGame/CookedPCConsole/p9384b55de17df6ea1948_SF.tfc
 TAGame/CookedPCConsole/p9384b55de17df6ea1948_SF.upk
 TAGame/CookedPCConsole/p9384b55de17df6ea1948_T_SF.upk
@@ -8617,6 +8624,7 @@ TAGame/CookedPCConsole/p9ab0276bef6256933767_SF.tfc
 TAGame/CookedPCConsole/p9ab0276bef6256933767_SF.upk
 TAGame/CookedPCConsole/p9ab0276bef6256933767_T_SF.upk
 TAGame/CookedPCConsole/p9e925cf2c4eb25c872cf_SF.upk
+TAGame/CookedPCConsole/p9fe262d4fd9bc286635b.ebnk
 TAGame/CookedPCConsole/pa755c15bdfcb30fa25ef_SF.upk
 TAGame/CookedPCConsole/pa755c15bdfcb30fa25ef_T_SF.upk
 TAGame/CookedPCConsole/pa9bb2d502f6d7f98554d_SF.tfc
