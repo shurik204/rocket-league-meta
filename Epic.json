@@ -3220,7 +3220,7 @@
   "HonorDuelConfig": {
     "Class": "HonorDuelConfig_X",
     "StartTime": 1789542000,
-    "EndTime": 1796832000
+    "EndTime": 1797264000
   },
   "EpicConfig": {
     "Class": "EpicConfig_X",
@@ -3750,7 +3750,7 @@
       },
       {
         "StartTime": 1790179200,
-        "EndTime": 1796832000,
+        "EndTime": 1797264000,
         "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/RunItUp/RL_U60_RunItUpLTE_EventScreen_asfkjh.jpg",
         "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/RunItUp/RL_U60_RunItUpLTE_EventScreen_Logo_asfjoh.png",
         "EventFolderName": "Event.S24SeasonLongLTE",
@@ -17407,7 +17407,7 @@
     "Class": "RocketPassConfig_TA",
     "RocketPassID": 30,
     "StartTime": 1790179200,
-    "EndTime": 1796832000
+    "EndTime": 1797264000
   },
   "UIConfig": {
     "Class": "UIConfig_TA",
