@@ -3177,6 +3177,50 @@
     "bIgnoreAssignTeams": true,
     "bOpenDetailsOnFirstTimeClicked": true
   },
+  "RumshotTerritory": {
+    "Class": "PlaylistSettings_TA",
+    "PlaylistID": 93,
+    "PlayerCount": 6,
+    "bApplyQuitPenalty": "true",
+    "bAllowClubs": "true",
+    "bIsMicroEventPlaylist": "true",
+    "MapSetName": "Dropshot",
+    "ServerCommand": "Game=TAGame.GameInfo_Breakout_TA?playtest?listen?Public",
+    "PresetMutators": [
+      {
+        "bHideSettings": true,
+        "PresetTags": [
+          {
+            "Category": "TerritoryRules",
+            "Setting": "TerritoryEnabled"
+          },
+          {
+            "Category": "RespawnTime",
+            "Setting": "OneSecondsRespawn"
+          },
+          {
+            "Category": "StaleBall",
+            "Setting": "ThirtySeconds"
+          },
+          {
+            "Category": "Items",
+            "Setting": "ItemsMode"
+          }
+        ]
+      }
+    ],
+    "Title": "SplitDrop Rumble",
+    "Description": "Dropshot, Rumble, and Split Shot have collided! Break your opponents' floor with Rumble powerups, but now with the Split Shot wall! You'll be able to jump, fly, and dodge through the wall, but touching any surface on your opponent's half will result in an instant demo. It still may be worth the risk to make a game-changing play.",
+    "PlaylistImageURL": "https://rl-cdn.psyonix.com/Playlists/Images/rl_event_mode_bg_DropshotRumble.jpg",
+    "PlaylistNodeDefaultThumbnailPackage": "UI_PlayMenuV4_LTM.playlist_ltm_SplitDrop_Rumble",
+    "bAllowStayAsParty": "true",
+    "bAllowBotFills": "false",
+    "PopulationBuckets": [
+      1,
+      5000,
+      10000
+    ]
+  },
   "CrossplayConfig": {
     "Class": "CrossplayConfig_X",
     "Groups": [
@@ -6753,6 +6797,14 @@
       {
         "Name": "kid_akio_cagescriptera",
         "ExternalUrl": "https://open.spotify.com/track/0VyiBxmaSFkEKh6x5a3zfg"
+      },
+      {
+        "Name": "PrimateAndNersha_Gravity_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/1GAFotCDNRPqC4PgpG20Fo"
+      },
+      {
+        "Name": "PrimateAndNersha_Gravity",
+        "ExternalUrl": "https://open.spotify.com/track/1GAFotCDNRPqC4PgpG20Fo"
       }
     ]
   },
@@ -7520,6 +7572,8 @@
       "MX_OST_Season24.Typhon_GoNuts_RLedit",
       "MX_OST_Season24.kid_akio_cagescriptera",
       "MX_OST_Season24.kid_akio_cagescriptera_RLedit",
+      "MX_OST_Season24.PrimateAndNersha_Gravity",
+      "MX_OST_Season24.PrimateAndNersha_Gravity_RLedit",
       "MX_OST_Season24.RamesesB_OldSchool",
       "MX_OST_Season24.RamesesB_OldSchool_RLedit",
       "MX_OST_Season24.WestonAndTestonAndpolymath_WakeInTheSilence",
@@ -7723,11 +7777,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season24.kid_akio_cagescriptera_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.kid_akio_cagescriptera'"
+          "Track": "AkSoundCue'MX_OST_Season24.PrimateAndNersha_Gravity_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.PrimateAndNersha_Gravity'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season24.kid_akio_cagescriptera'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season24.PrimateAndNersha_Gravity'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7758,6 +7812,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season24.kid_akio_cagescriptera'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.kid_akio_cagescriptera'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season24.PrimateAndNersha_Gravity'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.PrimateAndNersha_Gravity'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Season24.RamesesB_OldSchool'",
@@ -21347,6 +21405,14 @@
       {
         "KeyName": "PrimeUpdate60_1_8400D6077BF2DC2064762BA963D8392B",
         "Content": "5US5zVAs6OGT0y53OYNm2BSJp6ZZdVxNGAMVMmVRbH4="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_DA12CD538D4B4F8B2C3B8FF46121511D",
+        "Content": "5nVK0gUMmEkdb6hiQs3L173D6h7pZzWI+g56wTJW7zo="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_E618F5A758C637971FEA0028B10BA3A7",
+        "Content": "zU4KIs5rmSrNufWSV0EmLyJIcByIZTuD2UOrNeUbu1A="
       }
     ]
   },
@@ -26950,6 +27016,30 @@
         "Section": "MusicArtist",
         "Key": "kid_akio_cagescriptera_RLedit",
         "Value": "k?d"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "PrimateAndNersha_Gravity",
+        "Value": "Gravity"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "PrimateAndNersha_Gravity",
+        "Value": "Primate & Nersha"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "PrimateAndNersha_Gravity_RLedit",
+        "Value": "Gravity"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "PrimateAndNersha_Gravity_RLedit",
+        "Value": "Primate & Nersha"
       },
       {
         "Package": "TAGame",
