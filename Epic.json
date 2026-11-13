@@ -27240,6 +27240,54 @@
         "UTCEndTime": "2026-09-27 17:00:00",
         "URL": "https://www.rocketleague.com/rocket-rivalry/honor-duels?mode=game",
         "bShowLiveNow": false
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/ESPORTS_BUTTON_KICKOFF_OPENS_V2.png",
+        "Title": "NA Kick-Off Open",
+        "Description": "NA Kick-Off Open - Broadcast Day 1",
+        "UTCStartTime": "2026-11-13 17:30:00",
+        "UTCEndTime": "2026-11-14 00:00:00",
+        "URL": "https://rl.gg/RLCS"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/ESPORTS_BUTTON_KICKOFF_OPENS_V2.png",
+        "Title": "NA Kick-Off Open",
+        "Description": "NA Kick-Off Open - Broadcast Day 2",
+        "UTCStartTime": "2026-11-14 17:30:00",
+        "UTCEndTime": "2026-11-14 22:00:00",
+        "URL": "https://rl.gg/RLCS"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/ESPORTS_BUTTON_KICKOFF_OPENS_V2.png",
+        "Title": "NA Kick-Off Open",
+        "Description": "NA Kick-Off Open - Broadcast Day 3",
+        "UTCStartTime": "2026-11-15 17:30:00",
+        "UTCEndTime": "2026-11-15 23:00:00",
+        "URL": "https://rl.gg/RLCS"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/ESPORTS_BUTTON_KICKOFF_OPENS_V2.png",
+        "Title": "EU Kick-Off Open",
+        "Description": "EU Kick-Off Open - Broadcast Day 1",
+        "UTCStartTime": "2026-11-20 15:30:00",
+        "UTCEndTime": "2026-11-20 22:00:00",
+        "URL": "https://rl.gg/RLCS"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/ESPORTS_BUTTON_KICKOFF_OPENS_V2.png",
+        "Title": "EU Kick-Off Open",
+        "Description": "EU Kick-Off Open - Broadcast Day 2",
+        "UTCStartTime": "2026-11-21 15:30:00",
+        "UTCEndTime": "2026-11-21 20:00:00",
+        "URL": "https://rl.gg/RLCS"
+      },
+      {
+        "Image": "https://rl-cdn.psyonix.com/EsportsIcons/ESPORTS_BUTTON_KICKOFF_OPENS_V2.png",
+        "Title": "EU Kick-Off Open",
+        "Description": "EU Kick-Off Open - Broadcast Day 3",
+        "UTCStartTime": "2026-11-22 15:30:00",
+        "UTCEndTime": "2026-11-22 21:00:00",
+        "URL": "https://rl.gg/RLCS"
       }
     ]
   },
