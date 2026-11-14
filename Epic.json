@@ -26995,6 +26995,48 @@
       },
       {
         "Package": "Products",
+        "Section": "body_dub_t1",
+        "Key": "Label",
+        "Value": "Volkswagen Golf II GTI"
+      },
+      {
+        "Package": "Products",
+        "Section": "body_dub_t2",
+        "Key": "Label",
+        "Value": "Volkswagen Golf II GTI RLE"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_dub_t1",
+        "Key": "Label",
+        "Value": "Volkswagen Golf II GTI"
+      },
+      {
+        "Package": "Products",
+        "Section": "wheel_dub_t2",
+        "Key": "Label",
+        "Value": "Volkswagen Golf II GTI RLE"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_dub",
+        "Key": "Label",
+        "Value": "Volkswagen Golf II GTI"
+      },
+      {
+        "Package": "Products",
+        "Section": "engineaudio_dub_t2",
+        "Key": "Label",
+        "Value": "Volkswagen Golf II GTI RLE"
+      },
+      {
+        "Package": "Products",
+        "Section": "playerbanner_dub",
+        "Key": "Label",
+        "Value": "Volkswagen Golf II GTI"
+      },
+      {
+        "Package": "Products",
         "Section": "wheel_bluesteel_SE_Inverted_PA",
         "Key": "Label",
         "Value": "Dimonix: Inverted"
