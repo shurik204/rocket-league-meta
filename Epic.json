@@ -6805,6 +6805,14 @@
       {
         "Name": "PrimateAndNersha_Gravity",
         "ExternalUrl": "https://open.spotify.com/track/1GAFotCDNRPqC4PgpG20Fo"
+      },
+      {
+        "Name": "SyntheticAndCLV_FunkStar_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/29w7Ph7ljedsQp7zsaLeIx"
+      },
+      {
+        "Name": "SyntheticAndCLV_FunkStar",
+        "ExternalUrl": "https://open.spotify.com/track/29w7Ph7ljedsQp7zsaLeIx"
       }
     ]
   },
@@ -7576,6 +7584,8 @@
       "MX_OST_Season24.PrimateAndNersha_Gravity_RLedit",
       "MX_OST_Season24.RamesesB_OldSchool",
       "MX_OST_Season24.RamesesB_OldSchool_RLedit",
+      "MX_OST_Season24.SyntheticAndCLV_FunkStar",
+      "MX_OST_Season24.SyntheticAndCLV_FunkStar_RLedit",
       "MX_OST_Season24.WestonAndTestonAndpolymath_WakeInTheSilence",
       "MX_OST_Season24.WestonAndTestonAndpolymath_WakeInTheSilence_RLedit",
       "mx_anthems_rp8.Anthem_DnB_Stadium_MVP",
@@ -7777,11 +7787,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season24.PrimateAndNersha_Gravity_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.PrimateAndNersha_Gravity'"
+          "Track": "AkSoundCue'MX_OST_Season24.SyntheticAndCLV_FunkStar_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.SyntheticAndCLV_FunkStar'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season24.PrimateAndNersha_Gravity'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season24.SyntheticAndCLV_FunkStar'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7820,6 +7830,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season24.RamesesB_OldSchool'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.RamesesB_OldSchool'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season24.SyntheticAndCLV_FunkStar'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.SyntheticAndCLV_FunkStar'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Season24.WestonAndTestonAndpolymath_WakeInTheSilence'",
@@ -21413,6 +21427,14 @@
       {
         "KeyName": "PrimeUpdate60_1_E618F5A758C637971FEA0028B10BA3A7",
         "Content": "zU4KIs5rmSrNufWSV0EmLyJIcByIZTuD2UOrNeUbu1A="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_05E6133248B17F41BDECD43C0EBFAF91",
+        "Content": "TvMURH6R3R/AQVN2dTE99PkCqAdgugjHB2Xw1BT6lhY="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_AECF800994621CBF7429D7902CD9B3BF",
+        "Content": "mLGFWlvYlSwGakIjq4SiGOvLj6PO1Ec7UgQKU+6cd5A="
       }
     ]
   },
@@ -27112,6 +27134,30 @@
         "Section": "MusicArtist",
         "Key": "RamesesB_OldSchool_RLedit",
         "Value": "Rameses B"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "SyntheticAndCLV_FunkStar",
+        "Value": "Funk Star (Be Polite)"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "SyntheticAndCLV_FunkStar",
+        "Value": "Synthetic & CLV"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "SyntheticAndCLV_FunkStar_RLedit",
+        "Value": "Funk Star (Be Polite)"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "SyntheticAndCLV_FunkStar_RLedit",
+        "Value": "Synthetic & CLV"
       },
       {
         "Package": "TAGame",
