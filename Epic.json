@@ -21377,6 +21377,10 @@
         "Content": "gkyydQ8KJh4egcGByv9/4DYmqpmqtFbPEx+avwMiBZw="
       },
       {
+        "KeyName": "PrimeUpdate60_1_F43924E89173464E346D031F4507D036",
+        "Content": "n88iKmHxiHY9XoPJq50ujFozk+KELEvQgMGDmz71Y5Q="
+      },
+      {
         "KeyName": "PrimeUpdate60_1_621176E5330724C39EFB9ACFA86E1F51",
         "Content": "i56llb6IqiPfEh2DvrAXVrgAyEsHl6WCH1bv6w1wkug="
       },
@@ -26966,6 +26970,18 @@
         "Section": "skin_wurst_treasurehunt01",
         "Key": "Label",
         "Value": "Golden Llama Crew"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_mapledefaulta",
+        "Key": "Label",
+        "Value": "Staff Vehicle"
+      },
+      {
+        "Package": "Products",
+        "Section": "Skin_Maple_Livery_01",
+        "Key": "Label",
+        "Value": "Tour Vehicle"
       },
       {
         "Package": "Products",
