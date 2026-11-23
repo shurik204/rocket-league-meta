@@ -3800,24 +3800,6 @@
         "EventFolderName": "Event.S24SeasonLongLTE",
         "Subtitle": "RUN IT UP",
         "Description": "Take on Challenges in the new Season-Long LTE to earn Nova Collection Drops and two stat-tracking Titles that update with your Season 24 Wins and MVPs!"
-      },
-      {
-        "StartTime": 1793552400,
-        "EndTime": 1795453200,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/OnePiece/RL_U60.1_OnePieceLTE_EventScreen_afi9uh.jpg",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/OnePiece/RL_U60.1_OnePieceLTE_EventScreen_Logo_ais0ofj.png",
-        "EventFolderName": "Event.ONEPIECE2026",
-        "Subtitle": "ONE PIECE",
-        "Description": "Goals. Wins. Rewards. Gold Roger, the king of the pirates, obtained this and everything else the Arena had to offer. And his last words drove countless souls to the pitch. \"You want my treasure? You can have it! I left everything I gathered together in one place. Now you just have to find it!\""
-      },
-      {
-        "StartTime": 1793811600,
-        "EndTime": 1795453200,
-        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/GrudgeMatch/RL_U60_GrudgeMatch_LTE_EventDashboard_89aysf.png",
-        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/GrudgeMatch/RL_U60_GrudgeMatch_LTE_EventLogo_98ayfj.png",
-        "EventFolderName": "Event.DUEL2026",
-        "Subtitle": "GRUDGE MATCH",
-        "Description": "The bragging rights are nice, but the rewards are even better. Face off in Honor Duels and complete Grudge Match Challenges to earn an Octane Decal, Goal Explosion, and more!"
       }
     ]
   },
