@@ -6795,6 +6795,14 @@
       {
         "Name": "SyntheticAndCLV_FunkStar",
         "ExternalUrl": "https://open.spotify.com/track/29w7Ph7ljedsQp7zsaLeIx"
+      },
+      {
+        "Name": "Noseph_WithoutYou_RLedit",
+        "ExternalUrl": "https://open.spotify.com/track/6uJfYZjiSIlDkNSij471kY"
+      },
+      {
+        "Name": "Noseph_WithoutYou",
+        "ExternalUrl": "https://open.spotify.com/track/6uJfYZjiSIlDkNSij471kY"
       }
     ]
   },
@@ -7562,6 +7570,8 @@
       "MX_OST_Season24.Typhon_GoNuts_RLedit",
       "MX_OST_Season24.kid_akio_cagescriptera",
       "MX_OST_Season24.kid_akio_cagescriptera_RLedit",
+      "MX_OST_Season24.Noseph_WithoutYou",
+      "MX_OST_Season24.Noseph_WithoutYou_RLedit",
       "MX_OST_Season24.PrimateAndNersha_Gravity",
       "MX_OST_Season24.PrimateAndNersha_Gravity_RLedit",
       "MX_OST_Season24.RamesesB_OldSchool",
@@ -7769,11 +7779,11 @@
     "Theme": {
       "TitleTracks": [
         {
-          "Track": "AkSoundCue'MX_OST_Season24.SyntheticAndCLV_FunkStar_RLedit'",
-          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.SyntheticAndCLV_FunkStar'"
+          "Track": "AkSoundCue'MX_OST_Season24.Noseph_WithoutYou_RLedit'",
+          "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Noseph_WithoutYou'"
         }
       ],
-      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season24.SyntheticAndCLV_FunkStar'",
+      "NeverPlayInFirstTracklist": "AkSoundCue'MX_OST_Season24.Noseph_WithoutYou'",
       "DefaultIcon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Duumu_Blinded'",
       "KonamiCode": {
         "Track": "AkSoundCue'MX_MainMenu.MX_AdamBurgess_SARPBCTheme'",
@@ -7804,6 +7814,10 @@
             {
               "Track": "AkSoundCue'MX_OST_Season24.kid_akio_cagescriptera'",
               "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.kid_akio_cagescriptera'"
+            },
+            {
+              "Track": "AkSoundCue'MX_OST_Season24.Noseph_WithoutYou'",
+              "Icon": "Texture2D'UI_MusicPlaylistThumbs.ArtistSingles.Noseph_WithoutYou'"
             },
             {
               "Track": "AkSoundCue'MX_OST_Season24.PrimateAndNersha_Gravity'",
@@ -21421,6 +21435,14 @@
       {
         "KeyName": "PrimeUpdate60_1_AECF800994621CBF7429D7902CD9B3BF",
         "Content": "mLGFWlvYlSwGakIjq4SiGOvLj6PO1Ec7UgQKU+6cd5A="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_D2F0398F9EBCDBDF0BC79FDD1CA8B034",
+        "Content": "RrbGLqO2+Eyqo5doHkevZh8F+v7HdXV79hbVW9Yct1w="
+      },
+      {
+        "KeyName": "PrimeUpdate60_1_D6612DFFF6838FD11E21ABED19E40B97",
+        "Content": "N5sx0PjNZEprDgdUu4aITijnZ+dD8JVgLbmqX5K1ow4="
       }
     ]
   },
@@ -27084,6 +27106,30 @@
         "Section": "MusicArtist",
         "Key": "kid_akio_cagescriptera_RLedit",
         "Value": "k?d"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "Noseph_WithoutYou",
+        "Value": "Without You"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "Noseph_WithoutYou",
+        "Value": "Noseph"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicTitle",
+        "Key": "Noseph_WithoutYou_RLedit",
+        "Value": "Without You"
+      },
+      {
+        "Package": "TAGame",
+        "Section": "MusicArtist",
+        "Key": "Noseph_WithoutYou_RLedit",
+        "Value": "Noseph"
       },
       {
         "Package": "TAGame",
