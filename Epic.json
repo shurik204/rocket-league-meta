@@ -3800,6 +3800,15 @@
         "EventFolderName": "Event.S24SeasonLongLTE",
         "Subtitle": "RUN IT UP",
         "Description": "Take on Challenges in the new Season-Long LTE to earn Nova Collection Drops and two stat-tracking Titles that update with your Season 24 Wins and MVPs!"
+      },
+      {
+        "StartTime": 1795712400,
+        "EndTime": 1797264000,
+        "BackgroundImageURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/TriHard/RL_U60_TriHardLTE_EventScreen_Bzmdud3nqrxIyScNM_zmuw.jpg",
+        "BackgroundLogoURL": "https://rl-cdn.psyonix.com/SpecialEvent/Images/TriHard/RL_U60_TriHardLTE_EventScreen_Logo_gEpbPXCfAegcH8fCBgASFw.png",
+        "EventFolderName": "Event.S243v3LTE",
+        "Subtitle": "TRI-HARD",
+        "Description": "Complete Challenges to unlock the Fennec Decal KawaiiStickers, the animated Universal Decal Fizz Forward, the Best Buds Goal Explosion, a new Topper and five Titles."
       }
     ]
   },
@@ -16790,6 +16799,22 @@
         "Text": "UNSTOPPABLE {Train}"
       },
       {
+        "ID": "HAT_TRICK",
+        "Text": "HAT TRICK"
+      },
+      {
+        "ID": "MAGICIAN",
+        "Text": "MAGICIAN"
+      },
+      {
+        "ID": "ILLUSIONIST",
+        "Text": "ILLUSIONIST"
+      },
+      {
+        "ID": "MAD_HATTER",
+        "Text": "MAD HATTER"
+      },
+      {
         "ID": "S24_MVP_TRACKER",
         "Category": "StatTitleThreshold0",
         "StatName": "Title_S24_MVPs",
@@ -16816,6 +16841,10 @@
       {
         "ID": "Okay_Boomer",
         "Text": "Okay Boomer"
+      },
+      {
+        "ID": "Triple_Threat",
+        "Text": "Triple Threat"
       },
       {
         "ID": "P5_TAKE_YOUR_HEART",
@@ -22054,6 +22083,30 @@
         "Section": "explosion_s24rlcswinner",
         "Key": "Label",
         "Value": "World Champs"
+      },
+      {
+        "Package": "Products",
+        "Section": "explosion_team01",
+        "Key": "Label",
+        "Value": "Best Buds"
+      },
+      {
+        "Package": "Products",
+        "Section": "hat_team01",
+        "Key": "Label",
+        "Value": "Friendly Shark"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_grain_sunnywave",
+        "Key": "Label",
+        "Value": "KawaiiStickers"
+      },
+      {
+        "Package": "Products",
+        "Section": "skin_gellihaha",
+        "Key": "Label",
+        "Value": "Fizz Forward"
       },
       {
         "Package": "TAGame",
